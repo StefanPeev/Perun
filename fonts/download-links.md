@@ -1,0 +1,1 @@
+All releases of Perun could be download at [Local Fonts](https://localfonts.eu/freefonts/bulgarian-cyrillic/perun/). Please follow the link.
