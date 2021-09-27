@@ -22,12 +22,12 @@ SIL Open Font License [OFL](documentation/OFL.txt)
 
 ### Local Fonts Project
 
-+ [Pliska](https://github.com/StefanPeev/Pliska)
-+ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
-+ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
 + [Coval](https://github.com/StefanPeev/coval)
-+ [Veleka](https://github.com/StefanPeev/Veleka)
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
 + [Perun](https://github.com/StefanPeev/Perun)
++ [Pliska](https://github.com/StefanPeev/Pliska)
++ [Veleka](https://github.com/StefanPeev/Veleka)
 
 ### Donations
 
