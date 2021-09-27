@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcedilla" format="2">
+	<unicode hex="0123"/>
+	<advance width="611"/>
+	<outline>
+		<component base="g"/>
+		<component base="quoteleft" xOffset="171" yOffset="112"/>
+	</outline>
+	<anchor name="cedilla.top" x="269.333" y="583.333"/>
+	<anchor name="top" x="289.667" y="583.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=g</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=g</string>
+			<key>com.fontlab.recipe</key>
+			<string>g_quoteleft</string>
+		</dict>
+	</lib>
+</glyph>

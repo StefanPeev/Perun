@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0444.loclBGR" format="2">
+	<advance width="782"/>
+	<outline>
+		<contour>
+			<point x="68" y="250.433" type="curve" smooth="yes"/>
+			<point x="68" y="411.591"/>
+			<point x="172.333" y="516.333"/>
+			<point x="309.667" y="516.333" type="curve" smooth="yes"/>
+			<point x="338.333" y="516.333" type="line"/>
+			<point x="338.333" y="716.667" type="line"/>
+			<point x="443.333" y="716.667" type="line"/>
+			<point x="443.333" y="516.333" type="line"/>
+			<point x="471.956" y="516.333" type="line" smooth="yes"/>
+			<point x="609.381" y="516.333"/>
+			<point x="714" y="411.593"/>
+			<point x="714" y="250.094" type="curve" smooth="yes"/>
+			<point x="714" y="92.3921"/>
+			<point x="612.745" y="-14.6667"/>
+			<point x="471.956" y="-14.6667" type="curve" smooth="yes"/>
+			<point x="443.333" y="-14.6667" type="line"/>
+			<point x="443.333" y="-194.333" type="line"/>
+			<point x="338.333" y="-194.333" type="line"/>
+			<point x="338.333" y="-14.6667" type="line"/>
+			<point x="309.667" y="-14.6667" type="line" smooth="yes"/>
+			<point x="169" y="-14.6667"/>
+			<point x="68" y="93.0588"/>
+		</contour>
+		<contour>
+			<point x="178.333" y="250.003" type="curve" smooth="yes"/>
+			<point x="178.333" y="122.449"/>
+			<point x="245" y="60.6667"/>
+			<point x="322.333" y="60.6667" type="curve" smooth="yes"/>
+			<point x="338.41" y="60.6667" type="line"/>
+			<point x="338.41" y="438.624" type="line"/>
+			<point x="322.333" y="438.624" type="line" smooth="yes"/>
+			<point x="245.001" y="438.624"/>
+			<point x="178.333" y="377.556"/>
+		</contour>
+		<contour>
+			<point x="443.409" y="60.6667" type="line"/>
+			<point x="459.289" y="60.6667" type="line" smooth="yes"/>
+			<point x="536.824" y="60.6667"/>
+			<point x="603.667" y="122.448"/>
+			<point x="603.667" y="250.001" type="curve" smooth="yes"/>
+			<point x="603.667" y="377.554"/>
+			<point x="537.49" y="438.724"/>
+			<point x="459.289" y="438.724" type="curve" smooth="yes"/>
+			<point x="443.409" y="438.724" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-183</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>95</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>420</integer>
+						<key>width</key>
+						<integer>95</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>686</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>49</integer>
+						<key>width</key>
+						<integer>141</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>408</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>763</integer>
+						<key>width</key>
+						<integer>140</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=o</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=o</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0415" format="2">
+	<unicode hex="0415"/>
+	<advance width="587"/>
+	<outline>
+		<component base="E" xOffset="10"/>
+	</outline>
+	<anchor name="top" x="295" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>319</integer>
+						<key>width</key>
+						<integer>110</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>607</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>70</integer>
+						<key>width</key>
+						<integer>145</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=uni041D</string>
+			<key>com.fontlab.recipe</key>
+			<string>E</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED0" format="2">
+	<unicode hex="1ED0"/>
+	<advance width="767"/>
+	<outline>
+		<component base="Ocircumflex"/>
+		<component base="acutecomb" xOffset="706.667" yOffset="397"/>
+	</outline>
+	<anchor name="top" x="374" y="797"/>
+	<anchor name="top.mkmk" x="376.667" y="997"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>621</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1221</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>56</integer>
+						<key>width</key>
+						<integer>151</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>587</integer>
+						<key>width</key>
+						<integer>152</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>Ocircumflex+acutecomb</string>
+		</dict>
+	</lib>
+</glyph>

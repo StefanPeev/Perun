@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="2">
+	<unicode hex="003E"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="200" y="-21" type="line"/>
+			<point x="200" y="101" type="line"/>
+			<point x="736" y="300" type="line"/>
+			<point x="200" y="499" type="line"/>
+			<point x="200" y="621" type="line"/>
+			<point x="860" y="391" type="line"/>
+			<point x="860" y="209" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>39</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>541</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

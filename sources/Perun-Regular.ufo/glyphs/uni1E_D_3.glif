@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED3" format="2">
+	<unicode hex="1ED3"/>
+	<advance width="580"/>
+	<outline>
+		<component base="ocircumflex"/>
+		<contour>
+			<point x="318" y="800" type="line"/>
+			<point x="257" y="800" type="line"/>
+			<point x="117" y="971" type="line"/>
+			<point x="218" y="971" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="284" y="580"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>86</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>428</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1000</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>45</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>424</integer>
+						<key>width</key>
+						<integer>137</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>ocircumflex+gravecomb</string>
+		</dict>
+	</lib>
+</glyph>

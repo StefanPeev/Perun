@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+	<unicode hex="2018"/>
+	<advance width="265"/>
+	<outline>
+		<contour>
+			<point x="228.667" y="722" type="line"/>
+			<point x="162.333" y="471.333" type="line"/>
+			<point x="37" y="471.333" type="line"/>
+			<point x="150.333" y="722" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_cedilla.top" x="98.3333" y="471.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>470</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

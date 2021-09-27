@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0448" format="2">
+	<unicode hex="0448"/>
+	<advance width="857"/>
+	<outline>
+		<contour>
+			<point x="66.6667" y="0" type="line"/>
+			<point x="66.6667" y="500.667" type="line"/>
+			<point x="186.667" y="500.667" type="line"/>
+			<point x="186.667" y="85" type="line"/>
+			<point x="367" y="85" type="line"/>
+			<point x="367" y="500" type="line"/>
+			<point x="487" y="500" type="line"/>
+			<point x="487" y="85" type="line"/>
+			<point x="670" y="85" type="line"/>
+			<point x="670" y="500" type="line"/>
+			<point x="790" y="500" type="line"/>
+			<point x="790" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-12</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-11</integer>
+						<key>width</key>
+						<integer>96</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>480</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>481</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>60</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>366</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>676</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=uni043D</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=uni043D</string>
+		</dict>
+	</lib>
+</glyph>

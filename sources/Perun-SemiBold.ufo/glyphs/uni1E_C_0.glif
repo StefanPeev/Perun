@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC0" format="2">
+	<unicode hex="1EC0"/>
+	<advance width="610"/>
+	<outline>
+		<component base="Ecircumflex"/>
+		<contour>
+			<point x="328.333" y="1003.67" type="line"/>
+			<point x="261.333" y="1003.67" type="line"/>
+			<point x="114" y="1180.67" type="line"/>
+			<point x="234.333" y="1180.67" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="296.333" y="797"/>
+	<anchor name="top" x="296.333" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>319</integer>
+						<key>width</key>
+						<integer>110</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>607</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1220</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>70</integer>
+						<key>width</key>
+						<integer>144</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>Ecircumflex+gravecomb</string>
+		</dict>
+	</lib>
+</glyph>

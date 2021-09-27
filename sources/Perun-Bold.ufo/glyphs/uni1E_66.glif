@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E66" format="2">
+	<unicode hex="1E66"/>
+	<advance width="682"/>
+	<outline>
+		<component base="Scaron"/>
+		<component base="uni0307" xOffset="633" yOffset="272"/>
+	</outline>
+	<anchor name="top" x="341" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-12</integer>
+						<key>width</key>
+						<integer>116</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>628</integer>
+						<key>width</key>
+						<integer>109</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1062</integer>
+						<key>width</key>
+						<integer>130</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>55</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>75</integer>
+						<key>width</key>
+						<integer>144</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>281</integer>
+						<key>width</key>
+						<integer>120</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>457</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>484</integer>
+						<key>width</key>
+						<integer>143</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>Scaron+uni0307</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043C" format="2">
+	<unicode hex="043C"/>
+	<advance width="773"/>
+	<outline>
+		<contour>
+			<point x="700" y="0" type="line"/>
+			<point x="600" y="0" type="line"/>
+			<point x="600" y="393" type="line"/>
+			<point x="447" y="0" type="line"/>
+			<point x="325.333" y="0" type="line"/>
+			<point x="173.333" y="392" type="line"/>
+			<point x="173.333" y="0" type="line"/>
+			<point x="73.3333" y="0" type="line"/>
+			<point x="73.3333" y="500" type="line"/>
+			<point x="244.667" y="500" type="line"/>
+			<point x="389.667" y="110.333" type="line"/>
+			<point x="535.333" y="500" type="line"/>
+			<point x="700" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>480</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>60</integer>
+						<key>width</key>
+						<integer>120</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>560</integer>
+						<key>width</key>
+						<integer>120</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=uni043D</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=uni043D</string>
+		</dict>
+	</lib>
+</glyph>

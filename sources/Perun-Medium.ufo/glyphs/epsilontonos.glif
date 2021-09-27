@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos" format="2">
+	<unicode hex="03AD"/>
+	<advance width="551"/>
+	<outline>
+		<component base="epsilon"/>
+		<component base="tonos" xyScale="0" xOffset="248.667" yOffset="88.3333"/>
+	</outline>
+	<anchor name="tonos.top" x="263.333" y="600"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>epsilon+tonos</string>
+		</dict>
+	</lib>
+</glyph>

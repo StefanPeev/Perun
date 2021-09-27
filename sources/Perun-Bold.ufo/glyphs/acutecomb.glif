@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+	<unicode hex="0301"/>
+	<advance width="1"/>
+	<outline>
+		<contour>
+			<point x="-120" y="780" type="line"/>
+			<point x="-271" y="600" type="line"/>
+			<point x="-341" y="600" type="line"/>
+			<point x="-250" y="780" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-305" y="600"/>
+	<anchor name="_top.mkmk" x="-330" y="600"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>600</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>760</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

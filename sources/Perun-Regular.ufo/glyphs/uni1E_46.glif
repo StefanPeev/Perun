@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E46" format="2">
+	<unicode hex="1E46"/>
+	<advance width="683"/>
+	<outline>
+		<component base="N"/>
+		<component base="dotbelowcomb" xOffset="602.5"/>
+	</outline>
+	<anchor name="top" x="345" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>70</integer>
+						<key>width</key>
+						<integer>140</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>558</integer>
+						<key>width</key>
+						<integer>140</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>N+dotbelowcomb</string>
+		</dict>
+	</lib>
+</glyph>

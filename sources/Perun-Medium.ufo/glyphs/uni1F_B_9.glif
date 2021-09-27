@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FB9" format="2">
+	<unicode hex="1FB9"/>
+	<advance width="736"/>
+	<outline>
+		<component base="Alpha"/>
+		<component base="macron" xyScale="0" xOffset="205" yOffset="213.667"/>
+	</outline>
+	<anchor name="bottom" x="368.333" y="-75"/>
+	<anchor name="ogonekUC" x="636.333" y="10"/>
+	<anchor name="top" x="368.333" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>154</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>795</integer>
+						<key>width</key>
+						<integer>79</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>Alpha+macron</string>
+		</dict>
+	</lib>
+</glyph>

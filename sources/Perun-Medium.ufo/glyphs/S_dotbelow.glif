@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sdotbelow" format="2">
+	<unicode hex="1E62"/>
+	<advance width="655"/>
+	<outline>
+		<component base="S"/>
+		<component base="dotbelowcomb" xOffset="588.878"/>
+	</outline>
+	<anchor name="top" x="317" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>S+dotbelowcomb</string>
+		</dict>
+	</lib>
+</glyph>
