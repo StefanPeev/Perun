@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF5" format="2">
-	<unicode hex="1EF5"/>
-	<advance width="545"/>
-	<outline>
-		<component base="y"/>
-		<component base="dotbelowcomb" xOffset="533.5"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-198</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>480</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>y+dotbelowcomb</string>
-		</dict>
-	</lib>
+  <advance width="545"/>
+  <unicode hex="1EF5"/>
+  <anchor x="269" y="580" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotbelowcomb" xScale="1" xyScale="-9.69352e-33" xOffset="673.5" yOffset="1.7053e-13"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-198</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+dotbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

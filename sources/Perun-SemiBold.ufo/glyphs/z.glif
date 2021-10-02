@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-	<unicode hex="007A"/>
-	<advance width="500"/>
-	<outline>
-		<contour>
-			<point x="450.667" y="0" type="line"/>
-			<point x="49.3333" y="0" type="line"/>
-			<point x="49.3333" y="97.6667" type="line"/>
-			<point x="314.667" y="420" type="line"/>
-			<point x="59.3333" y="420" type="line"/>
-			<point x="59.3333" y="500" type="line"/>
-			<point x="442" y="500" type="line"/>
-			<point x="442" y="402.333" type="line"/>
-			<point x="176" y="80" type="line"/>
-			<point x="450.667" y="80" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>415</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=o</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=o</string>
-		</dict>
-	</lib>
+  <advance width="500"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="450.667" y="0" type="line"/>
+      <point x="49.3333" y="0" type="line"/>
+      <point x="49.3333" y="97.3574" type="line"/>
+      <point x="314.667" y="420.333" type="line"/>
+      <point x="59.3333" y="420.333" type="line"/>
+      <point x="59.3333" y="500" type="line"/>
+      <point x="442" y="500" type="line"/>
+      <point x="442" y="402.643" type="line"/>
+      <point x="176" y="79.6667" type="line"/>
+      <point x="450.667" y="79.6667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>415</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
 </glyph>

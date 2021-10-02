@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FBF" format="2">
-	<unicode hex="1FBF"/>
-	<advance width="299"/>
-	<outline>
-		<contour>
-			<point x="216.667" y="1184.67" type="line"/>
-			<point x="162.667" y="908" type="line"/>
-			<point x="74" y="908" type="line"/>
-			<point x="76.6667" y="1184.67" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>1052</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1322</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="299"/>
+  <unicode hex="1FBF"/>
+  <outline>
+    <component base="uni02BC" xScale="1" xOffset="-162.329" yOffset="150.853"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>1052</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1322</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflex" format="2">
-	<unicode hex="00C2"/>
-	<advance width="709"/>
-	<outline>
-		<component base="A"/>
-		<component base="uni0302" xOffset="669" yOffset="197"/>
-	</outline>
-	<anchor name="bottom" x="355" y="-75"/>
-	<anchor name="ogonekUC" x="585" y="10"/>
-	<anchor name="top" x="355" y="797"/>
-	<anchor name="top.mkmk" x="355" y="1017"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>154</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>980</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>A+uni0302</string>
-		</dict>
-	</lib>
+  <advance width="709"/>
+  <unicode hex="00C2"/>
+  <anchor x="355" y="-75" name="bottom"/>
+  <anchor x="585" y="10" name="ogonekUC"/>
+  <anchor x="355" y="797" name="top"/>
+  <anchor x="355" y="1017" name="top.mkmk"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0302" xOffset="669" yOffset="197"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>154</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>980</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

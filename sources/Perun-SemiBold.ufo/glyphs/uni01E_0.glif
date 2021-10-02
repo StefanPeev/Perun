@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E0" format="2">
-	<unicode hex="01E0"/>
-	<advance width="723"/>
-	<outline>
-		<component base="A"/>
-		<component base="dotaccent" xOffset="306.667" yOffset="247"/>
-		<component base="macroncomb" xOffset="613.667" yOffset="-460.333"/>
-	</outline>
-	<anchor name="bottom" x="361.667" y="-75"/>
-	<anchor name="ogonekUC" x="610.667" y="10"/>
-	<anchor name="top" x="361.667" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>154</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>795</integer>
-						<key>width</key>
-						<integer>79</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>795</integer>
-						<key>width</key>
-						<integer>130</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>295</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>A+dotaccent+macroncomb</string>
-		</dict>
-	</lib>
+  <advance width="723"/>
+  <unicode hex="01E0"/>
+  <anchor x="361.667" y="-75" name="bottom"/>
+  <anchor x="610.667" y="10" name="ogonekUC"/>
+  <anchor x="361.667" y="797" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotaccent" xOffset="306.667" yOffset="247"/>
+    <component base="macroncomb" xScale="1" yScale="1" xOffset="613.333" yOffset="260.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>154</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>795</integer>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>795</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>295</integer>
+        <key>width</key>
+        <integer>120</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+dotaccent+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

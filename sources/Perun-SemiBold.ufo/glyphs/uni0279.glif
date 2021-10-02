@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0279" format="2">
-	<unicode hex="0279"/>
-	<advance width="363"/>
+  <advance width="381"/>
+  <unicode hex="0279"/>
+  <outline>
+    <contour>
+      <point x="194.667" y="500" type="line"/>
+      <point x="194.667" y="236" type="line" smooth="yes"/>
+      <point x="194.667" y="139.667"/>
+      <point x="128.333" y="94"/>
+      <point x="20" y="94" type="curve"/>
+      <point x="20" y="-9.33333" type="line"/>
+      <point x="114.667" y="-9.33333"/>
+      <point x="160" y="6.33333"/>
+      <point x="194.667" y="74" type="curve"/>
+      <point x="194.667" y="0" type="line"/>
+      <point x="314.667" y="0" type="line"/>
+      <point x="314.667" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

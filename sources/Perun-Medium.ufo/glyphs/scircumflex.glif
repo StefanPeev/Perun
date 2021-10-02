@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex" format="2">
-	<unicode hex="015D"/>
-	<advance width="521"/>
-	<outline>
-		<component base="s"/>
-		<component base="uni0302" xyScale="0" xOffset="562.667" yOffset="-13.3333"/>
-	</outline>
-	<anchor name="top.mkmk" x="260.667" y="786.667"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>s+uni0302</string>
-		</dict>
-	</lib>
+  <advance width="521"/>
+  <unicode hex="015D"/>
+  <anchor x="260.667" y="786.667" name="top.mkmk"/>
+  <outline>
+    <component base="s"/>
+    <component base="uni0302" xScale="1" xyScale="-4.9738e-19" xOffset="562.667" yOffset="-13.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

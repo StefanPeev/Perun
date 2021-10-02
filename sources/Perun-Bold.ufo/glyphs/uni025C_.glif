@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni025C" format="2">
-	<unicode hex="025C"/>
-	<advance width="520"/>
+  <advance width="551"/>
+  <unicode hex="025C"/>
+  <anchor x="270" y="600" name="tonos.top"/>
+  <outline>
+    <component base="uni025B" xScale="-1" xOffset="550"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni025B</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0430" format="2">
-	<unicode hex="0430"/>
-	<advance width="569"/>
-	<outline>
-		<component base="a"/>
-	</outline>
-	<anchor name="bottom" x="280.333" y="-50"/>
-	<anchor name="ogonekLC" x="425" y="10"/>
-	<anchor name="top" x="287.333" y="586.667"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-16</integer>
-						<key>width</key>
-						<integer>90</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-2</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>248</integer>
-						<key>width</key>
-						<integer>76</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>362</integer>
-						<key>width</key>
-						<integer>149</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>433</integer>
-						<key>width</key>
-						<integer>78</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>50</integer>
-						<key>width</key>
-						<integer>138</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>361</integer>
-						<key>width</key>
-						<integer>134</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=a</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=a</string>
-			<key>com.fontlab.recipe</key>
-			<string>a</string>
-		</dict>
-	</lib>
+  <advance width="569"/>
+  <unicode hex="0430"/>
+  <anchor x="280.333" y="-50" name="bottom"/>
+  <anchor x="425" y="10" name="ogonekLC"/>
+  <anchor x="287.333" y="586.667" name="top"/>
+  <outline>
+    <component base="a"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>248</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>362</integer>
+        <key>width</key>
+        <integer>149</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>433</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>138</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>361</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=a</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=a</string>
+  <key>com.fontlab.recipe</key>
+  <string>a</string>
+  </dict>
+  </lib>
 </glyph>

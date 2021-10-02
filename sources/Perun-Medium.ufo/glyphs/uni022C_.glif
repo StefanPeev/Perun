@@ -1,69 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni022C" format="2">
-	<unicode hex="022C"/>
-	<advance width="767"/>
-	<outline>
-		<component base="Otilde"/>
-		<component base="macroncomb" xOffset="625.333" yOffset="312"/>
-	</outline>
-	<anchor name="top" x="374" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-13</integer>
-						<key>width</key>
-						<integer>114</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>621</integer>
-						<key>width</key>
-						<integer>114</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>849</integer>
-						<key>width</key>
-						<integer>74</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>871</integer>
-						<key>width</key>
-						<integer>74</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1019</integer>
-						<key>width</key>
-						<integer>79</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>52</integer>
-						<key>width</key>
-						<integer>151</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>583</integer>
-						<key>width</key>
-						<integer>152</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>Otilde+macroncomb</string>
-		</dict>
-	</lib>
+  <advance width="767"/>
+  <unicode hex="022C"/>
+  <anchor x="374" y="797" name="top"/>
+  <outline>
+    <contour>
+      <point x="52" y="368" type="curve" smooth="yes"/>
+      <point x="52" y="585"/>
+      <point x="165" y="735.333"/>
+      <point x="384.667" y="735.333" type="curve" smooth="yes"/>
+      <point x="603.667" y="735.333"/>
+      <point x="715.667" y="584.667"/>
+      <point x="715.667" y="368" type="curve" smooth="yes"/>
+      <point x="715.667" y="152.667"/>
+      <point x="605.667" y="-14"/>
+      <point x="384.667" y="-14" type="curve" smooth="yes"/>
+      <point x="163" y="-14"/>
+      <point x="52" y="153"/>
+    </contour>
+    <contour>
+      <point x="171" y="366" type="curve" smooth="yes"/>
+      <point x="171" y="200.667"/>
+      <point x="230" y="82.6667"/>
+      <point x="383.667" y="82.6667" type="curve" smooth="yes"/>
+      <point x="544.333" y="82.6667"/>
+      <point x="596.667" y="210"/>
+      <point x="596.667" y="367.667" type="curve" smooth="yes"/>
+      <point x="596.667" y="522.667"/>
+      <point x="546" y="639.333"/>
+      <point x="384.667" y="639.333" type="curve" smooth="yes"/>
+      <point x="234" y="639.333"/>
+      <point x="171" y="534.667"/>
+    </contour>
+    <contour>
+      <point x="220" y="815" type="line"/>
+      <point x="226" y="875"/>
+      <point x="263.333" y="916"/>
+      <point x="307.605" y="916" type="curve" smooth="yes"/>
+      <point x="330.276" y="916"/>
+      <point x="355.688" y="906.483"/>
+      <point x="378.84" y="895.283" type="curve" smooth="yes"/>
+      <point x="397.738" y="885.872"/>
+      <point x="416.16" y="878.667"/>
+      <point x="429.744" y="878.667" type="curve" smooth="yes"/>
+      <point x="447.667" y="878.667"/>
+      <point x="462" y="892"/>
+      <point x="466.667" y="918" type="curve"/>
+      <point x="520.333" y="918" type="line"/>
+      <point x="515" y="861.333"/>
+      <point x="481.667" y="816"/>
+      <point x="434.069" y="816" type="curve" smooth="yes"/>
+      <point x="410.499" y="816"/>
+      <point x="385.043" y="825.985"/>
+      <point x="363.382" y="836.769" type="curve" smooth="yes"/>
+      <point x="343.739" y="846.55"/>
+      <point x="325.592" y="853.333"/>
+      <point x="311.447" y="853.333" type="curve" smooth="yes"/>
+      <point x="294" y="853.333"/>
+      <point x="278.333" y="841"/>
+      <point x="274" y="815" type="curve"/>
+    </contour>
+    <contour>
+      <point x="532" y="988.333" type="line"/>
+      <point x="212" y="988.333" type="line"/>
+      <point x="212" y="1067.67" type="line"/>
+      <point x="532" y="1067.67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>114</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>621</integer>
+        <key>width</key>
+        <integer>114</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>849</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>871</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1019</integer>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>52</integer>
+        <key>width</key>
+        <integer>151</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>583</integer>
+        <key>width</key>
+        <integer>152</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Otilde+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

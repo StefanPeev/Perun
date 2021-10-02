@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonekcomb" format="2">
-	<unicode hex="0328"/>
-	<advance width="207"/>
-	<outline>
-		<component base="ogonek" xOffset="-330" yOffset="11"/>
-	</outline>
-	<anchor name="_ogonekLC" x="-230" y="10"/>
-	<anchor name="_ogonekUC" x="-230" y="10"/>
+  <advance width="207"/>
+  <unicode hex="0328"/>
+  <anchor x="-230" y="10" name="_ogonekLC"/>
+  <anchor x="-230" y="10" name="_ogonekUC"/>
+  <outline>
+    <component base="ogonek" xOffset="-330" yOffset="11"/>
+  </outline>
 </glyph>

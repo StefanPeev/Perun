@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ED1" format="2">
-	<unicode hex="1ED1"/>
-	<advance width="615"/>
-	<outline>
-		<component base="ocircumflex"/>
-		<component base="acutecomb" xyScale="0" xOffset="635.333" yOffset="186.667"/>
-	</outline>
-	<anchor name="top" x="302.667" y="586.667"/>
-	<anchor name="top.mkmk" x="305.333" y="786.667"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-14</integer>
-						<key>width</key>
-						<integer>86</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>428</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1000</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>45</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>424</integer>
-						<key>width</key>
-						<integer>137</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>ocircumflex+acutecomb</string>
-		</dict>
-	</lib>
+  <advance width="615"/>
+  <unicode hex="1ED1"/>
+  <anchor x="302.667" y="586.667" name="top"/>
+  <anchor x="305.333" y="786.667" name="top.mkmk"/>
+  <outline>
+    <component base="ocircumflex"/>
+    <component base="acutecomb" xScale="1" xyScale="5.30539e-18" yScale="1" xOffset="635.333" yOffset="186.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>428</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1000</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>45</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>424</integer>
+        <key>width</key>
+        <integer>137</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>ocircumflex+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

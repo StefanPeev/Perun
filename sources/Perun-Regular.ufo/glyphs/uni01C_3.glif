@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C3" format="2">
-	<unicode hex="01C3"/>
-	<advance width="369"/>
+  <advance width="369"/>
+  <unicode hex="01C3"/>
+  <outline>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="131" y="95" type="line"/>
+      <point x="231" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="722" type="line"/>
+      <point x="218" y="169" type="line"/>
+      <point x="135" y="169" type="line"/>
+      <point x="115" y="722" type="line"/>
+    </contour>
+  </outline>
 </glyph>

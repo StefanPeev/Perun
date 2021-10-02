@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="2">
-	<unicode hex="03A0"/>
-	<advance width="673"/>
-	<outline>
-		<contour>
-			<point x="613.667" y="0" type="line"/>
-			<point x="483.333" y="0" type="line"/>
-			<point x="483.333" y="613" type="line"/>
-			<point x="181.667" y="613" type="line"/>
-			<point x="181.667" y="0" type="line"/>
-			<point x="51.3333" y="0" type="line"/>
-			<point x="51.3333" y="722" type="line"/>
-			<point x="613.667" y="722" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.recipe</key>
-			<string>uni041F</string>
-		</dict>
-	</lib>
+  <advance width="673"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="613.667" y="0" type="line"/>
+      <point x="483.333" y="0" type="line"/>
+      <point x="483.333" y="613" type="line"/>
+      <point x="181.667" y="613" type="line"/>
+      <point x="181.667" y="0" type="line"/>
+      <point x="51.3333" y="0" type="line"/>
+      <point x="51.3333" y="722" type="line"/>
+      <point x="613.667" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni041F</string>
+  </dict>
+  </lib>
 </glyph>

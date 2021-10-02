@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="2">
-	<unicode hex="0075"/>
-	<advance width="594"/>
-	<outline>
-		<contour>
-			<point x="80" y="174" type="curve" smooth="yes"/>
-			<point x="80" y="500" type="line"/>
-			<point x="170" y="500" type="line"/>
-			<point x="170" y="172" type="line" smooth="yes"/>
-			<point x="170" y="106"/>
-			<point x="226" y="53"/>
-			<point x="295" y="53" type="curve" smooth="yes"/>
-			<point x="367" y="53"/>
-			<point x="424" y="109"/>
-			<point x="424" y="181" type="curve" smooth="yes"/>
-			<point x="424" y="500" type="line"/>
-			<point x="514" y="500" type="line"/>
-			<point x="514" y="0" type="line"/>
-			<point x="424" y="0" type="line"/>
-			<point x="424" y="69" type="line"/>
-			<point x="390" y="15"/>
-			<point x="338" y="-12"/>
-			<point x="261" y="-12" type="curve" smooth="yes"/>
-			<point x="141" y="-12"/>
-			<point x="80" y="54"/>
-		</contour>
-	</outline>
-	<anchor name="top" x="294" y="580"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-14</integer>
-						<key>width</key>
-						<integer>81</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1</integer>
-						<key>width</key>
-						<integer>66</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>480</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>481</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>66</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>396</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=n</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=n</string>
-		</dict>
-	</lib>
+  <advance width="594"/>
+  <unicode hex="0075"/>
+  <anchor x="294" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="174" type="curve" smooth="yes"/>
+      <point x="80" y="500" type="line"/>
+      <point x="170" y="500" type="line"/>
+      <point x="170" y="172" type="line" smooth="yes"/>
+      <point x="170" y="106"/>
+      <point x="226" y="53"/>
+      <point x="295" y="53" type="curve" smooth="yes"/>
+      <point x="367" y="53"/>
+      <point x="424" y="109"/>
+      <point x="424" y="181" type="curve" smooth="yes"/>
+      <point x="424" y="500" type="line"/>
+      <point x="514" y="500" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="424" y="69" type="line"/>
+      <point x="390" y="15"/>
+      <point x="338" y="-12"/>
+      <point x="261" y="-12" type="curve" smooth="yes"/>
+      <point x="141" y="-12"/>
+      <point x="80" y="54"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>481</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>66</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>396</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

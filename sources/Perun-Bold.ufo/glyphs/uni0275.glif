@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0275" format="2">
-	<unicode hex="0275"/>
-	<advance width="528"/>
+  <advance width="528"/>
+  <unicode hex="0275"/>
+  <outline>
+    <component base="theta"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>theta</string>
+  </dict>
+  </lib>
 </glyph>

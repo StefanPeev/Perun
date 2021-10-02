@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
-	<unicode hex="02DD"/>
-	<advance width="319"/>
-	<outline>
-		<contour>
-			<point x="320" y="780" type="line"/>
-			<point x="205" y="600" type="line"/>
-			<point x="160" y="600" type="line"/>
-			<point x="210" y="780" type="line"/>
-		</contour>
-		<contour>
-			<point x="160" y="780" type="line"/>
-			<point x="50" y="600" type="line"/>
-			<point x="0" y="600" type="line"/>
-			<point x="50" y="780" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>600</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>760</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="319"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="168" y="771" type="line"/>
+      <point x="58" y="600" type="line"/>
+      <point x="8" y="600" type="line"/>
+      <point x="78" y="771" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="771" type="line"/>
+      <point x="198" y="600" type="line"/>
+      <point x="148" y="600" type="line"/>
+      <point x="218" y="771" type="line"/>
+    </contour>
+  </outline>
 </glyph>

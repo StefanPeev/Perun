@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theta1" format="2">
-	<unicode hex="03D1"/>
-	<advance width="607"/>
-	<outline>
-		<contour>
-			<point x="259" y="609" type="curve" smooth="yes"/>
-			<point x="251.333" y="609" type="line" smooth="yes"/>
-			<point x="214.681" y="609"/>
-			<point x="184.667" y="575.723"/>
-			<point x="184.667" y="537.056" type="curve" smooth="yes"/>
-			<point x="184.667" y="469.124"/>
-			<point x="277.27" y="404.391"/>
-			<point x="375" y="387.261" type="curve" smooth="yes"/>
-			<point x="423" y="378.58" type="line"/>
-			<point x="422" y="396.612" type="line" smooth="yes"/>
-			<point x="415.614" y="511.769"/>
-			<point x="345.401" y="609"/>
-		</contour>
-		<contour>
-			<point x="260.557" y="694.996" type="curve" smooth="yes"/>
-			<point x="444.153" y="694.686"/>
-			<point x="532.083" y="551.775"/>
-			<point x="532.333" y="256.366" type="curve" smooth="yes"/>
-			<point x="532.481" y="81.8848"/>
-			<point x="444.473" y="-12.6667"/>
-			<point x="290.177" y="-12.6667" type="curve" smooth="yes"/>
-			<point x="163.58" y="-12.6667"/>
-			<point x="73.3333" y="54.2609"/>
-			<point x="73.3333" y="155.178" type="curve" smooth="yes"/>
-			<point x="73.3333" y="318.164" type="line"/>
-			<point x="178.333" y="318.164" type="line"/>
-			<point x="178.333" y="159.185" type="line" smooth="yes"/>
-			<point x="178.333" y="103.29"/>
-			<point x="227.063" y="62"/>
-			<point x="290.704" y="62" type="curve" smooth="yes"/>
-			<point x="379.851" y="62"/>
-			<point x="427.333" y="120.276"/>
-			<point x="427.333" y="216.295" type="curve" smooth="yes"/>
-			<point x="427.333" y="319.476" type="line"/>
-			<point x="223.089" y="337.293"/>
-			<point x="83.3333" y="441.387"/>
-			<point x="83.3333" y="560.591" type="curve" smooth="yes"/>
-			<point x="83.3333" y="644.995"/>
-			<point x="151.579" y="695.18"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=n</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=n</string>
-		</dict>
-	</lib>
+  <advance width="607"/>
+  <unicode hex="03D1"/>
+  <outline>
+    <contour>
+      <point x="259" y="609" type="curve" smooth="yes"/>
+      <point x="251.333" y="609" type="line" smooth="yes"/>
+      <point x="214.681" y="609"/>
+      <point x="184.667" y="575.723"/>
+      <point x="184.667" y="537.056" type="curve" smooth="yes"/>
+      <point x="184.667" y="469.124"/>
+      <point x="277.27" y="404.391"/>
+      <point x="375" y="387.261" type="curve" smooth="yes"/>
+      <point x="423" y="378.58" type="line"/>
+      <point x="422" y="396.612" type="line" smooth="yes"/>
+      <point x="415.614" y="511.769"/>
+      <point x="345.401" y="609"/>
+    </contour>
+    <contour>
+      <point x="260.557" y="694.996" type="curve" smooth="yes"/>
+      <point x="444.153" y="694.686"/>
+      <point x="532.083" y="551.775"/>
+      <point x="532.333" y="256.365" type="curve" smooth="yes"/>
+      <point x="532.481" y="81.8847"/>
+      <point x="444.473" y="-12.6667"/>
+      <point x="290.177" y="-12.6667" type="curve" smooth="yes"/>
+      <point x="163.58" y="-12.6667"/>
+      <point x="73.3333" y="54.2609"/>
+      <point x="73.3333" y="155.178" type="curve" smooth="yes"/>
+      <point x="73.3333" y="318.164" type="line"/>
+      <point x="178.333" y="318.164" type="line"/>
+      <point x="178.333" y="159.185" type="line" smooth="yes"/>
+      <point x="178.333" y="103.29"/>
+      <point x="227.063" y="62"/>
+      <point x="290.704" y="62" type="curve" smooth="yes"/>
+      <point x="379.851" y="62"/>
+      <point x="427.333" y="120.276"/>
+      <point x="427.333" y="216.295" type="curve" smooth="yes"/>
+      <point x="427.333" y="319.476" type="line"/>
+      <point x="223.089" y="337.293"/>
+      <point x="83.3333" y="441.387"/>
+      <point x="83.3333" y="560.591" type="curve" smooth="yes"/>
+      <point x="83.3333" y="644.995"/>
+      <point x="151.579" y="695.18"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E06" format="2">
-	<unicode hex="1E06"/>
-	<advance width="643"/>
-	<outline>
-		<component base="B"/>
-		<component base="macronbelowcomb" xOffset="591.5"/>
-	</outline>
-	<anchor name="top" x="276" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-139</integer>
-						<key>width</key>
-						<integer>79</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>113</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>314</integer>
-						<key>width</key>
-						<integer>113</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>606</integer>
-						<key>width</key>
-						<integer>116</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>701</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>69</integer>
-						<key>width</key>
-						<integer>149</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>434</integer>
-						<key>width</key>
-						<integer>150</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>465</integer>
-						<key>width</key>
-						<integer>153</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>B+macronbelowcomb</string>
-		</dict>
-	</lib>
+  <advance width="643"/>
+  <unicode hex="1E06"/>
+  <anchor x="276" y="797" name="top"/>
+  <outline>
+    <component base="B"/>
+    <component base="macronbelowcomb" xOffset="591.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-139</integer>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>314</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>606</integer>
+        <key>width</key>
+        <integer>116</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>701</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>69</integer>
+        <key>width</key>
+        <integer>149</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>434</integer>
+        <key>width</key>
+        <integer>150</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>465</integer>
+        <key>width</key>
+        <integer>153</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>B+macronbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

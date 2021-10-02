@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0261" format="2">
-	<unicode hex="0261"/>
-	<advance width="590"/>
+  <advance width="611"/>
+  <unicode hex="0261"/>
+  <anchor x="269.333" y="583.333" name="cedilla.top"/>
+  <anchor x="289.667" y="583.333" name="top"/>
+  <outline>
+    <component base="g"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g</string>
+  </dict>
+  </lib>
 </glyph>

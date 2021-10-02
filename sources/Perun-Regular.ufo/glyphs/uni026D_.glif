@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni026D" format="2">
-	<unicode hex="026D"/>
-	<advance width="282"/>
+  <advance width="282"/>
+  <unicode hex="026D"/>
+  <outline>
+    <component base="l"/>
+    <contour>
+      <point x="291" y="-199.87" type="line"/>
+      <point x="238.558" y="-199.87" type="line" smooth="yes"/>
+      <point x="122.739" y="-199.87"/>
+      <point x="80" y="-154.521"/>
+      <point x="80" y="-39.7593" type="curve" smooth="yes"/>
+      <point x="80" y="40" type="line"/>
+      <point x="170" y="40" type="line"/>
+      <point x="170" y="-40" type="line" smooth="yes"/>
+      <point x="170" y="-103.484"/>
+      <point x="188.309" y="-125.759"/>
+      <point x="248.611" y="-125.759" type="curve" smooth="yes"/>
+      <point x="291" y="-125.759" type="line"/>
+    </contour>
+  </outline>
 </glyph>

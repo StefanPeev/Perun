@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acaron" format="2">
-	<unicode hex="01CE"/>
-	<advance width="545"/>
-	<outline>
-		<component base="a" xOffset="-2.66667"/>
-		<component base="caron" xyScale="0" xOffset="127" yOffset="43.3333"/>
-	</outline>
-	<anchor name="top" x="282" y="593.333"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-16</integer>
-						<key>width</key>
-						<integer>90</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-2</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>248</integer>
-						<key>width</key>
-						<integer>76</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>362</integer>
-						<key>width</key>
-						<integer>149</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>433</integer>
-						<key>width</key>
-						<integer>78</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>733</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>45</integer>
-						<key>width</key>
-						<integer>138</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>356</integer>
-						<key>width</key>
-						<integer>134</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>a+caron</string>
-		</dict>
-	</lib>
+  <advance width="545"/>
+  <unicode hex="01CE"/>
+  <anchor x="282" y="593.333" name="top"/>
+  <outline>
+    <component base="a" xOffset="-2.66667"/>
+    <component base="caron" xyScale="-1.84741e-18" yScale="1" xOffset="127" yOffset="43.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>248</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>362</integer>
+        <key>width</key>
+        <integer>149</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>433</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>733</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>45</integer>
+        <key>width</key>
+        <integer>138</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>356</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+caron</string>
+  </dict>
+  </lib>
 </glyph>

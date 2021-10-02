@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-	<unicode hex="03CC"/>
-	<advance width="605"/>
-	<outline>
-		<component base="omicron"/>
-		<component base="tonos" xOffset="288" yOffset="78"/>
-	</outline>
-	<anchor name="top" x="303" y="589"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>omicron+tonos</string>
-		</dict>
-	</lib>
+  <advance width="605"/>
+  <unicode hex="03CC"/>
+  <anchor x="303" y="589" name="top"/>
+  <outline>
+    <component base="omicron"/>
+    <component base="tonos" xOffset="288" yOffset="78"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>omicron+tonos</string>
+  </dict>
+  </lib>
 </glyph>

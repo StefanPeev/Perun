@@ -1,51 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E6B" format="2">
-	<unicode hex="1E6B"/>
-	<advance width="369"/>
-	<outline>
-		<component base="t"/>
-		<component base="uni0307" xyScale="0" xOffset="468.667" yOffset="139.667"/>
-	</outline>
-	<anchor name="top" x="178" y="714.667"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-12</integer>
-						<key>width</key>
-						<integer>93</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>415</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>707</integer>
-						<key>width</key>
-						<integer>130</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>130</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>t+uni0307</string>
-		</dict>
-	</lib>
+  <advance width="369"/>
+  <unicode hex="1E6B"/>
+  <anchor x="183.333" y="10" name="cedilla.bottom"/>
+  <anchor x="178" y="714.667" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="uni0307" xScale="1" xyScale="4.88853e-18" yScale="1" xOffset="468.667" yOffset="114.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>93</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>415</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>707</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>130</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>t+uni0307</string>
+  </dict>
+  </lib>
 </glyph>

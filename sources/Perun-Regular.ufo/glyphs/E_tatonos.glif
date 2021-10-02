@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-	<unicode hex="0389"/>
-	<advance width="819"/>
-	<outline>
-		<component base="H" xOffset="130"/>
-		<component base="tonos" xOffset="34.5"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsRight</key>
-			<string>=H</string>
-		</dict>
-	</lib>
+  <advance width="819"/>
+  <unicode hex="0389"/>
+  <outline>
+    <component base="H" xOffset="130"/>
+    <component base="tonos" xOffset="34.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
 </glyph>
