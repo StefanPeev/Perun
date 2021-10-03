@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.001" format="2">
+	<advance width="905"/>
+	<outline>
+		<contour>
+			<point name="n00" x="839.333" y="0" type="line"/>
+			<point name="n01" x="1007" y="724.667" type="line"/>
+			<point x="794" y="724.667" type="line"/>
+			<point x="494" y="180" type="line"/>
+			<point x="446.667" y="722" type="line"/>
+			<point x="233.667" y="722" type="line"/>
+			<point x="66.6667" y="0" type="line"/>
+			<point x="193.667" y="0" type="line"/>
+			<point x="334.333" y="607.333" type="line"/>
+			<point x="391.333" y="0" type="line"/>
+			<point x="514" y="0" type="line"/>
+			<point x="853.333" y="609" type="line"/>
+			<point x="712.333" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 724.67 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>73ceb71fb299f67136f7b5522398d7065521ce06da502e80771dff0e92f6e98db26fe6686be7d2f816fbf072e0c5cf7103542a0a34152443c8addd6d14b7a75a</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

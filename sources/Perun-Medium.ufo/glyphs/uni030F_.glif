@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030F" format="2">
-  <advance width="1"/>
-  <unicode hex="030F"/>
-  <anchor x="-268" y="600" name="_top"/>
-  <outline>
-    <contour>
-      <point x="-295.333" y="600" type="line"/>
-      <point x="-361.333" y="600" type="line"/>
-      <point x="-482" y="777.667" type="line"/>
-      <point x="-372" y="777.667" type="line"/>
-    </contour>
-    <contour>
-      <point x="-135.333" y="600" type="line"/>
-      <point x="-201.333" y="600" type="line"/>
-      <point x="-322" y="777.667" type="line"/>
-      <point x="-212" y="777.667" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="030F"/>
+	<advance width="1"/>
+	<outline>
+		<contour>
+			<point x="-295.333" y="600" type="line"/>
+			<point x="-361.333" y="600" type="line"/>
+			<point x="-482" y="777.667" type="line"/>
+			<point x="-372" y="777.667" type="line"/>
+		</contour>
+		<contour>
+			<point x="-135.333" y="600" type="line"/>
+			<point x="-201.333" y="600" type="line"/>
+			<point x="-322" y="777.667" type="line"/>
+			<point x="-212" y="777.667" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-268" y="600"/>
 </glyph>

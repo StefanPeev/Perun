@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="2">
+	<unicode hex="003A"/>
+	<advance width="275"/>
+	<outline>
+		<contour>
+			<point name="n00" x="293" y="377" type="line"/>
+			<point name="n01" x="321" y="500" type="line"/>
+			<point x="213" y="500" type="line"/>
+			<point x="185" y="377" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="206" y="0" type="line"/>
+			<point name="n05" x="234" y="123" type="line"/>
+			<point x="126" y="123" type="line"/>
+			<point name="n07" x="98" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 123</string>
+							<string>hstem 377 123</string>
+							<string>vstem 98 223</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w275m293,377l321,500l213,500l185,377m206,0l234,123l126,123l98,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BC" format="2">
-  <advance width="146"/>
-  <unicode hex="02BC"/>
-  <outline>
-    <contour>
-      <point x="126" y="722" type="line"/>
-      <point x="103" y="434" type="line"/>
-      <point x="43" y="434" type="line"/>
-      <point x="20" y="722" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>432</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="02BC"/>
+	<advance width="146"/>
+	<outline>
+		<contour>
+			<point x="126" y="722" type="line"/>
+			<point x="103" y="434" type="line"/>
+			<point x="43" y="434" type="line"/>
+			<point x="20" y="722" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>432</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

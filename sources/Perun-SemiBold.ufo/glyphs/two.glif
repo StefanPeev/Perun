@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two" format="2">
-  <advance width="568"/>
-  <unicode hex="0032"/>
-  <outline>
-    <contour>
-      <point x="40.6667" y="0" type="line"/>
-      <point x="40.6667" y="116.333" type="line"/>
-      <point x="278.333" y="263.667"/>
-      <point x="399.667" y="417"/>
-      <point x="399.667" y="530.667" type="curve" smooth="yes"/>
-      <point x="399.667" y="592"/>
-      <point x="357.333" y="635"/>
-      <point x="297" y="635" type="curve" smooth="yes"/>
-      <point x="236.667" y="635"/>
-      <point x="195.333" y="592"/>
-      <point x="192" y="524" type="curve"/>
-      <point x="61.3333" y="524" type="line"/>
-      <point x="65" y="652"/>
-      <point x="159.667" y="735.333"/>
-      <point x="300" y="735.333" type="curve" smooth="yes"/>
-      <point x="432.333" y="735.333"/>
-      <point x="525" y="651.333"/>
-      <point x="525" y="528.333" type="curve" smooth="yes"/>
-      <point x="525" y="360"/>
-      <point x="351.667" y="212.667"/>
-      <point x="180.667" y="102" type="curve"/>
-      <point x="525.667" y="102" type="line"/>
-      <point x="525.667" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-1</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>626</integer>
-        <key>width</key>
-        <integer>109</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>716</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>58</integer>
-        <key>width</key>
-        <integer>145</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>401</integer>
-        <key>width</key>
-        <integer>139</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0032"/>
+	<advance width="568"/>
+	<outline>
+		<contour>
+			<point x="40.6667" y="0" type="line"/>
+			<point x="40.6667" y="116.333" type="line"/>
+			<point x="278.333" y="263.667"/>
+			<point x="399.667" y="417"/>
+			<point x="399.667" y="530.667" type="curve" smooth="yes"/>
+			<point x="399.667" y="592"/>
+			<point x="357.333" y="635"/>
+			<point x="297" y="635" type="curve" smooth="yes"/>
+			<point x="236.667" y="635"/>
+			<point x="195.333" y="592"/>
+			<point x="192" y="524" type="curve"/>
+			<point x="61.3333" y="524" type="line"/>
+			<point x="65" y="652"/>
+			<point x="159.667" y="735.333"/>
+			<point x="300" y="735.333" type="curve" smooth="yes"/>
+			<point x="432.333" y="735.333"/>
+			<point x="525" y="651.333"/>
+			<point x="525" y="528.333" type="curve" smooth="yes"/>
+			<point x="525" y="360"/>
+			<point x="351.667" y="212.667"/>
+			<point x="180.667" y="102" type="curve"/>
+			<point x="525.667" y="102" type="line"/>
+			<point x="525.667" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-1</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>626</integer>
+						<key>width</key>
+						<integer>109</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>716</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>58</integer>
+						<key>width</key>
+						<integer>145</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>401</integer>
+						<key>width</key>
+						<integer>139</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="2">
+	<unicode hex="2019"/>
+	<advance width="265"/>
+	<outline>
+		<contour>
+			<point name="n00" x="395.667" y="722" type="line"/>
+			<point name="n01" x="270.333" y="722" type="line"/>
+			<point name="n02" x="146" y="471.333" type="line"/>
+			<point name="n03" x="224.333" y="471.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 471.33 250.67</string>
+							<string>vstem 146 249.67</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w265m395.67,722l270.33,722l146,471.33l224.33,471.33</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

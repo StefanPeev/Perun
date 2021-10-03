@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="2">
-  <advance width="756"/>
-  <unicode hex="00DA"/>
-  <anchor x="376" y="-88" name="bottom"/>
-  <anchor x="360" y="797" name="top"/>
-  <outline>
-    <component base="U"/>
-    <component base="acutecomb" xOffset="665" yOffset="197"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-13</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>981</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>70</integer>
-        <key>width</key>
-        <integer>150</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>537</integer>
-        <key>width</key>
-        <integer>150</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="00DA"/>
+	<advance width="756"/>
+	<outline>
+		<component base="U"/>
+		<component base="acutecomb" xOffset="665" yOffset="197"/>
+	</outline>
+	<anchor name="bottom" x="376" y="-88"/>
+	<anchor name="top" x="360" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>981</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>70</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>537</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

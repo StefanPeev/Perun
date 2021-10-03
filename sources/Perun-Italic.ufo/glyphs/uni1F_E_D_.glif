@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FED" format="2">
+	<unicode hex="1FED"/>
+	<advance width="289"/>
+	<outline>
+		<contour>
+			<point name="n00" x="234" y="630" type="line"/>
+			<point name="n01" x="256" y="722" type="line"/>
+			<point x="166" y="722" type="line"/>
+			<point name="n03" x="144" y="630" type="line"/>
+		</contour>
+		<contour>
+			<point x="434" y="630" type="line"/>
+			<point name="n05" x="456" y="722" type="line"/>
+			<point x="366" y="722" type="line"/>
+			<point x="344" y="630" type="line"/>
+		</contour>
+		<contour>
+			<point x="356" y="782" type="line"/>
+			<point x="295" y="953" type="line"/>
+			<point x="194" y="953" type="line"/>
+			<point x="295" y="782" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 630 92</string>
+							<string>vstem 144 312</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w289m234,630l256,722l166,722l144,630m434,630l456,722l366,722l344,630m356,782l295,953l194,953l295,782</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

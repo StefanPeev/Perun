@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="2">
+	<unicode hex="03AA"/>
+	<advance width="270"/>
+	<outline>
+		<contour>
+			<point name="n00" x="283" y="265" type="line"/>
+			<point name="n01" x="403.333" y="786.333" type="line"/>
+			<point x="299.333" y="786.333" type="line"/>
+			<point x="179" y="265" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="265.667" y="795.667" type="line"/>
+			<point name="n05" x="288.667" y="897" type="line"/>
+			<point x="192" y="897" type="line"/>
+			<point x="169" y="795.667" type="line"/>
+		</contour>
+		<contour>
+			<point x="379.333" y="530.667" type="line"/>
+			<point x="449" y="832.667" type="line"/>
+			<point x="339" y="832.667" type="line"/>
+			<point x="269.333" y="530.667" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 286 -21</string>
+							<string>hstem 786.33 -20</string>
+							<string>hstem 795.67 101.33</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>c6c4b00c03f7e628cddbbfe1a310270e4e60249e680c0dab032222a8665fd9dfc0e19a608e548ff6c41b6ff5ac62735656aaf80397c518ee4843c4429c152a75</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

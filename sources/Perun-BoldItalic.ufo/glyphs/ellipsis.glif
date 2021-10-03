@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+	<unicode hex="2026"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point name="n00" x="950" y="0" type="line"/>
+			<point name="n01" x="980" y="132" type="line"/>
+			<point x="854" y="132" type="line"/>
+			<point x="824" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="563" y="0" type="line"/>
+			<point x="593" y="132" type="line"/>
+			<point x="467" y="132" type="line"/>
+			<point x="437" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="176" y="0" type="line"/>
+			<point x="206" y="132" type="line"/>
+			<point x="80" y="132" type="line"/>
+			<point x="50" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 132</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w1000m950,0l980,132l854,132l824,0m563,0l593,132l467,132l437,0m176,0l206,132l80,132l50,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

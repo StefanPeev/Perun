@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C8" format="2">
+	<unicode hex="01C8"/>
+	<advance width="730"/>
+	<outline>
+		<contour>
+			<point name="n00" x="479" y="0" type="line"/>
+			<point name="n01" x="499" y="87" type="line"/>
+			<point x="180" y="87" type="line"/>
+			<point x="327" y="722" type="line"/>
+			<point x="226" y="722" type="line"/>
+			<point x="59" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="518" y="-140" type="line"/>
+			<point x="507" y="-140"/>
+			<point x="491" y="-140"/>
+			<point name="n09" x="472" y="-141" type="curve"/>
+			<point x="458" y="-205" type="line"/>
+			<point name="n11" x="469" y="-205" type="line" smooth="yes"/>
+			<point x="477" y="-205"/>
+			<point x="484" y="-205"/>
+			<point x="493" y="-206" type="curve"/>
+			<point x="502" y="-206" type="line" smooth="yes"/>
+			<point x="572" y="-206"/>
+			<point x="633" y="-167"/>
+			<point x="653" y="-80" type="curve" smooth="yes"/>
+			<point name="n19" x="786" y="500" type="line"/>
+			<point x="696" y="500" type="line"/>
+			<point x="569" y="-50" type="line" smooth="yes"/>
+			<point x="558" y="-97"/>
+			<point x="549" y="-140"/>
+			<point x="517" y="-140" type="curve"/>
+		</contour>
+		<contour>
+			<point name="n25" x="825" y="630" type="line"/>
+			<point name="n26" x="847" y="722" type="line"/>
+			<point x="741" y="722" type="line"/>
+			<point x="719" y="630" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -205 64</string>
+							<string>hstem 0 87</string>
+							<string>hstem 500. -20</string>
+							<string>hstem 630 92</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>aa7fc108218c7a467454b3997f1e1f343471f7eda0f0f0640446112e31eba4bccce7bb92747cfc1b69a4fb93f2b7484a0959ba7527510d8c78a97b49594280ac</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

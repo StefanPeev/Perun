@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+	<unicode hex="012F"/>
+	<advance width="246"/>
+	<outline>
+		<contour>
+			<point name="n00" x="321" y="630" type="line"/>
+			<point name="n01" x="343" y="722" type="line"/>
+			<point x="237" y="722" type="line"/>
+			<point x="215" y="630" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="62" y="-213" type="curve" smooth="yes"/>
+			<point x="74" y="-213"/>
+			<point x="98" y="-212"/>
+			<point x="134" y="-209" type="curve"/>
+			<point x="150" y="-139" type="line"/>
+			<point name="n09" x="109" y="-143" type="line"/>
+			<point x="76" y="-143"/>
+			<point x="63" y="-132"/>
+			<point x="68" y="-109" type="curve" smooth="yes"/>
+			<point x="78" y="-65"/>
+			<point x="119" y="-15"/>
+			<point x="136" y="0" type="curve"/>
+			<point x="168" y="0" type="line"/>
+			<point name="n17" x="283" y="500" type="line"/>
+			<point x="193" y="500" type="line"/>
+			<point x="78" y="0" type="line"/>
+			<point x="96" y="0" type="line"/>
+			<point x="81" y="-12" type="line"/>
+			<point x="52" y="-32"/>
+			<point x="3" y="-85"/>
+			<point x="-7" y="-128" type="curve" smooth="yes"/>
+			<point x="-20" y="-183"/>
+			<point x="7" y="-213"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -213 70</string>
+							<string>hstem 500 -20</string>
+							<string>hstem 630 92</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>ef016753c38e1d45e36d086c17a9cac677dd7b16d6fe0837a12916b3a4925c8c65b7af74c833188b6fd8c17c840a890b3abac3eb383572343c6b1320675bad01</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

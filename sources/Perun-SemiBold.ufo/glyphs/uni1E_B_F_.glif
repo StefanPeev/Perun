@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBF" format="2">
-  <advance width="558"/>
-  <unicode hex="1EBF"/>
-  <anchor x="278" y="593.333" name="top"/>
-  <anchor x="279.333" y="803.333" name="top.mkmk"/>
-  <outline>
-    <component base="ecircumflex"/>
-    <component base="acutecomb" xyScale="1.15582e-17" xOffset="609.333" yOffset="203.333"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-15</integer>
-        <key>width</key>
-        <integer>86</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-15</integer>
-        <key>width</key>
-        <integer>170</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-14</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>222</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>428</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>1000</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>43</integer>
-        <key>width</key>
-        <integer>139</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>365</integer>
-        <key>width</key>
-        <integer>141</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>ecircumflex+acutecomb</string>
-  </dict>
-  </lib>
+	<unicode hex="1EBF"/>
+	<advance width="558"/>
+	<outline>
+		<component base="ecircumflex"/>
+		<component base="acutecomb" xyScale="0" xOffset="609.333" yOffset="203.333"/>
+	</outline>
+	<anchor name="top" x="278" y="593.333"/>
+	<anchor name="top.mkmk" x="279.333" y="803.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-15</integer>
+						<key>width</key>
+						<integer>86</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-15</integer>
+						<key>width</key>
+						<integer>170</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>222</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>428</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1000</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>43</integer>
+						<key>width</key>
+						<integer>139</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>365</integer>
+						<key>width</key>
+						<integer>141</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>ecircumflex+acutecomb</string>
+		</dict>
+	</lib>
 </glyph>

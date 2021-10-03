@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+	<unicode hex="003B"/>
+	<advance width="310"/>
+	<outline>
+		<contour>
+			<point name="n00" x="333" y="368" type="line"/>
+			<point name="n01" x="363" y="500" type="line"/>
+			<point x="237" y="500" type="line"/>
+			<point x="207" y="368" type="line"/>
+		</contour>
+		<contour>
+			<point x="293" y="132" type="line"/>
+			<point x="157" y="132" type="line"/>
+			<point name="n06" x="20" y="-120" type="line"/>
+			<point x="115" y="-120" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 368 132</string>
+							<string>vstem 20 343</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w310m333,368l363,500l237,500l207,368m293,132l157,132l20,-120l115,-120</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

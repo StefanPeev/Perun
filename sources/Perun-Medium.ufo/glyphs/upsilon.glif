@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilon" format="2">
-  <advance width="608"/>
-  <unicode hex="03C5"/>
-  <anchor x="290" y="600" name="tonos.top"/>
-  <outline>
-    <contour>
-      <point x="79.3333" y="158" type="curve" smooth="yes"/>
-      <point x="79.3333" y="500" type="line"/>
-      <point x="184.333" y="500" type="line"/>
-      <point x="184.333" y="171.667" type="line" smooth="yes"/>
-      <point x="184.333" y="71.6667"/>
-      <point x="250.661" y="60.6667"/>
-      <point x="300.46" y="60.6667" type="curve" smooth="yes"/>
-      <point x="371.173" y="60.6667"/>
-      <point x="415.667" y="71.282"/>
-      <point x="415.667" y="171.667" type="curve" smooth="yes"/>
-      <point x="415.667" y="500" type="line"/>
-      <point x="520.667" y="500" type="line"/>
-      <point x="520.667" y="158" type="line" smooth="yes"/>
-      <point x="520.667" y="38"/>
-      <point x="395.682" y="-12"/>
-      <point x="322.274" y="-12" type="curve" smooth="yes"/>
-      <point x="277.75" y="-12" type="line" smooth="yes"/>
-      <point x="184.434" y="-12"/>
-      <point x="79.3333" y="37.9149"/>
-    </contour>
-  </outline>
+	<unicode hex="03C5"/>
+	<advance width="608"/>
+	<outline>
+		<contour>
+			<point x="79.3333" y="158" type="curve" smooth="yes"/>
+			<point x="79.3333" y="500" type="line"/>
+			<point x="184.333" y="500" type="line"/>
+			<point x="184.333" y="171.667" type="line" smooth="yes"/>
+			<point x="184.333" y="71.6667"/>
+			<point x="250.661" y="60.6667"/>
+			<point x="300.46" y="60.6667" type="curve" smooth="yes"/>
+			<point x="371.173" y="60.6667"/>
+			<point x="415.667" y="71.282"/>
+			<point x="415.667" y="171.667" type="curve" smooth="yes"/>
+			<point x="415.667" y="500" type="line"/>
+			<point x="520.667" y="500" type="line"/>
+			<point x="520.667" y="158" type="line" smooth="yes"/>
+			<point x="520.667" y="38"/>
+			<point x="395.682" y="-12"/>
+			<point x="322.274" y="-12" type="curve" smooth="yes"/>
+			<point x="277.75" y="-12" type="line" smooth="yes"/>
+			<point x="184.434" y="-12"/>
+			<point x="79.3333" y="37.9149"/>
+		</contour>
+	</outline>
+	<anchor name="tonos.top" x="290" y="600"/>
 </glyph>

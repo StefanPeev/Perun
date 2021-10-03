@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis" format="2">
+	<unicode hex="00E4"/>
+	<advance width="578"/>
+	<outline>
+		<component base="a"/>
+		<component base="uni0308" xyScale="0" xOffset="362" yOffset="-3.66667"/>
+	</outline>
+	<anchor name="top" x="364.333" y="596.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>a+uni0308</string>
+		</dict>
+	</lib>
+</glyph>

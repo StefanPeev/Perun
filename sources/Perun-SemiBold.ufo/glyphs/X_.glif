@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="2">
-  <advance width="689"/>
-  <unicode hex="0058"/>
-  <anchor x="356.333" y="797" name="top"/>
-  <outline>
-    <contour>
-      <point x="678.333" y="0" type="line"/>
-      <point x="522.333" y="0" type="line"/>
-      <point x="334.333" y="287.333" type="line"/>
-      <point x="151" y="0" type="line"/>
-      <point x="11.6667" y="0" type="line"/>
-      <point x="268" y="379" type="line"/>
-      <point x="37" y="722" type="line"/>
-      <point x="193" y="722" type="line"/>
-      <point x="353" y="471.333" type="line"/>
-      <point x="510.667" y="722" type="line"/>
-      <point x="653.333" y="722" type="line"/>
-      <point x="419.667" y="379" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0058"/>
+	<advance width="689"/>
+	<outline>
+		<contour>
+			<point x="678.333" y="0" type="line"/>
+			<point x="522.333" y="0" type="line"/>
+			<point x="334.333" y="287.333" type="line"/>
+			<point x="151" y="0" type="line"/>
+			<point x="11.6667" y="0" type="line"/>
+			<point x="268" y="379" type="line"/>
+			<point x="37" y="722" type="line"/>
+			<point x="193" y="722" type="line"/>
+			<point x="353" y="471.333" type="line"/>
+			<point x="510.667" y="722" type="line"/>
+			<point x="653.333" y="722" type="line"/>
+			<point x="419.667" y="379" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="356.333" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

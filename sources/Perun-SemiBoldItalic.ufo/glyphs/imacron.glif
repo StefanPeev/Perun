@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+	<unicode hex="012B"/>
+	<advance width="252"/>
+	<outline>
+		<contour>
+			<point name="n00" x="336" y="382" type="line"/>
+			<point name="n01" x="387" y="601.333" type="line"/>
+			<point x="143.667" y="601.333" type="line"/>
+			<point name="n03" x="92.6667" y="382" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="259.333" y="191" type="line"/>
+			<point name="n05" x="341.333" y="547.333" type="line"/>
+			<point x="164" y="547.333" type="line"/>
+			<point x="82" y="191" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 403. -21</string>
+							<string>hstem 601.33 -20</string>
+							<string>vstem 92.67 248.67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>n04</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 191 356.33</string>
+							<string>vstem 92.67 248.67</string>
+							<string>hstem 601.33 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w252m336,382l387,601.33l143.67,601.33l92.67,382m259.33,191l341.33,547.33l164,547.33l82,191</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

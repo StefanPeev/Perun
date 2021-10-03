@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="2">
-  <advance width="608"/>
-  <unicode hex="03AC"/>
-  <anchor x="276.667" y="600" name="tonos.top"/>
-  <outline>
-    <component base="alpha"/>
-    <component base="tonos" xyScale="3.78009e-18" yScale="1" xOffset="263.333" yOffset="88.6667"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>alpha+tonos</string>
-  </dict>
-  </lib>
+	<unicode hex="03AC"/>
+	<advance width="608"/>
+	<outline>
+		<component base="alpha"/>
+		<component base="tonos" xyScale="0" xOffset="263.333" yOffset="88.6667"/>
+	</outline>
+	<anchor name="tonos.top" x="276.667" y="600"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>alpha+tonos</string>
+		</dict>
+	</lib>
 </glyph>

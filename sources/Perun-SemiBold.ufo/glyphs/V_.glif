@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="2">
-  <advance width="709"/>
-  <unicode hex="0056"/>
-  <anchor x="367" y="797" name="top"/>
-  <outline>
-    <contour>
-      <point x="698.333" y="722" type="line"/>
-      <point x="429.333" y="0" type="line"/>
-      <point x="274" y="0" type="line"/>
-      <point x="11.6667" y="722" type="line"/>
-      <point x="156" y="722" type="line"/>
-      <point x="355" y="154.667" type="line"/>
-      <point x="554" y="722" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0056"/>
+	<advance width="709"/>
+	<outline>
+		<contour>
+			<point x="698.333" y="722" type="line"/>
+			<point x="429.333" y="0" type="line"/>
+			<point x="274" y="0" type="line"/>
+			<point x="11.6667" y="722" type="line"/>
+			<point x="156" y="722" type="line"/>
+			<point x="355" y="154.667" type="line"/>
+			<point x="554" y="722" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="367" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

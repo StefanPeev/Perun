@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0407" format="2">
+	<unicode hex="0407"/>
+	<advance width="289"/>
+	<outline>
+		<contour>
+			<point name="n00" x="489" y="795" type="line"/>
+			<point name="n01" x="516" y="915" type="line"/>
+			<point x="406" y="915" type="line"/>
+			<point x="379" y="795" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="279" y="795" type="line"/>
+			<point name="n05" x="306" y="915" type="line"/>
+			<point x="196" y="915" type="line"/>
+			<point x="169" y="795" type="line"/>
+		</contour>
+		<contour>
+			<point x="220" y="0" type="line"/>
+			<point x="387" y="722" type="line"/>
+			<point x="237" y="722" type="line"/>
+			<point x="70" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 795 120</string>
+							<string>hstem 816 -21</string>
+							<string>hstem 915 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w289m489,795l516,915l406,915l379,795m279,795l306,915l196,915l169,795m220,0l387,722l237,722l70,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

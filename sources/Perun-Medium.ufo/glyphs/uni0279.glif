@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0279" format="2">
-  <advance width="377"/>
-  <unicode hex="0279"/>
-  <outline>
-    <contour>
-      <point x="198.333" y="500" type="line"/>
-      <point x="198.333" y="228" type="line" smooth="yes"/>
-      <point x="198.333" y="133.333"/>
-      <point x="134.667" y="87"/>
-      <point x="20" y="87" type="curve"/>
-      <point x="20" y="-4.66667" type="line"/>
-      <point x="127.333" y="-4.66667"/>
-      <point x="167" y="12.6667"/>
-      <point x="198.333" y="71" type="curve"/>
-      <point x="198.333" y="0" type="line"/>
-      <point x="303.333" y="0" type="line"/>
-      <point x="303.333" y="500" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
-  </dict>
-  </lib>
+	<unicode hex="0279"/>
+	<advance width="377"/>
+	<outline>
+		<contour>
+			<point x="198.333" y="500" type="line"/>
+			<point x="198.333" y="228" type="line" smooth="yes"/>
+			<point x="198.333" y="133.333"/>
+			<point x="134.667" y="87"/>
+			<point x="20" y="87" type="curve"/>
+			<point x="20" y="-4.66667" type="line"/>
+			<point x="127.333" y="-4.66667"/>
+			<point x="167" y="12.6667"/>
+			<point x="198.333" y="71" type="curve"/>
+			<point x="198.333" y="0" type="line"/>
+			<point x="303.333" y="0" type="line"/>
+			<point x="303.333" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>=n</string>
+		</dict>
+	</lib>
 </glyph>

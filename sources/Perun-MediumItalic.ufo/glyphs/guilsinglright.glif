@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="2">
+	<unicode hex="203A"/>
+	<advance width="364"/>
+	<outline>
+		<contour>
+			<point name="n00" x="352.333" y="252" type="line"/>
+			<point x="269.333" y="447" type="line"/>
+			<point x="174" y="447" type="line"/>
+			<point x="238.333" y="252" type="line"/>
+			<point name="n04" x="84" y="57" type="line"/>
+			<point x="179.333" y="57" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 84 268.33</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w364m352.33,252l269.33,447l174,447l238.33,252l84,57l179.33,57</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

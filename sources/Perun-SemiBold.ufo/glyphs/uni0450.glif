@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0450" format="2">
-  <advance width="558"/>
-  <unicode hex="0450"/>
-  <anchor x="278" y="593.333" name="top"/>
-  <outline>
-    <component base="uni0435"/>
-    <component base="gravecomb" xScale="1" xyScale="2.60532e-19" xOffset="456" yOffset="-6.66667"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-15</integer>
-        <key>width</key>
-        <integer>86</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-15</integer>
-        <key>width</key>
-        <integer>170</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-14</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>222</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>428</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>733</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>50</integer>
-        <key>width</key>
-        <integer>139</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>372</integer>
-        <key>width</key>
-        <integer>141</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>uni0435+gravecomb</string>
-  </dict>
-  </lib>
+	<unicode hex="0450"/>
+	<advance width="558"/>
+	<outline>
+		<component base="uni0435"/>
+		<component base="gravecomb" xyScale="0" xOffset="456" yOffset="-6.66667"/>
+	</outline>
+	<anchor name="top" x="278" y="593.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-15</integer>
+						<key>width</key>
+						<integer>86</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-15</integer>
+						<key>width</key>
+						<integer>170</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>222</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>428</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>733</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>50</integer>
+						<key>width</key>
+						<integer>139</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>372</integer>
+						<key>width</key>
+						<integer>141</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>uni0435+gravecomb</string>
+		</dict>
+	</lib>
 </glyph>

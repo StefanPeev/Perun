@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0445.locl" format="2">
+	<advance width="547"/>
+	<outline>
+		<contour>
+			<point x="537" y="0" type="line"/>
+			<point name="n01" x="424" y="268" type="line"/>
+			<point x="635" y="500" type="line"/>
+			<point x="485" y="500" type="line"/>
+			<point x="366" y="353" type="line"/>
+			<point x="302" y="500" type="line"/>
+			<point x="142" y="500" type="line"/>
+			<point name="n07" x="250" y="268" type="line"/>
+			<point x="10" y="0" type="line"/>
+			<point x="160" y="0" type="line"/>
+			<point x="306" y="179" type="line"/>
+			<point x="377" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 268 -20</string>
+							<string>hstem 289 -21</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w547m537,0l424,268l635,500l485,500l366,353l302,500l142,500l250,268l10,0l160,0l306,179l377,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

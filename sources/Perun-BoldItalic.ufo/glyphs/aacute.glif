@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aacute" format="2">
+	<unicode hex="00E1"/>
+	<advance width="612"/>
+	<outline>
+		<component base="a"/>
+		<component base="acutecomb" xOffset="546" yOffset="-11"/>
+	</outline>
+	<anchor name="top" x="379" y="589"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>a+acutecomb</string>
+		</dict>
+	</lib>
+</glyph>

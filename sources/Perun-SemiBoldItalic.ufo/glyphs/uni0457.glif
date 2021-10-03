@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0457" format="2">
+	<unicode hex="0457"/>
+	<advance width="252"/>
+	<outline>
+		<contour>
+			<point name="n00" x="336" y="382" type="line"/>
+			<point name="n01" x="393" y="628.667" type="line"/>
+			<point x="289.667" y="628.667" type="line"/>
+			<point x="232.667" y="382" type="line"/>
+		</contour>
+		<contour>
+			<point name="hr01" x="206.667" y="573" type="line"/>
+			<point x="236" y="683.667" type="line"/>
+			<point name="n06" x="129.333" y="683.667" type="line"/>
+			<point name="n07" x="103.333" y="573" type="line"/>
+		</contour>
+		<contour>
+			<point x="264" y="191" type="line"/>
+			<point x="348" y="555" type="line"/>
+			<point x="228" y="555" type="line"/>
+			<point x="144" y="191" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 403 -21</string>
+							<string>hstem 628.67 -20</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 573 110.67</string>
+							<string>hstem 403 -21</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w252m336,382l393,628.67l289.67,628.67l232.67,382m206.67,573l236,683.67l129.33,683.67l103.33,573m264,191l348,555l228,555l144,191</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

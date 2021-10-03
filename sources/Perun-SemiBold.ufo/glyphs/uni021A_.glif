@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021A" format="2">
-  <advance width="631"/>
-  <unicode hex="021A"/>
-  <anchor x="314" y="10" name="cedilla.bottom"/>
-  <anchor x="313.667" y="797" name="top"/>
-  <outline>
-    <component base="T"/>
-    <component base="uni0326" xScale="1" xOffset="602.333"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>607</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>243</integer>
-        <key>width</key>
-        <integer>150</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>T+uni0326</string>
-  </dict>
-  </lib>
+	<unicode hex="021A"/>
+	<advance width="631"/>
+	<outline>
+		<component base="T"/>
+		<component base="uni0326" xOffset="602.333"/>
+	</outline>
+	<anchor name="cedilla.bottom" x="314" y="10"/>
+	<anchor name="top" x="313.667" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>607</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>243</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>T+uni0326</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="2">
+	<unicode hex="0309"/>
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point name="n00" x="549" y="211" type="line"/>
+			<point name="n01" x="563" y="275" type="line"/>
+			<point x="63" y="275" type="line"/>
+			<point x="49" y="211" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 211 64</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w500m549,211l563,275l63,275l49,211</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

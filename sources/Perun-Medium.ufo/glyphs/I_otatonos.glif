@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="383"/>
-  <unicode hex="038A"/>
-  <outline>
-    <component base="I" xScale="1" xOffset="123.333"/>
-    <component base="tonos" xOffset="30.3771"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=H</string>
-  </dict>
-  </lib>
+	<unicode hex="038A"/>
+	<advance width="383"/>
+	<outline>
+		<component base="I" xOffset="123.333"/>
+		<component base="tonos" xOffset="30.3771"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>=H</string>
+		</dict>
+	</lib>
 </glyph>

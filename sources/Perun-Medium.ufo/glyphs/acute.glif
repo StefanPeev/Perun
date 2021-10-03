@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-  <advance width="181"/>
-  <unicode hex="00B4"/>
-  <outline>
-    <contour>
-      <point x="180.667" y="741.333" type="line"/>
-      <point x="70.3333" y="541.333" type="line"/>
-      <point x="0.333333" y="541.333" type="line"/>
-      <point x="70.6667" y="741.333" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>600</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>760</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="00B4"/>
+	<advance width="181"/>
+	<outline>
+		<contour>
+			<point x="180.667" y="741.333" type="line"/>
+			<point x="70.3333" y="541.333" type="line"/>
+			<point x="0.333333" y="541.333" type="line"/>
+			<point x="70.6667" y="741.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>600</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>760</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

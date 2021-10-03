@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E76" format="2">
-  <advance width="717"/>
-  <unicode hex="1E76"/>
-  <anchor x="358" y="-62.6667" name="bottom"/>
-  <anchor x="350" y="797" name="top"/>
-  <outline>
-    <component base="U"/>
-    <component base="circumflexbelowcomb" xScale="1" xOffset="642.693"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-253</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-13</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>70</integer>
-        <key>width</key>
-        <integer>145</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>537</integer>
-        <key>width</key>
-        <integer>145</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>U+circumflexbelowcomb</string>
-  </dict>
-  </lib>
+	<unicode hex="1E76"/>
+	<advance width="717"/>
+	<outline>
+		<component base="U"/>
+		<component base="circumflexbelowcomb" xOffset="642.693"/>
+	</outline>
+	<anchor name="bottom" x="358" y="-62.6667"/>
+	<anchor name="top" x="350" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-253</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>70</integer>
+						<key>width</key>
+						<integer>145</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>537</integer>
+						<key>width</key>
+						<integer>145</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>U+circumflexbelowcomb</string>
+		</dict>
+	</lib>
 </glyph>

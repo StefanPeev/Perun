@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0269" format="2">
-  <advance width="276"/>
-  <unicode hex="0269"/>
-  <anchor x="130" y="600" name="tonos.top"/>
-  <outline>
-    <component base="iota"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>iota</string>
-  </dict>
-  </lib>
+	<unicode hex="0269"/>
+	<advance width="276"/>
+	<outline>
+		<component base="iota"/>
+	</outline>
+	<anchor name="tonos.top" x="130" y="600"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>iota</string>
+		</dict>
+	</lib>
 </glyph>

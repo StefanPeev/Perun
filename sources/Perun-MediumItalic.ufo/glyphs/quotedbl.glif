@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="2">
+	<unicode hex="0022"/>
+	<advance width="474"/>
+	<outline>
+		<contour>
+			<point x="434.333" y="722.333" type="line"/>
+			<point name="n01" x="313.667" y="722.333" type="line"/>
+			<point x="270.667" y="433.333" type="line"/>
+			<point name="n03" x="343.333" y="433.333" type="line"/>
+		</contour>
+		<contour>
+			<point x="495" y="722" type="line"/>
+			<point x="374.333" y="722" type="line"/>
+			<point x="331.333" y="433" type="line"/>
+			<point x="404" y="433" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 433.33 289.</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w474m434.33,722.33l313.67,722.33l270.67,433.33l343.33,433.33m495,722l374.33,722l331.33,433l404,433</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

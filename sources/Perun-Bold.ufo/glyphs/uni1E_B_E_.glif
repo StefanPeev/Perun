@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBE" format="2">
-  <advance width="626"/>
-  <unicode hex="1EBE"/>
-  <anchor x="302" y="797" name="top"/>
-  <anchor x="302" y="1017" name="top.mkmk"/>
-  <outline>
-    <component base="Ecircumflex"/>
-    <component base="acutecomb" xOffset="632" yOffset="417"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>319</integer>
-        <key>width</key>
-        <integer>110</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>607</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>1220</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>70</integer>
-        <key>width</key>
-        <integer>144</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>Ecircumflex+acutecomb</string>
-  </dict>
-  </lib>
+	<unicode hex="1EBE"/>
+	<advance width="626"/>
+	<outline>
+		<component base="Ecircumflex"/>
+		<component base="acutecomb" xOffset="632" yOffset="417"/>
+	</outline>
+	<anchor name="top" x="302" y="797"/>
+	<anchor name="top.mkmk" x="302" y="1017"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>319</integer>
+						<key>width</key>
+						<integer>110</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>607</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1220</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>70</integer>
+						<key>width</key>
+						<integer>144</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>Ecircumflex+acutecomb</string>
+		</dict>
+	</lib>
 </glyph>

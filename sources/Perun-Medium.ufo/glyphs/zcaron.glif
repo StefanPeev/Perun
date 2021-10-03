@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="2">
-  <advance width="494"/>
-  <unicode hex="017E"/>
-  <outline>
-    <component base="z"/>
-    <component base="uni030C" xyScale="-4.9738e-19" xOffset="553.333" yOffset="-13.3333"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>415</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>760</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>z+uni030C</string>
-  </dict>
-  </lib>
+	<unicode hex="017E"/>
+	<advance width="494"/>
+	<outline>
+		<component base="z"/>
+		<component base="uni030C" xyScale="0" xOffset="553.333" yOffset="-13.3333"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>415</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>760</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>z+uni030C</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+	<unicode hex="00BB"/>
+	<advance width="588"/>
+	<outline>
+		<contour>
+			<point x="521.667" y="252" type="line"/>
+			<point x="447.667" y="447" type="line"/>
+			<point name="n02" x="335" y="447" type="line"/>
+			<point x="389.667" y="252" type="line"/>
+			<point name="n04" x="245" y="57" type="line"/>
+			<point name="n05" x="357.667" y="57" type="line"/>
+		</contour>
+		<contour>
+			<point name="n06" x="414.667" y="252" type="line"/>
+			<point x="340.667" y="447" type="line"/>
+			<point x="228" y="447" type="line"/>
+			<point x="282.667" y="252" type="line"/>
+			<point x="138" y="57" type="line"/>
+			<point x="250.667" y="57" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 57 390</string>
+							<string>vstem 245 169.67</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w588m521.67,252l447.67,447l335,447l389.67,252l245,57l357.67,57m414.67,252l340.67,447l228,447l282.67,252l138,57l250.67,57</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

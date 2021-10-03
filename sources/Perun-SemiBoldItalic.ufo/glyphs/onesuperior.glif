@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+	<unicode hex="00B9"/>
+	<advance width="290"/>
+	<outline>
+		<contour>
+			<point x="298" y="352" type="line"/>
+			<point name="n01" x="386" y="731" type="line"/>
+			<point x="324" y="731" type="line"/>
+			<point x="286" y="707" type="line" smooth="yes"/>
+			<point x="261" y="691"/>
+			<point x="236" y="682"/>
+			<point x="212" y="674" type="curve"/>
+			<point name="n07" x="199" y="619" type="line"/>
+			<point x="229" y="624"/>
+			<point x="265" y="640"/>
+			<point x="307" y="667" type="curve"/>
+			<point x="234" y="352" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 731 -20</string>
+							<string>vstem 199 187</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w290m298,352l386,731l324,731l286,707c261,691 236,682 212,674l199,619c229,624 265,640 307,667l234,352</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

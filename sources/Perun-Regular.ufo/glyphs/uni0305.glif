@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0305" format="2">
-  <unicode hex="0305"/>
-  <anchor x="-280" y="600" name="_top"/>
-  <outline>
-    <contour>
-      <point x="0" y="600" type="line"/>
-      <point x="-560" y="600" type="line"/>
-      <point x="-560" y="669" type="line"/>
-      <point x="0" y="669" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0305"/>
+	<outline>
+		<contour>
+			<point x="0" y="600" type="line"/>
+			<point x="-560" y="600" type="line"/>
+			<point x="-560" y="669" type="line"/>
+			<point x="0" y="669" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-280" y="600"/>
 </glyph>

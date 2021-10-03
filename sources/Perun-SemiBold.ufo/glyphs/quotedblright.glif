@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="2">
-  <advance width="462"/>
-  <unicode hex="201D"/>
-  <outline>
-    <contour>
-      <point x="370.333" y="722" type="line"/>
-      <point x="253.667" y="470.667" type="line"/>
-      <point x="167" y="470.667" type="line"/>
-      <point x="239.667" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="297.333" y="722" type="line"/>
-      <point x="180.667" y="470.667" type="line"/>
-      <point x="94" y="470.667" type="line"/>
-      <point x="166.667" y="722" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>470</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="201D"/>
+	<advance width="462"/>
+	<outline>
+		<contour>
+			<point x="370.333" y="722" type="line"/>
+			<point x="253.667" y="470.667" type="line"/>
+			<point x="167" y="470.667" type="line"/>
+			<point x="239.667" y="722" type="line"/>
+		</contour>
+		<contour>
+			<point x="297.333" y="722" type="line"/>
+			<point x="180.667" y="470.667" type="line"/>
+			<point x="94" y="470.667" type="line"/>
+			<point x="166.667" y="722" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>470</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

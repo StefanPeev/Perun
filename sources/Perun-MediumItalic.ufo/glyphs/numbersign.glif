@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="2">
+	<unicode hex="0023"/>
+	<advance width="735"/>
+	<outline>
+		<contour>
+			<point x="808" y="521.667" type="line"/>
+			<point x="679.667" y="521.667" type="line"/>
+			<point name="n02" x="787.333" y="722" type="line"/>
+			<point x="704.667" y="722" type="line"/>
+			<point x="597" y="521.667" type="line"/>
+			<point x="469" y="521.667" type="line"/>
+			<point x="577.333" y="722" type="line"/>
+			<point x="494" y="722" type="line"/>
+			<point x="386.333" y="521.667" type="line"/>
+			<point name="n09" x="259" y="521.667" type="line"/>
+			<point name="n10" x="220" y="449" type="line"/>
+			<point x="348.667" y="449" type="line"/>
+			<point x="268.667" y="300" type="line"/>
+			<point x="140.667" y="300" type="line"/>
+			<point x="100.667" y="227.333" type="line"/>
+			<point x="229.667" y="227.333" type="line"/>
+			<point name="n16" x="109.333" y="0" type="line"/>
+			<point x="192" y="0" type="line"/>
+			<point name="n18" x="312.333" y="227.333" type="line"/>
+			<point x="440" y="227.333" type="line"/>
+			<point x="320" y="-0.333333" type="line"/>
+			<point x="402.667" y="0" type="line"/>
+			<point x="522.333" y="227.333" type="line"/>
+			<point x="649.667" y="227.333" type="line"/>
+			<point x="689.667" y="300" type="line"/>
+			<point x="561.333" y="300" type="line"/>
+			<point x="641" y="449" type="line"/>
+			<point x="769" y="449" type="line"/>
+		</contour>
+		<contour>
+			<point x="559.333" y="449" type="line"/>
+			<point x="479.667" y="300" type="line"/>
+			<point name="n30" x="350.667" y="300" type="line"/>
+			<point x="431" y="449" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 227.33 72.67</string>
+							<string>hstem 449 72.67</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>bfe710066f3c069e427888281bf146e6eca23c92ae863b7f178cef5963ff00acb20ec487ace198822c131f49cd86985deb62e4d026a4e6dcab905ebbf9ef2505</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

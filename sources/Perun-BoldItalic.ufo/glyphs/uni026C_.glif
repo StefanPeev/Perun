@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni026C" format="2">
+	<unicode hex="026C"/>
+	<advance width="522"/>
+	<outline>
+		<contour>
+			<point name="n00" x="307" y="349" type="line"/>
+			<point x="224" y="368"/>
+			<point x="215" y="379"/>
+			<point x="222" y="409" type="curve" smooth="yes"/>
+			<point x="230" y="443"/>
+			<point x="259" y="462"/>
+			<point name="n06" x="297" y="462" type="curve" smooth="yes"/>
+			<point x="308" y="462"/>
+			<point x="319" y="460"/>
+			<point x="331" y="456" type="curve"/>
+		</contour>
+		<contour>
+			<point x="552" y="345" type="line"/>
+			<point x="551" y="346" type="line"/>
+		</contour>
+		<contour>
+			<point x="550" y="346" type="line"/>
+			<point x="521" y="386" type="line"/>
+			<point x="472" y="362"/>
+			<point x="430" y="348"/>
+			<point x="394" y="344" type="curve"/>
+			<point name="n17" x="482" y="722" type="line"/>
+			<point x="392" y="722" type="line"/>
+			<point x="342" y="505" type="line"/>
+			<point x="324" y="513"/>
+			<point x="305" y="517"/>
+			<point name="n22" x="287" y="517" type="curve" smooth="yes"/>
+			<point x="238" y="517"/>
+			<point x="194" y="490"/>
+			<point x="154" y="435" type="curve" smooth="yes"/>
+			<point x="149" y="428"/>
+			<point x="145" y="419"/>
+			<point x="143" y="409" type="curve"/>
+			<point x="128" y="345"/>
+			<point x="186" y="295"/>
+			<point name="n31" x="290" y="283" type="curve"/>
+			<point name="n32" x="225" y="1" type="line"/>
+			<point x="315" y="1" type="line"/>
+			<point x="381" y="284" type="line"/>
+			<point x="432" y="293"/>
+			<point x="489" y="314"/>
+			<point x="551" y="346" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 22 -21</string>
+							<string>hstem 283 66</string>
+							<string>hstem 462 55</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>e14ee4ba07980e086d1b4eb8cec145e24e5c0a81478ec38dba8f44aad2d52c1a1e53212ec8f3b9737362a986e5fff139cea6b56b88a7b301226e8a43ae066366</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

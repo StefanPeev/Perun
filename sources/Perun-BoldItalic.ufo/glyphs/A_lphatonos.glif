@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphatonos" format="2">
+	<unicode hex="0386"/>
+	<advance width="750"/>
+	<outline>
+		<contour>
+			<point name="n00" x="573" y="278" type="line"/>
+			<point x="300" y="278" type="line"/>
+			<point x="512" y="611" type="line"/>
+		</contour>
+		<contour>
+			<point name="n03" x="735" y="0" type="line"/>
+			<point name="n04" x="595" y="722" type="line"/>
+			<point x="485" y="722" type="line"/>
+			<point x="15" y="0" type="line"/>
+			<point x="118" y="0" type="line"/>
+			<point x="242" y="193" type="line"/>
+			<point name="n09" x="596" y="193" type="line"/>
+			<point x="629" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="372" y="722" type="line"/>
+			<point x="272" y="722" type="line"/>
+			<point name="n13" x="163" y="512" type="line"/>
+			<point x="233" y="512" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 193 85</string>
+							<string>hstem 533 -21</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w750m573,278l300,278l512,611m735,0l595,722l485,722l15,0l118,0l242,193l596,193l629,0m372,722l272,722l163,512l233,512</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="2">
+	<unicode hex="03A5"/>
+	<advance width="662"/>
+	<outline>
+		<contour>
+			<point name="n00" x="815.667" y="722" type="line"/>
+			<point x="684.333" y="722" type="line"/>
+			<point x="425.333" y="389.667" type="line"/>
+			<point x="317.667" y="722" type="line"/>
+			<point x="180.333" y="722" type="line"/>
+			<point x="337" y="282.333" type="line"/>
+			<point name="n06" x="272" y="0" type="line"/>
+			<point x="389.333" y="0" type="line"/>
+			<point x="454.333" y="282.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w662m815.67,722l684.33,722l425.33,389.67l317.67,722l180.33,722l337,282.33l272,0l389.33,0l454.33,282.33</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

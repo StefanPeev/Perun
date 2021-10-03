@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+	<unicode hex="00B8"/>
+	<advance width="250"/>
+	<outline>
+		<contour>
+			<point x="255" y="-153" type="line"/>
+			<point x="271" y="-84"/>
+			<point x="231" y="-50"/>
+			<point name="n03" x="138" y="-51" type="curve"/>
+			<point name="n04" x="150" y="-1" type="line"/>
+			<point x="100" y="-1" type="line"/>
+			<point x="77" y="-101" type="line"/>
+			<point name="n07" x="103" y="-101" type="line" smooth="yes"/>
+			<point x="120" y="-101"/>
+			<point x="135" y="-106"/>
+			<point x="151" y="-115" type="curve" smooth="yes"/>
+			<point x="167" y="-124"/>
+			<point x="173" y="-138"/>
+			<point x="169" y="-156" type="curve" smooth="yes"/>
+			<point x="164" y="-178"/>
+			<point x="142" y="-189"/>
+			<point name="n16" x="105" y="-189" type="curve" smooth="yes"/>
+			<point x="75" y="-189"/>
+			<point x="40" y="-185"/>
+			<point x="0" y="-176" type="curve"/>
+			<point name="n20" x="-13" y="-236" type="line"/>
+			<point x="25" y="-242"/>
+			<point x="55" y="-245"/>
+			<point name="n23" x="80" y="-245" type="curve" smooth="yes"/>
+			<point x="152" y="-245"/>
+			<point x="238" y="-223"/>
+			<point name="n26" x="254" y="-155" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -245 56</string>
+							<string>hstem -101 50</string>
+							<string>hstem -1 -20</string>
+							<string>vstem -13 267</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>20ee34beee7bb408d1a1a66fd16aa047357256599f4dbe645cbfd8eb267b6df00b529fbf8275bb2bcdd1e3bb15b5091a32ec6acd90f6a79f4042869f52e98b76</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

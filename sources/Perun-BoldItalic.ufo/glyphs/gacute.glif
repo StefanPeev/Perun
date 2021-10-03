@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gacute" format="2">
+	<unicode hex="01F5"/>
+	<advance width="563"/>
+	<outline>
+		<contour>
+			<point x="190" y="266" type="curve" smooth="yes"/>
+			<point x="218" y="387"/>
+			<point x="276" y="448"/>
+			<point name="n03" x="367" y="448" type="curve" smooth="yes"/>
+			<point x="474" y="448"/>
+			<point x="504" y="382"/>
+			<point x="477" y="264" type="curve" smooth="yes"/>
+			<point x="451" y="153"/>
+			<point x="390" y="77"/>
+			<point name="n09" x="287" y="77" type="curve" smooth="yes"/>
+			<point x="188" y="77"/>
+			<point x="166" y="162"/>
+		</contour>
+		<contour>
+			<point x="101" y="267" type="line"/>
+			<point x="66" y="114"/>
+			<point x="107" y="14"/>
+			<point name="n15" x="263" y="14" type="curve" smooth="yes"/>
+			<point x="342" y="14"/>
+			<point x="395" y="50"/>
+			<point x="440" y="93" type="curve"/>
+			<point x="400" y="-79"/>
+			<point x="345" y="-136"/>
+			<point name="n21" x="250" y="-136" type="curve" smooth="yes"/>
+			<point x="186" y="-136"/>
+			<point x="133" y="-104"/>
+			<point name="n24" x="148" y="-40" type="curve"/>
+			<point name="n25" x="54" y="-40" type="line"/>
+			<point x="34" y="-127"/>
+			<point x="92" y="-198"/>
+			<point name="n28" x="217" y="-198" type="curve" smooth="yes"/>
+			<point x="373" y="-198"/>
+			<point x="482" y="-105"/>
+			<point x="513" y="29" type="curve" smooth="yes"/>
+			<point name="n32" x="621" y="499" type="line"/>
+			<point name="hr01" x="531" y="499" type="line"/>
+			<point x="519" y="444" type="line"/>
+			<point x="502" y="482"/>
+			<point x="446" y="512"/>
+			<point name="n37" x="377" y="512" type="curve" smooth="yes"/>
+			<point x="239" y="512"/>
+			<point x="131" y="399"/>
+			<point x="101" y="268" type="curve"/>
+		</contour>
+		<contour>
+			<point x="605" y="745" type="line"/>
+			<point x="504" y="745" type="line"/>
+			<point x="365" y="574" type="line"/>
+			<point x="426" y="574" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 448 64</string>
+							<string>hstem 14 63</string>
+							<string>hstem -198 62</string>
+							<string>vstem 54 94</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 499 -20</string>
+							<string>hstem -198 62</string>
+							<string>hstem 14 63</string>
+							<string>vstem 54 94</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>n37</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 448 64</string>
+							<string>hstem -198 62</string>
+							<string>hstem 14 63</string>
+							<string>vstem 54 94</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>f252a6e33b646f7c03a5c73aed1750bc7639d9e785db6a7a9a76dc21b44de0ca109b7cf190fa8433ea56d251e7de5cb5c4605d58b78699f934d67c04d58c0472</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

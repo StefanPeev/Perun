@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="2">
-  <advance width="325"/>
-  <unicode hex="002D"/>
-  <outline>
-    <contour>
-      <point x="40" y="198.667" type="line"/>
-      <point x="40" y="297" type="line"/>
-      <point x="285.667" y="297" type="line"/>
-      <point x="285.667" y="198.667" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>190</integer>
-        <key>width</key>
-        <integer>131</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="002D"/>
+	<advance width="325"/>
+	<outline>
+		<contour>
+			<point x="40" y="198.667" type="line"/>
+			<point x="40" y="297" type="line"/>
+			<point x="285.667" y="297" type="line"/>
+			<point x="285.667" y="198.667" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>190</integer>
+						<key>width</key>
+						<integer>131</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="2">
+	<unicode hex="2014"/>
+	<advance width="720"/>
+	<outline>
+		<contour>
+			<point name="n00" x="750" y="246" type="line"/>
+			<point name="n01" x="768" y="324.333" type="line"/>
+			<point x="101.333" y="324.333" type="line"/>
+			<point x="83.3333" y="246" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 246 78.33</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w720m750,246l768,324.33l101.33,324.33l83.33,246</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

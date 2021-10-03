@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="2">
+	<unicode hex="0395"/>
+	<advance width="626"/>
+	<outline>
+		<contour>
+			<point name="n00" x="557" y="0" type="line"/>
+			<point name="n01" x="584" y="115" type="line"/>
+			<point x="242" y="115" type="line"/>
+			<point name="n03" x="289" y="319" type="line"/>
+			<point x="601" y="319" type="line"/>
+			<point x="626" y="429" type="line"/>
+			<point name="n06" x="314" y="429" type="line"/>
+			<point x="355" y="607" type="line"/>
+			<point name="n08" x="687" y="607" type="line"/>
+			<point name="n09" x="714" y="722" type="line"/>
+			<point x="237" y="722" type="line"/>
+			<point x="70" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 115</string>
+							<string>hstem 319 110</string>
+							<string>hstem 607 115</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w626m557,0l584,115l242,115l289,319l601,319l626,429l314,429l355,607l687,607l714,722l237,722l70,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

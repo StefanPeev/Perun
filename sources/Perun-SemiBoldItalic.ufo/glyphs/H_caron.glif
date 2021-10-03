@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcaron" format="2">
+	<unicode hex="021E"/>
+	<advance width="669"/>
+	<outline>
+		<contour>
+			<point name="n00" x="608" y="0" type="line"/>
+			<point name="n01" x="775" y="722" type="line"/>
+			<point x="674" y="722" type="line"/>
+			<point x="602" y="413" type="line"/>
+			<point name="n04" x="255" y="413" type="line"/>
+			<point x="327" y="722" type="line"/>
+			<point x="226" y="722" type="line"/>
+			<point x="59" y="0" type="line"/>
+			<point x="160" y="0" type="line"/>
+			<point name="n09" x="235" y="326" type="line"/>
+			<point x="582" y="326" type="line"/>
+			<point x="507" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="702" y="966" type="line"/>
+			<point x="642" y="966" type="line"/>
+			<point x="532" y="856" type="line"/>
+			<point x="472" y="966" type="line"/>
+			<point x="412" y="966" type="line"/>
+			<point x="463" y="796" type="line"/>
+			<point x="573" y="796" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 326 87</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>fcb7a8c0faaad45f7119d1b97cc22606c6dd6420b21d4aa4cabe1a3dd9205c4ccd0602abb043c2b9ec44f582e8ddb9c3e6448ce7f6073abf73dedb2d5df52863</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

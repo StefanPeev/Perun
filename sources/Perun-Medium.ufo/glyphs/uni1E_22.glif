@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E22" format="2">
-  <advance width="691"/>
-  <unicode hex="1E22"/>
-  <anchor x="339.333" y="-75" name="bottom"/>
-  <anchor x="123.333" y="10" name="cedilla.bottom"/>
-  <anchor x="16.6667" y="361" name="left"/>
-  <anchor x="339.333" y="797" name="top"/>
-  <outline>
-    <component base="H"/>
-    <component base="uni0307" xOffset="630" yOffset="197"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>320</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>702</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>795</integer>
-        <key>width</key>
-        <integer>130</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>69</integer>
-        <key>width</key>
-        <integer>145</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>297</integer>
-        <key>width</key>
-        <integer>120</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>499</integer>
-        <key>width</key>
-        <integer>145</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>H+uni0307</string>
-  </dict>
-  </lib>
+	<unicode hex="1E22"/>
+	<advance width="691"/>
+	<outline>
+		<component base="H"/>
+		<component base="uni0307" xOffset="630" yOffset="197"/>
+	</outline>
+	<anchor name="bottom" x="339.333" y="-75"/>
+	<anchor name="cedilla.bottom" x="123.333" y="10"/>
+	<anchor name="left" x="16.6667" y="361"/>
+	<anchor name="top" x="339.333" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>320</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>702</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>795</integer>
+						<key>width</key>
+						<integer>130</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>69</integer>
+						<key>width</key>
+						<integer>145</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>297</integer>
+						<key>width</key>
+						<integer>120</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>499</integer>
+						<key>width</key>
+						<integer>145</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>H+uni0307</string>
+		</dict>
+	</lib>
 </glyph>

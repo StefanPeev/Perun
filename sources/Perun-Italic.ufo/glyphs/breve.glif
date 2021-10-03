@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+	<unicode hex="02D8"/>
+	<advance width="281"/>
+	<outline>
+		<contour>
+			<point name="n00" x="292" y="663" type="curve" smooth="yes"/>
+			<point x="255" y="663"/>
+			<point x="217" y="687"/>
+			<point name="n03" x="217" y="717" type="curve"/>
+			<point name="n04" x="165" y="717" type="line"/>
+			<point x="158" y="653"/>
+			<point x="205" y="600"/>
+			<point name="n07" x="278" y="600" type="curve" smooth="yes"/>
+			<point x="352" y="600"/>
+			<point x="422" y="654"/>
+			<point x="446" y="717" type="curve"/>
+			<point x="394" y="717" type="line"/>
+			<point x="380" y="686"/>
+			<point x="330" y="663"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 600 63</string>
+							<string>vstem 165 52</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w281m292,663c255,663 217,687 217,717l165,717c158,653 205,600 278,600c352,600 422,654 446,717l394,717c380,686 330,663 292,663</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

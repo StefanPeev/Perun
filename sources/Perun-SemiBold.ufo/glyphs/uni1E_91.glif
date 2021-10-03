@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E91" format="2">
-  <advance width="500"/>
-  <unicode hex="1E91"/>
-  <anchor x="258" y="803.333" name="top.mkmk"/>
-  <outline>
-    <component base="z"/>
-    <component base="uni0302" xScale="1" xyScale="2.60532e-19" xOffset="566" yOffset="-6.66667"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>415</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>733</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>z+uni0302</string>
-  </dict>
-  </lib>
+	<unicode hex="1E91"/>
+	<advance width="500"/>
+	<outline>
+		<component base="z"/>
+		<component base="uni0302" xyScale="0" xOffset="566" yOffset="-6.66667"/>
+	</outline>
+	<anchor name="top.mkmk" x="258" y="803.333"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>415</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>733</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>z+uni0302</string>
+		</dict>
+	</lib>
 </glyph>

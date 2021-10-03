@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+	<unicode hex="00EF"/>
+	<advance width="252"/>
+	<outline>
+		<contour>
+			<point name="n00" x="344.667" y="420" type="line"/>
+			<point name="n01" x="401.667" y="666.667" type="line"/>
+			<point x="298.333" y="666.667" type="line"/>
+			<point x="241.333" y="420" type="line"/>
+		</contour>
+		<contour>
+			<point name="hr01" x="219.667" y="630" type="line"/>
+			<point x="249" y="740.667" type="line"/>
+			<point name="n06" x="142.333" y="740.667" type="line"/>
+			<point name="n07" x="116.333" y="630" type="line"/>
+		</contour>
+		<contour>
+			<point x="268.333" y="210" type="line"/>
+			<point x="352.333" y="574" type="line"/>
+			<point x="232.333" y="574" type="line"/>
+			<point x="148.333" y="210" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 441 -21</string>
+							<string>hstem 666.67 -20</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 630 110.67</string>
+							<string>hstem 441 -21</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>874b89b12228b6fdfb51fd676ffa8a4b3afe56378fe0de617d7f77c7687d79adfe710b5b5d2c6d1a4f38af3315e36e7cf79a6b4695a8fcf19987c48ba4159a73</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

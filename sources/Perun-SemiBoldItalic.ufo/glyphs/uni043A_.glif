@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A" format="2">
+	<unicode hex="043A"/>
+	<advance width="516"/>
+	<outline>
+		<contour>
+			<point name="n00" x="506.333" y="0" type="line"/>
+			<point x="369.333" y="283.333" type="line"/>
+			<point name="n02" x="605.333" y="500" type="line"/>
+			<point x="459.667" y="500" type="line"/>
+			<point x="245" y="298" type="line"/>
+			<point name="n05" x="343.667" y="722" type="line"/>
+			<point x="223.667" y="722" type="line"/>
+			<point x="56.6667" y="0" type="line"/>
+			<point x="176.667" y="0" type="line"/>
+			<point x="237.333" y="263" type="line"/>
+			<point x="357.333" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 500 -20</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w516m506.33,0l369.33,283.33l605.33,500l459.67,500l245,298l343.67,722l223.67,722l56.67,0l176.67,0l237.33,263l357.33,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

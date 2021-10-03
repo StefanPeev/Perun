@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E.ss01" format="2">
+	<advance width="753"/>
+	<outline>
+		<contour>
+			<point x="672" y="255" type="curve" smooth="yes"/>
+			<point x="647" y="146"/>
+			<point x="580" y="51"/>
+			<point name="n03" x="473" y="51" type="curve" smooth="yes"/>
+			<point x="379" y="51"/>
+			<point x="339" y="128"/>
+			<point x="369" y="256" type="curve" smooth="yes"/>
+			<point x="396" y="371"/>
+			<point x="475" y="447"/>
+			<point name="n09" x="570" y="447" type="curve" smooth="yes"/>
+			<point x="661" y="447"/>
+			<point x="700" y="376"/>
+		</contour>
+		<contour>
+			<point x="267" y="225" type="line"/>
+			<point x="245" y="85"/>
+			<point x="311" y="-14"/>
+			<point name="n15" x="456" y="-14" type="curve" smooth="yes"/>
+			<point x="608" y="-14"/>
+			<point x="728" y="89"/>
+			<point x="766" y="252" type="curve" smooth="yes"/>
+			<point x="802" y="407"/>
+			<point x="743" y="512"/>
+			<point name="n21" x="585" y="512" type="curve" smooth="yes"/>
+			<point x="437" y="512"/>
+			<point x="325" y="419"/>
+			<point x="286" y="295" type="curve"/>
+			<point name="n25" x="208" y="295" type="line"/>
+			<point name="n26" x="255" y="500" type="line"/>
+			<point name="hr01" x="165" y="500" type="line"/>
+			<point name="n28" x="50" y="0" type="line"/>
+			<point x="140" y="0" type="line"/>
+			<point name="n30" x="192" y="225" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -14 65</string>
+							<string>hstem 447 65</string>
+							<string>hstem 225 70</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 500 -20</string>
+							<string>hstem 21 -21</string>
+							<string>hstem 225 70</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>642ffb1927282799fb609d829060cc371214b33318f288da0315b1d335cad9be878fa1ad77b665b12d8de735a4d9eb96679f21c99a68f5961d1922d5ddcd2546</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="289"/>
-  <unicode hex="00AF"/>
-  <outline>
-    <contour>
-      <point x="290" y="630" type="line"/>
-      <point x="0" y="630" type="line"/>
-      <point x="0" y="699" type="line"/>
-      <point x="290" y="699" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>630</integer>
-        <key>width</key>
-        <integer>79</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="00AF"/>
+	<advance width="289"/>
+	<outline>
+		<contour>
+			<point x="290" y="630" type="line"/>
+			<point x="0" y="630" type="line"/>
+			<point x="0" y="699" type="line"/>
+			<point x="290" y="699" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>630</integer>
+						<key>width</key>
+						<integer>79</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

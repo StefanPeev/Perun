@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E52" format="2">
-  <advance width="754"/>
-  <unicode hex="1E52"/>
-  <anchor x="365" y="797" name="top"/>
-  <outline>
-    <component base="Omacron"/>
-    <component base="acutecomb" xOffset="695" yOffset="197"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-13</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>621</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>795</integer>
-        <key>width</key>
-        <integer>79</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>955</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>56</integer>
-        <key>width</key>
-        <integer>151</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>587</integer>
-        <key>width</key>
-        <integer>152</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>Omacron+acutecomb</string>
-  </dict>
-  </lib>
+	<unicode hex="1E52"/>
+	<advance width="754"/>
+	<outline>
+		<component base="Omacron"/>
+		<component base="acutecomb" xOffset="695" yOffset="197"/>
+	</outline>
+	<anchor name="top" x="365" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-13</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>621</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>795</integer>
+						<key>width</key>
+						<integer>79</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>955</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>56</integer>
+						<key>width</key>
+						<integer>151</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>587</integer>
+						<key>width</key>
+						<integer>152</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>Omacron+acutecomb</string>
+		</dict>
+	</lib>
 </glyph>

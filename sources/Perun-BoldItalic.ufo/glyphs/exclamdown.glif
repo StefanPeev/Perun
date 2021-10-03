@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+	<unicode hex="00A1"/>
+	<advance width="399"/>
+	<outline>
+		<contour>
+			<point name="n00" x="349" y="385" type="line"/>
+			<point x="375" y="500" type="line"/>
+			<point x="245" y="500" type="line"/>
+			<point name="n03" x="219" y="385" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="224" y="-198" type="line"/>
+			<point name="n05" x="315" y="309" type="line"/>
+			<point x="217" y="309" type="line"/>
+			<point x="74" y="-198" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -198 507</string>
+							<string>hstem 406 -21</string>
+							<string>vstem 219 96</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w399m349,385l375,500l245,500l219,385m224,-198l315,309l217,309l74,-198</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

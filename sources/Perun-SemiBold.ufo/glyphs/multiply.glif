@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="2">
-  <advance width="674"/>
-  <unicode hex="00D7"/>
-  <outline>
-    <contour>
-      <point x="50" y="96.3333" type="line"/>
-      <point x="116.547" y="29.9652" type="line"/>
-      <point x="617.547" y="530.965" type="line"/>
-      <point x="551" y="597.333" type="line"/>
-    </contour>
-    <contour>
-      <point x="564.333" y="23.3333" type="line"/>
-      <point x="636.713" y="96.2869" type="line"/>
-      <point x="135.713" y="597.287" type="line"/>
-      <point x="63.3333" y="524.333" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>30</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>550</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="00D7"/>
+	<advance width="674"/>
+	<outline>
+		<contour>
+			<point x="50" y="96.3333" type="line"/>
+			<point x="116.547" y="29.9652" type="line"/>
+			<point x="617.547" y="530.965" type="line"/>
+			<point x="551" y="597.333" type="line"/>
+		</contour>
+		<contour>
+			<point x="564.333" y="23.3333" type="line"/>
+			<point x="636.713" y="96.2869" type="line"/>
+			<point x="135.713" y="597.287" type="line"/>
+			<point x="63.3333" y="524.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>30</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>550</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

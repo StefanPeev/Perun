@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron" format="2">
-  <advance width="735"/>
-  <unicode hex="01E6"/>
-  <anchor x="375" y="797" name="top"/>
-  <outline>
-    <component base="G"/>
-    <component base="uni030C" xOffset="665" yOffset="197"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-14</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>265</integer>
-        <key>width</key>
-        <integer>119</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>621</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>956</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>54</integer>
-        <key>width</key>
-        <integer>150</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>554</integer>
-        <key>width</key>
-        <integer>150</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+uni030C</string>
-  </dict>
-  </lib>
+	<unicode hex="01E6"/>
+	<advance width="735"/>
+	<outline>
+		<component base="G"/>
+		<component base="uni030C" xOffset="665" yOffset="197"/>
+	</outline>
+	<anchor name="top" x="375" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>265</integer>
+						<key>width</key>
+						<integer>119</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>621</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>956</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>54</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>554</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>G+uni030C</string>
+		</dict>
+	</lib>
 </glyph>

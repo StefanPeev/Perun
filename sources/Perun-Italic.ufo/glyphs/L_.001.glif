@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L.001" format="2">
+	<advance width="495"/>
+	<outline>
+		<contour>
+			<point name="n00" x="480" y="0" type="line"/>
+			<point name="n01" x="500" y="87" type="line"/>
+			<point x="181" y="87" type="line"/>
+			<point name="n03" x="328" y="722" type="line"/>
+			<point x="227" y="722" type="line"/>
+			<point x="60" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 87</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w495m480,0l500,87l181,87l328,722l227,722l60,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

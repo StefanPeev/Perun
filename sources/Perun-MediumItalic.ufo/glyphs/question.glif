@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="2">
+	<unicode hex="003F"/>
+	<advance width="524"/>
+	<outline>
+		<contour>
+			<point x="242.667" y="273.667" type="curve"/>
+			<point x="218.667" y="170.333" type="line"/>
+			<point x="305.333" y="170.333" type="line"/>
+			<point x="319.333" y="235.333" type="line" smooth="yes"/>
+			<point x="332" y="294.333"/>
+			<point x="394.667" y="339.667"/>
+			<point x="454.667" y="381.333" type="curve" smooth="yes"/>
+			<point x="527.333" y="432"/>
+			<point x="599.333" y="490"/>
+			<point x="599.333" y="583.333" type="curve" smooth="yes"/>
+			<point x="599.333" y="683.667"/>
+			<point x="515" y="736"/>
+			<point x="403" y="736" type="curve" smooth="yes"/>
+			<point x="305.667" y="736"/>
+			<point x="221.333" y="683.667"/>
+			<point x="162.667" y="601" type="curve"/>
+			<point x="231.667" y="548.667" type="line"/>
+			<point x="271.667" y="609.333"/>
+			<point x="315.667" y="648.667"/>
+			<point x="386.667" y="648.667" type="curve" smooth="yes"/>
+			<point x="451" y="648.667"/>
+			<point x="484.333" y="615.667"/>
+			<point x="484.333" y="571.667" type="curve" smooth="yes"/>
+			<point x="484.333" y="490.667"/>
+			<point x="420" y="444.333"/>
+			<point x="357" y="399.333" type="curve" smooth="yes"/>
+			<point x="306.333" y="364.333"/>
+			<point x="256.667" y="329.333"/>
+		</contour>
+		<contour>
+			<point name="n28" x="275" y="-1" type="line"/>
+			<point name="n29" x="298.333" y="99.6667" type="line"/>
+			<point x="191.667" y="99.6667" type="line"/>
+			<point x="168.333" y="-1" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -1 100.67</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>bbdce889171b342b9df180bfbd93e1e9b868ca76c33e710de8865e89cc51e302efe6cc437622ddeffc5b190f77cbb6b9e1d7ede611caf0ee720b256930ac0208</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

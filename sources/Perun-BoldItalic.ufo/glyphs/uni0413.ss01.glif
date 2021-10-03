@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0413.ss01" format="2">
+	<advance width="583"/>
+	<outline>
+		<contour>
+			<point name="n00" x="669" y="607" type="line"/>
+			<point name="n01" x="696" y="722" type="line"/>
+			<point x="237" y="722" type="line"/>
+			<point name="n03" x="70" y="0" type="line"/>
+			<point x="215" y="0" type="line"/>
+			<point x="355" y="607" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 607 115</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w583m669,607l696,722l237,722l70,0l215,0l355,607</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

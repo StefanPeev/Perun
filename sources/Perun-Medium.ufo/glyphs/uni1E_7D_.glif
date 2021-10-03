@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E7D" format="2">
-  <advance width="551"/>
-  <unicode hex="1E7D"/>
-  <outline>
-    <component base="v"/>
-    <component base="tildecomb" xyScale="-4.9738e-19" xOffset="566.833" yOffset="-13.3333"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>480</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>587</integer>
-        <key>width</key>
-        <integer>74</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>609</integer>
-        <key>width</key>
-        <integer>74</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>677</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>v+tildecomb</string>
-  </dict>
-  </lib>
+	<unicode hex="1E7D"/>
+	<advance width="551"/>
+	<outline>
+		<component base="v"/>
+		<component base="tildecomb" xyScale="0" xOffset="566.833" yOffset="-13.3333"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>480</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>587</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>609</integer>
+						<key>width</key>
+						<integer>74</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>677</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>v+tildecomb</string>
+		</dict>
+	</lib>
 </glyph>

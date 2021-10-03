@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+	<unicode hex="0021"/>
+	<advance width="333"/>
+	<outline>
+		<contour>
+			<point name="n00" x="341.333" y="481.333" type="line"/>
+			<point name="n01" x="248.667" y="513" type="line"/>
+			<point x="150.667" y="159" type="line"/>
+			<point name="n03" x="208.667" y="127.333" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="273.333" y="240.667" type="line"/>
+			<point x="263.667" y="317.333" type="line"/>
+			<point x="134.333" y="133" type="line"/>
+			<point x="144" y="56.3333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 240.67 -20</string>
+							<string>hstem 481.33 31.67</string>
+							<string>vstem 208.67 64.67</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w333m341.33,481.33l248.67,513l150.67,159l208.67,127.33m273.33,240.67l263.67,317.33l134.33,133l144,56.33</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omegatonos" format="2">
-  <advance width="719"/>
-  <unicode hex="03CE"/>
-  <anchor x="347" y="600" name="tonos.top"/>
-  <outline>
-    <component base="omega"/>
-    <component base="tonos" xOffset="335" yOffset="89"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>omega+tonos</string>
-  </dict>
-  </lib>
+	<unicode hex="03CE"/>
+	<advance width="719"/>
+	<outline>
+		<component base="omega"/>
+		<component base="tonos" xOffset="335" yOffset="89"/>
+	</outline>
+	<anchor name="tonos.top" x="347" y="600"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>omega+tonos</string>
+		</dict>
+	</lib>
 </glyph>

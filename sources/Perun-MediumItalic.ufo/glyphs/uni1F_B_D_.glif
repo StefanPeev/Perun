@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FBD" format="2">
+	<unicode hex="1FBD"/>
+	<advance width="299"/>
+	<outline>
+		<contour>
+			<point name="n00" x="390.667" y="1027.33" type="line"/>
+			<point name="n01" x="260.667" y="1027.33" type="line"/>
+			<point name="n02" x="168.333" y="764" type="line"/>
+			<point name="n03" x="247.667" y="764" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 764 263.33</string>
+							<string>vstem 168.33 222.33</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w299m390.67,1027.33l260.67,1027.33l168.33,764l247.67,764</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

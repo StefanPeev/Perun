@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E00" format="2">
-  <advance width="723"/>
-  <unicode hex="1E00"/>
-  <anchor x="361.667" y="-75" name="bottom"/>
-  <anchor x="610.667" y="10" name="ogonekUC"/>
-  <anchor x="361.667" y="797" name="top"/>
-  <outline>
-    <component base="A"/>
-    <component base="uni0325" xScale="1" xOffset="658.333"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>154</integer>
-        <key>width</key>
-        <integer>115</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>700</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>A+uni0325</string>
-  </dict>
-  </lib>
+	<unicode hex="1E00"/>
+	<advance width="723"/>
+	<outline>
+		<component base="A"/>
+		<component base="uni0325" xOffset="658.333"/>
+	</outline>
+	<anchor name="bottom" x="361.667" y="-75"/>
+	<anchor name="ogonekUC" x="610.667" y="10"/>
+	<anchor name="top" x="361.667" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>154</integer>
+						<key>width</key>
+						<integer>115</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>700</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>A+uni0325</string>
+		</dict>
+	</lib>
 </glyph>

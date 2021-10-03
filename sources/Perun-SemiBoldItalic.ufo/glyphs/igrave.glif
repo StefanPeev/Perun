@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+	<unicode hex="00EC"/>
+	<advance width="252"/>
+	<outline>
+		<contour>
+			<point name="n00" x="276" y="400" type="line"/>
+			<point name="n01" x="281" y="686.667" type="line"/>
+			<point x="164.333" y="686.667" type="line"/>
+			<point name="n03" x="199.333" y="400" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="238.333" y="200" type="line"/>
+			<point x="292.667" y="590.333" type="line"/>
+			<point x="171" y="590.333" type="line"/>
+			<point x="128" y="200" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 421 -21</string>
+							<string>hstem 686.67 -20</string>
+							<string>vstem 199.33 39</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w252m276,400l281,686.67l164.33,686.67l199.33,400m238.33,200l292.67,590.33l171,590.33l128,200</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+	<unicode hex="00A5"/>
+	<advance width="563"/>
+	<outline>
+		<contour>
+			<point name="n00" x="728.333" y="722" type="line"/>
+			<point x="608.667" y="722" type="line"/>
+			<point x="371.333" y="383" type="line"/>
+			<point x="290" y="722" type="line"/>
+			<point x="170.333" y="722" type="line"/>
+			<point x="227.667" y="513" type="line"/>
+			<point name="n06" x="132" y="513" type="line"/>
+			<point name="n07" x="119.667" y="457" type="line"/>
+			<point x="242.667" y="457" type="line"/>
+			<point x="272.667" y="338" type="line"/>
+			<point name="n10" x="91.6667" y="338" type="line"/>
+			<point name="n11" x="78.6667" y="282" type="line"/>
+			<point x="291" y="282" type="line"/>
+			<point name="n13" x="226" y="0" type="line"/>
+			<point x="338.667" y="0" type="line"/>
+			<point x="403.667" y="282" type="line"/>
+			<point x="616" y="282" type="line"/>
+			<point x="629" y="338" type="line"/>
+			<point x="449.333" y="338" type="line"/>
+			<point x="535.333" y="457" type="line"/>
+			<point x="657" y="457" type="line"/>
+			<point x="669.333" y="513" type="line"/>
+			<point x="574.667" y="513" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 282 56</string>
+							<string>hstem 457 56</string>
+							<string>hstem 722 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>8914a2b19cac79860f6fbc34f1278fb931d7a3a061f1223c4e7d079713a9e3b02232d3d9a232ec9039c95738c99a6617ecbdff24197fb410228c4d70c3ea5c3e</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

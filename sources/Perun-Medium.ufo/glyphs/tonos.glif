@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos" format="2">
-  <advance width="181"/>
-  <unicode hex="0384"/>
-  <anchor x="14.6667" y="511.667" name="_tonos.top"/>
-  <anchor x="16.3333" y="511.667" name="_top"/>
-  <outline>
-    <contour>
-      <point x="139.912" y="722" type="line"/>
-      <point x="50.0004" y="511.825" type="line"/>
-      <point x="-19.9996" y="511.825" type="line"/>
-      <point x="29.912" y="722" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0384"/>
+	<advance width="181"/>
+	<outline>
+		<contour>
+			<point x="139.912" y="722" type="line"/>
+			<point x="50.0004" y="511.825" type="line"/>
+			<point x="-19.9996" y="511.825" type="line"/>
+			<point x="29.912" y="722" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_tonos.top" x="14.6667" y="511.667"/>
+	<anchor name="_top" x="16.3333" y="511.667"/>
 </glyph>

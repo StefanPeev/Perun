@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+	<unicode hex="007B"/>
+	<advance width="487"/>
+	<outline>
+		<contour>
+			<point name="n00" x="353" y="-240" type="line"/>
+			<point name="n01" x="370" y="-166" type="line"/>
+			<point x="275" y="-166"/>
+			<point x="261" y="-117"/>
+			<point x="282" y="-26" type="curve" smooth="yes"/>
+			<point x="287" y="-3"/>
+			<point x="296" y="20"/>
+			<point x="301" y="43" type="curve" smooth="yes"/>
+			<point x="327" y="156"/>
+			<point x="311" y="202"/>
+			<point x="264" y="260" type="curve"/>
+			<point x="338" y="320"/>
+			<point x="375" y="364"/>
+			<point x="401" y="478" type="curve" smooth="yes"/>
+			<point x="406" y="500"/>
+			<point x="409" y="523"/>
+			<point x="414" y="545" type="curve" smooth="yes"/>
+			<point x="435" y="635"/>
+			<point x="470" y="686"/>
+			<point name="n19" x="566" y="686" type="curve"/>
+			<point name="n20" x="583" y="760" type="line"/>
+			<point x="485" y="760"/>
+			<point x="429" y="747"/>
+			<point x="380" y="679" type="curve" smooth="yes"/>
+			<point x="330" y="610"/>
+			<point x="321" y="497"/>
+			<point x="290" y="411" type="curve" smooth="yes"/>
+			<point x="267" y="346"/>
+			<point x="215" y="311"/>
+			<point name="n29" x="148" y="296" type="curve"/>
+			<point name="n30" x="131" y="223" type="line"/>
+			<point x="228" y="203"/>
+			<point x="230" y="131"/>
+			<point x="208" y="34" type="curve" smooth="yes"/>
+			<point x="203" y="13" type="line" smooth="yes"/>
+			<point x="189" y="-46"/>
+			<point x="177" y="-118"/>
+			<point x="186" y="-159" type="curve" smooth="yes"/>
+			<point x="201" y="-228"/>
+			<point x="254" y="-240"/>
+			<point x="352" y="-240" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -240 74</string>
+							<string>hstem 223 73</string>
+							<string>hstem 686 74</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>22eb65ccace13b6f4b4073a52a1b607c4c7b019660e2d8545857058b55f352c223af5a48e1f8309fe01c7c2b39c565cc47b64a153a131bf5dc65b52c1531793f</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

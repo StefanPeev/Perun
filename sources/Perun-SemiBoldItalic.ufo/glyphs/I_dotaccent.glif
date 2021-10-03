@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+	<unicode hex="0130"/>
+	<advance width="280"/>
+	<outline>
+		<contour>
+			<point name="n00" x="319.333" y="530" type="line"/>
+			<point name="n01" x="395" y="857.333" type="line"/>
+			<point x="281.333" y="857.333" type="line"/>
+			<point name="n03" x="205.667" y="530" type="line"/>
+		</contour>
+		<contour>
+			<point name="n04" x="266.333" y="265.333" type="line"/>
+			<point name="n05" x="385.333" y="780" type="line"/>
+			<point x="255.333" y="780" type="line"/>
+			<point x="136.333" y="265.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 551 -21</string>
+							<string>hstem 857.33 -20</string>
+							<string>vstem 205.67 179.67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>n04</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 265.33 514.67</string>
+							<string>vstem 205.67 179.67</string>
+							<string>hstem 857.33 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w280m319.33,530l395,857.33l281.33,857.33l205.67,530m266.33,265.33l385.33,780l255.33,780l136.33,265.33</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

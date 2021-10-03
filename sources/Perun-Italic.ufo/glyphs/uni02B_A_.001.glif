@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BA.001" format="2">
+	<advance width="1"/>
+	<outline>
+		<contour>
+			<point name="n00" x="-25" y="600" type="line"/>
+			<point x="-104" y="687" type="line"/>
+			<point name="n02" x="15" y="775" type="line"/>
+			<point name="n03" x="-50" y="775" type="line"/>
+			<point x="-131" y="716" type="line"/>
+			<point x="-184" y="775" type="line"/>
+			<point x="-249" y="775" type="line"/>
+			<point x="-170" y="687" type="line"/>
+			<point name="n08" x="-289" y="600" type="line"/>
+			<point x="-224" y="600" type="line"/>
+			<point x="-144" y="659" type="line"/>
+			<point x="-90" y="600" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 600 175</string>
+							<string>vstem -289 304</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w1m-25,600l-104,687l15,775l-50,775l-131,716l-184,775l-249,775l-170,687l-289,600l-224,600l-144,659l-90,600</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

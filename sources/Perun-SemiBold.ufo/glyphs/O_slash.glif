@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="2">
-  <advance width="781"/>
-  <unicode hex="00D8"/>
-  <outline>
-    <component base="O"/>
-    <contour>
-      <point x="153.109" y="-67.2624" type="line"/>
-      <point x="83.6135" y="-19.4114" type="line"/>
-      <point x="628.667" y="789" type="line"/>
-      <point x="695.794" y="743.333" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-51</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-12</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>622</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>755</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>55</integer>
-        <key>width</key>
-        <integer>151</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>585</integer>
-        <key>width</key>
-        <integer>153</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=O</string>
-  </dict>
-  </lib>
+	<unicode hex="00D8"/>
+	<advance width="781"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="153.109" y="-67.2624" type="line"/>
+			<point x="83.6135" y="-19.4114" type="line"/>
+			<point x="628.667" y="789" type="line"/>
+			<point x="695.794" y="743.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-51</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-12</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>622</integer>
+						<key>width</key>
+						<integer>114</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>755</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>55</integer>
+						<key>width</key>
+						<integer>151</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>585</integer>
+						<key>width</key>
+						<integer>153</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=O</string>
+		</dict>
+	</lib>
 </glyph>

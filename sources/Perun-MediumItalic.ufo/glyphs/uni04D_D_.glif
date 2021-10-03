@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04DD" format="2">
+	<unicode hex="04DD"/>
+	<advance width="748"/>
+	<outline>
+		<contour>
+			<point name="n00" x="496" y="722" type="line"/>
+			<point x="396" y="292" type="line"/>
+			<point name="n02" x="254" y="500" type="line"/>
+			<point x="141" y="500" type="line"/>
+			<point x="291" y="282" type="line"/>
+			<point name="n05" x="10" y="0" type="line"/>
+			<point x="129" y="0" type="line"/>
+			<point x="391" y="267" type="line"/>
+			<point x="329" y="0" type="line"/>
+			<point x="419" y="0" type="line"/>
+			<point x="481" y="267" type="line"/>
+			<point x="619" y="0" type="line"/>
+			<point x="738" y="0" type="line"/>
+			<point x="587" y="282" type="line"/>
+			<point x="837" y="500" type="line"/>
+			<point x="724" y="500" type="line"/>
+			<point x="486" y="292" type="line"/>
+			<point x="586" y="722" type="line"/>
+		</contour>
+		<contour>
+			<point name="n18" x="500" y="782" type="line"/>
+			<point name="n19" x="521" y="874" type="line"/>
+			<point x="431" y="874" type="line"/>
+			<point x="410" y="782" type="line"/>
+		</contour>
+		<contour>
+			<point x="700" y="782" type="line"/>
+			<point x="721" y="874" type="line"/>
+			<point x="631" y="874" type="line"/>
+			<point x="610" y="782" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 500 -20</string>
+							<string>hstem 722 -20</string>
+							<string>hstem 782 92</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>80e75cda1e8f414b227e07d6f460e808dfc6bc7c3c9151cfcd39eb45a125c20917a46af2464f04715e40d1628a669ac52abfca6be1e0b61ab1ed5574a004d406</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

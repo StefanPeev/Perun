@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
-  <advance width="799"/>
-  <unicode hex="00BC"/>
-  <outline>
-    <component base="onesuperior"/>
-    <contour>
-      <point x="626.105" y="736" type="line"/>
-      <point x="200.333" y="-14" type="line"/>
-      <point x="121.333" y="-14" type="line"/>
-      <point x="547.333" y="736" type="line"/>
-    </contour>
-    <contour>
-      <point x="750" y="87" type="line"/>
-      <point x="681.333" y="87" type="line"/>
-      <point x="681.333" y="-4.66667" type="line"/>
-      <point x="606.667" y="-4.66667" type="line"/>
-      <point x="606.667" y="87" type="line"/>
-      <point x="427.333" y="87" type="line"/>
-      <point x="427.333" y="145.321" type="line"/>
-      <point x="596.333" y="384" type="line"/>
-      <point x="681.333" y="384" type="line"/>
-      <point x="681.333" y="143.333" type="line"/>
-      <point x="750" y="143.333" type="line"/>
-    </contour>
-    <contour>
-      <point x="606.667" y="143.333" type="line"/>
-      <point x="606.667" y="303" type="line"/>
-      <point x="495" y="143.333" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-14</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>71</integer>
-        <key>width</key>
-        <integer>61</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>716</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>132</integer>
-        <key>width</key>
-        <integer>100</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>623</integer>
-        <key>width</key>
-        <integer>95</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="00BC"/>
+	<advance width="799"/>
+	<outline>
+		<component base="onesuperior"/>
+		<contour>
+			<point x="626.105" y="736" type="line"/>
+			<point x="200.333" y="-14" type="line"/>
+			<point x="121.333" y="-14" type="line"/>
+			<point x="547.333" y="736" type="line"/>
+		</contour>
+		<contour>
+			<point x="750" y="87" type="line"/>
+			<point x="681.333" y="87" type="line"/>
+			<point x="681.333" y="-4.66667" type="line"/>
+			<point x="606.667" y="-4.66667" type="line"/>
+			<point x="606.667" y="87" type="line"/>
+			<point x="427.333" y="87" type="line"/>
+			<point x="427.333" y="145.321" type="line"/>
+			<point x="596.333" y="384" type="line"/>
+			<point x="681.333" y="384" type="line"/>
+			<point x="681.333" y="143.333" type="line"/>
+			<point x="750" y="143.333" type="line"/>
+		</contour>
+		<contour>
+			<point x="606.667" y="143.333" type="line"/>
+			<point x="606.667" y="303" type="line"/>
+			<point x="495" y="143.333" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>71</integer>
+						<key>width</key>
+						<integer>61</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>716</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>132</integer>
+						<key>width</key>
+						<integer>100</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>623</integer>
+						<key>width</key>
+						<integer>95</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

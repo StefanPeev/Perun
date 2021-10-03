@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+	<unicode hex="0042"/>
+	<advance width="653"/>
+	<outline>
+		<contour>
+			<point x="64" y="0" type="line"/>
+			<point name="n01" x="377" y="0" type="line" smooth="yes"/>
+			<point x="506.667" y="0"/>
+			<point x="652" y="103.333"/>
+			<point x="652" y="236.667" type="curve" smooth="yes"/>
+			<point x="652" y="322.333"/>
+			<point x="591.667" y="360.667"/>
+			<point x="531.333" y="380.333" type="curve"/>
+			<point x="532" y="385" type="line"/>
+			<point x="626.667" y="412.333"/>
+			<point x="704" y="483.667"/>
+			<point x="704" y="580.333" type="curve" smooth="yes"/>
+			<point x="704" y="677.333"/>
+			<point x="627.333" y="722"/>
+			<point name="n14" x="523.333" y="722" type="curve" smooth="yes"/>
+			<point x="230.667" y="722" type="line"/>
+		</contour>
+		<contour>
+			<point name="n16" x="278.667" y="422.333" type="line"/>
+			<point x="325.667" y="626" type="line"/>
+			<point name="n18" x="467" y="626" type="line" smooth="yes"/>
+			<point x="543" y="626"/>
+			<point x="583.333" y="599.333"/>
+			<point x="583.333" y="548" type="curve" smooth="yes"/>
+			<point x="583.333" y="455.333"/>
+			<point x="496.333" y="422.333"/>
+			<point x="415" y="422.333" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="203" y="96" type="line"/>
+			<point name="n26" x="257" y="329" type="line"/>
+			<point x="400.667" y="329" type="line" smooth="yes"/>
+			<point x="479.333" y="329"/>
+			<point x="539" y="304.667"/>
+			<point x="539" y="233.333" type="curve" smooth="yes"/>
+			<point x="539" y="137.667"/>
+			<point x="431.333" y="96"/>
+			<point name="n33" x="342.667" y="96" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 96</string>
+							<string>hstem 329 93.33</string>
+							<string>hstem 626 96</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>e40c25ff2aee2c31c1d87ca4f0f77b79b3f7918b3e9609f98870378a0ec6117981bc2d44410bde33d4dffdf9120d243de14e16a1d2e0509d3fe6777eddbb511b</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
