@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncedilla" format="2">
-	<unicode hex="0145"/>
-	<advance width="683"/>
-	<outline>
-		<contour>
-			<point name="n00" x="622" y="0" type="line"/>
-			<point name="n01" x="789" y="722" type="line"/>
-			<point x="688" y="722" type="line"/>
-			<point x="551" y="130" type="line"/>
-			<point x="369" y="722" type="line"/>
-			<point x="226" y="722" type="line"/>
-			<point x="59" y="0" type="line"/>
-			<point x="160" y="0" type="line"/>
-			<point x="297" y="592" type="line"/>
-			<point x="478" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="417" y="-60" type="line"/>
-			<point x="297" y="-60" type="line"/>
-			<point x="179" y="-310" type="line"/>
-			<point x="249" y="-310" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w683m622,0l789,722l688,722l551,130l369,722l226,722l59,0l160,0l297,592l478,0m417,-60l297,-60l179,-310l249,-310</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="683"/>
+  <unicode hex="0145"/>
+  <anchor x="345" y="-60" name="bottom"/>
+  <anchor x="524" y="800" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="uni0326" xOffset="635"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+uni0326</string>
+  </dict>
+  </lib>
 </glyph>

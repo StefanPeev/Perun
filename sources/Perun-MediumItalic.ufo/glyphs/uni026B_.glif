@@ -1,83 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni026B" format="2">
-	<unicode hex="026B"/>
-	<advance width="466"/>
-	<outline>
-		<contour>
-			<point x="516" y="432" type="curve"/>
-			<point x="453" y="432" type="line"/>
-			<point x="442" y="415"/>
-			<point x="428" y="407"/>
-			<point name="n04" x="412" y="407" type="curve" smooth="yes"/>
-			<point x="399" y="407"/>
-			<point x="387" y="411"/>
-			<point x="375" y="420" type="curve"/>
-			<point name="n08" x="445" y="722" type="line"/>
-			<point x="355" y="722" type="line"/>
-			<point x="291" y="444" type="line"/>
-			<point x="274" y="451"/>
-			<point name="hr01" x="255" y="455"/>
-			<point name="n13" x="236" y="455" type="curve" smooth="yes"/>
-			<point x="186" y="455"/>
-			<point x="153" y="427"/>
-			<point x="136" y="371" type="curve"/>
-			<point x="199" y="371" type="line"/>
-			<point x="210" y="388"/>
-			<point x="222" y="396"/>
-			<point name="n20" x="237" y="396" type="curve" smooth="yes"/>
-			<point x="250" y="396"/>
-			<point x="263" y="391"/>
-			<point x="276" y="381" type="curve"/>
-			<point name="n24" x="188" y="0" type="line"/>
-			<point x="278" y="0" type="line"/>
-			<point x="362" y="362" type="line"/>
-			<point x="381" y="354"/>
-			<point name="hr02" x="400" y="350"/>
-			<point name="n29" x="419" y="350" type="curve" smooth="yes"/>
-			<point x="468" y="350"/>
-			<point x="500" y="377"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 350 57</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 21 -21</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr01</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 396 59</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr02</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 350 57</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>6c8ffe6b18aa2ad8e4e4d4b4fa0f87afff5b375905069071ef8c795fcc8596aee27e9a6fc419f7572b4b50ad2795623004670788a7348365a15360e2ebf4555a</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="272"/>
+  <unicode hex="026B"/>
+  <outline>
+    <component base="l"/>
+    <contour>
+      <point x="194" y="436.333" type="line"/>
+      <point x="185.667" y="441.333" type="line" smooth="yes"/>
+      <point x="171.333" y="450"/>
+      <point x="157.667" y="453.667"/>
+      <point x="141.333" y="453.667" type="curve" smooth="yes"/>
+      <point x="92.6667" y="453.667"/>
+      <point x="53.3333" y="414.667"/>
+      <point x="32" y="347" type="curve"/>
+      <point x="84.6667" y="347" type="line"/>
+      <point x="96" y="377.333"/>
+      <point x="110.667" y="391"/>
+      <point x="132" y="391" type="curve" smooth="yes"/>
+      <point x="147" y="391"/>
+      <point x="160.667" y="383"/>
+      <point x="186" y="367.333" type="curve" smooth="yes"/>
+      <point x="194" y="362.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="259.333" y="337.333" type="line"/>
+      <point x="267.667" y="332.333" type="line" smooth="yes"/>
+      <point x="282" y="323.667"/>
+      <point x="295.667" y="320"/>
+      <point x="312" y="320" type="curve" smooth="yes"/>
+      <point x="360.667" y="320"/>
+      <point x="400" y="359"/>
+      <point x="421.333" y="426.667" type="curve"/>
+      <point x="368.667" y="426.667" type="line"/>
+      <point x="357.333" y="396.333"/>
+      <point x="342.667" y="382.667"/>
+      <point x="321.333" y="382.667" type="curve" smooth="yes"/>
+      <point x="306.333" y="382.667"/>
+      <point x="292.667" y="390.667"/>
+      <point x="267.333" y="406.333" type="curve" smooth="yes"/>
+      <point x="259.333" y="411.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l_tildecomb</string>
+  </dict>
+  </lib>
 </glyph>

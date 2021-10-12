@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="2">
-	<unicode hex="017A"/>
-	<advance width="448"/>
-	<outline>
-		<contour>
-			<point name="n00" x="407" y="0" type="line"/>
-			<point name="n01" x="423" y="70" type="line"/>
-			<point x="155" y="70" type="line"/>
-			<point x="503" y="417" type="line"/>
-			<point x="522" y="500" type="line"/>
-			<point name="n05" x="174" y="500" type="line"/>
-			<point name="n06" x="158" y="430" type="line"/>
-			<point x="404" y="430" type="line"/>
-			<point x="58" y="83" type="line"/>
-			<point x="39" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="576" y="744" type="line"/>
-			<point x="475" y="744" type="line"/>
-			<point x="335" y="573" type="line"/>
-			<point x="396" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 70</string>
-							<string>hstem 430 70</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w448m407,0l423,70l155,70l503,417l522,500l174,500l158,430l404,430l58,83l39,0m576,744l475,744l335,573l396,573</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="501"/>
+  <unicode hex="017A"/>
+  <anchor x="248" y="-60" name="bottom"/>
+  <anchor x="368" y="580" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="acutecomb" xOffset="535" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

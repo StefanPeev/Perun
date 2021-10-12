@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflex" format="2">
-	<unicode hex="00E2"/>
-	<advance width="561"/>
-	<outline>
-		<component base="a"/>
-		<component base="uni0302" xOffset="515"/>
-	</outline>
-	<anchor name="top" x="357" y="600"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>a+uni0302</string>
-		</dict>
-	</lib>
+  <advance width="619"/>
+  <unicode hex="00E2"/>
+  <anchor x="287" y="-60" name="bottom"/>
+  <anchor x="427" y="580" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni0302" xOffset="585" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

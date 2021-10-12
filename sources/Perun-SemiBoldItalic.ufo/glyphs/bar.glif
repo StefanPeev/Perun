@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="2">
-	<unicode hex="007C"/>
-	<advance width="344"/>
-	<outline>
-		<contour>
-			<point x="144.667" y="-258" type="line"/>
-			<point name="n01" x="388.667" y="796" type="line"/>
-			<point x="324.333" y="796" type="line"/>
-			<point name="n03" x="80.3333" y="-258" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>vstem 80.33 308.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w344m144.67,-258l388.67,796l324.33,796l80.33,-258</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="344"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="144.667" y="-258" type="line"/>
+      <point x="388.667" y="796" type="line"/>
+      <point x="324.333" y="796" type="line"/>
+      <point x="80.3333" y="-258" type="line"/>
+    </contour>
+  </outline>
 </glyph>

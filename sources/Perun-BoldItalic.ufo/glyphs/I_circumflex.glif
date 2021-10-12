@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-	<unicode hex="00CE"/>
-	<advance width="260"/>
-	<outline>
-		<contour>
-			<point name="n00" x="181" y="0" type="line"/>
-			<point name="n01" x="348" y="722" type="line"/>
-			<point x="247" y="722" type="line"/>
-			<point x="80" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="466" y="821" type="line"/>
-			<point x="415" y="991" type="line"/>
-			<point x="305" y="991" type="line"/>
-			<point x="176" y="821" type="line"/>
-			<point x="236" y="821" type="line"/>
-			<point x="346" y="931" type="line"/>
-			<point x="406" y="821" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w260m181,0l348,722l247,722l80,0m466,821l415,991l305,991l176,821l236,821l346,931l406,821</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="289"/>
+  <unicode hex="00CE"/>
+  <anchor x="133" y="-60" name="bottom"/>
+  <anchor x="147" y="10" name="bottomUC"/>
+  <anchor x="327" y="800" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0302" xOffset="496" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

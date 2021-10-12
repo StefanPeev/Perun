@@ -1,58 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresis" format="2">
-	<unicode hex="03CA"/>
-	<advance width="276"/>
-	<outline>
-		<contour>
-			<point name="n00" x="99" y="59" type="line"/>
-			<point x="103" y="24"/>
-			<point x="118" y="-3"/>
-			<point x="155" y="-3" type="curve" smooth="yes"/>
-			<point name="n04" x="252" y="-3" type="line"/>
-			<point x="268" y="66" type="line"/>
-			<point x="260" y="64"/>
-			<point x="246" y="61"/>
-			<point name="n08" x="236" y="61" type="curve" smooth="yes"/>
-			<point x="217" y="61"/>
-			<point x="190" y="70"/>
-			<point x="196" y="98" type="curve" smooth="yes"/>
-			<point name="n12" x="289" y="501" type="line"/>
-			<point x="201" y="501" type="line"/>
-		</contour>
-		<contour>
-			<point name="n14" x="206" y="572" type="line"/>
-			<point name="n15" x="227" y="664" type="line"/>
-			<point x="137" y="664" type="line"/>
-			<point x="116" y="572" type="line"/>
-		</contour>
-		<contour>
-			<point x="406" y="572" type="line"/>
-			<point name="n19" x="427" y="664" type="line"/>
-			<point x="337" y="664" type="line"/>
-			<point x="316" y="572" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -3 64</string>
-							<string>hstem 501 -20</string>
-							<string>hstem 572 92</string>
-							<string>vstem 99 328</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>a8956f15dfa71e4f7220b8c039e63988af515b847b3b346a94640ce1b3e29eab4e3bb3787ba74680b066166dd4bc5cde2cd4a8aebe152db5f3af8c285901821b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="276"/>
+  <unicode hex="03CA"/>
+  <anchor x="293.333" y="746.667" name="mkmktop"/>
+  <anchor x="264" y="580" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="uni0308" xOffset="406.667" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

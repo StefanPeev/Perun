@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="2">
-	<unicode hex="013F"/>
-	<advance width="495"/>
-	<outline>
-		<contour>
-			<point name="n00" x="480" y="-1" type="line"/>
-			<point name="n01" x="500" y="86" type="line"/>
-			<point x="181" y="86" type="line"/>
-			<point name="n03" x="327" y="721" type="line"/>
-			<point x="226" y="721" type="line"/>
-			<point x="60" y="-1" type="line"/>
-		</contour>
-		<contour>
-			<point name="n06" x="395" y="306" type="line"/>
-			<point name="n07" x="423" y="429" type="line"/>
-			<point x="315" y="429" type="line"/>
-			<point x="287" y="306" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -1 87</string>
-							<string>hstem 306 123</string>
-							<string>hstem 721 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w495m480,-1l500,86l181,86l327,721l226,721l60,-1m395,306l423,429l315,429l287,306</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="825"/>
+  <unicode hex="013F"/>
+  <anchor x="275.667" y="-60" name="bottom"/>
+  <anchor x="440.333" y="389" name="dotCN"/>
+  <anchor x="499.333" y="522.667" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="periodcentered" xOffset="279.667" yOffset="42"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L_periodcentered</string>
+  </dict>
+  </lib>
 </glyph>

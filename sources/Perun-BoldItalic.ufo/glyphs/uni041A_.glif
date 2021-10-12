@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041A" format="2">
-	<unicode hex="041A"/>
-	<advance width="694"/>
-	<outline>
-		<component base="K"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>K</string>
-		</dict>
-	</lib>
+  <advance width="694"/>
+  <unicode hex="041A"/>
+  <anchor x="335" y="-60" name="bottom"/>
+  <anchor x="504" y="800" name="top"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>K</string>
+  </dict>
+  </lib>
 </glyph>

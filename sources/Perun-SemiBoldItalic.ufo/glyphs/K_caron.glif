@@ -1,50 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcaron" format="2">
-	<unicode hex="01E8"/>
-	<advance width="635"/>
-	<outline>
-		<contour>
-			<point name="n00" x="619" y="0" type="line"/>
-			<point x="370" y="411" type="line"/>
-			<point name="n02" x="749" y="722" type="line"/>
-			<point x="625" y="722" type="line"/>
-			<point x="256" y="415" type="line"/>
-			<point x="327" y="722" type="line"/>
-			<point x="226" y="722" type="line"/>
-			<point x="59" y="0" type="line"/>
-			<point x="160" y="0" type="line"/>
-			<point x="248" y="381" type="line"/>
-			<point x="484" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="689" y="966" type="line"/>
-			<point x="629" y="966" type="line"/>
-			<point x="519" y="856" type="line"/>
-			<point x="459" y="966" type="line"/>
-			<point x="399" y="966" type="line"/>
-			<point x="450" y="796" type="line"/>
-			<point x="560" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>2267fb35a03540d20c6102d7b7b0ec511b054d3d3f5e675ac15757d6739cecc51705c9d777f94600698be31187ff115a91d55fe769ada09f86c11d3ddec49933</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="674"/>
+  <unicode hex="01E8"/>
+  <anchor x="328.333" y="-60" name="bottom"/>
+  <anchor x="487.667" y="800" name="top"/>
+  <outline>
+    <component base="K"/>
+    <component base="uni030C" xScale="1" xOffset="648.333" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>K+uni030C</string>
+  </dict>
+  </lib>
 </glyph>

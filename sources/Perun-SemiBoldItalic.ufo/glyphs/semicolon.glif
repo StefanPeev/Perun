@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-	<unicode hex="003B"/>
-	<advance width="298"/>
-	<outline>
-		<contour>
-			<point name="n00" x="319.667" y="371" type="line"/>
-			<point name="n01" x="349" y="500" type="line"/>
-			<point x="229" y="500" type="line"/>
-			<point x="199.667" y="371" type="line"/>
-		</contour>
-		<contour>
-			<point x="280.667" y="129" type="line"/>
-			<point x="150" y="129" type="line"/>
-			<point name="n06" x="19.6667" y="-122.333" type="line"/>
-			<point x="106.333" y="-122.333" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 371 129</string>
-							<string>vstem 19.67 329.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w298m319.67,371l349,500l229,500l199.67,371m280.67,129l150,129l19.67,-122.33l106.33,-122.33</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="298"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="319.667" y="371" type="line"/>
+      <point x="349" y="500" type="line"/>
+      <point x="229" y="500" type="line"/>
+      <point x="199.667" y="371" type="line"/>
+    </contour>
+    <contour>
+      <point x="280.667" y="129" type="line"/>
+      <point x="150" y="129" type="line"/>
+      <point x="19.6667" y="-122.333" type="line"/>
+      <point x="106.333" y="-122.333" type="line"/>
+    </contour>
+  </outline>
 </glyph>

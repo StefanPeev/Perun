@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="2">
-	<unicode hex="0301"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point name="n00" x="60" y="780" type="line"/>
-			<point name="n01" x="-70" y="780" type="line"/>
-			<point name="n02" x="-202" y="600" type="line"/>
-			<point name="n03" x="-132" y="600" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="_top" x="-167" y="600"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 180</string>
-							<string>vstem -202 262</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1m60,780l-70,780l-202,600l-132,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1"/>
+  <unicode hex="0301"/>
+  <anchor x="-169" y="600" name="_mkmktop"/>
+  <anchor x="-167" y="600" name="_top"/>
+  <outline>
+    <contour>
+      <point x="60" y="780" type="line"/>
+      <point x="-70" y="780" type="line"/>
+      <point x="-202" y="600" type="line"/>
+      <point x="-132" y="600" type="line"/>
+    </contour>
+  </outline>
 </glyph>

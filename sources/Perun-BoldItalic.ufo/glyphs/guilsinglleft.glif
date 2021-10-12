@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="2">
-	<unicode hex="2039"/>
-	<advance width="369"/>
-	<outline>
-		<contour>
-			<point x="318" y="57" type="line"/>
-			<point x="273" y="252" type="line"/>
-			<point name="n02" x="408" y="447" type="line"/>
-			<point x="278" y="447" type="line"/>
-			<point name="n04" x="123" y="252" type="line"/>
-			<point x="188" y="57" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>vstem 123 285</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w369m318,57l273,252l408,447l278,447l123,252l188,57</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="369"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="318" y="57" type="line"/>
+      <point x="273" y="252" type="line"/>
+      <point x="408" y="447" type="line"/>
+      <point x="278" y="447" type="line"/>
+      <point x="123" y="252" type="line"/>
+      <point x="188" y="57" type="line"/>
+    </contour>
+  </outline>
 </glyph>

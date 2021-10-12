@@ -1,35 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-	<unicode hex="006C"/>
-	<advance width="241"/>
-	<outline>
-		<contour>
-			<point name="n00" x="173.333" y="0" type="line"/>
-			<point name="n01" x="340.333" y="722" type="line"/>
-			<point x="235.333" y="722" type="line"/>
-			<point name="n03" x="68.3333" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 68.33 272</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w241m173.33,0l340.33,722l235.33,722l68.33,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="272"/>
+  <unicode hex="006C"/>
+  <anchor x="121.667" y="-60" name="bottom"/>
+  <anchor x="374.333" y="361" name="dotCN"/>
+  <anchor x="310.667" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="188.667" y="0" type="line"/>
+      <point x="355.667" y="722" type="line"/>
+      <point x="250.667" y="722" type="line"/>
+      <point x="83.6667" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

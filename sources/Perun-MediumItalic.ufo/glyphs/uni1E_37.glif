@@ -1,42 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E37" format="2">
-	<unicode hex="1E37"/>
-	<advance width="230"/>
-	<outline>
-		<contour>
-			<point name="n00" x="160" y="0" type="line"/>
-			<point name="n01" x="327" y="722" type="line"/>
-			<point x="237" y="722" type="line"/>
-			<point x="70" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="123" y="-160" type="line"/>
-			<point name="n05" x="146" y="-60" type="line"/>
-			<point x="56" y="-60" type="line"/>
-			<point name="n07" x="33" y="-160" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -160 100</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 33 294</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w230m160,0l327,722l237,722l70,0m123,-160l146,-60l56,-60l33,-160</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="272"/>
+  <unicode hex="1E37"/>
+  <anchor x="121.667" y="-60" name="bottom"/>
+  <anchor x="374.333" y="361" name="dotCN"/>
+  <anchor x="310.667" y="800" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotbelowcomb" xOffset="401.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+dotbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

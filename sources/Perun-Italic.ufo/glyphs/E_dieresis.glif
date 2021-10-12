@@ -1,56 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="2">
-	<unicode hex="00CB"/>
-	<advance width="606"/>
-	<outline>
-		<contour>
-			<point name="n00" x="537" y="0" type="line"/>
-			<point name="n01" x="557" y="87" type="line"/>
-			<point x="201" y="87" type="line"/>
-			<point name="n03" x="256" y="326" type="line"/>
-			<point x="592" y="326" type="line"/>
-			<point x="612" y="413" type="line"/>
-			<point name="n06" x="276" y="413" type="line"/>
-			<point x="328" y="635" type="line"/>
-			<point name="n08" x="674" y="635" type="line"/>
-			<point name="n09" x="694" y="722" type="line"/>
-			<point x="247" y="722" type="line"/>
-			<point x="80" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n12" x="444" y="851" type="line"/>
-			<point name="n13" x="466" y="943" type="line"/>
-			<point x="376" y="943" type="line"/>
-			<point x="354" y="851" type="line"/>
-		</contour>
-		<contour>
-			<point x="644" y="851" type="line"/>
-			<point x="666" y="943" type="line"/>
-			<point x="576" y="943" type="line"/>
-			<point x="554" y="851" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-							<string>hstem 851 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>ed2d0370eac8e4a8841444f790d818d8880af3a4625e727afe45d9855f8af7f415f6ec40eb07ada45b61fc2b5d0b6b3f678ad8d28663d9f9cf20bdceba4f05f9</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="591"/>
+  <unicode hex="00CB"/>
+  <anchor x="300" y="-60" name="bottom"/>
+  <anchor x="483" y="960" name="mkmktop"/>
+  <anchor x="455" y="800" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="uni0308" xOffset="605" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

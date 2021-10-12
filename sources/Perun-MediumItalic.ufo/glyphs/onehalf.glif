@@ -1,76 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="2">
-	<unicode hex="00BD"/>
-	<advance width="799"/>
-	<outline>
-		<contour>
-			<point x="527" y="272" type="curve"/>
-			<point x="599" y="272" type="line"/>
-			<point x="613" y="312"/>
-			<point x="638" y="332"/>
-			<point name="n04" x="673" y="332" type="curve" smooth="yes"/>
-			<point x="723" y="332"/>
-			<point x="740" y="314"/>
-			<point x="729" y="266" type="curve" smooth="yes"/>
-			<point x="720" y="226"/>
-			<point x="704" y="214"/>
-			<point x="467" y="62" type="curve"/>
-			<point x="453" y="-1" type="line"/>
-			<point name="n12" x="746" y="-1" type="line"/>
-			<point name="n13" x="759" y="57" type="line"/>
-			<point x="557" y="57" type="line"/>
-			<point x="773" y="200"/>
-			<point x="791" y="212"/>
-			<point x="805" y="273" type="curve" smooth="yes"/>
-			<point x="819" y="332"/>
-			<point x="797" y="391"/>
-			<point name="n20" x="689" y="391" type="curve" smooth="yes"/>
-			<point x="614" y="391"/>
-			<point x="547" y="341"/>
-		</contour>
-		<contour>
-			<point name="n23" x="783" y="736" type="line"/>
-			<point x="714" y="736" type="line"/>
-			<point name="n25" x="115" y="-14" type="line"/>
-			<point x="184" y="-14" type="line"/>
-		</contour>
-		<contour>
-			<point name="n27" x="297" y="352" type="line"/>
-			<point x="356" y="731" type="line"/>
-			<point x="324" y="731" type="line"/>
-			<point x="285" y="707" type="line" smooth="yes"/>
-			<point x="261" y="692"/>
-			<point x="237" y="681"/>
-			<point x="212" y="674" type="curve"/>
-			<point x="199" y="619" type="line"/>
-			<point x="229" y="624"/>
-			<point x="265" y="640"/>
-			<point x="307" y="667" type="curve"/>
-			<point name="n38" x="234" y="352" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -1 58</string>
-							<string>hstem 7 -21</string>
-							<string>hstem 332 59</string>
-							<string>hstem 736 -20</string>
-							<string>vstem 234 63</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>93a8151bb189e9e88fe118b7a78501d8b8eea6aa3fb9991ad7df2d1cdf74ddec29b471fa1597ac40104e4297b23d6237ea170398e4c7ba668560ff236c71259b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="799"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="twosuperior" xOffset="343" yOffset="-351"/>
+    <component base="onesuperior"/>
+    <contour>
+      <point x="788.667" y="736.333" type="line"/>
+      <point x="709.667" y="736.333" type="line"/>
+      <point x="110.667" y="-13.6667" type="line"/>
+      <point x="189.667" y="-13.6667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,57 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex" format="2">
-	<unicode hex="00DB"/>
-	<advance width="736"/>
-	<outline>
-		<contour>
-			<point name="n00" x="365" y="-14" type="curve" smooth="yes"/>
-			<point x="557" y="-14"/>
-			<point x="679" y="96"/>
-			<point x="731" y="322" type="curve" smooth="yes"/>
-			<point name="n04" x="824" y="722" type="line"/>
-			<point x="723" y="722" type="line"/>
-			<point x="630" y="322" type="line" smooth="yes"/>
-			<point x="595" y="171"/>
-			<point x="533" y="74"/>
-			<point name="n09" x="385" y="74" type="curve" smooth="yes"/>
-			<point x="236" y="74"/>
-			<point x="219" y="168"/>
-			<point x="255" y="322" type="curve" smooth="yes"/>
-			<point x="348" y="722" type="line"/>
-			<point x="247" y="722" type="line"/>
-			<point x="154" y="322" type="line" smooth="yes"/>
-			<point x="102" y="96"/>
-			<point x="149" y="-14"/>
-		</contour>
-		<contour>
-			<point x="703" y="821" type="line"/>
-			<point x="652" y="991" type="line"/>
-			<point x="542" y="991" type="line"/>
-			<point x="413" y="821" type="line"/>
-			<point x="473" y="821" type="line"/>
-			<point x="583" y="931" type="line"/>
-			<point x="643" y="821" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>29288bd6fd85f93d31030ba1684583c40381df4cae9ba235f9cd2b01373bacb346cb3c6fdca882473fbfd3a084a4a353a0e6c6c4b5ef873736338935ed05d284</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="717"/>
+  <unicode hex="00DB"/>
+  <anchor x="360" y="10" name="bottomUC"/>
+  <anchor x="525.333" y="800" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0302" xOffset="687" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

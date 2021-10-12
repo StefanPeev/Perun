@@ -1,49 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcedilla" format="2">
-	<unicode hex="0157"/>
-	<advance width="343"/>
-	<outline>
-		<contour>
-			<point x="420" y="420" type="line"/>
-			<point name="n01" x="438" y="500" type="line"/>
-			<point x="318" y="500"/>
-			<point x="280" y="481"/>
-			<point x="241" y="432" type="curve"/>
-			<point x="256" y="500" type="line"/>
-			<point x="166" y="500" type="line"/>
-			<point name="n07" x="51" y="0" type="line"/>
-			<point x="141" y="0" type="line"/>
-			<point x="206" y="280" type="line" smooth="yes"/>
-			<point x="227" y="373"/>
-			<point x="299" y="420"/>
-			<point x="421" y="420" type="curve"/>
-		</contour>
-		<contour>
-			<point x="171" y="-60" type="line"/>
-			<point x="51" y="-60" type="line"/>
-			<point x="-67" y="-310" type="line"/>
-			<point x="3" y="-310" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>c87fc0097fce0ac1c098967944b44fcc1fdf4b7f8e885f50a5efab92ddce7ac5ca83743d867c0da8702e3b8bb2b985ab3a5397f6bd7a28eb925f98fcb65371e5</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="408"/>
+  <unicode hex="0157"/>
+  <anchor x="131" y="-60" name="bottom"/>
+  <anchor x="356" y="580" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="uni0326" xOffset="432"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+uni0326</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nu" format="2">
-	<unicode hex="03BD"/>
-	<advance width="551"/>
-	<outline>
-		<contour>
-			<point name="n00" x="232" y="0" type="line"/>
-			<point x="321" y="0" type="line"/>
-			<point name="n02" x="629" y="503" type="line"/>
-			<point x="538" y="503" type="line"/>
-			<point x="303" y="103" type="line"/>
-			<point x="244" y="503" type="line"/>
-			<point x="146" y="503" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 503 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w551m232,0l321,0l629,503l538,503l303,103l244,503l146,503</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="575"/>
+  <unicode hex="03BD"/>
+  <anchor x="275" y="-60" name="bottom"/>
+  <anchor x="399" y="580" name="top"/>
+  <outline>
+    <component base="v"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>v</string>
+  </dict>
+  </lib>
 </glyph>

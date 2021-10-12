@@ -1,53 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wcircumflex" format="2">
-	<unicode hex="0175"/>
-	<advance width="814"/>
-	<outline>
-		<contour>
-			<point name="n00" x="914" y="500" type="line"/>
-			<point x="818" y="500" type="line"/>
-			<point x="610" y="110" type="line"/>
-			<point x="582" y="500" type="line"/>
-			<point x="462" y="500" type="line"/>
-			<point x="254" y="110" type="line"/>
-			<point name="n06" x="226" y="500" type="line"/>
-			<point name="n07" x="130" y="500" type="line"/>
-			<point name="n08" x="184" y="0" type="line"/>
-			<point x="274" y="0" type="line"/>
-			<point x="503" y="415" type="line"/>
-			<point x="540" y="0" type="line"/>
-			<point x="630" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="684" y="573" type="line"/>
-			<point x="634" y="743" type="line"/>
-			<point x="524" y="743" type="line"/>
-			<point x="394" y="573" type="line"/>
-			<point x="454" y="573" type="line"/>
-			<point x="565" y="683" type="line"/>
-			<point x="624" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 130 96</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>5cc367ebea8dc1254792fa359f2aa76ec16f5af2fd5bc431b845db06b31bbc709dcb68f3624c6d4b9c7f694325908d3645b359a1213a572170857a7bbd542a8b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="887"/>
+  <unicode hex="0175"/>
+  <anchor x="437" y="-60" name="bottom"/>
+  <anchor x="562" y="580" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="uni0302" xOffset="731" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

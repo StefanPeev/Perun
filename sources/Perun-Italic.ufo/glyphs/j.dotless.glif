@@ -1,50 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j.dotless" format="2">
-	<unicode hex="0237"/>
-	<advance width="235"/>
-	<outline>
-		<contour>
-			<point x="24" y="-134" type="line"/>
-			<point x="13" y="-134"/>
-			<point x="-2" y="-134"/>
-			<point name="n03" x="-21" y="-135" type="curve"/>
-			<point name="n04" x="-36" y="-199" type="line"/>
-			<point name="n05" x="-25" y="-199" type="line" smooth="yes"/>
-			<point x="-17" y="-199"/>
-			<point x="-9" y="-199"/>
-			<point x="0" y="-200" type="curve"/>
-			<point x="9" y="-200" type="line" smooth="yes"/>
-			<point x="79" y="-200"/>
-			<point x="139" y="-161"/>
-			<point x="159" y="-74" type="curve" smooth="yes"/>
-			<point name="n13" x="291" y="500" type="line"/>
-			<point x="201" y="500" type="line"/>
-			<point x="76" y="-44" type="line" smooth="yes"/>
-			<point x="65" y="-91"/>
-			<point x="55" y="-134"/>
-			<point x="23" y="-134" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -199 64</string>
-							<string>hstem 500 -20</string>
-							<string>vstem -36 327</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>a72200bde8f8bc97b35cf73b2e7715dbf47d4d46ceca5f7952ac3b994febbd16b5be02ce460d11092fc1aec99100c7cb21c2edcf6fbc3125c0cc070ae46c1d0a</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="235"/>
+  <unicode hex="0237"/>
+  <anchor x="254" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="-35" y="-200" type="line"/>
+      <point x="9" y="-200" type="line" smooth="yes"/>
+      <point x="79" y="-200"/>
+      <point x="139" y="-161"/>
+      <point x="159" y="-74" type="curve" smooth="yes"/>
+      <point x="291" y="500" type="line"/>
+      <point x="201" y="500" type="line"/>
+      <point x="76" y="-44" type="line" smooth="yes"/>
+      <point x="64" y="-96"/>
+      <point x="44" y="-135"/>
+      <point x="-10" y="-135" type="curve" smooth="yes"/>
+      <point x="-22" y="-135" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>j</string>
+  </dict>
+  </lib>
 </glyph>

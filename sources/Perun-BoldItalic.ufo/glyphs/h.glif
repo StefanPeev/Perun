@@ -1,51 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="2">
-	<unicode hex="0068"/>
-	<advance width="533"/>
-	<outline>
-		<contour>
-			<point name="n00" x="425" y="512" type="curve" smooth="yes"/>
-			<point x="346" y="512"/>
-			<point x="281" y="479"/>
-			<point x="241" y="437" type="curve"/>
-			<point name="n04" x="307" y="722" type="line"/>
-			<point x="217" y="722" type="line"/>
-			<point name="n06" x="50" y="0" type="line"/>
-			<point x="140" y="0" type="line"/>
-			<point x="209" y="301" type="line" smooth="yes"/>
-			<point x="231" y="396"/>
-			<point x="321" y="445"/>
-			<point name="n11" x="391" y="445" type="curve" smooth="yes"/>
-			<point x="458" y="445"/>
-			<point x="482" y="387"/>
-			<point x="465" y="314" type="curve" smooth="yes"/>
-			<point x="393" y="0" type="line"/>
-			<point x="483" y="0" type="line"/>
-			<point x="555" y="310" type="line" smooth="yes"/>
-			<point x="588" y="451"/>
-			<point x="544" y="512"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 445 67</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>e59ee52af5e42d4a313172b39a6349c96c4d09c69655565b6413d0f495cc366972edcbac3f170ae92ea6bb5ec80a64729acaafc81fa7b3f815b3596199505141</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="605"/>
+  <unicode hex="0068"/>
+  <anchor x="300" y="-60" name="bottom"/>
+  <anchor x="312" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="274" y="288" type="line" smooth="yes"/>
+      <point x="289" y="352"/>
+      <point x="352" y="432"/>
+      <point x="421" y="432" type="curve" smooth="yes"/>
+      <point x="459" y="432"/>
+      <point x="481" y="408"/>
+      <point x="481" y="359" type="curve" smooth="yes"/>
+      <point x="481" y="342"/>
+      <point x="478" y="322"/>
+      <point x="473" y="299" type="curve" smooth="yes"/>
+      <point x="404" y="0" type="line"/>
+      <point x="539" y="0" type="line"/>
+      <point x="617" y="339" type="line" smooth="yes"/>
+      <point x="622" y="359"/>
+      <point x="624" y="377"/>
+      <point x="624" y="394" type="curve" smooth="yes"/>
+      <point x="624" y="469"/>
+      <point x="579" y="514"/>
+      <point x="484" y="514" type="curve" smooth="yes"/>
+      <point x="412" y="514"/>
+      <point x="364" y="488"/>
+      <point x="310" y="442" type="curve"/>
+      <point x="374" y="722" type="line"/>
+      <point x="239" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

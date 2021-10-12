@@ -1,44 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-	<unicode hex="0041"/>
-	<advance width="723"/>
-	<outline>
-		<contour>
-			<point name="n00" x="711.667" y="0" type="line"/>
-			<point name="n01" x="595.667" y="720.667" type="line"/>
-			<point x="459.667" y="720.667" type="line"/>
-			<point x="11.6667" y="0" type="line"/>
-			<point x="142.667" y="0" type="line"/>
-			<point x="244.667" y="167" type="line"/>
-			<point name="n06" x="552.667" y="167" type="line"/>
-			<point x="579.667" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n08" x="534.333" y="272" type="line"/>
-			<point x="309.333" y="272" type="line"/>
-			<point x="494" y="577.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 167 105</string>
-							<string>hstem 720.67 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w723m711.67,0l595.67,720.67l459.67,720.67l11.67,0l142.67,0l244.67,167l552.67,167l579.67,0m534.33,272l309.33,272l494,577.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="723"/>
+  <unicode hex="0041"/>
+  <anchor x="361.667" y="-60" name="bottom"/>
+  <anchor x="610.333" y="10" name="bottomUC"/>
+  <anchor x="536.333" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="711.667" y="0" type="line"/>
+      <point x="595.667" y="721.333" type="line"/>
+      <point x="459.667" y="721.333" type="line"/>
+      <point x="11.6667" y="0" type="line"/>
+      <point x="142.667" y="0" type="line"/>
+      <point x="244.667" y="167" type="line"/>
+      <point x="552.667" y="167" type="line"/>
+      <point x="579.667" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="534.333" y="272.667" type="line"/>
+      <point x="309.333" y="272.667" type="line"/>
+      <point x="494" y="578.333" type="line"/>
+    </contour>
+  </outline>
 </glyph>

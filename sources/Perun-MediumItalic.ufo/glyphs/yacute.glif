@@ -1,56 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="2">
-	<unicode hex="00FD"/>
-	<advance width="534"/>
-	<outline>
-		<contour>
-			<point name="n00" x="635" y="500" type="line"/>
-			<point x="538" y="500" type="line"/>
-			<point x="305" y="123" type="line"/>
-			<point x="235" y="500" type="line"/>
-			<point x="130" y="500" type="line"/>
-			<point x="229" y="0" type="line"/>
-			<point x="196" y="-52" type="line" smooth="yes"/>
-			<point x="177" y="-82"/>
-			<point x="157" y="-121"/>
-			<point name="n09" x="128" y="-121" type="curve" smooth="yes"/>
-			<point x="104" y="-121"/>
-			<point x="85" y="-91"/>
-			<point x="80" y="-72" type="curve"/>
-			<point x="1" y="-109" type="line"/>
-			<point x="14" y="-170"/>
-			<point x="51" y="-200"/>
-			<point name="n16" x="112" y="-200" type="curve" smooth="yes"/>
-			<point x="181" y="-200"/>
-			<point x="219" y="-162"/>
-			<point x="255" y="-106" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point x="603" y="771" type="line"/>
-			<point x="502" y="771" type="line"/>
-			<point x="363" y="600" type="line"/>
-			<point x="424" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -200 79</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>48cfdbf4beccee28706c2fffb18174e658b66071c7c96b523c2e1c1502dbf5e395d53016ce878c21635f2db9cffaf403815788d9bb6e2a26af625b527c0f9829</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="560"/>
+  <unicode hex="00FD"/>
+  <anchor x="450" y="-60" name="bottom"/>
+  <anchor x="402" y="580" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="acutecomb" xScale="1" xOffset="581.667" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

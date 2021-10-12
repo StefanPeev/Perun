@@ -1,57 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="2">
-	<unicode hex="00FF"/>
-	<advance width="534"/>
-	<outline>
-		<contour>
-			<point x="195" y="-56" type="line" smooth="yes"/>
-			<point x="178" y="-84"/>
-			<point x="151" y="-132"/>
-			<point x="113" y="-200" type="curve"/>
-			<point x="206" y="-200" type="line"/>
-			<point x="220" y="-172" type="line" smooth="yes"/>
-			<point x="229" y="-153"/>
-			<point x="241" y="-133"/>
-			<point x="255" y="-111" type="curve" smooth="yes"/>
-			<point name="n09" x="635" y="500" type="line"/>
-			<point x="538" y="500" type="line"/>
-			<point x="305" y="123" type="line"/>
-			<point x="235" y="500" type="line"/>
-			<point x="130" y="500" type="line"/>
-			<point x="229" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="358" y="630" type="line"/>
-			<point x="396" y="722" type="line"/>
-			<point name="n17" x="290" y="722" type="line"/>
-			<point name="n18" x="268" y="630" type="line"/>
-		</contour>
-		<contour>
-			<point x="558" y="630" type="line"/>
-			<point x="580" y="722" type="line"/>
-			<point x="490" y="722" type="line"/>
-			<point x="468" y="630" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 500 -20</string>
-							<string>hstem 630 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>512ce8eacc6a4e7606bed2677b8a265a5dc9190e2ad489a346e91b15ee2d7112a447780aa628e93f50bccad5e28e0752b9d972d81b3bf200db5af4b1a579930a</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="562"/>
+  <unicode hex="00FF"/>
+  <anchor x="450" y="-60" name="bottom"/>
+  <anchor x="429.333" y="746.667" name="mkmktop"/>
+  <anchor x="400" y="580" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="uni0308" xScale="1" xOffset="542.667" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

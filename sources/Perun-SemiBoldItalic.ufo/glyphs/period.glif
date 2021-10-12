@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-	<unicode hex="002E"/>
-	<advance width="287"/>
-	<outline>
-		<contour>
-			<point name="n00" x="218" y="0" type="line"/>
-			<point name="n01" x="247.333" y="129" type="line"/>
-			<point x="127.333" y="129" type="line"/>
-			<point name="n03" x="98" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 129</string>
-							<string>vstem 98 149.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w287m218,0l247.33,129l127.33,129l98,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="287"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="247.333" y="129" type="line"/>
+      <point x="127.333" y="129" type="line"/>
+      <point x="98" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

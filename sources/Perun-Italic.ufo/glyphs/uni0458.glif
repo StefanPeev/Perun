@@ -1,56 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0458" format="2">
-	<unicode hex="0458"/>
-	<advance width="235"/>
-	<outline>
-		<contour>
-			<point x="23" y="-140" type="line"/>
-			<point x="12" y="-140"/>
-			<point x="-4" y="-140"/>
-			<point name="n03" x="-23" y="-141" type="curve"/>
-			<point x="-37" y="-205" type="line"/>
-			<point name="n05" x="-26" y="-205" type="line" smooth="yes"/>
-			<point x="-18" y="-205"/>
-			<point x="-11" y="-205"/>
-			<point x="-2" y="-206" type="curve"/>
-			<point x="7" y="-206" type="line" smooth="yes"/>
-			<point x="77" y="-206"/>
-			<point x="138" y="-167"/>
-			<point x="158" y="-80" type="curve" smooth="yes"/>
-			<point name="n13" x="291" y="500" type="line"/>
-			<point x="201" y="500" type="line"/>
-			<point x="74" y="-50" type="line" smooth="yes"/>
-			<point x="63" y="-97"/>
-			<point x="54" y="-140"/>
-			<point x="22" y="-140" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n19" x="330" y="630" type="line"/>
-			<point name="n20" x="352" y="722" type="line"/>
-			<point x="246" y="722" type="line"/>
-			<point x="224" y="630" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -205 64</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 630 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>257f15d40c77e189fc1c10ff1be81904e631ae4722559043bb2d41fb9b84731ad7f78371bb731f52581d3691d26a5339bc1777da2e4dce69001d65bac98decca</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="235"/>
+  <unicode hex="0458"/>
+  <outline>
+    <component base="j"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>j</string>
+  </dict>
+  </lib>
 </glyph>

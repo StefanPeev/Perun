@@ -1,49 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute" format="2">
-	<unicode hex="0155"/>
-	<advance width="343"/>
-	<outline>
-		<contour>
-			<point x="420" y="420" type="line"/>
-			<point name="n01" x="438" y="500" type="line"/>
-			<point x="318" y="500"/>
-			<point x="280" y="481"/>
-			<point x="241" y="432" type="curve"/>
-			<point x="256" y="500" type="line"/>
-			<point x="166" y="500" type="line"/>
-			<point name="n07" x="51" y="0" type="line"/>
-			<point x="141" y="0" type="line"/>
-			<point x="206" y="280" type="line" smooth="yes"/>
-			<point x="227" y="373"/>
-			<point x="299" y="420"/>
-			<point x="421" y="420" type="curve"/>
-		</contour>
-		<contour>
-			<point x="529" y="744" type="line"/>
-			<point x="428" y="744" type="line"/>
-			<point x="288" y="573" type="line"/>
-			<point x="349" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>ee8328b6216e04783298ddd47e585d9e9a0678599a2651b309384f42aac2e0cb69483dfc4feb9c0857187d7b760d79d200d887b42bbee7c877a692130a09336b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="401"/>
+  <unicode hex="0155"/>
+  <anchor x="129" y="-60" name="bottom"/>
+  <anchor x="353.333" y="580" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="acutecomb" xOffset="533" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

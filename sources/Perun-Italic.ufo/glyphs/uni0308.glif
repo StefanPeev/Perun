@@ -1,41 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308" format="2">
-	<unicode hex="0308"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point name="n00" x="-188" y="600" type="line"/>
-			<point name="n01" x="-165" y="700" type="line"/>
-			<point x="-255" y="700" type="line"/>
-			<point name="n03" x="-278" y="600" type="line"/>
-		</contour>
-		<contour>
-			<point x="-28" y="600" type="line"/>
-			<point name="n05" x="-5" y="700" type="line"/>
-			<point x="-95" y="700" type="line"/>
-			<point x="-118" y="600" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="_top" x="-150" y="600"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 100</string>
-							<string>vstem -278 273</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1m-188,600l-165,700l-255,700l-278,600m-28,600l-5,700l-95,700l-118,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <unicode hex="0308"/>
+  <anchor x="-150" y="600" name="_top"/>
+  <anchor x="-122" y="760" name="mkmktop"/>
+  <outline>
+    <contour>
+      <point x="-28" y="600" type="line"/>
+      <point x="-5" y="700" type="line"/>
+      <point x="-95" y="700" type="line"/>
+      <point x="-118" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="-188" y="600" type="line"/>
+      <point x="-165" y="700" type="line"/>
+      <point x="-255" y="700" type="line"/>
+      <point x="-278" y="600" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,48 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E39" format="2">
-	<unicode hex="1E39"/>
-	<advance width="230"/>
-	<outline>
-		<contour>
-			<point name="n00" x="160" y="0" type="line"/>
-			<point name="n01" x="327" y="722" type="line"/>
-			<point x="237" y="722" type="line"/>
-			<point x="70" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="123" y="-160" type="line"/>
-			<point name="n05" x="146" y="-60" type="line"/>
-			<point x="56" y="-60" type="line"/>
-			<point x="33" y="-160" type="line"/>
-		</contour>
-		<contour>
-			<point name="n08" x="427" y="782" type="line"/>
-			<point name="n09" x="442" y="851" type="line"/>
-			<point x="180" y="851" type="line"/>
-			<point x="165" y="782" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -160 100</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 782 69</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w230m160,0l327,722l237,722l70,0m123,-160l146,-60l56,-60l33,-160m427,782l442,851l180,851l165,782</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="268"/>
+  <unicode hex="1E39"/>
+  <anchor x="123.333" y="-60" name="bottom"/>
+  <anchor x="383.667" y="361" name="dotCN"/>
+  <anchor x="308.333" y="800" name="top"/>
+  <outline>
+    <component base="uni1E37"/>
+    <component base="macroncomb" xOffset="412.333" yOffset="180"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E37+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,76 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E04" format="2">
-	<unicode hex="1E04"/>
-	<advance width="643"/>
-	<outline>
-		<contour>
-			<point name="n00" x="338" y="87" type="curve" smooth="yes"/>
-			<point x="181" y="87" type="line"/>
-			<point name="n02" x="239" y="337" type="line"/>
-			<point x="391" y="337" type="line" smooth="yes"/>
-			<point x="493" y="337"/>
-			<point x="567" y="306"/>
-			<point x="545" y="212" type="curve" smooth="yes"/>
-			<point x="526" y="128"/>
-			<point x="428" y="87"/>
-		</contour>
-		<contour>
-			<point x="596" y="530" type="curve" smooth="yes"/>
-			<point x="579" y="457"/>
-			<point x="519" y="420"/>
-			<point x="415" y="420" type="curve" smooth="yes"/>
-			<point name="n13" x="258" y="420" type="line"/>
-			<point x="308" y="635" type="line"/>
-			<point name="n15" x="467" y="635" type="line" smooth="yes"/>
-			<point x="570" y="635"/>
-			<point x="612" y="599"/>
-		</contour>
-		<contour>
-			<point x="639" y="201" type="curve" smooth="yes"/>
-			<point x="663" y="306"/>
-			<point x="604" y="359"/>
-			<point x="533" y="385" type="curve"/>
-			<point x="534" y="390" type="line"/>
-			<point x="620" y="413"/>
-			<point x="674" y="463"/>
-			<point x="693" y="544" type="curve" smooth="yes"/>
-			<point x="720" y="663"/>
-			<point x="638" y="722"/>
-			<point name="n28" x="517" y="722" type="curve" smooth="yes"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-			<point name="n31" x="376" y="0" type="line" smooth="yes"/>
-			<point x="491" y="0"/>
-			<point x="613" y="87"/>
-		</contour>
-		<contour>
-			<point name="n34" x="226" y="-160" type="line"/>
-			<point name="n35" x="249" y="-60" type="line"/>
-			<point x="159" y="-60" type="line"/>
-			<point x="136" y="-160" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -160 100</string>
-							<string>hstem 0 87</string>
-							<string>hstem 337 83</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>f6f6bc20820349ddfb4384fe9f247580c57190d44b1517a33e7af7e713b5e3008a55252bededcad21ff1a5802cdbf2b8eb91901256a205cf0786ff890b5bb2b9</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="673"/>
+  <unicode hex="1E04"/>
+  <anchor x="290" y="-60" name="bottom"/>
+  <anchor x="443" y="800" name="top"/>
+  <outline>
+    <component base="B"/>
+    <component base="dotbelowcomb" xOffset="570"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>B+dotbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

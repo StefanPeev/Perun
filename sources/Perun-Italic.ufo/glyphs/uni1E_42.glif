@@ -1,50 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E42" format="2">
-	<unicode hex="1E42"/>
-	<advance width="858"/>
-	<outline>
-		<contour>
-			<point name="n00" x="798" y="0" type="line"/>
-			<point name="n01" x="965" y="722" type="line"/>
-			<point x="806" y="722" type="line"/>
-			<point x="460" y="140" type="line"/>
-			<point x="386" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-			<point x="161" y="0" type="line"/>
-			<point x="305" y="622" type="line"/>
-			<point x="388" y="0" type="line"/>
-			<point x="468" y="0" type="line"/>
-			<point x="842" y="627" type="line"/>
-			<point x="697" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n13" x="437" y="-160" type="line"/>
-			<point name="n14" x="460" y="-60" type="line"/>
-			<point x="370" y="-60" type="line"/>
-			<point x="347" y="-160" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -160 100</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>13c22a2c79f14b8272261c2686fd8efaa74cf81434dd286c5504f7784395a54ee575d295740066ef4de515aef6fb2f56f150115c9cf634492c091b192e9f24c3</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="858"/>
+  <unicode hex="1E42"/>
+  <outline>
+    <contour>
+      <point x="798" y="0" type="line"/>
+      <point x="965" y="722" type="line"/>
+      <point x="806" y="722" type="line"/>
+      <point x="460" y="140" type="line"/>
+      <point x="386" y="722" type="line"/>
+      <point x="227" y="722" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="305" y="622" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="842" y="627" type="line"/>
+      <point x="697" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="-160" type="line"/>
+      <point x="460" y="-60" type="line"/>
+      <point x="370" y="-60" type="line"/>
+      <point x="347" y="-160" type="line"/>
+    </contour>
+  </outline>
 </glyph>

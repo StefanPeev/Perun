@@ -1,58 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wdieresis" format="2">
-	<unicode hex="1E84"/>
-	<advance width="972"/>
-	<outline>
-		<contour>
-			<point name="n00" x="1124" y="722" type="line"/>
-			<point x="1018" y="722" type="line"/>
-			<point x="733" y="150" type="line"/>
-			<point name="n03" x="713" y="722" type="line"/>
-			<point x="593" y="722" type="line"/>
-			<point x="309" y="150" type="line"/>
-			<point name="n06" x="288" y="722" type="line"/>
-			<point name="n07" x="182" y="722" type="line"/>
-			<point name="n08" x="229" y="0" type="line"/>
-			<point x="319" y="0" type="line"/>
-			<point name="n10" x="625" y="602" type="line"/>
-			<point x="653" y="0" type="line"/>
-			<point x="743" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n13" x="615" y="796" type="line"/>
-			<point name="n14" x="636" y="888" type="line"/>
-			<point x="546" y="888" type="line"/>
-			<point x="525" y="796" type="line"/>
-		</contour>
-		<contour>
-			<point x="815" y="796" type="line"/>
-			<point x="836" y="888" type="line"/>
-			<point x="746" y="888" type="line"/>
-			<point x="725" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 796 92</string>
-							<string>vstem 182 106</string>
-							<string>vstem 625 88</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>ccc606483d4c749a9047761d9447b8135dbf72c81aaa9e1cfd62b67ab85f9f3fb6c1140ab33805229f344c358aa7959dc22994b41163320ae801a01d0b70fa19</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="972"/>
+  <unicode hex="1E84"/>
+  <anchor x="480" y="-60" name="bottom"/>
+  <anchor x="691" y="960" name="mkmktop"/>
+  <anchor x="663" y="800" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="uni0308" xOffset="813" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

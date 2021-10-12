@@ -1,50 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E38" format="2">
-	<unicode hex="1E38"/>
-	<advance width="495"/>
-	<outline>
-		<contour>
-			<point name="n00" x="480" y="0" type="line"/>
-			<point name="n01" x="500" y="87" type="line"/>
-			<point x="181" y="87" type="line"/>
-			<point name="n03" x="328" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n06" x="278" y="-160" type="line"/>
-			<point name="n07" x="301" y="-60" type="line"/>
-			<point x="211" y="-60" type="line"/>
-			<point x="188" y="-160" type="line"/>
-		</contour>
-		<contour>
-			<point name="n10" x="425" y="796" type="line"/>
-			<point name="n11" x="425" y="865" type="line"/>
-			<point x="179" y="865" type="line"/>
-			<point x="163" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -160 100</string>
-							<string>hstem 0 87</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 796 69</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w495m480,0l500,87l181,87l328,722l227,722l60,0m278,-160l301,-60l211,-60l188,-160m425,796l425,865l179,865l163,796</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="570"/>
+  <unicode hex="1E38"/>
+  <anchor x="293" y="-60" name="bottom"/>
+  <anchor x="449" y="402" name="dotCN"/>
+  <anchor x="322" y="800" name="top"/>
+  <outline>
+    <component base="uni1E36"/>
+    <component base="macroncomb" xOffset="430" yOffset="180"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E36+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

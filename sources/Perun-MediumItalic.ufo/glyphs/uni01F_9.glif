@@ -1,75 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F9" format="2">
-	<unicode hex="01F9"/>
-	<advance width="534"/>
-	<outline>
-		<contour>
-			<point name="n00" x="378" y="453" type="line"/>
-			<point x="445" y="453"/>
-			<point x="487" y="398"/>
-			<point x="472" y="331" type="curve" smooth="yes"/>
-			<point name="n04" x="396" y="0" type="line"/>
-			<point x="485" y="0" type="line"/>
-			<point x="561" y="329" type="line" smooth="yes"/>
-			<point x="589" y="452"/>
-			<point x="539" y="513"/>
-			<point name="n09" x="411" y="513" type="curve" smooth="yes"/>
-			<point x="311" y="513"/>
-			<point x="287" y="473"/>
-			<point x="241" y="436" type="curve"/>
-			<point name="n13" x="255" y="500" type="line"/>
-			<point x="165" y="500" type="line"/>
-			<point x="50" y="0" type="line"/>
-			<point x="140" y="0" type="line"/>
-			<point x="215" y="323" type="line" smooth="yes"/>
-			<point x="232" y="398"/>
-			<point name="hr02" x="303" y="453"/>
-			<point x="377" y="453" type="curve"/>
-		</contour>
-		<contour>
-			<point x="430" y="573" type="line"/>
-			<point x="370" y="744" type="line"/>
-			<point x="269" y="744" type="line"/>
-			<point x="369" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 453 60</string>
-							<string>hstem 21 -21</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n13</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 500 -20</string>
-							<string>hstem 21 -21</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr02</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 453 60</string>
-							<string>hstem 21 -21</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>53c34052aebbde59c0c1800ed4fcd5b5c50d2c9302a4bdd2aa5137fe6ac6c161a402d3860bcfbae6d68403f8fe2397c0ac034deee1d2832222534266c76fe0e6</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="612"/>
+  <unicode hex="01F9"/>
+  <anchor x="305" y="-60" name="bottom"/>
+  <anchor x="425" y="580" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="gravecomb" xOffset="526" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="2">
-	<unicode hex="2019"/>
-	<advance width="275"/>
-	<outline>
-		<contour>
-			<point name="n00" x="413" y="722" type="line"/>
-			<point name="n01" x="277" y="722" type="line"/>
-			<point name="n02" x="140" y="470" type="line"/>
-			<point name="n03" x="235" y="470" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 470 252</string>
-							<string>vstem 140 273</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w275m413,722l277,722l140,470l235,470</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="275"/>
+  <unicode hex="2019"/>
+  <anchor x="222" y="722" name="_leftTM"/>
+  <outline>
+    <contour>
+      <point x="413" y="722" type="line"/>
+      <point x="277" y="722" type="line"/>
+      <point x="140" y="470" type="line"/>
+      <point x="235" y="470" type="line"/>
+    </contour>
+  </outline>
 </glyph>

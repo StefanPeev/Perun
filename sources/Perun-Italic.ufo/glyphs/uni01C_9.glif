@@ -1,63 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C9" format="2">
-	<unicode hex="01C9"/>
-	<advance width="465"/>
-	<outline>
-		<contour>
-			<point name="n00" x="159" y="0" type="line"/>
-			<point x="326" y="722" type="line"/>
-			<point x="236" y="722" type="line"/>
-			<point x="69" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="253" y="-140" type="line"/>
-			<point x="242" y="-140"/>
-			<point x="226" y="-140"/>
-			<point name="n07" x="207" y="-141" type="curve"/>
-			<point x="193" y="-205" type="line"/>
-			<point name="n09" x="204" y="-205" type="line" smooth="yes"/>
-			<point x="212" y="-205"/>
-			<point x="219" y="-205"/>
-			<point x="228" y="-206" type="curve"/>
-			<point x="237" y="-206" type="line" smooth="yes"/>
-			<point x="307" y="-206"/>
-			<point x="368" y="-167"/>
-			<point x="388" y="-80" type="curve" smooth="yes"/>
-			<point name="n17" x="521" y="500" type="line"/>
-			<point x="431" y="500" type="line"/>
-			<point x="304" y="-50" type="line" smooth="yes"/>
-			<point x="293" y="-97"/>
-			<point x="284" y="-140"/>
-			<point x="252" y="-140" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n23" x="560" y="630" type="line"/>
-			<point name="n24" x="582" y="722" type="line"/>
-			<point x="476" y="722" type="line"/>
-			<point x="454" y="630" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -205 64</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 630 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>c5c4ca10b41066b97df188038e369734c3be000376aa9399b3f534852ec1c917af11fbc0fe9341fe2d89158842977afb2e78884a44f710ff5517990195e6ed4d</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="511"/>
+  <unicode hex="01C9"/>
+  <anchor x="120" y="-60" name="bottom"/>
+  <anchor x="365" y="361" name="dotCN"/>
+  <anchor x="313" y="800" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="j" xOffset="276"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l_j</string>
+  </dict>
+  </lib>
 </glyph>

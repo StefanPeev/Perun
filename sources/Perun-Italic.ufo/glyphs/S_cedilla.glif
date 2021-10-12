@@ -1,89 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scedilla" format="2">
-	<unicode hex="015E"/>
-	<advance width="642"/>
-	<outline>
-		<contour>
-			<point x="589" y="540" type="line"/>
-			<point x="690" y="540" type="line"/>
-			<point x="722" y="678"/>
-			<point x="625" y="737"/>
-			<point name="n04" x="477" y="737" type="curve" smooth="yes"/>
-			<point x="384" y="737"/>
-			<point x="217" y="680"/>
-			<point x="184" y="538" type="curve" smooth="yes"/>
-			<point x="115" y="237"/>
-			<point x="589" y="418"/>
-			<point x="537" y="193" type="curve" smooth="yes"/>
-			<point x="513" y="90"/>
-			<point x="406" y="73"/>
-			<point name="n13" x="304" y="73" type="curve" smooth="yes"/>
-			<point x="226" y="73"/>
-			<point x="184" y="136"/>
-			<point x="202" y="214" type="curve"/>
-			<point x="100" y="214" type="line"/>
-			<point x="70" y="82"/>
-			<point x="140" y="-6"/>
-			<point name="n20" x="266" y="-15" type="curve"/>
-			<point x="244" y="-107" type="line"/>
-			<point name="n22" x="278" y="-107" type="line" smooth="yes"/>
-			<point x="315" y="-107"/>
-			<point x="361" y="-126"/>
-			<point x="352" y="-166" type="curve" smooth="yes"/>
-			<point x="346" y="-191"/>
-			<point x="317" y="-203"/>
-			<point x="270" y="-203" type="curve" smooth="yes"/>
-			<point name="n29" x="264" y="-203" type="line" smooth="yes"/>
-			<point x="234" y="-203"/>
-			<point x="202" y="-199"/>
-			<point x="168" y="-191" type="curve"/>
-			<point x="156" y="-241" type="line"/>
-			<point x="194" y="-247"/>
-			<point x="225" y="-250"/>
-			<point name="n36" x="250" y="-250" type="curve" smooth="yes"/>
-			<point x="314" y="-250"/>
-			<point x="409" y="-224"/>
-			<point x="423" y="-165" type="curve"/>
-			<point x="421" y="-165" type="line"/>
-			<point x="438" y="-93"/>
-			<point x="396" y="-57"/>
-			<point name="n43" x="296" y="-57" type="curve"/>
-			<point x="305" y="-16" type="line"/>
-			<point x="445" y="-12"/>
-			<point x="602" y="38"/>
-			<point x="639" y="198" type="curve" smooth="yes"/>
-			<point x="707" y="493"/>
-			<point x="240" y="340"/>
-			<point x="284" y="532" type="curve" smooth="yes"/>
-			<point x="302" y="608"/>
-			<point x="356" y="646"/>
-			<point name="n53" x="449" y="646" type="curve" smooth="yes"/>
-			<point x="540" y="646"/>
-			<point x="607" y="629"/>
-			<point x="586" y="537" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -250 47</string>
-							<string>hstem -107 50</string>
-							<string>hstem -15 88</string>
-							<string>hstem 646 91</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>57f38a2ce9785b6d528a516b3d5dd78a30f9d4011b92a541d95df512b4c42f1432adf51b9ef895b807696a61f2d43dbaf5f9132ab3ebe36195fea240adefa117</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="642"/>
+  <unicode hex="015E"/>
+  <anchor x="473" y="800" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="cedillacomb" xOffset="590"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+cedillacomb</string>
+  </dict>
+  </lib>
 </glyph>

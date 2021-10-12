@@ -1,71 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma" format="2">
-	<unicode hex="03B3"/>
-	<advance width="551"/>
-	<outline>
-		<contour>
-			<point x="177" y="513" type="line"/>
-			<point x="176" y="513"/>
-			<point x="174" y="513"/>
-			<point x="171" y="514" type="curve"/>
-			<point name="n04" x="164" y="514" type="line" smooth="yes"/>
-			<point x="151" y="514"/>
-			<point x="138" y="512"/>
-			<point x="122" y="509" type="curve"/>
-			<point x="105" y="437" type="line"/>
-			<point x="108" y="437"/>
-			<point x="111" y="438"/>
-			<point x="115" y="438" type="curve" smooth="yes"/>
-			<point name="n12" x="124" y="438" type="line"/>
-			<point x="147" y="436"/>
-			<point x="156" y="426"/>
-			<point x="166" y="409" type="curve"/>
-			<point x="245" y="33" type="line"/>
-			<point x="192" y="-193" type="line"/>
-			<point x="283" y="-193" type="line"/>
-			<point x="334" y="27" type="line"/>
-			<point name="n20" x="642" y="503" type="line"/>
-			<point x="551" y="503" type="line"/>
-			<point x="315" y="136" type="line"/>
-			<point x="249" y="467" type="line"/>
-			<point x="225" y="497" type="line"/>
-			<point name="hr02" x="178" y="514" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 438 76</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n20</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 503 -20</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr02</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 438 76</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>812ebcfc59c60a14b8e229e6c82523fc4583fd3229d46f5635a74598eb1a270893e23191c0054922034b1f66fa6692d7b77fef8e38f608391ba376403cf705d5</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="551"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="276.667" y="-75" type="line"/>
+      <point x="648.667" y="500" type="line"/>
+      <point x="537.667" y="500" type="line"/>
+      <point x="286" y="104" type="line"/>
+      <point x="327.667" y="104" type="line"/>
+      <point x="252.667" y="465" type="line" smooth="yes"/>
+      <point x="246.667" y="494"/>
+      <point x="211.667" y="512.667"/>
+      <point x="172.667" y="512.667" type="curve" smooth="yes"/>
+      <point x="159.667" y="512.667"/>
+      <point x="137.333" y="510.667"/>
+      <point x="119.333" y="507.667" type="curve"/>
+      <point x="100.333" y="426" type="line"/>
+      <point x="106.333" y="427"/>
+      <point x="113.333" y="427"/>
+      <point x="119.333" y="427" type="curve"/>
+      <point x="142.333" y="425"/>
+      <point x="157.333" y="417"/>
+      <point x="161.333" y="398" type="curve" smooth="yes"/>
+      <point x="259.333" y="-75" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="48" type="line"/>
+      <point x="185" y="-200" type="line"/>
+      <point x="290.333" y="-200" type="line"/>
+      <point x="344.333" y="42" type="line"/>
+    </contour>
+  </outline>
 </glyph>

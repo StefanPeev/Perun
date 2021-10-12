@@ -1,63 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0405" format="2">
-	<unicode hex="0405"/>
-	<advance width="642"/>
-	<outline>
-		<contour>
-			<point x="587" y="540" type="line"/>
-			<point x="688" y="540" type="line"/>
-			<point x="720" y="678"/>
-			<point x="623" y="737"/>
-			<point name="n04" x="475" y="737" type="curve" smooth="yes"/>
-			<point x="382" y="737"/>
-			<point x="215" y="680"/>
-			<point x="182" y="538" type="curve" smooth="yes"/>
-			<point x="113" y="237"/>
-			<point x="587" y="418"/>
-			<point x="535" y="193" type="curve" smooth="yes"/>
-			<point x="511" y="90"/>
-			<point x="404" y="73"/>
-			<point name="n13" x="302" y="73" type="curve" smooth="yes"/>
-			<point x="224" y="73"/>
-			<point x="182" y="136"/>
-			<point x="200" y="214" type="curve"/>
-			<point x="98" y="214" type="line"/>
-			<point x="66" y="75"/>
-			<point x="146" y="-15"/>
-			<point name="n20" x="285" y="-15" type="curve" smooth="yes"/>
-			<point x="430" y="-15"/>
-			<point x="598" y="32"/>
-			<point x="637" y="199" type="curve" smooth="yes"/>
-			<point x="705" y="494"/>
-			<point x="238" y="341"/>
-			<point x="282" y="533" type="curve" smooth="yes"/>
-			<point x="300" y="609"/>
-			<point x="354" y="647"/>
-			<point name="n29" x="447" y="647" type="curve" smooth="yes"/>
-			<point x="538" y="647"/>
-			<point x="605" y="630"/>
-			<point x="584" y="538" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -15 88</string>
-							<string>hstem 647 90</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>7048fd2adfeb245c1276b4a2db00d4633d5cb1b29440bf0251967082fc820a61976644de69c5eba19f0e759285ec3456cd48aa61ef8fb4cc55a75b444f40e791</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="642"/>
+  <unicode hex="0405"/>
+  <anchor x="473" y="800" name="top"/>
+  <outline>
+    <component base="S"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-	<unicode hex="0131"/>
-	<advance width="241"/>
-	<outline>
-		<contour>
-			<point name="n00" x="173.333" y="0" type="line"/>
-			<point name="n01" x="288.333" y="500" type="line"/>
-			<point x="183.333" y="500" type="line"/>
-			<point name="n03" x="68.3333" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 68.33 220</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w241m173.33,0l288.33,500l183.33,500l68.33,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="241"/>
+  <unicode hex="0131"/>
+  <anchor x="113" y="-60" name="bottom"/>
+  <anchor x="242" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="173.333" y="0" type="line"/>
+      <point x="288.333" y="500" type="line"/>
+      <point x="183.333" y="500" type="line"/>
+      <point x="68.3333" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

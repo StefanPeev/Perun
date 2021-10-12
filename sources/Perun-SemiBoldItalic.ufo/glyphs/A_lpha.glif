@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alpha" format="2">
-	<unicode hex="0391"/>
-	<advance width="723"/>
-	<outline>
-		<component base="A"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>A</string>
-		</dict>
-	</lib>
+  <advance width="723"/>
+  <unicode hex="0391"/>
+  <anchor x="361.667" y="-60" name="bottom"/>
+  <anchor x="610.333" y="10" name="bottomUC"/>
+  <anchor x="359" y="722.667" name="tonosUP"/>
+  <anchor x="536.333" y="800" name="top"/>
+  <outline>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A</string>
+  </dict>
+  </lib>
 </glyph>

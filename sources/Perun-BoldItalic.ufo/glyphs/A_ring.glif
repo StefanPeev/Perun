@@ -1,74 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-	<unicode hex="00C5"/>
-	<advance width="750"/>
-	<outline>
-		<contour>
-			<point name="n00" x="572" y="278" type="line"/>
-			<point x="299" y="278" type="line"/>
-			<point x="511" y="611" type="line"/>
-		</contour>
-		<contour>
-			<point name="n03" x="565" y="860" type="curve" smooth="yes"/>
-			<point x="526" y="860"/>
-			<point x="501" y="890"/>
-			<point x="510" y="929" type="curve" smooth="yes"/>
-			<point x="519" y="968"/>
-			<point x="558" y="999"/>
-			<point name="n09" x="597" y="999" type="curve" smooth="yes"/>
-			<point x="636" y="999"/>
-			<point x="658" y="968"/>
-			<point x="649" y="929" type="curve" smooth="yes"/>
-			<point x="640" y="890"/>
-			<point x="604" y="860"/>
-		</contour>
-		<contour>
-			<point name="n15" x="735" y="0" type="line"/>
-			<point name="n16" x="595" y="722" type="line"/>
-			<point x="485" y="722" type="line"/>
-			<point x="15" y="0" type="line"/>
-			<point x="118" y="0" type="line"/>
-			<point x="242" y="193" type="line"/>
-			<point name="n21" x="596" y="193" type="line"/>
-			<point x="629" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n23" x="606" y="1040" type="curve" smooth="yes"/>
-			<point x="545" y="1040"/>
-			<point x="485" y="991"/>
-			<point x="471" y="930" type="curve" smooth="yes"/>
-			<point x="457" y="869"/>
-			<point x="494" y="820"/>
-			<point name="n29" x="555" y="820" type="curve" smooth="yes"/>
-			<point x="615" y="820"/>
-			<point x="677" y="870"/>
-			<point x="691" y="930" type="curve" smooth="yes"/>
-			<point x="705" y="991"/>
-			<point x="667" y="1040"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 193 85</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 820 40</string>
-							<string>hstem 999 41</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>7847aed2bb95723985078919ea58ac83985756c9b1e422b5f1955f88d18ddccdc898cbc9e96216341e7275126062664932726e8ddfcc43598f9a9d5007b2bc2f</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="709"/>
+  <unicode hex="00C5"/>
+  <anchor x="355" y="-60" name="bottom"/>
+  <anchor x="582" y="10" name="bottomUC"/>
+  <anchor x="587" y="1010" name="mkmktop"/>
+  <anchor x="535" y="800" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni030A" xOffset="675" yOffset="90"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni030A</string>
+  </dict>
+  </lib>
 </glyph>

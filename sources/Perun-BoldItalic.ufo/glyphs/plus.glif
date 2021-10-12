@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="2">
-	<unicode hex="002B"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point name="n00" x="862" y="269" type="line"/>
-			<point name="n01" x="876" y="331" type="line"/>
-			<point x="607" y="331" type="line"/>
-			<point x="670" y="600" type="line"/>
-			<point x="608" y="600" type="line"/>
-			<point x="545" y="331" type="line"/>
-			<point x="276" y="331" type="line"/>
-			<point x="262" y="269" type="line"/>
-			<point x="531" y="269" type="line"/>
-			<point name="n09" x="469" y="0" type="line"/>
-			<point x="531" y="0" type="line"/>
-			<point x="593" y="269" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 269 62</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1000m862,269l876,331l607,331l670,600l608,600l545,331l276,331l262,269l531,269l469,0l531,0l593,269</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="862" y="269" type="line"/>
+      <point x="876" y="331" type="line"/>
+      <point x="607" y="331" type="line"/>
+      <point x="670" y="600" type="line"/>
+      <point x="608" y="600" type="line"/>
+      <point x="545" y="331" type="line"/>
+      <point x="276" y="331" type="line"/>
+      <point x="262" y="269" type="line"/>
+      <point x="531" y="269" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="593" y="269" type="line"/>
+    </contour>
+  </outline>
 </glyph>

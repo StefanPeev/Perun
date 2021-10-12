@@ -1,40 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0274" format="2">
-	<unicode hex="0274"/>
-	<advance width="535"/>
-	<outline>
-		<contour>
-			<point name="n00" x="478" y="0" type="line"/>
-			<point name="n01" x="593" y="500" type="line"/>
-			<point x="515" y="500" type="line"/>
-			<point x="423" y="98" type="line"/>
-			<point x="282" y="500" type="line"/>
-			<point x="172" y="500" type="line"/>
-			<point x="57" y="0" type="line"/>
-			<point x="136" y="0" type="line"/>
-			<point x="229" y="402" type="line"/>
-			<point x="367" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w535m478,0l593,500l515,500l423,98l282,500l172,500l57,0l136,0l229,402l367,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="615"/>
+  <unicode hex="0274"/>
+  <outline>
+    <contour>
+      <point x="534" y="0" type="line"/>
+      <point x="649" y="500" type="line"/>
+      <point x="554.333" y="500" type="line"/>
+      <point x="458.333" y="80" type="line"/>
+      <point x="485" y="80" type="line"/>
+      <point x="321.333" y="500" type="line"/>
+      <point x="201.333" y="500" type="line"/>
+      <point x="86.3333" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="279" y="420" type="line"/>
+      <point x="253.333" y="420" type="line"/>
+      <point x="414.333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-	<unicode hex="013A"/>
-	<advance width="264"/>
-	<outline>
-		<contour>
-			<point name="n00" x="540" y="962" type="line"/>
-			<point name="n01" x="410" y="962" type="line"/>
-			<point x="278" y="782" type="line"/>
-			<point x="348" y="782" type="line"/>
-		</contour>
-		<contour>
-			<point x="200" y="0" type="line"/>
-			<point x="367" y="722" type="line"/>
-			<point x="232" y="722" type="line"/>
-			<point x="65" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 962 -20</string>
-							<string>hstem 983 -21</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w264m540,962l410,962l278,782l348,782m200,0l367,722l232,722l65,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="264"/>
+  <unicode hex="013A"/>
+  <anchor x="125" y="-60" name="bottom"/>
+  <anchor x="393" y="361" name="dotCN"/>
+  <anchor x="306" y="800" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="acutecomb" xOffset="473" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

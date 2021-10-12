@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="2">
-	<unicode hex="00A8"/>
-	<advance width="309"/>
-	<outline>
-		<contour>
-			<point name="n00" x="388.333" y="630" type="line"/>
-			<point name="n01" x="414.333" y="740.667" type="line"/>
-			<point x="311" y="740.667" type="line"/>
-			<point name="n03" x="285" y="630" type="line"/>
-		</contour>
-		<contour>
-			<point x="315" y="630" type="line"/>
-			<point name="n05" x="341" y="740.667" type="line"/>
-			<point x="237.667" y="740.667" type="line"/>
-			<point x="211.667" y="630" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 630 110.67</string>
-							<string>vstem 285 56</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w309m388.33,630l414.33,740.67l311,740.67l285,630m315,630l341,740.67l237.67,740.67l211.67,630</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="309"/>
+  <unicode hex="00A8"/>
+  <anchor x="311" y="570" name="_top"/>
+  <outline>
+    <contour>
+      <point x="388.333" y="630" type="line"/>
+      <point x="414.333" y="740.667" type="line"/>
+      <point x="311" y="740.667" type="line"/>
+      <point x="285" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="630" type="line"/>
+      <point x="341" y="740.667" type="line"/>
+      <point x="237.667" y="740.667" type="line"/>
+      <point x="211.667" y="630" type="line"/>
+    </contour>
+  </outline>
 </glyph>

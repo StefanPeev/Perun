@@ -1,41 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C3" format="2">
-	<unicode hex="01C3"/>
-	<advance width="369"/>
-	<outline>
-		<contour>
-			<point name="n00" x="231" y="0" type="line"/>
-			<point name="n01" x="253" y="95" type="line"/>
-			<point x="153" y="95" type="line"/>
-			<point name="n03" x="131" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="381" y="722" type="line"/>
-			<point x="298" y="722" type="line"/>
-			<point x="170" y="169" type="line"/>
-			<point x="253" y="169" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 95</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 131 250</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w369m231,0l253,95l153,95l131,0m381,722l298,722l170,169l253,169</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="369"/>
+  <unicode hex="01C3"/>
+  <outline>
+    <component base="exclam" xOffset="80"/>
+  </outline>
 </glyph>

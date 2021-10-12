@@ -1,49 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ygrave" format="2">
-	<unicode hex="1EF3"/>
-	<advance width="535"/>
-	<outline>
-		<contour>
-			<point x="195" y="-56" type="line" smooth="yes"/>
-			<point x="137" y="-151"/>
-			<point name="n02" x="110" y="-198"/>
-			<point x="110" y="-198" type="curve"/>
-			<point x="202" y="-198" type="line"/>
-			<point x="345" y="36"/>
-			<point x="490" y="267"/>
-			<point name="n07" x="635" y="500" type="curve"/>
-			<point x="538" y="500" type="line"/>
-			<point x="305" y="123" type="line"/>
-			<point x="235" y="500" type="line"/>
-			<point x="130" y="500" type="line"/>
-			<point x="229" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="430" y="573" type="line"/>
-			<point x="401" y="744" type="line"/>
-			<point x="269" y="744" type="line"/>
-			<point x="369" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -177 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>134909e7c598ec451de0f8ff155ceef465365e9fdbc9a1674712db0fff17f661c2031f60b9d16d549d7cb11c802087e9d63aafef385db3b18153eefcc8ec4832</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="564"/>
+  <unicode hex="1EF3"/>
+  <anchor x="450" y="-60" name="bottom"/>
+  <anchor x="398" y="580" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="gravecomb" xOffset="513" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

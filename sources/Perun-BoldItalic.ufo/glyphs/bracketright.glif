@@ -1,38 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="2">
-	<unicode hex="005D"/>
-	<advance width="390"/>
-	<outline>
-		<contour>
-			<point x="262" y="-198" type="line"/>
-			<point x="475" y="722" type="line"/>
-			<point name="n02" x="250" y="722" type="line"/>
-			<point name="n03" x="229" y="632" type="line"/>
-			<point x="334" y="632" type="line"/>
-			<point x="163" y="-108" type="line"/>
-			<point name="n06" x="58" y="-108" type="line"/>
-			<point name="n07" x="37" y="-198" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -198 90</string>
-							<string>hstem 632 90</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w390m262,-198l475,722l250,722l229,632l334,632l163,-108l58,-108l37,-198</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="390"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="262" y="-198" type="line"/>
+      <point x="475" y="722" type="line"/>
+      <point x="250" y="722" type="line"/>
+      <point x="229" y="632" type="line"/>
+      <point x="334" y="632" type="line"/>
+      <point x="163" y="-108" type="line"/>
+      <point x="58" y="-108" type="line"/>
+      <point x="37" y="-198" type="line"/>
+    </contour>
+  </outline>
 </glyph>

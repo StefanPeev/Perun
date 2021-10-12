@@ -1,47 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Xi" format="2">
-	<unicode hex="039E"/>
-	<advance width="669"/>
-	<outline>
-		<contour>
-			<point name="n00" x="752" y="621" type="line"/>
-			<point name="n01" x="776" y="722" type="line"/>
-			<point x="228" y="722" type="line"/>
-			<point x="204" y="621" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="582" y="320" type="line"/>
-			<point name="n05" x="605" y="421" type="line"/>
-			<point x="258" y="421" type="line"/>
-			<point x="235" y="320" type="line"/>
-		</contour>
-		<contour>
-			<point name="n08" x="609" y="0" type="line"/>
-			<point name="n09" x="632" y="101" type="line"/>
-			<point x="84" y="101" type="line"/>
-			<point x="61" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 101</string>
-							<string>hstem 320 101</string>
-							<string>hstem 621 101</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w669m752,621l776,722l228,722l204,621m582,320l605,421l258,421l235,320m609,0l632,101l84,101l61,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="669"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="752" y="621" type="line"/>
+      <point x="776" y="722" type="line"/>
+      <point x="228" y="722" type="line"/>
+      <point x="204" y="621" type="line"/>
+    </contour>
+    <contour>
+      <point x="582" y="320" type="line"/>
+      <point x="605" y="421" type="line"/>
+      <point x="258" y="421" type="line"/>
+      <point x="235" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="609" y="0" type="line"/>
+      <point x="632" y="101" type="line"/>
+      <point x="84" y="101" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

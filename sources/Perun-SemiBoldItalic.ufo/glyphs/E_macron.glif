@@ -1,50 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="2">
-	<unicode hex="0112"/>
-	<advance width="577"/>
-	<outline>
-		<contour>
-			<point name="n00" x="516" y="0" type="line"/>
-			<point name="n01" x="536" y="87" type="line"/>
-			<point x="180" y="87" type="line"/>
-			<point name="n03" x="235" y="326" type="line"/>
-			<point x="571" y="326" type="line"/>
-			<point x="591" y="413" type="line"/>
-			<point name="n06" x="255" y="413" type="line"/>
-			<point x="307" y="635" type="line"/>
-			<point name="n08" x="653" y="635" type="line"/>
-			<point name="n09" x="673" y="722" type="line"/>
-			<point x="226" y="722" type="line"/>
-			<point x="59" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n12" x="598" y="796" type="line"/>
-			<point name="n13" x="614" y="865" type="line"/>
-			<point x="352" y="865" type="line"/>
-			<point x="336" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-							<string>hstem 796 69</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w577m516,0l536,87l180,87l235,326l571,326l591,413l255,413l307,635l653,635l673,722l226,722l59,0m598,796l614,865l352,865l336,796</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="593"/>
+  <unicode hex="0112"/>
+  <anchor x="313.333" y="-60" name="bottom"/>
+  <anchor x="465.667" y="800" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb" xScale="1" xOffset="569.667" yOffset="180"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

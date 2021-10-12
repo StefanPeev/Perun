@@ -1,63 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ" format="2">
-	<unicode hex="0132"/>
-	<advance width="800"/>
-	<outline>
-		<contour>
-			<point name="n00" x="181" y="0" type="line"/>
-			<point name="n01" x="348" y="722" type="line"/>
-			<point x="247" y="722" type="line"/>
-			<point x="80" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="541" y="74" type="curve" smooth="yes"/>
-			<point x="466" y="74"/>
-			<point x="438" y="114"/>
-			<point name="n07" x="454" y="194" type="curve"/>
-			<point name="n08" x="356" y="194" type="line"/>
-			<point x="328" y="72"/>
-			<point x="393" y="-14"/>
-			<point name="n11" x="516" y="-14" type="curve" smooth="yes"/>
-			<point x="649" y="-14"/>
-			<point x="759" y="81"/>
-			<point x="790" y="215" type="curve" smooth="yes"/>
-			<point x="907" y="722" type="line"/>
-			<point x="806" y="722" type="line"/>
-			<point x="689" y="215" type="line" smooth="yes"/>
-			<point x="671" y="135"/>
-			<point x="615" y="74"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 356 98</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n04</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>vstem 356 98</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>ef44c93a4cfb71dd5ab1603b5729bd8982ae299826d00795c9e2d5c0b3a0407a104133317df1b9ad3ba40c2c47a0933d1ded7feda06984e476d9407ddc0539ab</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="838"/>
+  <unicode hex="0132"/>
+  <anchor x="187" y="-70" name="bottom"/>
+  <anchor x="137.667" y="10" name="bottomUC"/>
+  <anchor x="885.333" y="800" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="270.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I_J</string>
+  </dict>
+  </lib>
 </glyph>

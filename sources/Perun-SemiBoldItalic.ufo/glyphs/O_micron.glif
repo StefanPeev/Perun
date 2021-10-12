@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicron" format="2">
-	<unicode hex="039F"/>
-	<advance width="780"/>
-	<outline>
-		<component base="O"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>O</string>
-		</dict>
-	</lib>
+  <advance width="780"/>
+  <unicode hex="039F"/>
+  <anchor x="380.667" y="-60" name="bottom"/>
+  <anchor x="390.333" y="10" name="bottomUC"/>
+  <anchor x="247" y="722.667" name="tonosUP"/>
+  <anchor x="553.667" y="800" name="top"/>
+  <outline>
+    <component base="O"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O</string>
+  </dict>
+  </lib>
 </glyph>

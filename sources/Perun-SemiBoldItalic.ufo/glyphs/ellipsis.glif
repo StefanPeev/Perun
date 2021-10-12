@@ -1,45 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
-	<unicode hex="2026"/>
-	<advance width="935"/>
-	<outline>
-		<contour>
-			<point name="n00" x="686" y="0" type="line"/>
-			<point name="n01" x="715.333" y="129" type="line"/>
-			<point x="595.333" y="129" type="line"/>
-			<point x="566" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="526.667" y="0" type="line"/>
-			<point x="556" y="129" type="line"/>
-			<point x="436" y="129" type="line"/>
-			<point x="406.667" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="367.333" y="0" type="line"/>
-			<point x="396.667" y="129" type="line"/>
-			<point x="276.667" y="129" type="line"/>
-			<point x="247.333" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 129</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w935m686,0l715.33,129l595.33,129l566,0m526.67,0l556,129l436,129l406.67,0m367.33,0l396.67,129l276.67,129l247.33,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="935"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="686" y="0" type="line"/>
+      <point x="715.333" y="129" type="line"/>
+      <point x="595.333" y="129" type="line"/>
+      <point x="566" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="526.667" y="0" type="line"/>
+      <point x="556" y="129" type="line"/>
+      <point x="436" y="129" type="line"/>
+      <point x="406.667" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="367.333" y="0" type="line"/>
+      <point x="396.667" y="129" type="line"/>
+      <point x="276.667" y="129" type="line"/>
+      <point x="247.333" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

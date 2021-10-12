@@ -1,47 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="2">
-	<unicode hex="0166"/>
-	<advance width="622"/>
-	<outline>
-		<contour>
-			<point name="n00" x="740" y="635" type="line"/>
-			<point name="n01" x="760" y="722" type="line"/>
-			<point x="187" y="722" type="line"/>
-			<point x="167" y="635" type="line"/>
-			<point x="403" y="635" type="line"/>
-			<point x="340" y="363" type="line"/>
-			<point name="n06" x="242" y="363" type="line"/>
-			<point name="n07" x="227" y="298" type="line"/>
-			<point x="325" y="298" type="line"/>
-			<point name="n09" x="256" y="0" type="line"/>
-			<point x="357" y="0" type="line"/>
-			<point x="426" y="298" type="line"/>
-			<point x="527" y="298" type="line"/>
-			<point x="542" y="363" type="line"/>
-			<point x="441" y="363" type="line"/>
-			<point x="504" y="635" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 298 65</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>9b381704b210ed3fad08b2939d23478bcfa4dfd26244967c28915869383c3eee927a4a208cc9d7347f84f7ebd6597881f6b72bc4a89de4c0ff894c1bbcf18d65</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="0166"/>
+  <outline>
+    <component base="T"/>
+    <contour>
+      <point x="223.333" y="369.667" type="line"/>
+      <point x="206.333" y="295.667" type="line"/>
+      <point x="552.667" y="295.667" type="line"/>
+      <point x="570" y="369.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043B" format="2">
-	<unicode hex="043B"/>
-	<advance width="543"/>
-	<outline>
-		<contour>
-			<point name="n00" x="20" y="0" type="line"/>
-			<point x="159" y="0" type="line"/>
-			<point x="340" y="318" type="line"/>
-			<point x="375" y="0" type="line"/>
-			<point x="523" y="0" type="line"/>
-			<point name="n05" x="451" y="500" type="line"/>
-			<point x="321" y="500" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w543m20,0l159,0l340,318l375,0l523,0l451,500l321,500</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="568"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="45" y="106" type="curve"/>
+      <point x="21" y="0" type="line"/>
+      <point x="30" y="-3"/>
+      <point x="61" y="-7"/>
+      <point x="72" y="-7" type="curve" smooth="yes"/>
+      <point x="189" y="-7"/>
+      <point x="250" y="25"/>
+      <point x="324" y="327" type="curve" smooth="yes"/>
+      <point x="343" y="405" type="line"/>
+      <point x="481" y="405" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="636" y="500" type="line"/>
+      <point x="229" y="500" type="line"/>
+      <point x="200" y="372" type="line" smooth="yes"/>
+      <point x="148" y="143"/>
+      <point x="126" y="100"/>
+      <point x="77" y="100" type="curve" smooth="yes"/>
+      <point x="70" y="100"/>
+      <point x="51" y="104"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

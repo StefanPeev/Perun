@@ -1,71 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D9" format="2">
-	<unicode hex="01D9"/>
-	<advance width="736"/>
-	<outline>
-		<contour>
-			<point x="365" y="-14" type="line"/>
-			<point x="582" y="-14"/>
-			<point x="679" y="96"/>
-			<point x="731" y="322" type="curve" smooth="yes"/>
-			<point name="n04" x="824" y="722" type="line"/>
-			<point x="723" y="722" type="line"/>
-			<point x="630" y="322" type="line" smooth="yes"/>
-			<point x="592" y="157"/>
-			<point x="527" y="74"/>
-			<point name="n09" x="385" y="74" type="curve" smooth="yes"/>
-			<point x="236" y="74"/>
-			<point x="219" y="168"/>
-			<point x="255" y="322" type="curve" smooth="yes"/>
-			<point x="348" y="722" type="line"/>
-			<point x="247" y="722" type="line"/>
-			<point x="154" y="322" type="line" smooth="yes"/>
-			<point x="102" y="96"/>
-			<point x="149" y="-14"/>
-			<point name="n18" x="366" y="-14" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n19" x="523" y="837" type="line"/>
-			<point name="n20" x="544" y="929" type="line"/>
-			<point x="454" y="929" type="line"/>
-			<point x="433" y="837" type="line"/>
-		</contour>
-		<contour>
-			<point x="723" y="837" type="line"/>
-			<point x="744" y="929" type="line"/>
-			<point x="654" y="929" type="line"/>
-			<point x="633" y="837" type="line"/>
-		</contour>
-		<contour>
-			<point x="798" y="1159" type="line"/>
-			<point x="738" y="1159" type="line"/>
-			<point x="627" y="1049" type="line"/>
-			<point x="568" y="1159" type="line"/>
-			<point x="508" y="1159" type="line"/>
-			<point x="558" y="989" type="line"/>
-			<point x="668" y="989" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 837 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>b3fd27c2d2aeb234ebc19f1700616c605b2f30348216029a1e1b7bad047a68b7976bb3e907a6c70aface3cf4498246539c2a407863bb86c8765d8c85291aed72</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="697"/>
+  <unicode hex="01D9"/>
+  <anchor x="348" y="10" name="bottomUC"/>
+  <anchor x="547" y="960" name="mkmktop"/>
+  <anchor x="519" y="800" name="top"/>
+  <outline>
+    <component base="Udieresis"/>
+    <component base="uni030C" xOffset="711" yOffset="360"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Udieresis+uni030C</string>
+  </dict>
+  </lib>
 </glyph>

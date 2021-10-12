@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0324" format="2">
-	<unicode hex="0324"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point name="n00" x="-377" y="-200" type="line"/>
-			<point name="n01" x="-354" y="-100" type="line"/>
-			<point x="-444" y="-100" type="line"/>
-			<point name="n03" x="-467" y="-200" type="line"/>
-		</contour>
-		<contour>
-			<point x="-217" y="-200" type="line"/>
-			<point name="n05" x="-194" y="-100" type="line"/>
-			<point x="-284" y="-100" type="line"/>
-			<point x="-307" y="-200" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -200 100</string>
-							<string>vstem -467 273</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1m-377,-200l-354,-100l-444,-100l-467,-200m-217,-200l-194,-100l-284,-100l-307,-200</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1"/>
+  <unicode hex="0324"/>
+  <anchor x="-308" y="-60" name="_bottom"/>
+  <outline>
+    <component base="uni0308" xOffset="-189" yOffset="-800"/>
+  </outline>
 </glyph>

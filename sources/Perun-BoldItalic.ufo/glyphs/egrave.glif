@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="2">
-	<unicode hex="00E8"/>
-	<advance width="552"/>
-	<outline>
-		<component base="e"/>
-		<component base="gravecomb" xOffset="467"/>
-	</outline>
-	<anchor name="top" x="352" y="600"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>e+gravecomb</string>
-		</dict>
-	</lib>
+  <advance width="557"/>
+  <unicode hex="00E8"/>
+  <anchor x="278" y="-60" name="bottom"/>
+  <anchor x="409" y="580" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="gravecomb" xOffset="524" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

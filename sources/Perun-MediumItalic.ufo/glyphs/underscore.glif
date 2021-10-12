@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="2">
-	<unicode hex="005F"/>
-	<advance width="500"/>
-	<outline>
-		<contour>
-			<point name="n00" x="468.667" y="-135.667" type="line"/>
-			<point name="n01" x="483" y="-74" type="line"/>
-			<point x="-17" y="-74" type="line"/>
-			<point x="-31.3333" y="-135.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -135.67 61.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w500m468.67,-135.67l483,-74l-17,-74l-31.33,-135.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="500"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="480" y="-129" type="line"/>
+      <point x="494.667" y="-56.6667" type="line"/>
+      <point x="-5.33333" y="-56.6667" type="line"/>
+      <point x="-21" y="-129" type="line"/>
+    </contour>
+  </outline>
 </glyph>

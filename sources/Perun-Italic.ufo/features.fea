@@ -1,11 +1,11 @@
 #> classes
 #/> otclasses
-@aalt = [Scedilla scedilla Tcedilla tcedilla uni0410 uni0411 uni0412 uni0413 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F];
-@aalt2 = [Scommaaccent scommaaccent Tcedilla tcedilla uni0410.ss01 uni0411.ss01 uni0412.ss01 uni0413.ss01 uni0415.ss01 uni0416.ss01 uni0417.ss01 uni0418.ss01 uni0419.ss01 uni041A.ss01 uni041C.ss01 uni041D.ss01 uni041E.ss01 uni041F.ss01 uni0420.ss01 uni0421.ss01 uni0422.ss01 uni0423.ss01 uni0424.ss01 uni0425.ss01 uni0426.ss01 uni0427.ss01 uni0428.ss01 uni0429.ss01 uni042A.ss01 uni042B.ss01 uni042C.ss01 uni042D.ss01 uni042E.ss01 uni042F.ss01];
-@locl = [uni0414 uni041B uni0430 uni0431 uni0432 uni0433 uni0434 uni0435 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni0444 uni0445 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044D uni044E uni044F uni045D];
-@locl2 = [uni0414.locl uni041B.locl uni0430.locl uni0431.locl uni0432.locl uni0433.locl uni0434.locl uni0435.locl uni0436.locl uni0437.locl uni0438.locl uni0439.locl uni043A.locl uni043B.locl uni043C.locl uni043D.locl uni043E.locl uni043F.locl uni0440.locl uni0441.locl uni0442.locl uni0443.locl uni0444.locl uni0445.locl uni0446.locl uni0447.locl uni0448.locl uni0449.locl uni044A.locl uni044B.locl uni044C.locl uni044D.locl uni044E.locl uni044F.locl uni045D.locl];
-@ss01 = [uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F uni0430 uni0431 uni0432 uni0433 uni0434 uni0435 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni0444 uni0445 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044D uni044E uni044F uni045D];
-@ss012 = [uni0410.ss01 uni0411.ss01 uni0412.ss01 uni0413.ss01 uni0414.ss01 uni0415.ss01 uni0416.ss01 uni0417.ss01 uni0418.ss01 uni0419.ss01 uni041A.ss01 uni041B.ss01 uni041C.ss01 uni041D.ss01 uni041E.ss01 uni041F.ss01 uni0420.ss01 uni0421.ss01 uni0422.ss01 uni0423.ss01 uni0424.ss01 uni0425.ss01 uni0426.ss01 uni0427.ss01 uni0428.ss01 uni0429.ss01 uni042A.ss01 uni042B.ss01 uni042C.ss01 uni042D.ss01 uni042E.ss01 uni042F.ss01 uni0430.ss01 uni0431.ss01 uni0432.ss01 uni0433.ss01 uni0434.ss01 uni0435.ss01 uni0436.ss01 uni0437.ss01 uni0438.ss01 uni0439.ss01 uni043A.ss01 uni043B.ss01 uni043C.ss01 uni043D.ss01 uni043E.ss01 uni043F.ss01 uni0440.ss01 uni0441.ss01 uni0442.ss01 uni0443.ss01 uni0444.ss01 uni0445.ss01 uni0446.ss01 uni0447.ss01 uni0448.ss01 uni0449.ss01 uni044A.ss01 uni044B.ss01 uni044C.ss01 uni044D.ss01 uni044E.ss01 uni044F.ss01 uni045D.ss01];
+@aalt = [Scedilla scedilla Tcedilla tcedilla];
+@aalt2 = [Scommaaccent scommaaccent Tcedilla tcedilla];
+@locl = [uni0414 uni041B uni0432 uni0434 uni0436 uni0437 uni043A uni043B uni0444 uni044E];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni043B.loclBGR uni0444.loclBGR uni044E.loclBGR];
+@ss01 = [uni0414 uni041B uni0432 uni0434 uni0436 uni0437 uni043A uni043B uni0444 uni044E];
+@ss012 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni043B.loclBGR uni0444.loclBGR uni044E.loclBGR];
 #/< otclasses
 #< classes
 
@@ -51,25 +51,32 @@ languagesystem grek dflt; # Greek default
 # Feature definitions
 #
 
+
+
+
+
+
+
+
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
 
   sub @aalt by @aalt2;
-  sub uni0414 from [uni0414.ss01 uni0414.locl];
-  sub uni041B from [uni041B.ss01 uni041B.locl];
+  sub uni0414.loclBGR from [uni0414.ss01 uni0414];
+  sub uni041B.001 from [uni041B.ss01 uni041B];
   sub uni0430 from [uni0430.ss01 uni0430.locl];
   sub uni0431 from [uni0431.ss01 uni0431.locl];
-  sub uni0432 from [uni0432.ss01 uni0432.locl];
+  sub uni0432.loclBGR from [uni0432.ss01 uni0432];
   sub uni0433 from [uni0433.ss01 uni0433.locl];
-  sub uni0434 from [uni0434.ss01 uni0434.locl];
+  sub uni0434.loclBGR from [uni0434.ss01 uni0434];
   sub uni0435 from [uni0435.ss01 uni0435.locl];
-  sub uni0436 from [uni0436.ss01 uni0436.locl];
-  sub uni0437 from [uni0437.swsh uni0437.ss01 uni0437.locl];
+  sub uni0436.loclBGR from [uni0436.ss01 uni0436];
+  sub uni0437.loclBGR from [uni0437.swsh uni0437.ss01 uni0437];
   sub uni0438 from [uni0438.ss01 uni0438.locl];
   sub uni0439 from [uni0439.ss01 uni0439.locl];
-  sub uni043A from [uni043A.ss01 uni043A.locl];
-  sub uni043B from [uni043B.ss01 uni043B.locl];
+  sub uni043A.loclBGR from [uni043A.ss01 uni043A];
+  sub uni043B.loclBGR from [uni043B.ss01 uni043B];
   sub uni043C from [uni043C.ss01 uni043C.locl];
   sub uni043D from [uni043D.ss01 uni043D.locl];
   sub uni043E from [uni043E.ss01 uni043E.locl];
@@ -78,7 +85,7 @@ feature aalt useExtension {
   sub uni0441 from [uni0441.ss01 uni0441.locl];
   sub uni0442 from [uni0442.ss01 uni0442.locl];
   sub uni0443 from [uni0443.ss01 uni0443.locl];
-  sub uni0444 from [uni0444.ss01 uni0444.locl];
+  sub uni0444.loclBGR from [uni0444.loclBGR uni0444];
   sub uni0445 from [uni0445.ss01 uni0445.locl];
   sub uni0446 from [uni0446.ss01 uni0446.locl];
   sub uni0447 from [uni0447.ss01 uni0447.locl];
@@ -88,10 +95,33 @@ feature aalt useExtension {
   sub uni044B from [uni044B.ss01 uni044B.locl];
   sub uni044C from [uni044C.ss01 uni044C.locl];
   sub uni044D from [uni044D.ss01 uni044D.locl];
-  sub uni044E from [uni044E.ss01 uni044E.locl];
+  sub uni044E.loclBGR from [uni044E.ss01 uni044E];
   sub uni044F from [uni044F.ss01 uni044F.locl];
   sub uni045D from [uni045D.ss01 uni045D.locl];
 } aalt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 feature swsh {
 # GSUB feature: Swash
@@ -100,7 +130,7 @@ feature swsh {
 
   lookup swsh {
   # GSUB lookup 3, type 11 (Single)
-    sub uni0437 by uni0437.swsh;
+    sub uni0437.loclBGR by uni0437.swsh;
   } swsh;
 
 
@@ -108,10 +138,10 @@ feature swsh {
 
   lookup swsh_latn_cyrl {
   # GSUB lookup 5, type 11 (Single)
-    sub uni0437 by uni0437.swsh;
+    sub uni0437.loclBGR by uni0437.swsh;
   } swsh_latn_cyrl;
 
-  sub uni0437 by uni0437.swsh;
+  sub uni0437.loclBGR by uni0437.swsh;
     language NLD ; # Dutch
     language LTH  exclude_dflt; # Lithuanian
     lookup swsh;
@@ -127,7 +157,7 @@ feature swsh {
 
   script cyrl; # Cyrillic
   lookup swsh_latn_cyrl;
-  sub uni0437 by uni0437.swsh;
+  sub uni0437.loclBGR by uni0437.swsh;
     language SRB ; # Serbian
     language BGR  exclude_dflt; # Bulgarian
     lookup swsh;
@@ -138,98 +168,78 @@ feature swsh {
 
 
   script grek; # Greek
-  sub uni0437 by uni0437.swsh;
+  sub uni0437.loclBGR by uni0437.swsh;
 
 } swsh;
 
-feature ss01 {
-# GSUB feature: Stylistic Set 1
-# Lookups: 4
 
 
-  lookup ss01 {
-  # GSUB lookup 8, type 11 (Single)
-    sub @ss01 by @ss012;
-  } ss01;
 
 
-  script latn; # Latin
-
-  lookup ss01_latn_cyrl_1 {
-  # GSUB lookup 10, type 11 (Single)
-    sub @ss01 by @ss012;
-  } ss01_latn_cyrl_1;
 
 
-  lookup ss01_latn_cyrl_2 {
-  # GSUB lookup 11, type 11 (Single)
-    sub @ss01 by @ss012;
-  } ss01_latn_cyrl_2;
-
-    language NLD ; # Dutch
-    language LTH  exclude_dflt; # Lithuanian
-    lookup ss01;
-
-    language TRK ; # Turkish
-    language MOL  exclude_dflt; # Moldavian
-    lookup ss01;
-
-    language ROM ; # Romanian
-    language CAT  exclude_dflt; # Catalan
-    lookup ss01;
 
 
-  script cyrl; # Cyrillic
-  lookup ss01_latn_cyrl_1;
-  lookup ss01_latn_cyrl_2;
-    language SRB ; # Serbian
-    language BGR  exclude_dflt; # Bulgarian
-    lookup ss01;
-
-    language UKR ; # Ukrainian
-    language RUS  exclude_dflt; # Russian
-    lookup ss01;
 
 
-  script grek; # Greek
-  sub @ss01 by @ss012;
 
-} ss01;
+
+
+
+
+
+
+
+
+
+
+
 
 feature locl {
-# GSUB feature: Localized Forms
-# Lookups: 7
+# Localized Forms
+
+#> feature
+  script cyrl; # Cyrillic
+  language BGR; # Bulgarian
+  sub uni0414 by uni0414.loclBGR;
+  sub uni041B by uni041B.loclBGR;
+  sub uni0424 by uni0424.loclBGR;
+  sub uni0432 by uni0432.loclBGR;
+  sub uni0434 by uni0434.loclBGR;
+  sub uni0436 by uni0436.loclBGR;
+  sub uni0437 by uni0437.loclBGR;
+  sub uni043A by uni043A.loclBGR;
+  sub uni043B by uni043B.loclBGR;
+  sub uni0444 by uni0444.loclBGR;
+  sub uni044E by uni044E.loclBGR;
+
+  language SRB; # Serbian
+  sub uni0431 by uni0431.loclSRB;
+  sub uni0433 by uni0433.loclSRB;
+  sub uni0434 by uni0434.loclSRB;
+  sub uni043F by uni043F.loclSRB;
+  sub uni0442 by uni0442.loclSRB;
 
   script latn; # Latin
-    language NLD ; # Dutch
-    sub I J by IJ;
-    sub i j by ij;
+  language MOL; # Moldavian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by uni021A;
+  sub scedilla by scommaaccent;
+  sub tcedilla by uni021B;
 
-    language TRK ; # Turkish
-    sub f f l by f_f_l;
-    sub f l by f_l;
-    sub f f by f_f;
-
-    language MOL ; # Moldavian
-    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcedilla tcedilla];
-
-    language ROM ; # Romanian
-    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcedilla tcedilla];
-
-    language CAT ; # Catalan
-    sub L periodcentered by Ldot;
-    sub l periodcentered by ldot;
-
-
-  script cyrl; # Cyrillic
-    language UKR ; # Ukrainian
-    sub @locl by @locl2;
-
-    language RUS ; # Russian
-    sub @locl by @locl2;
-
-
+  language ROM; # Romanian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by uni021A;
+  sub scedilla by scommaaccent;
+  sub tcedilla by uni021B;
+#< feature
 } locl;
+
+
+
+
+
+
 
 feature liga {
 # GSUB feature: Standard Ligatures
@@ -313,6 +323,29 @@ feature liga {
 
 } liga;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 4
@@ -378,4 +411,286 @@ feature dlig {
   sub o e by oe;
 
 } dlig;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature sups {
+# Superscript
+
+#> feature
+  sub h by uni02B0;
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+  sub uni0263 by uni02E0;
+  sub uni0295 by uni02E4;
+  sub w by uni02B7;
+#< feature
+} sups;
+
+
+
+
+
+
+
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+  sub one fraction four by onequarter;
+  sub one fraction two by onehalf;
+  sub three fraction four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+
+
+
+
+
+
+
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by uni2116;
+#< feature
+} ordn;
+
+
+
+
+
+
+
+feature salt {
+# Stylistic Alternates
+
+#> feature
+  sub A from [A.001];
+  sub B from [B.001];
+  sub C from [C.001];
+  sub Cdotaccent from [Cdotaccent.001];
+  sub D from [D.001];
+  sub E from [E.001];
+  sub F from [F.001];
+  sub G from [G.001];
+  sub H from [H.001];
+  sub I from [I.001];
+  sub J from [J.001];
+  sub K from [K.001];
+  sub L from [L.001];
+  sub M from [M.001];
+  sub N from [N.001];
+  sub O from [O.001];
+  sub P from [P.001];
+  sub Q from [Q.001];
+  sub R from [R.001];
+  sub S from [S.001];
+  sub T from [T.001];
+  sub U from [U.001];
+  sub V from [V.001];
+  sub W from [W.001];
+  sub X from [X.001];
+  sub Y from [Y.001];
+  sub Z from [Z.001];
+  sub cdotaccent from [cdotaccent.001];
+  sub longs from [longs.001];
+  sub uni040D from [uni040D.001 uni040D.ss01];
+  sub uni0410 from [uni0410.ss01 uni0410.001];
+  sub uni0411 from [uni0411.ss01 uni0411.001];
+  sub uni0412 from [uni0412.ss01 uni0412.001];
+  sub uni0413 from [uni0413.ss01 uni0413.001];
+  sub uni0414.loclBGR from [uni0414.ss01 uni0414.001];
+  sub uni0415 from [uni0415.ss01 uni0415.001];
+  sub uni0416 from [uni0416.ss01 uni0416.001];
+  sub uni0417 from [uni0417.ss01 uni0417.001];
+  sub uni0418 from [uni0418.ss01 uni0418.001];
+  sub uni0419 from [uni0419.ss01 uni0419.001];
+  sub uni041A from [uni041A.ss01 uni041A.001];
+  sub uni041B.001 from [uni041B.ss01 uni041B.loclBGR];
+  sub uni041C from [uni041C.ss01 uni041C.001];
+  sub uni041D from [uni041D.ss01 uni041D.001];
+  sub uni041E from [uni041E.ss01 uni041E.001];
+  sub uni041F from [uni041F.ss01 uni041F.001];
+  sub uni0420 from [uni0420.ss01 uni0420.001];
+  sub uni0421 from [uni0421.ss01 uni0421.001];
+  sub uni0422 from [uni0422.ss01 uni0422.001];
+  sub uni0423 from [uni0423.ss01 uni0423.001];
+  sub uni0424 from [uni0424.ss01 uni0424.loclBGR];
+  sub uni0425 from [uni0425.ss01 uni0425.001];
+  sub uni0426 from [uni0426.ss01 uni0426.001];
+  sub uni0427 from [uni0427.ss01 uni0427.001];
+  sub uni0428 from [uni0428.ss01 uni0428.001];
+  sub uni0429 from [uni0429.ss01 uni0429.001];
+  sub uni042A from [uni042A.ss01 uni042A.001];
+  sub uni042B from [uni042B.ss01 uni042B.001];
+  sub uni042C from [uni042C.ss01 uni042C.001];
+  sub uni042D from [uni042D.ss01 uni042D.001];
+  sub uni042E from [uni042E.ss01 uni042E.001];
+  sub uni042F from [uni042F.ss01 uni042F.001];
+  sub uni0430 from [uni0430.ss01];
+  sub uni0431 from [uni0431.ss01];
+  sub uni0432 from [uni0432.ss01];
+  sub uni0433 from [uni0433.ss01];
+  sub uni0434 from [uni0434.ss01];
+  sub uni0435 from [uni0435.ss01];
+  sub uni0436 from [uni0436.ss01];
+  sub uni0437 from [uni0437.ss01];
+  sub uni0438 from [uni0438.ss01];
+  sub uni0439 from [uni0439.ss01];
+  sub uni043A from [uni043A.ss01];
+  sub uni043B from [uni043B.ss01];
+  sub uni043C from [uni043C.ss01];
+  sub uni043D from [uni043D.ss01];
+  sub uni043E from [uni043E.ss01];
+  sub uni043F from [uni043F.ss01];
+  sub uni0440 from [uni0440.ss01];
+  sub uni0441 from [uni0441.ss01];
+  sub uni0442 from [uni0442.ss01];
+  sub uni0443 from [uni0443.ss01];
+  sub uni0444 from [uni0444.loclBGR];
+  sub uni0445 from [uni0445.ss01];
+  sub uni0446 from [uni0446.ss01];
+  sub uni0447 from [uni0447.ss01];
+  sub uni0448 from [uni0448.ss01];
+  sub uni0449 from [uni0449.ss01];
+  sub uni044A from [uni044A.ss01];
+  sub uni044B from [uni044B.ss01];
+  sub uni044C from [uni044C.ss01];
+  sub uni044D from [uni044D.ss01];
+  sub uni044E from [uni044E.ss01];
+  sub uni044F from [uni044F.ss01];
+  sub uni045D from [uni045D.ss01];
+#< feature
+} salt;
+
+
+
+
+
+
+
+feature hist {
+# Historical Forms
+
+#> feature
+  sub s by longs;
+#< feature
+} hist;
+
+
+
+
+
+
+
+feature ss01 {
+# Stylistic Set 01–20
+
+#> feature
+  sub uni040D by uni040D.ss01;
+  sub uni0410 by uni0410.ss01;
+  sub uni0411 by uni0411.ss01;
+  sub uni0412 by uni0412.ss01;
+  sub uni0413 by uni0413.ss01;
+  sub uni0414.loclBGR by uni0414.ss01;
+  sub uni0415 by uni0415.ss01;
+  sub uni0416 by uni0416.ss01;
+  sub uni0417 by uni0417.ss01;
+  sub uni0418 by uni0418.ss01;
+  sub uni0419 by uni0419.ss01;
+  sub uni041A by uni041A.ss01;
+  sub uni041B.001 by uni041B.ss01;
+  sub uni041C by uni041C.ss01;
+  sub uni041D by uni041D.ss01;
+  sub uni041E by uni041E.ss01;
+  sub uni041F by uni041F.ss01;
+  sub uni0420 by uni0420.ss01;
+  sub uni0421 by uni0421.ss01;
+  sub uni0422 by uni0422.ss01;
+  sub uni0423 by uni0423.ss01;
+  sub uni0424 by uni0424.ss01;
+  sub uni0425 by uni0425.ss01;
+  sub uni0426 by uni0426.ss01;
+  sub uni0427 by uni0427.ss01;
+  sub uni0428 by uni0428.ss01;
+  sub uni0429 by uni0429.ss01;
+  sub uni042A by uni042A.ss01;
+  sub uni042B by uni042B.ss01;
+  sub uni042C by uni042C.ss01;
+  sub uni042D by uni042D.ss01;
+  sub uni042E by uni042E.ss01;
+  sub uni042F by uni042F.ss01;
+  sub uni0430 by uni0430.ss01;
+  sub uni0431 by uni0431.ss01;
+  sub uni0432 by uni0432.ss01;
+  sub uni0433 by uni0433.ss01;
+  sub uni0434 by uni0434.ss01;
+  sub uni0435 by uni0435.ss01;
+  sub uni0436 by uni0436.ss01;
+  sub uni0437 by uni0437.ss01;
+  sub uni0438 by uni0438.ss01;
+  sub uni0439 by uni0439.ss01;
+  sub uni043A by uni043A.ss01;
+  sub uni043B by uni043B.ss01;
+  sub uni043C by uni043C.ss01;
+  sub uni043D by uni043D.ss01;
+  sub uni043E by uni043E.ss01;
+  sub uni043F by uni043F.ss01;
+  sub uni0440 by uni0440.ss01;
+  sub uni0441 by uni0441.ss01;
+  sub uni0442 by uni0442.ss01;
+  sub uni0443 by uni0443.ss01;
+  sub uni0444 by uni0444.loclBGR;
+  sub uni0445 by uni0445.ss01;
+  sub uni0446 by uni0446.ss01;
+  sub uni0447 by uni0447.ss01;
+  sub uni0448 by uni0448.ss01;
+  sub uni0449 by uni0449.ss01;
+  sub uni044A by uni044A.ss01;
+  sub uni044B by uni044B.ss01;
+  sub uni044C by uni044C.ss01;
+  sub uni044D by uni044D.ss01;
+  sub uni044E by uni044E.ss01;
+  sub uni044F by uni044F.ss01;
+  sub uni045D by uni045D.ss01;
+#< feature
+} ss01;
+
+
+
+
+
+
 

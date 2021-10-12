@@ -1,126 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EB1" format="2">
-	<unicode hex="1EB1"/>
-	<advance width="535"/>
-	<outline>
-		<contour>
-			<point x="486" y="750" type="line"/>
-			<point x="426" y="921" type="line"/>
-			<point x="325" y="921" type="line"/>
-			<point x="425" y="750" type="line"/>
-		</contour>
-		<contour>
-			<point x="174" y="144" type="line"/>
-			<point x="194" y="229"/>
-			<point x="312" y="249"/>
-			<point name="n07" x="392" y="249" type="curve"/>
-			<point x="393" y="249"/>
-			<point x="410" y="248"/>
-			<point x="443" y="246" type="curve"/>
-			<point x="415" y="126"/>
-			<point x="369" y="55"/>
-			<point name="n13" x="253" y="55" type="curve" smooth="yes"/>
-			<point x="199" y="55"/>
-			<point x="162" y="91"/>
-			<point x="174" y="145" type="curve"/>
-		</contour>
-		<contour>
-			<point x="382" y="447" type="line"/>
-			<point x="451" y="447"/>
-			<point x="486" y="412"/>
-			<point x="472" y="350" type="curve"/>
-			<point x="469" y="339"/>
-			<point x="465" y="327"/>
-			<point x="459" y="314" type="curve"/>
-			<point x="445" y="314"/>
-			<point x="405" y="316"/>
-			<point name="n26" x="391" y="316" type="curve" smooth="yes"/>
-			<point x="263" y="316"/>
-			<point x="111" y="281"/>
-			<point x="77" y="132" type="curve" smooth="yes"/>
-			<point x="56" y="40"/>
-			<point x="143" y="-13"/>
-			<point name="n32" x="235" y="-13" type="curve" smooth="yes"/>
-			<point x="313" y="-13"/>
-			<point x="357" y="25"/>
-			<point x="409" y="73" type="curve"/>
-			<point x="406" y="62"/>
-			<point x="405" y="38"/>
-			<point name="n38" x="403" y="0" type="curve"/>
-			<point name="n39" x="493" y="0" type="line"/>
-			<point x="490" y="25"/>
-			<point x="500" y="86"/>
-			<point x="522" y="183" type="curve" smooth="yes"/>
-			<point x="547" y="290" type="line" smooth="yes"/>
-			<point x="565" y="366"/>
-			<point x="571" y="412"/>
-			<point x="568" y="429" type="curve" smooth="yes"/>
-			<point x="558" y="486"/>
-			<point x="501" y="514"/>
-			<point name="n49" x="395" y="514" type="curve" smooth="yes"/>
-			<point x="261" y="514"/>
-			<point x="181" y="463"/>
-			<point name="n52" x="159" y="366" type="curve"/>
-			<point name="n53" x="252" y="366" type="line"/>
-			<point x="265" y="424"/>
-			<point x="325" y="447"/>
-			<point name="n56" x="383" y="447" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n57" x="424" y="637" type="curve" smooth="yes"/>
-			<point x="387" y="637"/>
-			<point x="349" y="661"/>
-			<point name="n60" x="349" y="691" type="curve"/>
-			<point name="n61" x="297" y="691" type="line"/>
-			<point x="290" y="627"/>
-			<point x="337" y="574"/>
-			<point name="n64" x="410" y="574" type="curve" smooth="yes"/>
-			<point x="484" y="574"/>
-			<point x="554" y="628"/>
-			<point x="578" y="691" type="curve"/>
-			<point x="526" y="691" type="line"/>
-			<point x="512" y="660"/>
-			<point x="462" y="637"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 249 67</string>
-							<string>hstem -13 68</string>
-							<string>hstem 447 67</string>
-							<string>hstem 574 63</string>
-							<string>vstem 159 93</string>
-							<string>vstem 297 52</string>
-							<string>vstem 403 90</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n38</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>vstem 403 90</string>
-							<string>hstem 447 67</string>
-							<string>vstem 159 93</string>
-							<string>hstem 574 63</string>
-							<string>vstem 297 52</string>
-							<string>hstem 249 67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>40274ff2948c9543a63d10da69f3f4567f8bdb51e9f6a49edcd6e2bf66acae34d7dd2a31d37386a6dee7bde4abf1425411dc9a49d387800a1836c27b733c6466</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="620"/>
+  <unicode hex="1EB1"/>
+  <anchor x="280" y="-60" name="bottom"/>
+  <anchor x="426" y="580" name="top"/>
+  <outline>
+    <component base="abreve"/>
+    <component base="gravecomb" xOffset="527" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>abreve+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

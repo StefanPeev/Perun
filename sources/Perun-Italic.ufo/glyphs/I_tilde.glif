@@ -1,81 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Itilde" format="2">
-	<unicode hex="0128"/>
-	<advance width="261"/>
-	<outline>
-		<contour>
-			<point name="n00" x="182" y="0" type="line"/>
-			<point name="n01" x="349" y="722" type="line"/>
-			<point x="248" y="722" type="line"/>
-			<point x="81" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="171" y="796" type="line"/>
-			<point x="265" y="796" type="line"/>
-			<point x="251" y="809"/>
-			<point x="247" y="819"/>
-			<point x="249" y="826" type="curve" smooth="yes"/>
-			<point x="251" y="833"/>
-			<point x="257" y="837"/>
-			<point name="n11" x="264" y="837" type="curve" smooth="yes"/>
-			<point x="272" y="837"/>
-			<point name="hr01" x="337" y="801"/>
-			<point name="n14" x="374" y="801" type="curve" smooth="yes"/>
-			<point x="423" y="801"/>
-			<point x="466" y="849"/>
-			<point x="482" y="899" type="curve"/>
-			<point x="427" y="899" type="line"/>
-			<point x="414" y="872"/>
-			<point x="400" y="858"/>
-			<point name="n21" x="387" y="858" type="curve" smooth="yes"/>
-			<point x="379" y="858"/>
-			<point name="hr02" x="314" y="894"/>
-			<point name="n24" x="275" y="894" type="curve" smooth="yes"/>
-			<point x="227" y="894"/>
-			<point x="185" y="845"/>
-			<point x="170" y="796" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 837 57</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr01</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 801 57</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr02</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 837 57</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>5b981d3e302f57458d3a521fd5618accb1f7ec32fc1f2bb28eacc14e24740174325c2f92fa508275fc500c3579232b82912fc714f75c92aef13a64b3f25b0bd2</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="261"/>
+  <unicode hex="0128"/>
+  <anchor x="214" y="-75" name="bottom"/>
+  <anchor x="133" y="10" name="bottomUC"/>
+  <anchor x="305" y="950" name="mkmktop"/>
+  <anchor x="304" y="800" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="tildecomb" xOffset="449" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+tildecomb</string>
+  </dict>
+  </lib>
 </glyph>

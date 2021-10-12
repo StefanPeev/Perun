@@ -1,46 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0429" format="2">
-	<unicode hex="0429"/>
-	<advance width="870"/>
-	<outline>
-		<contour>
-			<point name="n00" x="707.333" y="0" type="line"/>
-			<point x="672.667" y="-149.667" type="line"/>
-			<point x="795.667" y="-149.667" type="line"/>
-			<point x="855.667" y="109" type="line"/>
-			<point x="795.667" y="109" type="line"/>
-			<point name="n05" x="937.333" y="722" type="line"/>
-			<point x="807" y="722" type="line"/>
-			<point name="n07" x="665.333" y="109" type="line"/>
-			<point x="507.667" y="109" type="line"/>
-			<point x="649.333" y="722" type="line"/>
-			<point x="519" y="722" type="line"/>
-			<point x="377.333" y="109" type="line"/>
-			<point x="209" y="109" type="line"/>
-			<point x="350.667" y="722" type="line"/>
-			<point x="220.333" y="722" type="line"/>
-			<point x="53.3333" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 109</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>6ca4e52a36ff0fee113953ed6a21a40d32bf77e6d79e4563d64e992390b1a8075343f23b0bb351060b72862d55dc8cdc5519fe4d5c140a4b01e0d581dc19e56d</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="885"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="722.333" y="0" type="line"/>
+      <point x="687.667" y="-149.667" type="line"/>
+      <point x="810.667" y="-149.667" type="line"/>
+      <point x="870.667" y="109" type="line"/>
+      <point x="810.667" y="109" type="line"/>
+      <point x="952.333" y="722" type="line"/>
+      <point x="822" y="722" type="line"/>
+      <point x="680.333" y="109" type="line"/>
+      <point x="522.667" y="109" type="line"/>
+      <point x="664.333" y="722" type="line"/>
+      <point x="534" y="722" type="line"/>
+      <point x="392.333" y="109" type="line"/>
+      <point x="224" y="109" type="line"/>
+      <point x="365.667" y="722" type="line"/>
+      <point x="235.333" y="722" type="line"/>
+      <point x="68.3333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  </dict>
+  </lib>
 </glyph>

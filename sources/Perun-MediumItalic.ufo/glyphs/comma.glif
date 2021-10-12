@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="2">
-	<unicode hex="002C"/>
-	<advance width="287"/>
-	<outline>
-		<contour>
-			<point name="n00" x="267.667" y="123" type="line"/>
-			<point name="n01" x="142.333" y="123" type="line"/>
-			<point name="n02" x="18.6667" y="-127.667" type="line"/>
-			<point name="n03" x="97" y="-127.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -127.67 250.67</string>
-							<string>vstem 18.67 249</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w287m267.67,123l142.33,123l18.67,-127.67l97,-127.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="287"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="267.667" y="123" type="line"/>
+      <point x="142.333" y="123" type="line"/>
+      <point x="18.6667" y="-127.667" type="line"/>
+      <point x="97" y="-127.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

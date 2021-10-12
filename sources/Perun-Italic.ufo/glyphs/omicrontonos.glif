@@ -1,63 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-	<unicode hex="03CC"/>
-	<advance width="572"/>
-	<outline>
-		<contour>
-			<point x="495" y="248" type="curve" smooth="yes"/>
-			<point x="472" y="148"/>
-			<point x="399" y="51"/>
-			<point name="n03" x="298" y="51" type="curve" smooth="yes"/>
-			<point x="197" y="51"/>
-			<point x="168" y="148"/>
-			<point x="191" y="248" type="curve" smooth="yes"/>
-			<point x="214" y="349"/>
-			<point x="288" y="447"/>
-			<point name="n09" x="389" y="447" type="curve" smooth="yes"/>
-			<point x="490" y="447"/>
-			<point x="518" y="349"/>
-		</contour>
-		<contour>
-			<point x="590" y="250" type="line"/>
-			<point x="627" y="410"/>
-			<point x="557" y="512"/>
-			<point name="n15" x="404" y="512" type="curve" smooth="yes"/>
-			<point x="251" y="512"/>
-			<point x="134" y="408"/>
-			<point x="97" y="249" type="curve" smooth="yes"/>
-			<point x="60" y="90"/>
-			<point x="130" y="-14"/>
-			<point name="n21" x="283" y="-14" type="curve" smooth="yes"/>
-			<point x="436" y="-14"/>
-			<point x="552" y="88"/>
-			<point x="589" y="248" type="curve"/>
-		</contour>
-		<contour>
-			<point x="547" y="782" type="line"/>
-			<point x="447" y="782" type="line"/>
-			<point x="338" y="572" type="line"/>
-			<point x="408" y="572" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 65</string>
-							<string>hstem 447 65</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>a37f15f3b8a7d281b0e3755c12dfc9900c2c8d3063f1e5f6d9d3573b9d8fc9b6064d0e6afecf81e023a6543107f5579fde8890f2dd73fcea097ca18a3b2f6345</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="618"/>
+  <unicode hex="03CC"/>
+  <anchor x="296" y="-60" name="bottom"/>
+  <anchor x="439" y="580" name="top"/>
+  <outline>
+    <component base="omicron"/>
+    <component base="tonos" xOffset="305" yOffset="68"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>omicron+tonos</string>
+  </dict>
+  </lib>
 </glyph>

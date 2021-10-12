@@ -1,39 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="2">
-	<unicode hex="201E"/>
-	<advance width="479"/>
-	<outline>
-		<contour>
-			<point name="n00" x="476" y="123" type="line"/>
-			<point x="340" y="123" type="line"/>
-			<point x="203" y="-129" type="line"/>
-			<point x="298" y="-129" type="line"/>
-		</contour>
-		<contour>
-			<point x="275" y="123" type="line"/>
-			<point x="139" y="123" type="line"/>
-			<point x="2" y="-129" type="line"/>
-			<point name="n07" x="97" y="-129" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -129 252</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w479m476,123l340,123l203,-129l298,-129m275,123l139,123l2,-129l97,-129</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="479"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="476" y="123" type="line"/>
+      <point x="340" y="123" type="line"/>
+      <point x="203" y="-129" type="line"/>
+      <point x="298" y="-129" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="123" type="line"/>
+      <point x="139" y="123" type="line"/>
+      <point x="2" y="-129" type="line"/>
+      <point x="97" y="-129" type="line"/>
+    </contour>
+  </outline>
 </glyph>

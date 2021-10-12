@@ -1,38 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lambda" format="2">
-	<unicode hex="039B"/>
-	<advance width="654"/>
-	<outline>
-		<contour>
-			<point name="n00" x="15" y="0" type="line"/>
-			<point x="128" y="0" type="line"/>
-			<point x="464" y="592" type="line"/>
-			<point name="n03" x="526" y="0" type="line"/>
-			<point name="n04" x="639" y="0" type="line"/>
-			<point name="n05" x="549" y="722" type="line"/>
-			<point x="439" y="722" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 526 113</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w654m15,0l128,0l464,592l526,0l639,0l549,722l439,722</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="658"/>
+  <unicode hex="039B"/>
+  <outline>
+    <component base="uni041B.loclBGR"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni041B.loclBGR</string>
+  </dict>
+  </lib>
 </glyph>

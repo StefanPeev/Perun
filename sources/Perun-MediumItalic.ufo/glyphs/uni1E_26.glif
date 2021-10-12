@@ -1,56 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E26" format="2">
-	<unicode hex="1E26"/>
-	<advance width="669"/>
-	<outline>
-		<contour>
-			<point name="n00" x="608" y="0" type="line"/>
-			<point name="n01" x="775" y="722" type="line"/>
-			<point x="674" y="722" type="line"/>
-			<point x="602" y="413" type="line"/>
-			<point name="n04" x="255" y="413" type="line"/>
-			<point x="327" y="722" type="line"/>
-			<point x="226" y="722" type="line"/>
-			<point x="59" y="0" type="line"/>
-			<point x="160" y="0" type="line"/>
-			<point name="n09" x="235" y="326" type="line"/>
-			<point x="582" y="326" type="line"/>
-			<point x="507" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n12" x="463" y="796" type="line"/>
-			<point name="n13" x="484" y="888" type="line"/>
-			<point x="394" y="888" type="line"/>
-			<point x="373" y="796" type="line"/>
-		</contour>
-		<contour>
-			<point x="663" y="796" type="line"/>
-			<point x="684" y="888" type="line"/>
-			<point x="594" y="888" type="line"/>
-			<point x="573" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 326 87</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 796 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>ca87c21c246978c6a1a5171598954a40f1fab4d4cf432e97ce9b22590e5c95467f7cecaca1032a79a1c6f26819cae14411610d3b7ea3dbdae7203cb9305057d7</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="703"/>
+  <unicode hex="1E26"/>
+  <anchor x="371.667" y="-65" name="bottom"/>
+  <anchor x="540.333" y="963.333" name="mkmktop"/>
+  <anchor x="511.667" y="800" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="uni0308" xOffset="658" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>H+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

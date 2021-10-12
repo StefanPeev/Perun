@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0326" format="2">
-	<unicode hex="0326"/>
-	<outline>
-		<contour>
-			<point name="n00" x="-220" y="-57" type="line"/>
-			<point name="n01" x="-340" y="-57" type="line"/>
-			<point name="n02" x="-458" y="-307" type="line"/>
-			<point name="n03" x="-388" y="-307" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -307 250</string>
-							<string>vstem -458 238</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w0m-220,-57l-340,-57l-458,-307l-388,-307</string>
-			</dict>
-		</dict>
-	</lib>
+  <unicode hex="0326"/>
+  <anchor x="-293.667" y="-60" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-213.333" y="-57" type="line"/>
+      <point x="-343.333" y="-57" type="line"/>
+      <point x="-458" y="-307" type="line"/>
+      <point x="-384.667" y="-307" type="line"/>
+    </contour>
+  </outline>
 </glyph>

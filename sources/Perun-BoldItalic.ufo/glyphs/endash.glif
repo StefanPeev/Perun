@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="2">
-	<unicode hex="2013"/>
-	<advance width="500"/>
-	<outline>
-		<contour>
-			<point name="n00" x="546" y="200" type="line"/>
-			<point name="n01" x="572" y="311" type="line"/>
-			<point x="72" y="311" type="line"/>
-			<point x="46" y="200" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 200 111</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w500m546,200l572,311l72,311l46,200</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="500"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="546" y="200" type="line"/>
+      <point x="572" y="311" type="line"/>
+      <point x="72" y="311" type="line"/>
+      <point x="46" y="200" type="line"/>
+    </contour>
+  </outline>
 </glyph>

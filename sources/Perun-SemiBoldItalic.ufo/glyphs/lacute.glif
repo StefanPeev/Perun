@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-	<unicode hex="013A"/>
-	<advance width="253"/>
-	<outline>
-		<contour>
-			<point name="n00" x="413" y="641.333" type="line"/>
-			<point name="n01" x="382" y="882" type="line"/>
-			<point x="264" y="762" type="line"/>
-			<point x="255" y="521.333" type="line"/>
-		</contour>
-		<contour>
-			<point x="301.667" y="317.667" type="line"/>
-			<point x="379.333" y="799" type="line"/>
-			<point x="243" y="742" type="line"/>
-			<point x="152" y="260.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 662.33 -21</string>
-							<string>hstem 882 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w253m413,641.33l382,882l264,762l255,521.33m301.67,317.67l379.33,799l243,742l152,260.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="268"/>
+  <unicode hex="013A"/>
+  <anchor x="123.333" y="-60" name="bottom"/>
+  <anchor x="383.667" y="361" name="dotCN"/>
+  <anchor x="308.333" y="800" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="acutecomb" xOffset="481.667" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

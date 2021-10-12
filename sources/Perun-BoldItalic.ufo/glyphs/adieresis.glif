@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis" format="2">
-	<unicode hex="00E4"/>
-	<advance width="612"/>
-	<outline>
-		<component base="a"/>
-		<component base="uni0308" xOffset="72" yOffset="-11"/>
-	</outline>
-	<anchor name="top" x="379" y="589"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>a+uni0308</string>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="00E4"/>
+  <anchor x="266" y="-60" name="bottom"/>
+  <anchor x="454" y="750" name="mkmktop"/>
+  <anchor x="424" y="580" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni0308" xOffset="563" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

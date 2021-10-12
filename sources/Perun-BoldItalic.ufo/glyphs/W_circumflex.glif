@@ -1,54 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wcircumflex" format="2">
-	<unicode hex="0174"/>
-	<advance width="972"/>
-	<outline>
-		<contour>
-			<point name="n00" x="1124" y="722" type="line"/>
-			<point x="1018" y="722" type="line"/>
-			<point x="733" y="150" type="line"/>
-			<point name="n03" x="713" y="722" type="line"/>
-			<point x="593" y="722" type="line"/>
-			<point x="309" y="150" type="line"/>
-			<point name="n06" x="288" y="722" type="line"/>
-			<point name="n07" x="182" y="722" type="line"/>
-			<point name="n08" x="229" y="0" type="line"/>
-			<point x="319" y="0" type="line"/>
-			<point name="n10" x="625" y="602" type="line"/>
-			<point x="653" y="0" type="line"/>
-			<point x="743" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="815" y="796" type="line"/>
-			<point x="764" y="966" type="line"/>
-			<point x="654" y="966" type="line"/>
-			<point x="525" y="796" type="line"/>
-			<point x="585" y="796" type="line"/>
-			<point x="695" y="906" type="line"/>
-			<point x="755" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 182 106</string>
-							<string>vstem 625 88</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>62c0bf08e42e62af3f16c46d2370e749bcfe40f7752257dd482cfe348e9395a56ad44991b765bc87a18a65343469474f0ed408821d7628150e56383e686d2e35</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <unicode hex="0174"/>
+  <anchor x="490" y="-60" name="bottom"/>
+  <anchor x="677" y="800" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="uni0302" xOffset="846" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

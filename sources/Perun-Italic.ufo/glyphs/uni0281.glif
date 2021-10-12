@@ -1,68 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0281" format="2">
-	<unicode hex="0281"/>
-	<advance width="466"/>
-	<outline>
-		<contour>
-			<point x="378" y="137" type="curve" smooth="yes"/>
-			<point x="367" y="89"/>
-			<point x="344" y="74"/>
-			<point name="n03" x="246" y="74" type="curve" smooth="yes"/>
-			<point x="155" y="74" type="line"/>
-			<point x="186" y="206" type="line"/>
-			<point name="n06" x="277" y="206" type="line" smooth="yes"/>
-			<point x="365" y="206"/>
-			<point x="390" y="187"/>
-		</contour>
-		<contour>
-			<point name="n09" x="552" y="500" type="line"/>
-			<point x="472" y="500" type="line"/>
-			<point x="400" y="335"/>
-			<point x="397" y="314"/>
-			<point x="370" y="296" type="curve" smooth="yes"/>
-			<point x="354" y="285"/>
-			<point x="320" y="280"/>
-			<point name="n16" x="264" y="280" type="curve" smooth="yes"/>
-			<point x="201" y="280" type="line"/>
-			<point x="251" y="500" type="line"/>
-			<point x="172" y="500" type="line"/>
-			<point x="57" y="0" type="line"/>
-			<point name="n21" x="229" y="0" type="line" smooth="yes"/>
-			<point x="362" y="0"/>
-			<point x="432" y="39"/>
-			<point x="455" y="137" type="curve" smooth="yes"/>
-			<point x="465" y="180"/>
-			<point x="442" y="216"/>
-			<point x="386" y="245" type="curve"/>
-			<point x="429" y="261" type="line"/>
-			<point x="444" y="268"/>
-			<point x="458" y="274"/>
-			<point x="499" y="383" type="curve" smooth="yes"/>
-			<point x="517" y="430"/>
-			<point x="535" y="469"/>
-			<point x="554" y="500" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 74</string>
-							<string>hstem 206 74</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>a9a7fcf2db1fb51f407d12af65e5228a41ce444a9ad6f7ce2c1959e8c35df7ea05b2f96e14771bf6af262a69ab002f6a10f274bb31c59fba55c4a87653571e83</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="576"/>
+  <unicode hex="0281"/>
+  <outline>
+    <component base="uni044F" xScale="-1" yScale="-1" xOffset="666" yOffset="500"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni044F</string>
+  </dict>
+  </lib>
 </glyph>

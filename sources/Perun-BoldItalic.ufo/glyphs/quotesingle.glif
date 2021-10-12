@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="2">
-	<unicode hex="0027"/>
-	<advance width="409"/>
-	<outline>
-		<contour>
-			<point name="n00" x="447" y="722" type="line"/>
-			<point name="n01" x="297" y="722" type="line"/>
-			<point name="n02" x="256" y="432" type="line"/>
-			<point name="n03" x="354" y="432" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 432 290</string>
-							<string>vstem 256 191</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w409m447,722l297,722l256,432l354,432</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="409"/>
+  <unicode hex="0027"/>
+  <anchor x="237" y="722" name="_dcaron"/>
+  <outline>
+    <contour>
+      <point x="447" y="722" type="line"/>
+      <point x="297" y="722" type="line"/>
+      <point x="256" y="432" type="line"/>
+      <point x="354" y="432" type="line"/>
+    </contour>
+  </outline>
 </glyph>

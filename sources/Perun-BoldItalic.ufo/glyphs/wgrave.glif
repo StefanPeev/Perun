@@ -1,50 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wgrave" format="2">
-	<unicode hex="1E81"/>
-	<advance width="814"/>
-	<outline>
-		<contour>
-			<point name="n00" x="913" y="500" type="line"/>
-			<point x="817" y="500" type="line"/>
-			<point x="609" y="110" type="line"/>
-			<point x="581" y="500" type="line"/>
-			<point x="461" y="500" type="line"/>
-			<point x="253" y="110" type="line"/>
-			<point name="n06" x="225" y="500" type="line"/>
-			<point name="n07" x="129" y="500" type="line"/>
-			<point name="n08" x="183" y="0" type="line"/>
-			<point x="273" y="0" type="line"/>
-			<point x="502" y="415" type="line"/>
-			<point x="539" y="0" type="line"/>
-			<point x="629" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="569" y="573" type="line"/>
-			<point x="509" y="744" type="line"/>
-			<point x="408" y="744" type="line"/>
-			<point x="508" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 129 96</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>d91c5e26b84ab3bb69aa2746fd80f323efe520162efe05071f4c44ea4d5858597ec2700189568f812f9bd8134615240997755364258444232357e7e24a765a39</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="887"/>
+  <unicode hex="1E81"/>
+  <anchor x="437" y="-60" name="bottom"/>
+  <anchor x="562" y="580" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="gravecomb" xOffset="677" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

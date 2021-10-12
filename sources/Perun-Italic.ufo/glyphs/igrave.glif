@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="2">
-	<unicode hex="00EC"/>
-	<advance width="229"/>
-	<outline>
-		<contour>
-			<point name="n00" x="160" y="0" type="line"/>
-			<point name="n01" x="275" y="500" type="line"/>
-			<point x="185" y="500" type="line"/>
-			<point name="n03" x="70" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="315" y="600" type="line"/>
-			<point x="248" y="771" type="line"/>
-			<point x="153" y="771" type="line"/>
-			<point x="254" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 70 245</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w229m160,0l275,500l185,500l70,0m315,600l248,771l153,771l254,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="229"/>
+  <unicode hex="00EC"/>
+  <anchor x="106" y="-60" name="bottom"/>
+  <anchor x="233" y="580" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="gravecomb" xOffset="327" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

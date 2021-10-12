@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni029F" format="2">
-	<unicode hex="029F"/>
-	<advance width="392"/>
-	<outline>
-		<contour>
-			<point name="n00" x="372" y="0" type="line"/>
-			<point name="n01" x="387" y="67" type="line"/>
-			<point x="151" y="67" type="line"/>
-			<point x="250" y="495" type="line"/>
-			<point x="171" y="495" type="line"/>
-			<point name="n05" x="57" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 67</string>
-							<string>vstem 57 330</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w392m372,0l387,67l151,67l250,495l171,495l57,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="392"/>
+  <unicode hex="029F"/>
+  <outline>
+    <contour>
+      <point x="372" y="0" type="line"/>
+      <point x="387" y="69" type="line"/>
+      <point x="162" y="69" type="line"/>
+      <point x="261" y="500" type="line"/>
+      <point x="172" y="500" type="line"/>
+      <point x="57" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

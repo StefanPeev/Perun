@@ -1,38 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="2">
-	<unicode hex="03A0"/>
-	<advance width="669"/>
-	<outline>
-		<contour>
-			<point name="n00" x="609" y="0" type="line"/>
-			<point x="776" y="722" type="line"/>
-			<point name="n02" x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-			<point x="161" y="0" type="line"/>
-			<point name="n05" x="308" y="635" type="line"/>
-			<point x="655" y="635" type="line"/>
-			<point x="508" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w669m609,0l776,722l227,722l60,0l161,0l308,635l655,635l508,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="701"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <component base="uni041F"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni041F</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="2">
-	<unicode hex="0393"/>
-	<advance width="528"/>
-	<outline>
-		<contour>
-			<point name="n00" x="641" y="625.667" type="line"/>
-			<point name="n01" x="663.333" y="722" type="line"/>
-			<point x="230.333" y="722" type="line"/>
-			<point name="n03" x="63.3333" y="0" type="line"/>
-			<point x="179" y="0" type="line"/>
-			<point x="323.667" y="625.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 625.67 96.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w528m641,625.67l663.33,722l230.33,722l63.33,0l179,0l323.67,625.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="528"/>
+  <unicode hex="0393"/>
+  <outline>
+    <contour>
+      <point x="641" y="625.667" type="line"/>
+      <point x="663.333" y="722" type="line"/>
+      <point x="230.333" y="722" type="line"/>
+      <point x="63.3333" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="323.667" y="625.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

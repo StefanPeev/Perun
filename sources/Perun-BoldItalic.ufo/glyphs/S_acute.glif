@@ -1,76 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="2">
-	<unicode hex="015A"/>
-	<advance width="642"/>
-	<outline>
-		<contour>
-			<point x="586" y="540" type="line"/>
-			<point x="687" y="540" type="line"/>
-			<point x="719" y="678"/>
-			<point x="622" y="737"/>
-			<point name="n04" x="474" y="737" type="curve" smooth="yes"/>
-			<point x="381" y="737"/>
-			<point x="214" y="680"/>
-			<point x="181" y="538" type="curve" smooth="yes"/>
-			<point x="112" y="237"/>
-			<point x="586" y="418"/>
-			<point x="534" y="193" type="curve" smooth="yes"/>
-			<point x="510" y="90"/>
-			<point x="403" y="73"/>
-			<point name="n13" x="301" y="73" type="curve" smooth="yes"/>
-			<point x="223" y="73"/>
-			<point x="181" y="136"/>
-			<point x="199" y="214" type="curve"/>
-			<point x="97" y="214" type="line"/>
-			<point x="65" y="75"/>
-			<point x="145" y="-15"/>
-			<point name="n20" x="284" y="-15" type="curve" smooth="yes"/>
-			<point x="429" y="-15"/>
-			<point x="597" y="32"/>
-			<point x="636" y="199" type="curve" smooth="yes"/>
-			<point x="704" y="494"/>
-			<point x="237" y="341"/>
-			<point x="281" y="533" type="curve" smooth="yes"/>
-			<point x="299" y="609"/>
-			<point x="353" y="647"/>
-			<point name="n29" x="446" y="647" type="curve" smooth="yes"/>
-			<point x="537" y="647"/>
-			<point x="604" y="630"/>
-			<point x="583" y="538" type="curve"/>
-		</contour>
-		<contour>
-			<point x="699" y="967" type="line"/>
-			<point x="598" y="967" type="line"/>
-			<point x="459" y="796" type="line"/>
-			<point x="520" y="796" type="line"/>
-		</contour>
-		<contour>
-			<point name="n37" x="708" y="1027" type="line"/>
-			<point name="n38" x="731" y="1127" type="line"/>
-			<point x="641" y="1127" type="line"/>
-			<point x="618" y="1027" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -15 88</string>
-							<string>hstem 647 90</string>
-							<string>hstem 1027 100</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>4d9e4188039273c38ed2242acecfa2c348204abb3a262efd66f6ede355e46a84fe31020b41409e5ad62466bcecbd9b371987966a4375e99bd77452c65bd9c8ca</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="682"/>
+  <unicode hex="015A"/>
+  <anchor x="498" y="800" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="acutecomb" xOffset="665" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

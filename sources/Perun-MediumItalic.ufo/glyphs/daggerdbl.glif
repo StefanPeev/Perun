@@ -1,51 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
-	<unicode hex="2021"/>
-	<advance width="554"/>
-	<outline>
-		<contour>
-			<point name="n00" x="521.333" y="62" type="line"/>
-			<point name="n01" x="540.333" y="144.667" type="line"/>
-			<point x="358" y="144.667" type="line"/>
-			<point name="n03" x="421" y="417.333" type="line"/>
-			<point x="603.333" y="417.333" type="line"/>
-			<point x="622.333" y="500" type="line"/>
-			<point name="n06" x="440" y="500" type="line"/>
-			<point name="n07" x="492" y="722" type="line"/>
-			<point x="396.667" y="722" type="line"/>
-			<point x="344.667" y="500" type="line"/>
-			<point x="162.333" y="500" type="line"/>
-			<point x="143.333" y="417.333" type="line"/>
-			<point x="325.667" y="417.333" type="line"/>
-			<point x="262.667" y="144.667" type="line"/>
-			<point x="80.3333" y="144.667" type="line"/>
-			<point x="61.3333" y="62" type="line"/>
-			<point x="243.667" y="62" type="line"/>
-			<point x="192.667" y="-160" type="line"/>
-			<point x="288" y="-160" type="line"/>
-			<point x="339" y="62" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 62 82.67</string>
-							<string>hstem 417.33 82.67</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>bee8ddf4c885f4c829a1360ab1a4ad7611f5c9e777099f6a61641a29ee642ed6ebc606371391cebe7c63d69bc25c2e6f7664692262bca9b33bf2353d6f96064f</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="554"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="521.333" y="62" type="line"/>
+      <point x="540.333" y="144.667" type="line"/>
+      <point x="358" y="144.667" type="line"/>
+      <point x="421" y="417.333" type="line"/>
+      <point x="603.333" y="417.333" type="line"/>
+      <point x="622.333" y="500" type="line"/>
+      <point x="440" y="500" type="line"/>
+      <point x="492" y="722" type="line"/>
+      <point x="396.667" y="722" type="line"/>
+      <point x="344.667" y="500" type="line"/>
+      <point x="162.333" y="500" type="line"/>
+      <point x="143.333" y="417.333" type="line"/>
+      <point x="325.667" y="417.333" type="line"/>
+      <point x="262.667" y="144.667" type="line"/>
+      <point x="80.3333" y="144.667" type="line"/>
+      <point x="61.3333" y="62" type="line"/>
+      <point x="243.667" y="62" type="line"/>
+      <point x="192.667" y="-160" type="line"/>
+      <point x="288" y="-160" type="line"/>
+      <point x="339" y="62" type="line"/>
+    </contour>
+  </outline>
 </glyph>

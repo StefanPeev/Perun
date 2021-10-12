@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-	<unicode hex="00B4"/>
-	<advance width="161"/>
-	<outline>
-		<contour>
-			<point name="n00" x="307" y="722" type="line"/>
-			<point name="n01" x="207" y="722" type="line"/>
-			<point name="n02" x="98" y="512" type="line"/>
-			<point name="n03" x="168" y="512" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 512 210</string>
-							<string>vstem 98 209</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w161m307,722l207,722l98,512l168,512</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="161"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="307" y="722" type="line"/>
+      <point x="207" y="722" type="line"/>
+      <point x="98" y="512" type="line"/>
+      <point x="168" y="512" type="line"/>
+    </contour>
+  </outline>
 </glyph>

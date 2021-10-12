@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-	<unicode hex="007A"/>
-	<advance width="448"/>
-	<outline>
-		<contour>
-			<point name="n00" x="408" y="0" type="line"/>
-			<point name="n01" x="424" y="70" type="line"/>
-			<point x="156" y="70" type="line"/>
-			<point x="504" y="417" type="line"/>
-			<point x="523" y="500" type="line"/>
-			<point name="n05" x="175" y="500" type="line"/>
-			<point name="n06" x="159" y="430" type="line"/>
-			<point x="405" y="430" type="line"/>
-			<point x="59" y="83" type="line"/>
-			<point x="40" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 70</string>
-							<string>hstem 430 70</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w448m408,0l424,70l156,70l504,417l523,500l175,500l159,430l405,430l59,83l40,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="457"/>
+  <unicode hex="007A"/>
+  <anchor x="249" y="-60" name="bottom"/>
+  <anchor x="349" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="415" y="0" type="line"/>
+      <point x="431" y="69" type="line"/>
+      <point x="163" y="69" type="line"/>
+      <point x="511" y="418" type="line"/>
+      <point x="530" y="500" type="line"/>
+      <point x="182" y="500" type="line"/>
+      <point x="166" y="431" type="line"/>
+      <point x="412" y="431" type="line"/>
+      <point x="66" y="82" type="line"/>
+      <point x="47" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

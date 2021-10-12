@@ -1,49 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="2">
-	<unicode hex="017D"/>
-	<advance width="615"/>
-	<outline>
-		<contour>
-			<point name="n00" x="571" y="0" type="line"/>
-			<point name="n01" x="591" y="87" type="line"/>
-			<point x="175" y="87" type="line"/>
-			<point x="702" y="612" type="line"/>
-			<point x="728" y="722" type="line"/>
-			<point name="n05" x="232" y="722" type="line"/>
-			<point name="n06" x="212" y="635" type="line"/>
-			<point x="598" y="635" type="line"/>
-			<point x="70" y="110" type="line"/>
-			<point x="45" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="672" y="992" type="line"/>
-			<point x="612" y="992" type="line"/>
-			<point x="502" y="882" type="line"/>
-			<point x="442" y="992" type="line"/>
-			<point x="382" y="992" type="line"/>
-			<point x="433" y="822" type="line"/>
-			<point x="543" y="822" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>fe4f8eb28dc0cb03c183316d0d6173ef8d9621a79d04c6ba9517395bcd924e252ea79e9d211add3e9c878967612af2a863021dec0786f779d2e28f75caee3ebc</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="628"/>
+  <unicode hex="017D"/>
+  <anchor x="482.667" y="800" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="uni030C" xOffset="644" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Z+uni030C</string>
+  </dict>
+  </lib>
 </glyph>

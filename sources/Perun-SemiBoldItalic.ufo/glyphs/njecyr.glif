@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="njecyr" format="2">
+  <advance width="914"/>
+  <unicode hex="045A"/>
+  <outline>
+    <component base="uni044C" xOffset="323.333"/>
+    <contour>
+      <point x="557" y="201" type="line"/>
+      <point x="627" y="500" type="line"/>
+      <point x="506.333" y="500" type="line"/>
+      <point x="462" y="306" type="line"/>
+      <point x="247.333" y="306" type="line"/>
+      <point x="291.667" y="500" type="line"/>
+      <point x="171.667" y="500" type="line"/>
+      <point x="56.6667" y="0" type="line"/>
+      <point x="176.667" y="0" type="line"/>
+      <point x="228" y="221.667" type="line"/>
+      <point x="443.333" y="221.667" type="line"/>
+      <point x="439" y="201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni043D_uni044C</string>
+  </dict>
+  </lib>
+</glyph>

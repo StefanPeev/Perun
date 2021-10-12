@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ljecyr" format="2">
+  <advance width="912"/>
+  <unicode hex="0459"/>
+  <outline>
+    <component base="uni044C" xOffset="312"/>
+    <contour>
+      <point x="38" y="75" type="curve"/>
+      <point x="21" y="0" type="line"/>
+      <point x="30" y="-3"/>
+      <point x="61" y="-7"/>
+      <point x="72" y="-7" type="curve" smooth="yes"/>
+      <point x="189" y="-7"/>
+      <point x="250" y="87"/>
+      <point x="305" y="327" type="curve" smooth="yes"/>
+      <point x="330" y="435" type="line"/>
+      <point x="500" y="435" type="line"/>
+      <point x="447" y="204" type="line"/>
+      <point x="538" y="204" type="line"/>
+      <point x="605" y="500" type="line"/>
+      <point x="255" y="500" type="line"/>
+      <point x="226" y="372" type="line" smooth="yes"/>
+      <point x="173" y="143"/>
+      <point x="135" y="69"/>
+      <point x="70" y="69" type="curve" smooth="yes"/>
+      <point x="63" y="69"/>
+      <point x="44" y="73"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni043B_uni044C</string>
+  </dict>
+  </lib>
+</glyph>

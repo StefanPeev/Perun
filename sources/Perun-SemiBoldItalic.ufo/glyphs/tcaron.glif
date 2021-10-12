@@ -1,61 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="2">
-	<unicode hex="0165"/>
-	<advance width="370"/>
-	<outline>
-		<contour>
-			<point x="250" y="131" type="line"/>
-			<point name="n01" x="321" y="436" type="line"/>
-			<point x="378" y="436" type="line"/>
-			<point x="354" y="386" type="line"/>
-			<point x="424" y="386" type="line"/>
-			<point x="592" y="636" type="line"/>
-			<point x="472" y="636" type="line"/>
-			<point x="407" y="500" type="line"/>
-			<point name="n08" x="335" y="500" type="line"/>
-			<point x="367" y="636" type="line"/>
-			<point x="268" y="599" type="line"/>
-			<point x="245" y="500" type="line"/>
-			<point x="155" y="500" type="line"/>
-			<point x="141" y="436" type="line"/>
-			<point x="231" y="436" type="line"/>
-			<point x="160" y="131" type="line" smooth="yes"/>
-			<point x="138" y="35"/>
-			<point x="154" y="-14"/>
-			<point x="240" y="-14" type="curve" smooth="yes"/>
-			<point name="n19" x="252" y="-14" type="line"/>
-			<point x="281" y="-13"/>
-			<point x="307" y="-9"/>
-			<point x="330" y="-2" type="curve"/>
-			<point x="344" y="62" type="line"/>
-			<point x="327" y="57"/>
-			<point x="308" y="54"/>
-			<point x="287" y="53" type="curve"/>
-			<point name="n27" x="281" y="53" type="line" smooth="yes"/>
-			<point x="243" y="53"/>
-			<point x="240" y="83"/>
-			<point x="250" y="128" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 67</string>
-							<string>hstem 436 64</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>e615c2ab78df7a218089a0fb2da0032754e0fd093ddfbe4a0bd8280316c23117e09d90fbb2326605ea81114221bac8545cb07080e1ac0ff0703c26ce89cd3886</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="672"/>
+  <unicode hex="0165"/>
+  <anchor x="223.667" y="-60" name="bottom"/>
+  <anchor x="235.333" y="10" name="cedillaC"/>
+  <anchor x="499.667" y="816" name="leftTM"/>
+  <anchor x="343" y="700" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="quoteright" xOffset="286" yOffset="94"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>t_quoteright</string>
+  </dict>
+  </lib>
 </glyph>

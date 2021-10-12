@@ -1,51 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wacute" format="2">
-	<unicode hex="1E82"/>
-	<advance width="972"/>
-	<outline>
-		<contour>
-			<point name="n00" x="1123" y="722" type="line"/>
-			<point x="1017" y="722" type="line"/>
-			<point x="732" y="150" type="line"/>
-			<point name="n03" x="712" y="722" type="line"/>
-			<point x="592" y="722" type="line"/>
-			<point x="308" y="150" type="line"/>
-			<point name="n06" x="287" y="722" type="line"/>
-			<point name="n07" x="181" y="722" type="line"/>
-			<point name="n08" x="228" y="0" type="line"/>
-			<point x="318" y="0" type="line"/>
-			<point name="n10" x="624" y="602" type="line"/>
-			<point x="652" y="0" type="line"/>
-			<point x="742" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="879" y="967" type="line"/>
-			<point x="778" y="967" type="line"/>
-			<point x="639" y="796" type="line"/>
-			<point x="700" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 181 106</string>
-							<string>vstem 624 88</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>a93d5b4c8cf98a866d4ad6708d49aa4bd946cf9891d0ea903fb80a0682c7bfce6b8e57461034934e5f6a96d99bfce286c1d2f1abb889e7eb3b8d21f744e9eb7e</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <unicode hex="1E82"/>
+  <anchor x="490" y="-60" name="bottom"/>
+  <anchor x="677" y="800" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="acutecomb" xOffset="844" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

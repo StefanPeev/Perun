@@ -1,41 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni027C" format="2">
-	<unicode hex="027C"/>
-	<advance width="363"/>
-	<outline>
-		<contour>
-			<point x="135" y="500" type="line"/>
-			<point x="-26" y="-200" type="line"/>
-			<point x="64" y="-200" type="line"/>
-			<point x="175" y="280" type="line" smooth="yes"/>
-			<point x="196" y="373"/>
-			<point x="268" y="420"/>
-			<point name="n06" x="390" y="420" type="curve"/>
-			<point name="n07" x="408" y="500" type="line"/>
-			<point x="301" y="500"/>
-			<point x="255" y="486"/>
-			<point x="211" y="432" type="curve"/>
-			<point x="226" y="500" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 420 80</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w363m135,500l-26,-200l64,-200l175,280c196,373 268,420 390,420l408,500c301,500 255,486 211,432l226,500</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="408"/>
+  <unicode hex="027C"/>
+  <outline>
+    <component base="r"/>
+    <contour>
+      <point x="162" y="-198" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="27" y="-198" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>r</string>
+  </dict>
+  </lib>
 </glyph>

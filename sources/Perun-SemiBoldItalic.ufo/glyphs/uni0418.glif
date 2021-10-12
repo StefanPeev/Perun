@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0418" format="2">
-	<unicode hex="0418"/>
-	<advance width="683"/>
-	<outline>
-		<contour>
-			<point name="n00" x="51.3333" y="0" type="line"/>
-			<point x="210.667" y="0" type="line"/>
-			<point x="621" y="534" type="line"/>
-			<point x="497.333" y="0" type="line"/>
-			<point x="624.333" y="0" type="line"/>
-			<point name="n05" x="791.333" y="722" type="line"/>
-			<point x="628.333" y="722" type="line"/>
-			<point x="221.667" y="188.667" type="line"/>
-			<point x="345.333" y="722" type="line"/>
-			<point x="218.333" y="722" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w683m51.33,0l210.67,0l621,534l497.33,0l624.33,0l791.33,722l628.33,722l221.67,188.67l345.33,722l218.33,722</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="683"/>
+  <unicode hex="0418"/>
+  <anchor x="501.667" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="51.3333" y="0" type="line"/>
+      <point x="210.667" y="0" type="line"/>
+      <point x="621" y="534" type="line"/>
+      <point x="497.333" y="0" type="line"/>
+      <point x="624.333" y="0" type="line"/>
+      <point x="791.333" y="722" type="line"/>
+      <point x="628.333" y="722" type="line"/>
+      <point x="221.667" y="188.667" type="line"/>
+      <point x="345.333" y="722" type="line"/>
+      <point x="218.333" y="722" type="line"/>
+    </contour>
+  </outline>
 </glyph>

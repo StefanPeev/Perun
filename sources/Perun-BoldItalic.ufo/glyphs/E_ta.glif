@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eta" format="2">
-	<unicode hex="0397"/>
-	<advance width="714"/>
-	<outline>
-		<component base="H"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>H</string>
-		</dict>
-	</lib>
+  <advance width="702"/>
+  <unicode hex="0397"/>
+  <anchor x="435" y="-75" name="bottom"/>
+  <anchor x="178" y="722" name="tonosUP"/>
+  <anchor x="525" y="800" name="top"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>H</string>
+  </dict>
+  </lib>
 </glyph>

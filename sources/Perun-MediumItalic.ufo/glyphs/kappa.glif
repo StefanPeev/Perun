@@ -1,42 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="2">
-	<unicode hex="03BA"/>
-	<advance width="551"/>
-	<outline>
-		<contour>
-			<point name="n00" x="81" y="0" type="line"/>
-			<point x="170" y="0" type="line"/>
-			<point x="215" y="193" type="line"/>
-			<point x="304" y="259" type="line"/>
-			<point x="419" y="0" type="line"/>
-			<point x="526" y="0" type="line"/>
-			<point x="383" y="318" type="line"/>
-			<point name="n07" x="626" y="503" type="line"/>
-			<point x="506" y="503" type="line"/>
-			<point x="238" y="299" type="line"/>
-			<point x="285" y="503" type="line"/>
-			<point x="197" y="503" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 503 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w551m81,0l170,0l215,193l304,259l419,0l526,0l383,318l626,503l506,503l238,299l285,503l197,503</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="567"/>
+  <unicode hex="03BA"/>
+  <outline>
+    <contour>
+      <point x="300" y="500" type="line"/>
+      <point x="196" y="500" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300.667" y="273" type="line"/>
+      <point x="421.667" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="392" y="332" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="164" type="line"/>
+      <point x="648" y="500" type="line"/>
+      <point x="505.667" y="500" type="line"/>
+      <point x="242.333" y="296.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

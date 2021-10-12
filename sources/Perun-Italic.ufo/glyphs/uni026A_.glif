@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni026A" format="2">
-	<unicode hex="026A"/>
-	<advance width="342"/>
-	<outline>
-		<contour>
-			<point name="n00" x="284" y="0" type="line"/>
-			<point name="n01" x="301" y="74" type="line"/>
-			<point x="228" y="74" type="line"/>
-			<point x="308" y="420" type="line"/>
-			<point name="n04" x="381" y="420" type="line"/>
-			<point name="n05" x="399" y="500" type="line"/>
-			<point x="172" y="500" type="line"/>
-			<point x="154" y="420" type="line"/>
-			<point x="229" y="420" type="line"/>
-			<point x="149" y="74" type="line"/>
-			<point x="74" y="74" type="line"/>
-			<point x="57" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 74</string>
-							<string>hstem 420 80</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w342m284,0l301,74l228,74l308,420l381,420l399,500l172,500l154,420l229,420l149,74l74,74l57,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="342"/>
+  <unicode hex="026A"/>
+  <outline>
+    <component base="dotlessi" xOffset="56"/>
+    <contour>
+      <point x="381" y="420" type="line"/>
+      <point x="399" y="500" type="line"/>
+      <point x="172" y="500" type="line"/>
+      <point x="154" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="74" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="301" y="74" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="54" y="0"/>
 </glyph>

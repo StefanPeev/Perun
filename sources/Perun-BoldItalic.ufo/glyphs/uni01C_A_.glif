@@ -1,69 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CA" format="2">
-	<unicode hex="01CA"/>
-	<advance width="1222"/>
-	<outline>
-		<contour>
-			<point name="n00" x="623" y="0" type="line"/>
-			<point name="n01" x="790" y="722" type="line"/>
-			<point x="689" y="722" type="line"/>
-			<point x="552" y="130" type="line"/>
-			<point x="370" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-			<point x="161" y="0" type="line"/>
-			<point x="298" y="592" type="line"/>
-			<point x="479" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n10" x="963" y="74" type="curve" smooth="yes"/>
-			<point x="888" y="74"/>
-			<point x="860" y="114"/>
-			<point name="n13" x="876" y="194" type="curve"/>
-			<point name="n14" x="778" y="194" type="line"/>
-			<point x="750" y="72"/>
-			<point x="815" y="-14"/>
-			<point name="n17" x="938" y="-14" type="curve" smooth="yes"/>
-			<point x="1071" y="-14"/>
-			<point x="1181" y="81"/>
-			<point x="1212" y="215" type="curve" smooth="yes"/>
-			<point x="1329" y="722" type="line"/>
-			<point x="1228" y="722" type="line"/>
-			<point x="1111" y="215" type="line" smooth="yes"/>
-			<point x="1093" y="135"/>
-			<point x="1037" y="74"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 778 98</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n10</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>vstem 778 98</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>f5f5225b50dfda08b7a04ce078deaa9e7f8eddaf4ca21864a22db783d0e57352c578aaa7ef146d1c5a6d2ab9a4dbb94f3f18a2814ec989658c873a8eed5c391b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1393"/>
+  <unicode hex="01CA"/>
+  <anchor x="378" y="-60" name="bottom"/>
+  <anchor x="1416" y="800" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="J" xOffset="767"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N_J</string>
+  </dict>
+  </lib>
 </glyph>

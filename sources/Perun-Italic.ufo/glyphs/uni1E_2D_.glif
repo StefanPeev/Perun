@@ -1,89 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E2D" format="2">
-	<unicode hex="1E2D"/>
-	<advance width="246"/>
-	<outline>
-		<contour>
-			<point name="n00" x="170" y="0" type="line"/>
-			<point name="n01" x="285" y="500" type="line"/>
-			<point x="195" y="500" type="line"/>
-			<point x="80" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="323" y="630" type="line"/>
-			<point name="n05" x="345" y="722" type="line"/>
-			<point x="239" y="722" type="line"/>
-			<point x="217" y="630" type="line"/>
-		</contour>
-		<contour>
-			<point x="-57" y="-162" type="curve"/>
-			<point x="35" y="-162" type="line"/>
-			<point x="23" y="-149"/>
-			<point x="20" y="-139"/>
-			<point x="22" y="-132" type="curve" smooth="yes"/>
-			<point x="24" y="-125"/>
-			<point x="30" y="-121"/>
-			<point name="n15" x="37" y="-121" type="curve" smooth="yes"/>
-			<point x="45" y="-121"/>
-			<point name="hr01" x="110" y="-157"/>
-			<point name="n18" x="147" y="-157" type="curve" smooth="yes"/>
-			<point x="196" y="-157"/>
-			<point x="238" y="-109"/>
-			<point x="254" y="-59" type="curve"/>
-			<point x="199" y="-59" type="line"/>
-			<point x="186" y="-86"/>
-			<point x="173" y="-100"/>
-			<point name="n25" x="160" y="-100" type="curve" smooth="yes"/>
-			<point x="152" y="-100"/>
-			<point name="hr02" x="87" y="-64"/>
-			<point name="n28" x="48" y="-64" type="curve" smooth="yes"/>
-			<point x="0" y="-64"/>
-			<point x="-42" y="-113"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21. -21</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 630 92</string>
-							<string>hstem -121 57</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr01</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -157 57</string>
-							<string>hstem 21. -21</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 630 92</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr02</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -121 57</string>
-							<string>hstem 21. -21</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 630 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>4cf29b04c04a6a4a41fb65d09e4ff7c0bfb184f8e28196e814046d762d5a4787eed8c335565bcf557024d28da719b6a759801f84cc821531e5f2bcd47a16d4f4</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="246"/>
+  <unicode hex="1E2D"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="285" y="500" type="line"/>
+      <point x="195" y="500" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="630" type="line"/>
+      <point x="345" y="722" type="line"/>
+      <point x="239" y="722" type="line"/>
+      <point x="217" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="-57" y="-162" type="curve"/>
+      <point x="35" y="-162" type="line"/>
+      <point x="23" y="-149"/>
+      <point x="20" y="-139"/>
+      <point x="22" y="-132" type="curve" smooth="yes"/>
+      <point x="24" y="-125"/>
+      <point x="30" y="-121"/>
+      <point x="37" y="-121" type="curve" smooth="yes"/>
+      <point x="45" y="-121"/>
+      <point x="110" y="-157"/>
+      <point x="147" y="-157" type="curve" smooth="yes"/>
+      <point x="196" y="-157"/>
+      <point x="238" y="-109"/>
+      <point x="254" y="-59" type="curve"/>
+      <point x="199" y="-59" type="line"/>
+      <point x="186" y="-86"/>
+      <point x="173" y="-100"/>
+      <point x="160" y="-100" type="curve" smooth="yes"/>
+      <point x="152" y="-100"/>
+      <point x="87" y="-64"/>
+      <point x="48" y="-64" type="curve" smooth="yes"/>
+      <point x="0" y="-64"/>
+      <point x="-42" y="-113"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,66 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E71" format="2">
-	<unicode hex="1E71"/>
-	<advance width="370"/>
-	<outline>
-		<contour>
-			<point x="250" y="131" type="line"/>
-			<point name="n01" x="321" y="436" type="line"/>
-			<point x="431" y="436" type="line"/>
-			<point x="445" y="500" type="line"/>
-			<point name="n04" x="335" y="500" type="line"/>
-			<point x="367" y="636" type="line"/>
-			<point x="268" y="599" type="line"/>
-			<point x="245" y="500" type="line"/>
-			<point x="155" y="500" type="line"/>
-			<point x="141" y="436" type="line"/>
-			<point x="231" y="436" type="line"/>
-			<point x="160" y="131" type="line" smooth="yes"/>
-			<point x="138" y="35"/>
-			<point x="154" y="-14"/>
-			<point x="240" y="-14" type="curve" smooth="yes"/>
-			<point name="n15" x="252" y="-14" type="line"/>
-			<point x="281" y="-13"/>
-			<point x="307" y="-9"/>
-			<point x="330" y="-2" type="curve"/>
-			<point x="344" y="62" type="line"/>
-			<point x="327" y="57"/>
-			<point x="308" y="54"/>
-			<point x="287" y="53" type="curve"/>
-			<point name="n23" x="281" y="53" type="line" smooth="yes"/>
-			<point x="243" y="53"/>
-			<point x="240" y="83"/>
-			<point x="250" y="128" type="curve"/>
-		</contour>
-		<contour>
-			<point x="344" y="-243" type="line"/>
-			<point x="293" y="-73" type="line"/>
-			<point x="183" y="-73" type="line"/>
-			<point x="54" y="-243" type="line"/>
-			<point x="114" y="-243" type="line"/>
-			<point x="224" y="-133" type="line"/>
-			<point x="284" y="-243" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 67</string>
-							<string>hstem 436 64</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>455b2dad7ee52c94b12f783dc4ecc374cf26872cc06be30ad31c203a3f8c90fab5dfa3bec24e9b57f231225ae7707c6faa83f5fb6e370bb8dc4e519dd4dc72fe</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="418"/>
+  <unicode hex="1E71"/>
+  <anchor x="224" y="-60" name="bottom"/>
+  <anchor x="248" y="10" name="cedillaC"/>
+  <anchor x="524" y="816" name="leftTM"/>
+  <anchor x="353" y="700" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="circumflexbelowcomb" xOffset="463" yOffset="-40"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>t+circumflexbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

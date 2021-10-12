@@ -1,76 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B" format="2">
-	<unicode hex="044B"/>
-	<advance width="775"/>
-	<outline>
-		<contour>
-			<point x="588" y="204" type="curve" smooth="yes"/>
-			<point x="619" y="340"/>
-			<point x="539" y="429"/>
-			<point name="n03" x="401" y="429" type="curve" smooth="yes"/>
-			<point x="354" y="429"/>
-			<point x="326" y="415"/>
-			<point x="285" y="390" type="curve"/>
-			<point name="n07" x="310" y="500" type="line"/>
-			<point x="175" y="500" type="line"/>
-			<point x="106" y="199" type="line" smooth="yes"/>
-			<point x="76" y="71"/>
-			<point x="149" y="-12"/>
-			<point name="n12" x="299" y="-12" type="curve" smooth="yes"/>
-			<point x="437" y="-12"/>
-			<point x="558" y="73"/>
-		</contour>
-		<contour>
-			<point x="449" y="210" type="curve" smooth="yes"/>
-			<point x="434" y="146"/>
-			<point x="389" y="85"/>
-			<point name="n18" x="322" y="85" type="curve" smooth="yes"/>
-			<point x="240" y="85"/>
-			<point x="228" y="146"/>
-			<point x="243" y="210" type="curve" smooth="yes"/>
-			<point x="257" y="272"/>
-			<point x="297" y="332"/>
-			<point name="n24" x="379" y="332" type="curve" smooth="yes"/>
-			<point x="446" y="332"/>
-			<point x="463" y="272"/>
-		</contour>
-		<contour>
-			<point name="n27" x="715" y="0" type="line"/>
-			<point x="830" y="500" type="line"/>
-			<point name="hr01" x="695" y="500" type="line"/>
-			<point x="580" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 332 97</string>
-							<string>hstem 500 -20</string>
-							<string>hstem -12 97</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr01</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 332 97</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>5bd5a559395b65a7226817b186ef84fc9b5448a068769519e80184c32adcf7cdc8d25eea3b7abd1c7f678a367eef2225330c8b078f9bdd3cb3dfec0a3f58e92f</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="775"/>
+  <unicode hex="044B"/>
+  <outline>
+    <component base="uni044C"/>
+    <component base="dotlessi" xOffset="540"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

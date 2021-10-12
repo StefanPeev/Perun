@@ -1,67 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="2">
-	<unicode hex="0167"/>
-	<advance width="370"/>
-	<outline>
-		<contour>
-			<point x="250" y="131" type="line"/>
-			<point name="n01" x="277" y="248" type="line"/>
-			<point x="354" y="248" type="line"/>
-			<point x="369" y="313" type="line"/>
-			<point name="n04" x="292" y="313" type="line"/>
-			<point name="n05" x="321" y="436" type="line"/>
-			<point x="431" y="436" type="line"/>
-			<point name="n07" x="445" y="500" type="line"/>
-			<point name="n08" x="335" y="500" type="line"/>
-			<point x="367" y="636" type="line"/>
-			<point x="268" y="599" type="line"/>
-			<point x="245" y="500" type="line"/>
-			<point x="155" y="500" type="line"/>
-			<point x="141" y="436" type="line"/>
-			<point x="231" y="436" type="line"/>
-			<point x="202" y="313" type="line"/>
-			<point x="129" y="313" type="line"/>
-			<point name="n17" x="114" y="248" type="line"/>
-			<point x="187" y="248" type="line"/>
-			<point x="160" y="131" type="line" smooth="yes"/>
-			<point x="138" y="35"/>
-			<point x="154" y="-14"/>
-			<point x="240" y="-14" type="curve" smooth="yes"/>
-			<point name="n23" x="252" y="-14" type="line" smooth="yes"/>
-			<point x="281" y="-14"/>
-			<point x="307" y="-9"/>
-			<point x="330" y="-2" type="curve"/>
-			<point x="344" y="62" type="line"/>
-			<point x="327" y="57"/>
-			<point x="308" y="54"/>
-			<point x="287" y="53" type="curve"/>
-			<point name="n31" x="281" y="53" type="line" smooth="yes"/>
-			<point x="243" y="53"/>
-			<point x="240" y="83"/>
-			<point x="250" y="128" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 67</string>
-							<string>hstem 248 65</string>
-							<string>hstem 436 64</string>
-							<string>vstem 114 331</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>fdd0d566f1edee765ab2d66ebebedbd6ade0a8acf179cefb1f99a095aed5033d545555815a781dc550fc20f4a12f2f0980e9a1d6ea062fb8ddd203cf7b4a7460</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="370"/>
+  <unicode hex="0167"/>
+  <outline>
+    <component base="t"/>
+    <contour>
+      <point x="133" y="316.333" type="line"/>
+      <point x="116.667" y="244.667" type="line"/>
+      <point x="370" y="244.667" type="line"/>
+      <point x="386.333" y="316.333" type="line"/>
+    </contour>
+  </outline>
 </glyph>

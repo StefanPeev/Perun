@@ -1,49 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="2">
-	<unicode hex="00A1"/>
-	<advance width="333"/>
-	<outline>
-		<contour>
-			<point name="n00" x="267.333" y="190.667" type="line"/>
-			<point x="325.333" y="443.667" type="line"/>
-			<point x="211" y="443.667" type="line"/>
-			<point name="n03" x="153" y="190.667" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="230.667" y="3" type="line"/>
-			<point name="n05" x="298.333" y="372.667" type="line"/>
-			<point x="199.667" y="372.667" type="line"/>
-			<point x="97.3333" y="3" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 211.67 -21</string>
-							<string>vstem 153 145.33</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n04</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 3 369.67</string>
-							<string>vstem 153 145.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w333m267.33,190.67l325.33,443.67l211,443.67l153,190.67m230.67,3l298.33,372.67l199.67,372.67l97.33,3</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="333"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="267.333" y="190.667" type="line"/>
+      <point x="325.333" y="443.667" type="line"/>
+      <point x="211" y="443.667" type="line"/>
+      <point x="153" y="190.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="230.667" y="3" type="line"/>
+      <point x="298.333" y="372.667" type="line"/>
+      <point x="199.667" y="372.667" type="line"/>
+      <point x="97.3333" y="3" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tau" format="2">
-	<unicode hex="03A4"/>
-	<advance width="622"/>
-	<outline>
-		<component base="T"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>T</string>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="03A4"/>
+  <anchor x="474" y="800" name="top"/>
+  <outline>
+    <component base="T"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T</string>
+  </dict>
+  </lib>
 </glyph>

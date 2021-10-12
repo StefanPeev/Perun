@@ -1,52 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E18" format="2">
-	<unicode hex="1E18"/>
-	<advance width="577"/>
-	<outline>
-		<contour>
-			<point name="n00" x="516" y="0" type="line"/>
-			<point name="n01" x="536" y="87" type="line"/>
-			<point x="180" y="87" type="line"/>
-			<point name="n03" x="235" y="326" type="line"/>
-			<point x="571" y="326" type="line"/>
-			<point x="591" y="413" type="line"/>
-			<point name="n06" x="255" y="413" type="line"/>
-			<point x="307" y="635" type="line"/>
-			<point name="n08" x="653" y="635" type="line"/>
-			<point name="n09" x="673" y="722" type="line"/>
-			<point x="226" y="722" type="line"/>
-			<point x="59" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="380" y="-230" type="line"/>
-			<point x="329" y="-60" type="line"/>
-			<point x="219" y="-60" type="line"/>
-			<point x="90" y="-230" type="line"/>
-			<point x="150" y="-230" type="line"/>
-			<point x="260" y="-120" type="line"/>
-			<point x="320" y="-230" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>2cfbd0479f1eb08fdd563ff7594d5517cafa725a03ecf606b034b319fc4754528fda4709be1bec68411de7bec3172ceed7003911bd0d70e58c63e9ff6ae173f1</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="593"/>
+  <unicode hex="1E18"/>
+  <anchor x="313.333" y="-60" name="bottom"/>
+  <anchor x="465.667" y="800" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexbelowcomb" xScale="1" xyScale="1.30266e-18" xOffset="551.667" yOffset="-36.6667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+circumflexbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

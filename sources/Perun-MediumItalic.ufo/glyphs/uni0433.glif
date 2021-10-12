@@ -1,69 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0433" format="2">
-	<unicode hex="0433"/>
-	<advance width="483"/>
-	<outline>
-		<contour>
-			<point name="n00" x="346" y="449" type="curve" smooth="yes"/>
-			<point x="394" y="449"/>
-			<point x="436" y="434"/>
-			<point x="422" y="375" type="curve" smooth="yes"/>
-			<point x="404" y="295"/>
-			<point x="269" y="291"/>
-			<point x="210" y="278" type="curve" smooth="yes"/>
-			<point x="148" y="264"/>
-			<point x="91" y="217"/>
-			<point x="73" y="138" type="curve" smooth="yes"/>
-			<point x="48" y="30"/>
-			<point x="130" y="-12"/>
-			<point name="n12" x="236" y="-12" type="curve" smooth="yes"/>
-			<point x="358" y="-12"/>
-			<point x="453" y="36"/>
-			<point name="n15" x="478" y="146" type="curve"/>
-			<point name="n16" x="386" y="146" type="line"/>
-			<point x="371" y="84"/>
-			<point x="325" y="53"/>
-			<point name="n19" x="249" y="53" type="curve" smooth="yes"/>
-			<point x="198" y="53"/>
-			<point x="153" y="73"/>
-			<point x="169" y="141" type="curve" smooth="yes"/>
-			<point x="187" y="219"/>
-			<point x="320" y="221"/>
-			<point x="379" y="235" type="curve" smooth="yes"/>
-			<point x="443" y="250"/>
-			<point x="499" y="297"/>
-			<point x="517" y="375" type="curve" smooth="yes"/>
-			<point x="539" y="471"/>
-			<point x="469" y="514"/>
-			<point name="n31" x="360" y="514" type="curve" smooth="yes"/>
-			<point x="244" y="514"/>
-			<point x="157" y="461"/>
-			<point x="135" y="366" type="curve"/>
-			<point x="227" y="366" type="line"/>
-			<point x="240" y="421"/>
-			<point x="280" y="449"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -12 65</string>
-							<string>hstem 449 65</string>
-							<string>vstem 386 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>8d06876957f63d95b7ed6ea3035a9fb86f9413229140ffae57c0d7704c7059597c6b12c2f4b39224e67a9336c053ee8b00eb24913b880d4baf57eed4363d631b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="492"/>
+  <unicode hex="0433"/>
+  <outline>
+    <contour>
+      <point x="72" y="109.667" type="curve" smooth="yes"/>
+      <point x="72" y="32.3333"/>
+      <point x="138.667" y="-11.6667"/>
+      <point x="243.333" y="-11.6667" type="curve" smooth="yes"/>
+      <point x="369.667" y="-11.6667"/>
+      <point x="459.667" y="44.6667"/>
+      <point x="485" y="154.667" type="curve"/>
+      <point x="382" y="154.667" type="line"/>
+      <point x="367.333" y="95"/>
+      <point x="325.667" y="64"/>
+      <point x="260.333" y="64" type="curve" smooth="yes"/>
+      <point x="210" y="64"/>
+      <point x="180" y="82.3333"/>
+      <point x="180" y="122" type="curve" smooth="yes"/>
+      <point x="180" y="169"/>
+      <point x="224.333" y="200.667"/>
+      <point x="312.667" y="218" type="curve"/>
+      <point x="386.333" y="233.667" type="line" smooth="yes"/>
+      <point x="466.667" y="249.667"/>
+      <point x="526.333" y="322.667"/>
+      <point x="526.333" y="398.333" type="curve" smooth="yes"/>
+      <point x="526.333" y="475.667"/>
+      <point x="465" y="513.667"/>
+      <point x="366" y="513.667" type="curve" smooth="yes"/>
+      <point x="245" y="513.667"/>
+      <point x="159.667" y="456.333"/>
+      <point x="136" y="357" type="curve"/>
+      <point x="238.333" y="357" type="line"/>
+      <point x="250.333" y="410.667"/>
+      <point x="287" y="438"/>
+      <point x="347" y="438" type="curve" smooth="yes"/>
+      <point x="392" y="438"/>
+      <point x="418.333" y="422.667"/>
+      <point x="418.333" y="385.333" type="curve" smooth="yes"/>
+      <point x="418.333" y="344.667"/>
+      <point x="383" y="314"/>
+      <point x="311" y="300.667" type="curve"/>
+      <point x="241.667" y="286" type="line"/>
+      <point x="133" y="265.667"/>
+      <point x="72" y="205.667"/>
+    </contour>
+  </outline>
 </glyph>

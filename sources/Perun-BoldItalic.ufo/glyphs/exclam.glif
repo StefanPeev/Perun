@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-	<unicode hex="0021"/>
-	<advance width="389"/>
-	<outline>
-		<contour>
-			<point name="n00" x="437" y="722" type="line"/>
-			<point name="n01" x="287" y="722" type="line"/>
-			<point x="190" y="191" type="line"/>
-			<point name="n03" x="288" y="191" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="260" y="0" type="line"/>
-			<point x="287" y="115" type="line"/>
-			<point x="157" y="115" type="line"/>
-			<point x="130" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 -20</string>
-							<string>hstem 722 0</string>
-							<string>vstem 260 28</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w389m437,722l287,722l190,191l288,191m260,0l287,115l157,115l130,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="389"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="437" y="722" type="line"/>
+      <point x="287" y="722" type="line"/>
+      <point x="190" y="191" type="line"/>
+      <point x="288" y="191" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="0" type="line"/>
+      <point x="287" y="115" type="line"/>
+      <point x="157" y="115" type="line"/>
+      <point x="130" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

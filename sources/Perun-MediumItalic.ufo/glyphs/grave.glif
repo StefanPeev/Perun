@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-	<unicode hex="0060"/>
-	<advance width="236"/>
-	<outline>
-		<contour>
-			<point name="n00" x="321.667" y="600" type="line"/>
-			<point name="n01" x="264.333" y="774" type="line"/>
-			<point name="n02" x="153.667" y="774" type="line"/>
-			<point name="n03" x="257.667" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 174</string>
-							<string>vstem 153.67 168.</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w236m321.67,600l264.33,774l153.67,774l257.67,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="236"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="321.667" y="600" type="line"/>
+      <point x="264.333" y="774" type="line"/>
+      <point x="153.667" y="774" type="line"/>
+      <point x="257.667" y="600" type="line"/>
+    </contour>
+  </outline>
 </glyph>

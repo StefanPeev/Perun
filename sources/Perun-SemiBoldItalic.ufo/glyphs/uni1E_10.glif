@@ -1,77 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E10" format="2">
-	<unicode hex="1E10"/>
-	<advance width="690"/>
-	<outline>
-		<contour>
-			<point x="308" y="87" type="curve" smooth="yes"/>
-			<point name="n01" x="182" y="87" type="line"/>
-			<point x="309" y="635" type="line"/>
-			<point name="n03" x="435" y="635" type="line" smooth="yes"/>
-			<point x="599" y="635"/>
-			<point x="665" y="530"/>
-			<point x="626" y="362" type="curve" smooth="yes"/>
-			<point x="588" y="196"/>
-			<point x="471" y="87"/>
-		</contour>
-		<contour>
-			<point x="725" y="362" type="curve" smooth="yes"/>
-			<point x="778" y="593"/>
-			<point x="687" y="722"/>
-			<point name="n12" x="453" y="722" type="curve" smooth="yes"/>
-			<point x="228" y="722" type="line"/>
-			<point x="61" y="0" type="line"/>
-			<point x="152" y="0" type="line"/>
-			<point x="131" y="-92" type="line"/>
-			<point name="n17" x="165" y="-92" type="line" smooth="yes"/>
-			<point x="202" y="-92"/>
-			<point x="247" y="-111"/>
-			<point x="238" y="-151" type="curve" smooth="yes"/>
-			<point x="232" y="-176"/>
-			<point x="204" y="-188"/>
-			<point x="157" y="-188" type="curve" smooth="yes"/>
-			<point name="n24" x="151" y="-188" type="line" smooth="yes"/>
-			<point x="121" y="-188"/>
-			<point x="88" y="-184"/>
-			<point x="54" y="-176" type="curve"/>
-			<point x="43" y="-226" type="line"/>
-			<point x="81" y="-232"/>
-			<point x="112" y="-235"/>
-			<point name="n31" x="137" y="-235" type="curve" smooth="yes"/>
-			<point x="201" y="-235"/>
-			<point x="295" y="-209"/>
-			<point x="309" y="-150" type="curve"/>
-			<point x="307" y="-150" type="line"/>
-			<point x="324" y="-78"/>
-			<point x="282" y="-42"/>
-			<point name="n38" x="182" y="-42" type="curve"/>
-			<point name="n39" x="192" y="0" type="line"/>
-			<point x="286" y="0" type="line" smooth="yes"/>
-			<point x="515" y="0"/>
-			<point x="672" y="134"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -235 47</string>
-							<string>hstem -92 50</string>
-							<string>hstem 0 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>c6e08fa0dade71569da914486b68d0fa0f68fbaa9ba69dca9de764d6110206f1fd98c17b5f5c7371515ef23c74d70c377f9051a5c13cd89502de59011ba2bdc5</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="690"/>
+  <unicode hex="1E10"/>
+  <outline>
+    <contour>
+      <point x="308" y="87" type="curve" smooth="yes"/>
+      <point x="182" y="87" type="line"/>
+      <point x="309" y="635" type="line"/>
+      <point x="435" y="635" type="line" smooth="yes"/>
+      <point x="599" y="635"/>
+      <point x="665" y="530"/>
+      <point x="626" y="362" type="curve" smooth="yes"/>
+      <point x="588" y="196"/>
+      <point x="471" y="87"/>
+    </contour>
+    <contour>
+      <point x="725" y="362" type="curve" smooth="yes"/>
+      <point x="778" y="593"/>
+      <point x="687" y="722"/>
+      <point x="453" y="722" type="curve" smooth="yes"/>
+      <point x="228" y="722" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="131" y="-92" type="line"/>
+      <point x="165" y="-92" type="line" smooth="yes"/>
+      <point x="202" y="-92"/>
+      <point x="247" y="-111"/>
+      <point x="238" y="-151" type="curve" smooth="yes"/>
+      <point x="232" y="-176"/>
+      <point x="204" y="-188"/>
+      <point x="157" y="-188" type="curve" smooth="yes"/>
+      <point x="151" y="-188" type="line" smooth="yes"/>
+      <point x="121" y="-188"/>
+      <point x="88" y="-184"/>
+      <point x="54" y="-176" type="curve"/>
+      <point x="43" y="-226" type="line"/>
+      <point x="81" y="-232"/>
+      <point x="112" y="-235"/>
+      <point x="137" y="-235" type="curve" smooth="yes"/>
+      <point x="201" y="-235"/>
+      <point x="295" y="-209"/>
+      <point x="309" y="-150" type="curve"/>
+      <point x="307" y="-150" type="line"/>
+      <point x="324" y="-78"/>
+      <point x="282" y="-42"/>
+      <point x="182" y="-42" type="curve"/>
+      <point x="192" y="0" type="line"/>
+      <point x="286" y="0" type="line" smooth="yes"/>
+      <point x="515" y="0"/>
+      <point x="672" y="134"/>
+    </contour>
+  </outline>
 </glyph>

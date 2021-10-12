@@ -1,64 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcedilla" format="2">
-	<unicode hex="0162"/>
-	<advance width="622"/>
-	<outline>
-		<contour>
-			<point name="n00" x="741" y="635" type="line"/>
-			<point name="n01" x="761" y="722" type="line"/>
-			<point x="188" y="722" type="line"/>
-			<point x="168" y="635" type="line"/>
-			<point x="404" y="635" type="line"/>
-			<point x="257" y="0" type="line"/>
-			<point x="286" y="0" type="line"/>
-			<point x="265" y="-92" type="line"/>
-			<point name="n08" x="299" y="-92" type="line" smooth="yes"/>
-			<point x="336" y="-92"/>
-			<point x="381" y="-111"/>
-			<point x="372" y="-151" type="curve" smooth="yes"/>
-			<point x="366" y="-176"/>
-			<point x="338" y="-188"/>
-			<point x="291" y="-188" type="curve" smooth="yes"/>
-			<point name="n15" x="285" y="-188" type="line" smooth="yes"/>
-			<point x="255" y="-188"/>
-			<point x="222" y="-184"/>
-			<point x="188" y="-176" type="curve"/>
-			<point x="177" y="-226" type="line"/>
-			<point x="215" y="-232"/>
-			<point x="246" y="-235"/>
-			<point name="n22" x="271" y="-235" type="curve" smooth="yes"/>
-			<point x="335" y="-235"/>
-			<point x="429" y="-209"/>
-			<point x="443" y="-150" type="curve"/>
-			<point x="441" y="-150" type="line"/>
-			<point x="458" y="-78"/>
-			<point x="416" y="-42"/>
-			<point name="n29" x="316" y="-42" type="curve"/>
-			<point x="326" y="0" type="line"/>
-			<point x="358" y="0" type="line"/>
-			<point x="505" y="635" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -235 47</string>
-							<string>hstem -92 50</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>c33512924f53081da803629d6f7be6e74d08ce5167728bfb4ca777899b651c486a71fc2f795d8de6e66a54e93158a026df441f642fabc40dc1b707f4b967b86f</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="0162"/>
+  <anchor x="474" y="800" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="uni0326" xOffset="611"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+uni0326</string>
+  </dict>
+  </lib>
 </glyph>

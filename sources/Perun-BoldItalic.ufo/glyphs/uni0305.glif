@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0305" format="2">
-	<unicode hex="0305"/>
-	<advance width="229"/>
-	<outline>
-		<contour>
-			<point name="n00" x="315" y="600" type="line"/>
-			<point name="n01" x="254" y="771" type="line"/>
-			<point name="n02" x="153" y="771" type="line"/>
-			<point name="n03" x="254" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,0.6,0.6,1</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 171</string>
-							<string>vstem 153 162</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w229m315,600l254,771l153,771l254,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="229"/>
+  <unicode hex="0305"/>
+  <anchor x="-110" y="620" name="_top"/>
+  <outline>
+    <contour>
+      <point x="141" y="630" type="line"/>
+      <point x="156" y="709" type="line"/>
+      <point x="-344" y="709" type="line"/>
+      <point x="-359" y="630" type="line"/>
+    </contour>
+  </outline>
 </glyph>

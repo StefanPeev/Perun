@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eacute" format="2">
-	<unicode hex="00E9"/>
-	<advance width="537"/>
-	<outline>
-		<component base="e"/>
-		<component base="acutecomb" xOffset="537"/>
-	</outline>
-	<anchor name="top" x="351" y="600"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>e+acutecomb</string>
-		</dict>
-	</lib>
+  <advance width="571"/>
+  <unicode hex="00E9"/>
+  <anchor x="273" y="-60" name="bottom"/>
+  <anchor x="411" y="580" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="acutecomb" xOffset="597" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

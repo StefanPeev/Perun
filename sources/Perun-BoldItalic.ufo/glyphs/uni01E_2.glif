@@ -1,60 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E2" format="2">
-	<unicode hex="01E2"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point name="n00" x="523" y="278" type="line"/>
-			<point x="341" y="278" type="line"/>
-			<point x="607" y="641" type="line"/>
-		</contour>
-		<contour>
-			<point name="n03" x="916" y="0" type="line"/>
-			<point name="n04" x="936" y="87" type="line"/>
-			<point x="580" y="87" type="line"/>
-			<point name="n06" x="635" y="326" type="line"/>
-			<point x="971" y="326" type="line"/>
-			<point x="991" y="413" type="line"/>
-			<point name="n09" x="655" y="413" type="line"/>
-			<point x="707" y="635" type="line"/>
-			<point name="n11" x="1053" y="635" type="line"/>
-			<point name="n12" x="1073" y="722" type="line"/>
-			<point x="564" y="722" type="line"/>
-			<point x="14" y="0" type="line"/>
-			<point x="120" y="0" type="line"/>
-			<point x="273" y="193" type="line"/>
-			<point name="n17" x="504" y="193" type="line"/>
-			<point x="459" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n19" x="936" y="796" type="line"/>
-			<point name="n20" x="952" y="865" type="line"/>
-			<point x="690" y="865" type="line"/>
-			<point x="674" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 193 85</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-							<string>hstem 796 69</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>6a68d6713b6d65a2737ab088d2f24e79bf03940f3a492afc355f398671d8e8d4864aedd5ba5889540228870581a0ebc68a5559169aaad971ad35b431ef5b072a</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1001"/>
+  <unicode hex="01E2"/>
+  <anchor x="727" y="800" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="macroncomb" xOffset="835" yOffset="180"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>AE+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

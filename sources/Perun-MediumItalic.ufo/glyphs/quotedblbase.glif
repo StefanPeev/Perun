@@ -1,39 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="2">
-	<unicode hex="201E"/>
-	<advance width="450"/>
-	<outline>
-		<contour>
-			<point name="n00" x="322" y="123" type="line"/>
-			<point x="196.667" y="123" type="line"/>
-			<point x="73" y="-127.667" type="line"/>
-			<point x="151.333" y="-127.667" type="line"/>
-		</contour>
-		<contour>
-			<point x="377" y="123" type="line"/>
-			<point x="251.667" y="123" type="line"/>
-			<point x="128" y="-127.667" type="line"/>
-			<point name="n07" x="206.333" y="-127.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -127.67 250.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w450m322,123l196.67,123l73,-127.67l151.33,-127.67m377,123l251.67,123l128,-127.67l206.33,-127.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="450"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="322" y="123" type="line"/>
+      <point x="196.667" y="123" type="line"/>
+      <point x="73" y="-127.667" type="line"/>
+      <point x="151.333" y="-127.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="123" type="line"/>
+      <point x="251.667" y="123" type="line"/>
+      <point x="128" y="-127.667" type="line"/>
+      <point x="206.333" y="-127.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

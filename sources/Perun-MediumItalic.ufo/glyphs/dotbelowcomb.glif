@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb" format="2">
-	<unicode hex="0323"/>
-	<outline>
-		<contour>
-			<point name="n00" x="-262" y="-200" type="line"/>
-			<point name="n01" x="-239" y="-100" type="line"/>
-			<point x="-329" y="-100" type="line"/>
-			<point name="n03" x="-352" y="-200" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -200 100</string>
-							<string>vstem -352 113</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w0m-262,-200l-239,-100l-329,-100l-352,-200</string>
-			</dict>
-		</dict>
-	</lib>
+  <unicode hex="0323"/>
+  <anchor x="-280" y="-60" name="_bottom"/>
+  <outline>
+    <component base="uni0307" xOffset="-149" yOffset="-800"/>
+  </outline>
 </glyph>

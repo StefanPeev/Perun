@@ -1,42 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni027A" format="2">
-	<unicode hex="027A"/>
-	<advance width="363"/>
-	<outline>
-		<contour>
-			<point x="293" y="0" type="line"/>
-			<point name="n01" x="460" y="722" type="line"/>
-			<point x="370" y="722" type="line"/>
-			<point x="254" y="220" type="line" smooth="yes"/>
-			<point x="233" y="127"/>
-			<point x="160" y="80"/>
-			<point name="n06" x="38" y="80" type="curve"/>
-			<point name="n07" x="20" y="0" type="line"/>
-			<point x="127" y="0"/>
-			<point x="174" y="14"/>
-			<point x="218" y="68" type="curve"/>
-			<point x="202" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 80</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w363m293,0l460,722l370,722l254,220c233,127 160,80 38,80l20,0c127,0 174,14 218,68l202,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="421"/>
+  <unicode hex="027A"/>
+  <outline>
+    <component base="uni0279"/>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="495" y="722" type="line"/>
+      <point x="405" y="722" type="line"/>
+      <point x="239" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni0279</string>
+  </dict>
+  </lib>
 </glyph>

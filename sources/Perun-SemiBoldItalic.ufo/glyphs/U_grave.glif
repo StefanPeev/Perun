@@ -1,54 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ugrave" format="2">
-	<unicode hex="00D9"/>
-	<advance width="736"/>
-	<outline>
-		<contour>
-			<point x="619" y="821" type="line"/>
-			<point x="558" y="992" type="line"/>
-			<point x="457" y="992" type="line"/>
-			<point x="558" y="821" type="line"/>
-		</contour>
-		<contour>
-			<point x="154" y="322" type="line" smooth="yes"/>
-			<point x="102" y="96"/>
-			<point x="149" y="-14"/>
-			<point name="n07" x="365" y="-14" type="curve" smooth="yes"/>
-			<point x="582" y="-14"/>
-			<point x="679" y="96"/>
-			<point x="731" y="322" type="curve" smooth="yes"/>
-			<point name="n11" x="824" y="722" type="line"/>
-			<point x="723" y="722" type="line"/>
-			<point x="630" y="322" type="line" smooth="yes"/>
-			<point x="595" y="171"/>
-			<point x="533" y="74"/>
-			<point name="n16" x="385" y="74" type="curve" smooth="yes"/>
-			<point x="236" y="74"/>
-			<point x="219" y="168"/>
-			<point x="255" y="322" type="curve" smooth="yes"/>
-			<point x="348" y="722" type="line"/>
-			<point x="247" y="722" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>0df717779f51d8b40c83088f049c8839f6258d5ed34b3372e8292ac21e5fdbbdc197ec0402cbd231623c715eb96ad9af62cc49a98727aabf6f65c10b83db324b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="736"/>
+  <unicode hex="00D9"/>
+  <anchor x="372" y="10" name="bottomUC"/>
+  <anchor x="531.667" y="800" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="gravecomb" xScale="1" xOffset="639.667" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

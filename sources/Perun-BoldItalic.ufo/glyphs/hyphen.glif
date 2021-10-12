@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="2">
-	<unicode hex="002D"/>
-	<advance width="336"/>
-	<outline>
-		<contour>
-			<point name="n00" x="341" y="190" type="line"/>
-			<point name="n01" x="371" y="321" type="line"/>
-			<point x="114" y="321" type="line"/>
-			<point name="n03" x="84" y="190" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 190 131</string>
-							<string>vstem 84 287</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w336m341,190l371,321l114,321l84,190</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="336"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="341" y="190" type="line"/>
+      <point x="371" y="321" type="line"/>
+      <point x="114" y="321" type="line"/>
+      <point x="84" y="190" type="line"/>
+    </contour>
+  </outline>
 </glyph>

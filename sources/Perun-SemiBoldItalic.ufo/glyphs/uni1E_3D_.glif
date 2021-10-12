@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E3D" format="2">
-	<unicode hex="1E3D"/>
-	<advance width="230"/>
-	<outline>
-		<contour>
-			<point name="n00" x="160" y="0" type="line"/>
-			<point name="n01" x="327" y="722" type="line"/>
-			<point x="237" y="722" type="line"/>
-			<point x="70" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="207" y="-230" type="line"/>
-			<point x="156" y="-60" type="line"/>
-			<point x="46" y="-60" type="line"/>
-			<point x="-83" y="-230" type="line"/>
-			<point x="-23" y="-230" type="line"/>
-			<point x="87" y="-120" type="line"/>
-			<point x="147" y="-230" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w230m160,0l327,722l237,722l70,0m207,-230l156,-60l46,-60l-83,-230l-23,-230l87,-120l147,-230</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="268"/>
+  <unicode hex="1E3D"/>
+  <anchor x="123.333" y="-60" name="bottom"/>
+  <anchor x="383.667" y="361" name="dotCN"/>
+  <anchor x="308.333" y="800" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="circumflexbelowcomb" xyScale="1.30266e-18" xOffset="361.667" yOffset="-36.6667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+circumflexbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="2">
-	<unicode hex="003E"/>
-	<advance width="800"/>
-	<outline>
-		<contour>
-			<point x="762" y="269" type="line"/>
-			<point name="n01" x="776" y="331" type="line"/>
-			<point x="230" y="561" type="line"/>
-			<point name="n03" x="215" y="499" type="line"/>
-			<point x="705" y="300" type="line"/>
-			<point x="123" y="101" type="line"/>
-			<point name="n06" x="109" y="39" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 499 -20</string>
-							<string>vstem 109 667</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w800m762,269l776,331l230,561l215,499l705,300l123,101l109,39</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="800"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="762" y="269" type="line"/>
+      <point x="776" y="331" type="line"/>
+      <point x="230" y="561" type="line"/>
+      <point x="215" y="499" type="line"/>
+      <point x="705" y="300" type="line"/>
+      <point x="123" y="101" type="line"/>
+      <point x="109" y="39" type="line"/>
+    </contour>
+  </outline>
 </glyph>

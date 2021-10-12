@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="2">
-	<unicode hex="203A"/>
-	<advance width="369"/>
-	<outline>
-		<contour>
-			<point name="n00" x="363" y="252" type="line"/>
-			<point x="298" y="447" type="line"/>
-			<point x="168" y="447" type="line"/>
-			<point x="213" y="252" type="line"/>
-			<point name="n04" x="78" y="57" type="line"/>
-			<point x="208" y="57" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>vstem 78 285</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w369m363,252l298,447l168,447l213,252l78,57l208,57</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="369"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="363" y="252" type="line"/>
+      <point x="298" y="447" type="line"/>
+      <point x="168" y="447" type="line"/>
+      <point x="213" y="252" type="line"/>
+      <point x="78" y="57" type="line"/>
+      <point x="208" y="57" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030E" format="2">
-	<unicode hex="030E"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point name="n00" x="-186" y="600" type="line"/>
-			<point x="-145" y="780" type="line"/>
-			<point name="n02" x="-205" y="780" type="line"/>
-			<point name="n03" x="-246" y="600" type="line"/>
-		</contour>
-		<contour>
-			<point x="-66" y="600" type="line"/>
-			<point name="n05" x="-25" y="780" type="line"/>
-			<point x="-85" y="780" type="line"/>
-			<point x="-126" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 180</string>
-							<string>vstem -246 221</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1m-186,600l-145,780l-205,780l-246,600m-66,600l-25,780l-85,780l-126,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1"/>
+  <unicode hex="030E"/>
+  <outline>
+    <component base="uni030D" xOffset="-20"/>
+    <component base="uni030D" xOffset="90"/>
+  </outline>
 </glyph>

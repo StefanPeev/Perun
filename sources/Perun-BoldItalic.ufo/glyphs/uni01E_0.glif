@@ -1,58 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E0" format="2">
-	<unicode hex="01E0"/>
-	<advance width="750"/>
-	<outline>
-		<contour>
-			<point name="n00" x="573" y="278" type="line"/>
-			<point x="300" y="278" type="line"/>
-			<point x="512" y="611" type="line"/>
-		</contour>
-		<contour>
-			<point name="n03" x="735" y="0" type="line"/>
-			<point name="n04" x="595" y="722" type="line"/>
-			<point x="485" y="722" type="line"/>
-			<point x="15" y="0" type="line"/>
-			<point x="118" y="0" type="line"/>
-			<point x="242" y="193" type="line"/>
-			<point name="n09" x="596" y="193" type="line"/>
-			<point x="629" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n11" x="602" y="796" type="line"/>
-			<point name="n12" x="625" y="896" type="line"/>
-			<point x="535" y="896" type="line"/>
-			<point x="512" y="796" type="line"/>
-		</contour>
-		<contour>
-			<point name="n15" x="725" y="956" type="line"/>
-			<point name="n16" x="741" y="1025" type="line"/>
-			<point x="479" y="1025" type="line"/>
-			<point x="463" y="956" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 193 85</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 796 100</string>
-							<string>hstem 956 69</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>d5c2ead5e4d31c761ddba4f134038f2990ca57ff71344410ad33d032f943ada023de5701fb46fe1c66be6d6cdbe3e65372da1420f2408d26ce1f2ca6af72cf25</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="709"/>
+  <unicode hex="01E0"/>
+  <anchor x="355" y="-60" name="bottom"/>
+  <anchor x="582" y="10" name="bottomUC"/>
+  <anchor x="555" y="970" name="mkmktop"/>
+  <anchor x="535" y="800" name="top"/>
+  <outline>
+    <component base="uni0226"/>
+    <component base="macroncomb" xOffset="675" yOffset="350"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0226+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

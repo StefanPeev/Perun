@@ -1,105 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="2">
-	<unicode hex="00E7"/>
-	<advance width="508"/>
-	<outline>
-		<contour>
-			<point name="n00" x="543" y="341" type="line"/>
-			<point x="561" y="453"/>
-			<point x="497" y="512"/>
-			<point name="n03" x="386" y="512" type="curve" smooth="yes"/>
-			<point x="237" y="512"/>
-			<point x="132" y="399"/>
-			<point x="96" y="244" type="curve" smooth="yes"/>
-			<point x="61" y="91"/>
-			<point x="110" y="0"/>
-			<point name="n09" x="232" y="-13" type="curve"/>
-			<point x="212" y="-100" type="line"/>
-			<point name="n11" x="246" y="-100" type="line" smooth="yes"/>
-			<point x="284" y="-100"/>
-			<point x="326" y="-121"/>
-			<point x="317" y="-159" type="curve" smooth="yes"/>
-			<point x="311" y="-184"/>
-			<point x="285" y="-196"/>
-			<point name="n17" x="236" y="-196" type="curve" smooth="yes"/>
-			<point x="201" y="-196"/>
-			<point x="170" y="-193"/>
-			<point x="134" y="-184" type="curve"/>
-			<point x="122" y="-234" type="line"/>
-			<point x="160" y="-240"/>
-			<point x="191" y="-243"/>
-			<point name="n24" x="216" y="-243" type="curve" smooth="yes"/>
-			<point x="280" y="-243"/>
-			<point x="375" y="-217"/>
-			<point x="389" y="-158" type="curve" smooth="yes"/>
-			<point x="406" y="-86"/>
-			<point x="362" y="-50"/>
-			<point name="n30" x="263" y="-50" type="curve"/>
-			<point x="272" y="-14" type="line"/>
-			<point x="383" y="-10"/>
-			<point x="477" y="62"/>
-			<point name="n34" x="507" y="167" type="curve"/>
-			<point name="n35" x="412" y="167" type="line"/>
-			<point x="393" y="95"/>
-			<point x="341" y="50"/>
-			<point name="n38" x="276" y="50" type="curve" smooth="yes"/>
-			<point x="190" y="50"/>
-			<point x="162" y="118"/>
-			<point x="194" y="255" type="curve" smooth="yes"/>
-			<point x="214" y="342"/>
-			<point x="262" y="447"/>
-			<point name="n44" x="372" y="447" type="curve" smooth="yes"/>
-			<point x="432" y="447"/>
-			<point x="457" y="402"/>
-			<point name="n47" x="448" y="341" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>vstem 448 95</string>
-							<string>hstem 447 65</string>
-							<string>hstem -13 63</string>
-							<string>hstem -100 50</string>
-							<string>hstem -243 47</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n34</string>
-						<key>stems</key>
-						<array>
-							<string>vstem 412 95</string>
-							<string>hstem -13 63</string>
-							<string>hstem 447 65</string>
-							<string>hstem -243 47</string>
-							<string>hstem -100 50</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n47</string>
-						<key>stems</key>
-						<array>
-							<string>vstem 448 95</string>
-							<string>hstem -243 47</string>
-							<string>hstem -100 50</string>
-							<string>hstem -13 63</string>
-							<string>hstem 447 65</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>9a2b67e25aeb5bf0d8c9cab9cd1d166283f92857c9df450bce490b7ba24494b0e00c53d3658aceb88a0153194af184de61d2fb4469248e84bef48a8936530faf</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="525"/>
+  <unicode hex="00E7"/>
+  <anchor x="260" y="-60" name="bottom"/>
+  <anchor x="272" y="10" name="cedillaC"/>
+  <anchor x="399" y="580" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="557" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+cedillacomb</string>
+  </dict>
+  </lib>
 </glyph>

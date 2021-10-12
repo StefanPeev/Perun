@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C0" format="2">
-	<unicode hex="01C0"/>
-	<advance width="344"/>
-	<outline>
-		<contour>
-			<point x="141.333" y="-258" type="line"/>
-			<point name="n01" x="385.333" y="796" type="line"/>
-			<point x="327.667" y="796" type="line"/>
-			<point name="n03" x="83.6667" y="-258" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>vstem 83.67 301.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w344m141.33,-258l385.33,796l327.67,796l83.67,-258</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="344"/>
+  <unicode hex="01C0"/>
+  <outline>
+    <contour>
+      <point x="141.333" y="-258" type="line"/>
+      <point x="385.333" y="796" type="line"/>
+      <point x="327.667" y="796" type="line"/>
+      <point x="83.6667" y="-258" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

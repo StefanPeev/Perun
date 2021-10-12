@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-	<unicode hex="0131"/>
-	<advance width="229"/>
-	<outline>
-		<contour>
-			<point name="n00" x="160" y="0" type="line"/>
-			<point name="n01" x="275" y="500" type="line"/>
-			<point x="185" y="500" type="line"/>
-			<point name="n03" x="70" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 70 205</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w229m160,0l275,500l185,500l70,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="229"/>
+  <unicode hex="0131"/>
+  <anchor x="106" y="-60" name="bottom"/>
+  <anchor x="233" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="275" y="500" type="line"/>
+      <point x="185" y="500" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

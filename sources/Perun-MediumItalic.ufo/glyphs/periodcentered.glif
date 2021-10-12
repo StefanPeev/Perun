@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="2">
-	<unicode hex="00B7"/>
-	<advance width="278"/>
-	<outline>
-		<contour>
-			<point name="n00" x="260.333" y="277.333" type="line"/>
-			<point name="n01" x="289.667" y="403.333" type="line"/>
-			<point x="175.667" y="403.333" type="line"/>
-			<point name="n03" x="146.333" y="277.333" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 277.33 126</string>
-							<string>vstem 146.33 143.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w278m260.33,277.33l289.67,403.33l175.67,403.33l146.33,277.33</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="278"/>
+  <unicode hex="00B7"/>
+  <anchor x="161.333" y="344" name="_dotCN"/>
+  <anchor x="218.333" y="478.333" name="top"/>
+  <outline>
+    <contour>
+      <point x="260.333" y="277.333" type="line"/>
+      <point x="289.667" y="403.333" type="line"/>
+      <point x="175.667" y="403.333" type="line"/>
+      <point x="146.333" y="277.333" type="line"/>
+    </contour>
+  </outline>
 </glyph>

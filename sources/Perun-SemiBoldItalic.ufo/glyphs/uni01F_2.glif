@@ -1,73 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F2" format="2">
-	<unicode hex="01F2"/>
-	<advance width="1138"/>
-	<outline>
-		<contour>
-			<point name="n00" x="307" y="87" type="curve" smooth="yes"/>
-			<point x="181" y="87" type="line"/>
-			<point x="308" y="635" type="line"/>
-			<point name="n03" x="434" y="635" type="line" smooth="yes"/>
-			<point x="598" y="635"/>
-			<point x="664" y="530"/>
-			<point x="625" y="362" type="curve" smooth="yes"/>
-			<point x="587" y="196"/>
-			<point x="470" y="87"/>
-		</contour>
-		<contour>
-			<point x="724" y="362" type="curve" smooth="yes"/>
-			<point x="777" y="593"/>
-			<point x="686" y="722"/>
-			<point name="n12" x="452" y="722" type="curve" smooth="yes"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-			<point name="n15" x="285" y="0" type="line" smooth="yes"/>
-			<point x="514" y="0"/>
-			<point x="671" y="134"/>
-		</contour>
-		<contour>
-			<point name="n18" x="1098" y="0" type="line"/>
-			<point name="n19" x="1114" y="70" type="line"/>
-			<point x="846" y="70" type="line"/>
-			<point name="hr01" x="1194" y="417" type="line"/>
-			<point x="1213" y="500" type="line"/>
-			<point name="n23" x="865" y="500" type="line"/>
-			<point name="n24" x="849" y="430" type="line"/>
-			<point x="1095" y="430" type="line"/>
-			<point x="749" y="83" type="line"/>
-			<point x="730" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 635 87</string>
-							<string>hstem 430 70</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr01</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 70</string>
-							<string>hstem 430 70</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>92c60b7965f6016e970903e2aa3e275cf8658ebab04846c9293c423f89074d170dab15b9a6f96f7a326d2921c4e29c37cab5b0295b2aaf83b00cecfb740c778e</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1202"/>
+  <unicode hex="01F2"/>
+  <anchor x="963.667" y="-60" name="bottom"/>
+  <anchor x="1077" y="580" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xScale="1" xOffset="715.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>D_z</string>
+  </dict>
+  </lib>
 </glyph>

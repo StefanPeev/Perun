@@ -1,103 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="2">
-	<unicode hex="016F"/>
-	<advance width="533"/>
-	<outline>
-		<contour>
-			<point name="n00" x="271" y="48" type="line"/>
-			<point x="205" y="48"/>
-			<point x="163" y="103"/>
-			<point x="178" y="169" type="curve" smooth="yes"/>
-			<point name="n04" x="254" y="500" type="line"/>
-			<point x="164" y="500" type="line"/>
-			<point x="88" y="171" type="line" smooth="yes"/>
-			<point x="59" y="46"/>
-			<point x="109" y="-13"/>
-			<point name="n09" x="237" y="-13" type="curve" smooth="yes"/>
-			<point x="306" y="-13"/>
-			<point x="363" y="13"/>
-			<point x="408" y="64" type="curve"/>
-			<point name="n13" x="393" y="0" type="line"/>
-			<point x="483" y="0" type="line"/>
-			<point x="598" y="500" type="line"/>
-			<point x="508" y="500" type="line"/>
-			<point x="434" y="178" type="line" smooth="yes"/>
-			<point x="417" y="103"/>
-			<point name="hr02" x="346" y="48"/>
-			<point x="272" y="48" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n21" x="408" y="613" type="curve" smooth="yes"/>
-			<point x="369" y="613"/>
-			<point x="344" y="644"/>
-			<point x="353" y="683" type="curve" smooth="yes"/>
-			<point x="362" y="722"/>
-			<point x="401" y="753"/>
-			<point name="n27" x="440" y="753" type="curve" smooth="yes"/>
-			<point x="479" y="753"/>
-			<point x="503" y="722"/>
-			<point x="494" y="683" type="curve" smooth="yes"/>
-			<point x="485" y="644"/>
-			<point x="447" y="613"/>
-		</contour>
-		<contour>
-			<point name="n33" x="449" y="793" type="curve" smooth="yes"/>
-			<point x="388" y="793"/>
-			<point x="328" y="744"/>
-			<point x="314" y="683" type="curve" smooth="yes"/>
-			<point x="300" y="622"/>
-			<point x="337" y="573"/>
-			<point name="n39" x="398" y="573" type="curve" smooth="yes"/>
-			<point x="458" y="573"/>
-			<point x="520" y="623"/>
-			<point x="534" y="683" type="curve" smooth="yes"/>
-			<point x="548" y="744"/>
-			<point x="510" y="793"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -13 61</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 573 40</string>
-							<string>hstem 753 40</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n13</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 573 40</string>
-							<string>hstem 753 40</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr02</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -13 61</string>
-							<string>hstem 573 40</string>
-							<string>hstem 753 40</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>aea210c00d6ae3d51e9a9dcc1f29874e9ae6170ebfdfa5753ad0c280dc06477d1790798452b69b1d9cfae5f29983107700ef1c94fa6e7810e6e33da17c5fb5a1</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="607"/>
+  <unicode hex="016F"/>
+  <anchor x="282.333" y="-60" name="bottom"/>
+  <anchor x="449" y="10" name="bottomUC"/>
+  <anchor x="476.333" y="780" name="mkmktop"/>
+  <anchor x="424" y="580" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni030A" xScale="1" xyScale="-5.25802e-18" xOffset="569.667" yOffset="-123.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni030A</string>
+  </dict>
+  </lib>
 </glyph>

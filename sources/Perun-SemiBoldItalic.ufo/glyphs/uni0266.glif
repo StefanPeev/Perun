@@ -1,63 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0266" format="2">
-	<unicode hex="0266"/>
-	<advance width="573"/>
-	<outline>
-		<contour>
-			<point name="n00" x="503" y="0" type="line"/>
-			<point x="575" y="311" type="line" smooth="yes"/>
-			<point x="607" y="450"/>
-			<point x="567" y="512"/>
-			<point name="n04" x="434" y="512" type="curve" smooth="yes"/>
-			<point x="360" y="512"/>
-			<point x="303" y="487"/>
-			<point x="260" y="436" type="curve"/>
-			<point x="286" y="551" type="line" smooth="yes"/>
-			<point x="306" y="636"/>
-			<point x="357" y="669"/>
-			<point name="n11" x="454" y="669" type="curve" smooth="yes"/>
-			<point x="485" y="669"/>
-			<point x="504" y="660"/>
-			<point x="511" y="643" type="curve"/>
-			<point x="576" y="696" type="line"/>
-			<point x="559" y="718"/>
-			<point x="511" y="736"/>
-			<point name="n18" x="474" y="736" type="curve" smooth="yes"/>
-			<point x="311" y="736"/>
-			<point x="224" y="678"/>
-			<point x="195" y="551" type="curve" smooth="yes"/>
-			<point x="68" y="-1" type="line"/>
-			<point x="158" y="-1" type="line"/>
-			<point x="236" y="340" type="line" smooth="yes"/>
-			<point x="249" y="395"/>
-			<point x="329" y="446"/>
-			<point name="n27" x="410" y="446" type="curve" smooth="yes"/>
-			<point x="473" y="446"/>
-			<point x="502" y="390"/>
-			<point x="484" y="313" type="curve" smooth="yes"/>
-			<point x="412" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 446 66</string>
-							<string>hstem 669 67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>a87a0b7dea023b77ced5f5f196a557fdb6d508ee90c2898b62e9892e403dfa9ae89e8fc75f3cfd9ab52591f0d5fe3f5e69b7556d9352349c956e342c8e2a823d</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="573"/>
+  <unicode hex="0266"/>
+  <outline>
+    <component base="n" xOffset="0.666667"/>
+    <contour>
+      <point x="195.333" y="500" type="line"/>
+      <point x="315.333" y="500" type="line"/>
+      <point x="324.667" y="543.667" type="line" smooth="yes"/>
+      <point x="338" y="606.333"/>
+      <point x="373" y="639"/>
+      <point x="438.333" y="639" type="curve" smooth="yes"/>
+      <point x="484.667" y="639"/>
+      <point x="518.667" y="622.333"/>
+      <point x="530.333" y="607.667" type="curve"/>
+      <point x="600.667" y="689" type="line"/>
+      <point x="567.667" y="716"/>
+      <point x="504.333" y="734.667"/>
+      <point x="436" y="734.667" type="curve" smooth="yes"/>
+      <point x="318.667" y="734.667"/>
+      <point x="234.667" y="679"/>
+      <point x="206.667" y="551.667" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
 </glyph>

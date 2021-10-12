@@ -1,60 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
-	<unicode hex="0127"/>
-	<advance width="583"/>
-	<outline>
-		<contour>
-			<point x="513" y="0" type="line"/>
-			<point x="585" y="311" type="line" smooth="yes"/>
-			<point x="617" y="450"/>
-			<point x="577" y="512"/>
-			<point name="n04" x="444" y="512" type="curve" smooth="yes"/>
-			<point x="370" y="512"/>
-			<point x="313" y="487"/>
-			<point x="270" y="436" type="curve"/>
-			<point name="n08" x="299" y="565" type="line"/>
-			<point x="464" y="565" type="line"/>
-			<point x="477" y="620" type="line"/>
-			<point name="n11" x="312" y="620" type="line"/>
-			<point name="n12" x="335" y="721" type="line"/>
-			<point x="245" y="721" type="line"/>
-			<point x="222" y="620" type="line"/>
-			<point x="112" y="620" type="line"/>
-			<point x="99" y="565" type="line"/>
-			<point x="209" y="565" type="line"/>
-			<point name="n18" x="79" y="-1" type="line"/>
-			<point x="169" y="-1" type="line"/>
-			<point x="247" y="340" type="line" smooth="yes"/>
-			<point x="260" y="395"/>
-			<point x="340" y="446"/>
-			<point name="n23" x="421" y="446" type="curve" smooth="yes"/>
-			<point x="484" y="446"/>
-			<point x="513" y="390"/>
-			<point x="495" y="313" type="curve" smooth="yes"/>
-			<point x="423" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 20 -21</string>
-							<string>hstem 446 66</string>
-							<string>hstem 565 55</string>
-							<string>hstem 721 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>9fe79289d6805f4113e15040d930aad97006a83655ee85d8fecee1617f0a1d55428a16e1046e4af2e814a4fd97d3210690133541303b379ddca907a7aa10b0f9</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="583"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h"/>
+    <contour>
+      <point x="96.9869" y="563.667" type="line"/>
+      <point x="470.306" y="563.667" type="line"/>
+      <point x="479.946" y="637.667" type="line"/>
+      <point x="106.627" y="637.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

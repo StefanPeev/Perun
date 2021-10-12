@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="2">
-	<unicode hex="0301"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point name="n00" x="47.3333" y="777" type="line"/>
-			<point name="n01" x="-73" y="777" type="line"/>
-			<point name="n02" x="-207.333" y="600" type="line"/>
-			<point name="n03" x="-140.333" y="600" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="_top" x="-173.333" y="600"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 177</string>
-							<string>vstem -207.33 254.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1m47.33,777l-73,777l-207.33,600l-140.33,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1"/>
+  <unicode hex="0301"/>
+  <anchor x="-176.667" y="600" name="_mkmktop"/>
+  <anchor x="-173.333" y="600" name="_top"/>
+  <outline>
+    <contour>
+      <point x="47.3333" y="777" type="line"/>
+      <point x="-73" y="777" type="line"/>
+      <point x="-207.333" y="600" type="line"/>
+      <point x="-140.333" y="600" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="2">
-	<unicode hex="2044"/>
-	<advance width="574"/>
-	<outline>
-		<contour>
-			<point name="n00" x="720" y="736" type="line"/>
-			<point x="621" y="736" type="line"/>
-			<point name="n02" x="22" y="-14" type="line"/>
-			<point x="121" y="-14" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 7 -21</string>
-							<string>hstem 736 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w574m720,736l621,736l22,-14l121,-14</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="574"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="720" y="736" type="line"/>
+      <point x="621" y="736" type="line"/>
+      <point x="22" y="-14" type="line"/>
+      <point x="121" y="-14" type="line"/>
+    </contour>
+  </outline>
 </glyph>

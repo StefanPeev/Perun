@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-	<unicode hex="0049"/>
-	<advance width="280"/>
-	<outline>
-		<contour>
-			<point name="n00" x="207" y="0" type="line"/>
-			<point name="n01" x="374" y="722" type="line"/>
-			<point x="240.333" y="722" type="line"/>
-			<point name="n03" x="73.3333" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 73.33 300.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w280m207,0l374,722l240.33,722l73.33,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="280"/>
+  <unicode hex="0049"/>
+  <anchor x="160" y="-65" name="bottom"/>
+  <anchor x="142.333" y="10" name="bottomUC"/>
+  <anchor x="319.333" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="374" y="722" type="line"/>
+      <point x="240.333" y="722" type="line"/>
+      <point x="73.3333" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

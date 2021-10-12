@@ -1,44 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="2">
-	<unicode hex="00EE"/>
-	<advance width="229"/>
-	<outline>
-		<contour>
-			<point name="n00" x="160" y="0" type="line"/>
-			<point name="n01" x="275" y="500" type="line"/>
-			<point x="185" y="500" type="line"/>
-			<point name="n03" x="70" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="399" y="600" type="line"/>
-			<point x="348" y="770" type="line"/>
-			<point x="238" y="770" type="line"/>
-			<point x="109" y="600" type="line"/>
-			<point x="169" y="600" type="line"/>
-			<point x="279" y="710" type="line"/>
-			<point x="339" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 70 329</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w229m160,0l275,500l185,500l70,0m399,600l348,770l238,770l109,600l169,600l279,710l339,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="252"/>
+  <unicode hex="00EE"/>
+  <anchor x="120" y="-60" name="bottom"/>
+  <anchor x="251" y="580" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0302" xOffset="416.333" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

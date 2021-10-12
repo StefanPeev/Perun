@@ -1,53 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="2">
-	<unicode hex="0050"/>
-	<advance width="593"/>
-	<outline>
-		<contour>
-			<point x="358" y="394" type="curve" smooth="yes"/>
-			<point name="n01" x="252" y="394" type="line"/>
-			<point x="308" y="635" type="line"/>
-			<point name="n03" x="414" y="635" type="line" smooth="yes"/>
-			<point x="522" y="635"/>
-			<point x="588" y="612"/>
-			<point x="565" y="514" type="curve" smooth="yes"/>
-			<point x="542" y="414"/>
-			<point x="467" y="394"/>
-		</contour>
-		<contour>
-			<point x="662" y="514" type="curve" smooth="yes"/>
-			<point x="700" y="680"/>
-			<point x="595" y="722"/>
-			<point name="n12" x="431" y="722" type="curve" smooth="yes"/>
-			<point x="227" y="722" type="line"/>
-			<point name="n14" x="60" y="0" type="line"/>
-			<point x="161" y="0" type="line"/>
-			<point name="n16" x="232" y="306" type="line"/>
-			<point x="335" y="306" type="line" smooth="yes"/>
-			<point x="499" y="306"/>
-			<point x="624" y="348"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 306 88</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>838a1d1f1dc862fd63d543ddbc2ccccd74facd7408d929b2934cf6702b3d7978ffbb9571163a914c9720a4bf2d1ca71ba7352b27c8136f0a9c928a8abaab3fd7</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="624"/>
+  <unicode hex="0050"/>
+  <anchor x="439.667" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="696.333" y="569.667" type="curve" smooth="yes"/>
+      <point x="696.333" y="688"/>
+      <point x="589.333" y="721.667"/>
+      <point x="459.333" y="721.667" type="curve" smooth="yes"/>
+      <point x="239.333" y="721.667" type="line"/>
+      <point x="72.6667" y="-0.333333" type="line"/>
+      <point x="188.333" y="-0.333333" type="line"/>
+      <point x="256.667" y="295" type="line"/>
+      <point x="361" y="295" type="line" smooth="yes"/>
+      <point x="538" y="295"/>
+      <point x="696.333" y="373.333"/>
+    </contour>
+    <contour>
+      <point x="373" y="392" type="curve" smooth="yes"/>
+      <point x="279" y="392" type="line"/>
+      <point x="333" y="625.333" type="line"/>
+      <point x="427" y="625.333" type="line" smooth="yes"/>
+      <point x="516.667" y="625.333"/>
+      <point x="577.667" y="609.667"/>
+      <point x="577.667" y="542" type="curve" smooth="yes"/>
+      <point x="577.667" y="417.667"/>
+      <point x="477.333" y="392"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  </dict>
+  </lib>
 </glyph>

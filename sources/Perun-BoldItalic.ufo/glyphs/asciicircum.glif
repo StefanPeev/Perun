@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
-	<unicode hex="005E"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point name="n00" x="763" y="10" type="line"/>
-			<point x="672" y="610" type="line"/>
-			<point name="n02" x="610" y="610" type="line"/>
-			<point name="n03" x="241" y="10" type="line"/>
-			<point x="303" y="10" type="line"/>
-			<point name="n05" x="626" y="546" type="line"/>
-			<point x="701" y="10" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 546 64</string>
-							<string>vstem 241 522</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1000m763,10l672,610l610,610l241,10l303,10l626,546l701,10</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="763" y="10" type="line"/>
+      <point x="672" y="610" type="line"/>
+      <point x="610" y="610" type="line"/>
+      <point x="241" y="10" type="line"/>
+      <point x="303" y="10" type="line"/>
+      <point x="626" y="546" type="line"/>
+      <point x="701" y="10" type="line"/>
+    </contour>
+  </outline>
 </glyph>

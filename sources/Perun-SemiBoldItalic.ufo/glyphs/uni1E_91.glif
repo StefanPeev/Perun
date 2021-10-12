@@ -1,49 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E91" format="2">
-	<unicode hex="1E91"/>
-	<advance width="448"/>
-	<outline>
-		<contour>
-			<point name="n00" x="408" y="0" type="line"/>
-			<point name="n01" x="424" y="70" type="line"/>
-			<point x="156" y="70" type="line"/>
-			<point x="504" y="417" type="line"/>
-			<point x="523" y="500" type="line"/>
-			<point name="n05" x="175" y="500" type="line"/>
-			<point name="n06" x="159" y="430" type="line"/>
-			<point x="405" y="430" type="line"/>
-			<point x="59" y="83" type="line"/>
-			<point x="40" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="511" y="573" type="line"/>
-			<point x="461" y="743" type="line"/>
-			<point x="351" y="743" type="line"/>
-			<point x="221" y="573" type="line"/>
-			<point x="281" y="573" type="line"/>
-			<point x="392" y="683" type="line"/>
-			<point x="451" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 70</string>
-							<string>hstem 430 70</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>916ad2e90fa8190cf26e4e2a55209419b14c9c93ba49d261dcb0a876d5f0a9e141653ccc696d1d53212c251bbbc01174ea30f3d8641375c7650d72beb396370e</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="486"/>
+  <unicode hex="1E91"/>
+  <anchor x="248.333" y="-60" name="bottom"/>
+  <anchor x="361.667" y="580" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="uni0302" xOffset="527" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,92 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E03" format="2">
-	<unicode hex="1E03"/>
-	<advance width="560"/>
-	<outline>
-		<contour>
-			<point name="n00" x="294" y="54" type="curve" smooth="yes"/>
-			<point x="198" y="54"/>
-			<point x="166" y="123"/>
-			<point x="198" y="262" type="curve" smooth="yes"/>
-			<point x="221" y="361"/>
-			<point x="292" y="455"/>
-			<point name="n06" x="390" y="455" type="curve" smooth="yes"/>
-			<point x="491" y="455"/>
-			<point x="509" y="365"/>
-			<point x="485" y="262" type="curve" smooth="yes"/>
-			<point x="461" y="156"/>
-			<point x="391" y="54"/>
-		</contour>
-		<contour>
-			<point x="583" y="271" type="line"/>
-			<point x="614" y="406"/>
-			<point x="563" y="513"/>
-			<point name="n15" x="424" y="513" type="curve" smooth="yes"/>
-			<point x="347" y="513"/>
-			<point x="286" y="486"/>
-			<point x="238" y="431" type="curve"/>
-			<point name="n19" x="305" y="722" type="line"/>
-			<point x="218" y="722" type="line"/>
-			<point name="n21" x="51" y="0" type="line"/>
-			<point name="hr01" x="138" y="0" type="line"/>
-			<point x="152" y="59" type="line"/>
-			<point x="178" y="25"/>
-			<point x="225" y="-13"/>
-			<point name="n26" x="297" y="-13" type="curve" smooth="yes"/>
-			<point x="435" y="-13"/>
-			<point x="551" y="126"/>
-			<point x="584" y="271" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n30" x="511" y="782" type="line"/>
-			<point name="n31" x="534" y="882" type="line"/>
-			<point x="444" y="882" type="line"/>
-			<point x="421" y="782" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -13 67</string>
-							<string>hstem 455 58</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 782 100</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr01</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 455 58</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 782 100</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n26</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -13 67</string>
-							<string>hstem 782 100</string>
-							<string>hstem 455 58</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>e9343d18072f85d9f3176d2fdaaed971d0d46fb1c9d610e3fd3031cadccec0fee7700466ad461883addbac961639b886843cbf7b1f4fa1beedd05d19426ec8f0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="1E03"/>
+  <anchor x="339" y="-60" name="bottom"/>
+  <anchor x="339" y="970" name="mkmktop"/>
+  <anchor x="319" y="800" name="top"/>
+  <outline>
+    <component base="b"/>
+    <component base="uni0307" xOffset="482" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>b+uni0307</string>
+  </dict>
+  </lib>
 </glyph>

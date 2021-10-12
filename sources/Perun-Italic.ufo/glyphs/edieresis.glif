@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="2">
-	<unicode hex="00EB"/>
-	<advance width="537"/>
-	<outline>
-		<component base="e"/>
-		<component base="uni0308" xOffset="501"/>
-	</outline>
-	<anchor name="top" x="351" y="600"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>e+uni0308</string>
-		</dict>
-	</lib>
+  <advance width="571"/>
+  <unicode hex="00EB"/>
+  <anchor x="273" y="-60" name="bottom"/>
+  <anchor x="439" y="740" name="mkmktop"/>
+  <anchor x="411" y="580" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0308" xOffset="561" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

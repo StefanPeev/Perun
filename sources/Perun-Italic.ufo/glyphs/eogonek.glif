@@ -1,82 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="2">
-	<unicode hex="0119"/>
-	<advance width="537"/>
-	<outline>
-		<contour>
-			<point x="470" y="302" type="curve"/>
-			<point name="n01" x="206" y="302" type="line"/>
-			<point x="231" y="399"/>
-			<point x="298" y="447"/>
-			<point name="n04" x="370" y="447" type="curve" smooth="yes"/>
-			<point x="478" y="447"/>
-			<point x="484" y="362"/>
-		</contour>
-		<contour>
-			<point name="n07" x="205" y="-226" type="line"/>
-			<point x="217" y="-226"/>
-			<point x="241" y="-225"/>
-			<point x="277" y="-222" type="curve"/>
-			<point x="293" y="-152" type="line"/>
-			<point name="n12" x="252" y="-156" type="line"/>
-			<point x="219" y="-156"/>
-			<point x="206" y="-145"/>
-			<point x="211" y="-122" type="curve" smooth="yes"/>
-			<point x="221" y="-78"/>
-			<point x="263" y="-28"/>
-			<point name="n18" x="278" y="-14" type="curve"/>
-			<point x="399" y="-11"/>
-			<point x="488" y="57"/>
-			<point name="n21" x="532" y="160" type="curve"/>
-			<point name="n22" x="436" y="160" type="line"/>
-			<point x="416" y="98"/>
-			<point x="362" y="51"/>
-			<point name="n25" x="294" y="51" type="curve" smooth="yes"/>
-			<point x="198" y="51"/>
-			<point x="166" y="134"/>
-			<point name="n28" x="190" y="236" type="curve"/>
-			<point x="548" y="236" type="line"/>
-			<point x="559" y="283" type="line" smooth="yes"/>
-			<point x="591" y="423"/>
-			<point x="532" y="512"/>
-			<point name="n33" x="387" y="512" type="curve" smooth="yes"/>
-			<point x="234" y="512"/>
-			<point x="134" y="405"/>
-			<point x="98" y="251" type="curve" smooth="yes"/>
-			<point x="66" y="112"/>
-			<point x="100" y="2"/>
-			<point x="239" y="-12" type="curve"/>
-			<point x="224" y="-24" type="line"/>
-			<point x="195" y="-44"/>
-			<point x="147" y="-97"/>
-			<point x="137" y="-140" type="curve" smooth="yes"/>
-			<point x="124" y="-195"/>
-			<point x="150" y="-225"/>
-			<point x="205" y="-225" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -226 70</string>
-							<string>hstem -14 65</string>
-							<string>hstem 236 66</string>
-							<string>hstem 447 65</string>
-							<string>vstem 436 96</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>ef3b37a7176111c290f3975aff701887c625f9109970237af38f2f52d2fb7a8ba09a0e25e8cc181f1488cffafdc867817e3f3a397388cddf73b3cadf6e0ce5f3</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="571"/>
+  <unicode hex="0119"/>
+  <anchor x="273" y="-60" name="bottom"/>
+  <anchor x="411" y="580" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="ogonekcomb" xOffset="417"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+ogonekcomb</string>
+  </dict>
+  </lib>
 </glyph>

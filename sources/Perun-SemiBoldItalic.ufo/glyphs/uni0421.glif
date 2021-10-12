@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0421" format="2">
-	<unicode hex="0421"/>
-	<advance width="705"/>
-	<outline>
-		<component base="C"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>C</string>
-		</dict>
-	</lib>
+  <advance width="705"/>
+  <unicode hex="0421"/>
+  <anchor x="351.333" y="-63.3333" name="bottom"/>
+  <anchor x="369.333" y="10" name="cedillaC"/>
+  <anchor x="547.333" y="800" name="top"/>
+  <outline>
+    <component base="C"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C</string>
+  </dict>
+  </lib>
 </glyph>

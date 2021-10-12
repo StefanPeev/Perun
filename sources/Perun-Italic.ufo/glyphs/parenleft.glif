@@ -1,44 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-	<unicode hex="0028"/>
-	<advance width="359"/>
-	<outline>
-		<contour>
-			<point name="n00" x="238" y="-132" type="line"/>
-			<point x="231" y="-73"/>
-			<point x="227" y="-15"/>
-			<point x="227" y="41" type="curve" smooth="yes"/>
-			<point x="227" y="298"/>
-			<point x="308" y="515"/>
-			<point name="n06" x="438" y="736" type="curve"/>
-			<point x="374" y="736" type="line"/>
-			<point x="233" y="555"/>
-			<point x="137" y="335"/>
-			<point x="137" y="103" type="curve" smooth="yes"/>
-			<point x="137" y="21"/>
-			<point x="149" y="-56"/>
-			<point name="n13" x="173" y="-132" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 736 -20</string>
-							<string>vstem 173 65</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w359m238,-132c231,-73 227,-15 227,41c227,298 308,515 438,736l374,736c233,555 137,335 137,103c137,21 149,-56 173,-132</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="359"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="238" y="-132" type="line"/>
+      <point x="231" y="-73"/>
+      <point x="227" y="-15"/>
+      <point x="227" y="41" type="curve" smooth="yes"/>
+      <point x="227" y="298"/>
+      <point x="308" y="515"/>
+      <point x="438" y="736" type="curve"/>
+      <point x="374" y="736" type="line"/>
+      <point x="233" y="555"/>
+      <point x="137" y="335"/>
+      <point x="137" y="103" type="curve" smooth="yes"/>
+      <point x="137" y="21"/>
+      <point x="149" y="-56"/>
+      <point x="173" y="-132" type="curve"/>
+    </contour>
+  </outline>
 </glyph>

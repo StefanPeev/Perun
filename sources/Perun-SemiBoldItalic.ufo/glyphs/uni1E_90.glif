@@ -1,49 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E90" format="2">
-	<unicode hex="1E90"/>
-	<advance width="626"/>
-	<outline>
-		<contour>
-			<point name="n00" x="576" y="0" type="line"/>
-			<point name="n01" x="596" y="87" type="line"/>
-			<point x="180" y="87" type="line"/>
-			<point x="707" y="612" type="line"/>
-			<point x="733" y="722" type="line"/>
-			<point name="n05" x="237" y="722" type="line"/>
-			<point name="n06" x="217" y="635" type="line"/>
-			<point x="603" y="635" type="line"/>
-			<point x="75" y="110" type="line"/>
-			<point x="50" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="647" y="796" type="line"/>
-			<point x="596" y="966" type="line"/>
-			<point x="486" y="966" type="line"/>
-			<point x="357" y="796" type="line"/>
-			<point x="417" y="796" type="line"/>
-			<point x="527" y="906" type="line"/>
-			<point x="587" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>d523e78a381a064606b71f397a6390ada4acb5e2afcb82c57a4cf990e3d149ce8e235c50cb296f72f82be532b3c9ccca6d5c9c12cd4f836a2f309890e17ed035</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="630"/>
+  <unicode hex="1E90"/>
+  <anchor x="479.333" y="800" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="uni0302" xScale="1" xOffset="644.667" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Z+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

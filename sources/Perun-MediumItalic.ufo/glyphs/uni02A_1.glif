@@ -1,62 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A1" format="2">
-	<unicode hex="02A1"/>
-	<advance width="489"/>
-	<outline>
-		<contour>
-			<point x="560" y="555" type="line"/>
-			<point x="584" y="660"/>
-			<point x="501" y="736"/>
-			<point name="n03" x="376" y="736" type="curve" smooth="yes"/>
-			<point x="336" y="736"/>
-			<point x="288" y="730"/>
-			<point x="230" y="718" type="curve"/>
-			<point x="213" y="644" type="line"/>
-			<point x="251" y="654"/>
-			<point x="288" y="659"/>
-			<point name="n10" x="325" y="659" type="curve" smooth="yes"/>
-			<point x="421" y="659"/>
-			<point x="477" y="621"/>
-			<point x="462" y="558" type="curve" smooth="yes"/>
-			<point x="443" y="474"/>
-			<point x="371" y="422"/>
-			<point x="247" y="412" type="curve"/>
-			<point x="216" y="278" type="line"/>
-			<point name="n18" x="95" y="278" type="line"/>
-			<point name="n19" x="82" y="222" type="line"/>
-			<point x="203" y="222" type="line"/>
-			<point name="n21" x="152" y="0" type="line"/>
-			<point x="249" y="0" type="line"/>
-			<point x="300" y="222" type="line"/>
-			<point x="421" y="222" type="line"/>
-			<point x="434" y="278" type="line"/>
-			<point x="313" y="278" type="line"/>
-			<point x="334" y="369" type="line"/>
-			<point x="465" y="404"/>
-			<point x="540" y="466"/>
-			<point x="561" y="555" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 222 56</string>
-							<string>hstem 659 77</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>0950f5ba6b6789751627c022c0b1ba2e049d1c1f48b5827ff7162c264e040499191a9470757514033c8ff25cccf7bbe8c89c38af777f9f3c63ce2ea7dce24e79</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="489"/>
+  <unicode hex="02A1"/>
+  <outline>
+    <component base="uni0294"/>
+    <contour>
+      <point x="439" y="214.667" type="line"/>
+      <point x="456" y="287.667" type="line"/>
+      <point x="102.667" y="287.667" type="line"/>
+      <point x="85.6667" y="214.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

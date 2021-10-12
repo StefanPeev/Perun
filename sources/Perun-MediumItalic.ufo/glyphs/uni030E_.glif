@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030E" format="2">
-	<unicode hex="030E"/>
-	<advance width="174"/>
-	<outline>
-		<contour>
-			<point name="n00" x="81.6667" y="641" type="line"/>
-			<point x="59" y="761" type="line"/>
-			<point name="n02" x="5.33333" y="664" type="line"/>
-			<point name="n03" x="10.6667" y="544" type="line"/>
-		</contour>
-		<contour>
-			<point x="85" y="640.667" type="line"/>
-			<point name="n05" x="62.3333" y="760.667" type="line"/>
-			<point x="8.66667" y="663.667" type="line"/>
-			<point x="14" y="543.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 641 23</string>
-							<string>vstem 10.67 51.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w174m81.67,641l59,761l5.33,664l10.67,544m85,640.67l62.33,760.67l8.67,663.67l14,543.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1"/>
+  <unicode hex="030E"/>
+  <outline>
+    <component base="uni030D" xOffset="-26.3333"/>
+    <component base="uni030D" xOffset="93"/>
+  </outline>
 </glyph>

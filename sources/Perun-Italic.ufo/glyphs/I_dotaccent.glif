@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="2">
-	<unicode hex="0130"/>
-	<advance width="261"/>
-	<outline>
-		<contour>
-			<point name="n00" x="180" y="0" type="line"/>
-			<point name="n01" x="347" y="722" type="line"/>
-			<point x="246" y="722" type="line"/>
-			<point name="n03" x="79" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="359" y="796" type="line"/>
-			<point name="n05" x="382" y="896" type="line"/>
-			<point x="292" y="896" type="line"/>
-			<point x="269" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 796 100</string>
-							<string>vstem 79 303</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w261m180,0l347,722l246,722l79,0m359,796l382,896l292,896l269,796</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="261"/>
+  <unicode hex="0130"/>
+  <anchor x="214" y="-75" name="bottom"/>
+  <anchor x="133" y="10" name="bottomUC"/>
+  <anchor x="334" y="940" name="mkmktop"/>
+  <anchor x="304" y="800" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0307" xOffset="457" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0307</string>
+  </dict>
+  </lib>
 </glyph>

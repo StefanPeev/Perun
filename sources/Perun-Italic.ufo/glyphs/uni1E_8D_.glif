@@ -1,55 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E8D" format="2">
-	<unicode hex="1E8D"/>
-	<advance width="537"/>
-	<outline>
-		<contour>
-			<point name="n00" x="521" y="0" type="line"/>
-			<point x="382" y="259" type="line"/>
-			<point name="n02" x="623" y="500" type="line"/>
-			<point x="518" y="500" type="line"/>
-			<point x="349" y="321" type="line"/>
-			<point x="258" y="500" type="line"/>
-			<point x="144" y="500" type="line"/>
-			<point x="273" y="259" type="line"/>
-			<point x="14" y="0" type="line"/>
-			<point x="119" y="0" type="line"/>
-			<point x="306" y="197" type="line"/>
-			<point x="407" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n12" x="346" y="573" type="line"/>
-			<point name="n13" x="368" y="665" type="line"/>
-			<point x="278" y="665" type="line"/>
-			<point x="256" y="573" type="line"/>
-		</contour>
-		<contour>
-			<point x="546" y="573" type="line"/>
-			<point x="568" y="665" type="line"/>
-			<point x="478" y="665" type="line"/>
-			<point x="456" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 573 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>236f3e948549bc88dcf4f9c240bf68a4616c7357f4940d94dfd7119c355afec084122514d3e6dd7910d015c307231076c41631307a6ce956004d8a05c1ef80a5</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="567"/>
+  <unicode hex="1E8D"/>
+  <anchor x="282" y="-60" name="bottom"/>
+  <anchor x="430" y="740" name="mkmktop"/>
+  <anchor x="402" y="580" name="top"/>
+  <outline>
+    <component base="x"/>
+    <component base="uni0308" xOffset="552" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>x+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

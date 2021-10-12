@@ -1,58 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-	<unicode hex="0126"/>
-	<advance width="669"/>
-	<outline>
-		<contour>
-			<point name="n00" x="609" y="0" type="line"/>
-			<point name="n01" x="728" y="516" type="line"/>
-			<point x="773" y="516" type="line"/>
-			<point x="788" y="581" type="line"/>
-			<point name="n04" x="743" y="581" type="line"/>
-			<point name="n05" x="776" y="722" type="line"/>
-			<point x="675" y="722" type="line"/>
-			<point x="642" y="581" type="line"/>
-			<point x="295" y="581" type="line"/>
-			<point x="328" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="194" y="581" type="line"/>
-			<point x="149" y="581" type="line"/>
-			<point x="134" y="516" type="line"/>
-			<point x="179" y="516" type="line"/>
-			<point x="60" y="0" type="line"/>
-			<point x="161" y="0" type="line"/>
-			<point name="n17" x="236" y="326" type="line"/>
-			<point x="583" y="326" type="line"/>
-			<point x="508" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="280" y="516" type="line"/>
-			<point x="627" y="516" type="line"/>
-			<point x="603" y="413" type="line"/>
-			<point name="n23" x="256" y="413" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 326 87</string>
-							<string>hstem 516 65</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>d2b24079c2c43c73039cd68b329125b23ba6111e94cc67be5bde4cb7933e6368c1b669d7224f5ad2f76f2b3a9847e932976ac58fdeabe41cbde004d5e23dda33</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="669"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="H" xOffset="-10"/>
+    <contour>
+      <point x="134" y="517" type="line"/>
+      <point x="787" y="517" type="line"/>
+      <point x="802" y="581" type="line"/>
+      <point x="149" y="581" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,42 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcedilla" format="2">
-	<unicode hex="013B"/>
-	<advance width="495"/>
-	<outline>
-		<contour>
-			<point name="n00" x="480" y="0" type="line"/>
-			<point name="n01" x="500" y="87" type="line"/>
-			<point x="181" y="87" type="line"/>
-			<point name="n03" x="328" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="346" y="-60" type="line"/>
-			<point x="226" y="-60" type="line"/>
-			<point x="108" y="-310" type="line"/>
-			<point x="178" y="-310" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w495m480,0l500,87l181,87l328,722l227,722l60,0m346,-60l226,-60l108,-310l178,-310</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="495"/>
+  <unicode hex="013B"/>
+  <anchor x="241" y="-60" name="bottom"/>
+  <anchor x="423" y="363" name="dotCN"/>
+  <anchor x="290" y="800" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="uni0326" xOffset="531"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni0326</string>
+  </dict>
+  </lib>
 </glyph>

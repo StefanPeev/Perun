@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043B" format="2">
-	<unicode hex="043B"/>
-	<advance width="537"/>
-	<outline>
-		<contour>
-			<point name="n00" x="16.6667" y="0" type="line"/>
-			<point x="141" y="0" type="line"/>
-			<point x="342.333" y="342" type="line"/>
-			<point x="386.667" y="0" type="line"/>
-			<point x="520.333" y="0" type="line"/>
-			<point name="n05" x="441.667" y="500" type="line"/>
-			<point x="324.333" y="500" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w537m16.67,0l141,0l342.33,342l386.67,0l520.33,0l441.67,500l324.33,500</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="570"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="42.6667" y="95.6667" type="curve"/>
+      <point x="21" y="0" type="line"/>
+      <point x="30" y="-3"/>
+      <point x="61" y="-7"/>
+      <point x="72" y="-7" type="curve" smooth="yes"/>
+      <point x="189" y="-7"/>
+      <point x="250" y="45.6667"/>
+      <point x="317.667" y="327" type="curve" smooth="yes"/>
+      <point x="338.667" y="415" type="line"/>
+      <point x="486.333" y="415" type="line"/>
+      <point x="397.333" y="0" type="line"/>
+      <point x="517.667" y="0" type="line"/>
+      <point x="624.667" y="500" type="line"/>
+      <point x="237.667" y="500" type="line"/>
+      <point x="208.667" y="372" type="line" smooth="yes"/>
+      <point x="156.333" y="143"/>
+      <point x="129" y="89.6667"/>
+      <point x="74.6667" y="89.6667" type="curve" smooth="yes"/>
+      <point x="67.6667" y="89.6667"/>
+      <point x="48.6667" y="93.6667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

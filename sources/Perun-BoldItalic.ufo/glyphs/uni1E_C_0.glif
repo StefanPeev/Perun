@@ -1,58 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EC0" format="2">
-	<unicode hex="1EC0"/>
-	<advance width="606"/>
-	<outline>
-		<contour>
-			<point name="n00" x="536" y="0" type="line"/>
-			<point name="n01" x="556" y="87" type="line"/>
-			<point x="200" y="87" type="line"/>
-			<point name="n03" x="255" y="326" type="line"/>
-			<point x="591" y="326" type="line"/>
-			<point x="611" y="413" type="line"/>
-			<point name="n06" x="275" y="413" type="line"/>
-			<point x="327" y="635" type="line"/>
-			<point name="n08" x="673" y="635" type="line"/>
-			<point name="n09" x="693" y="722" type="line"/>
-			<point x="246" y="722" type="line"/>
-			<point x="79" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="637" y="821" type="line"/>
-			<point x="586" y="991" type="line"/>
-			<point x="476" y="991" type="line"/>
-			<point x="347" y="821" type="line"/>
-			<point x="407" y="821" type="line"/>
-			<point x="517" y="931" type="line"/>
-			<point x="577" y="821" type="line"/>
-		</contour>
-		<contour>
-			<point x="576" y="1051" type="line"/>
-			<point x="515" y="1222" type="line"/>
-			<point x="414" y="1222" type="line"/>
-			<point x="515" y="1051" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>b885aa3d5998b487649122d38e814afa8db062756b8b5a09b74d66a87727f2c738e431d0275885a9736cbbfbd932ef3c11b366c0587feafc53fdfc22e9bc4a7f</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="594"/>
+  <unicode hex="1EC0"/>
+  <anchor x="320" y="-60" name="bottom"/>
+  <anchor x="471" y="800" name="top"/>
+  <outline>
+    <component base="Ecircumflex"/>
+    <component base="gravecomb" xOffset="586" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ecircumflex+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

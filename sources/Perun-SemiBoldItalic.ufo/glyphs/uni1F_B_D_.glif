@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FBD" format="2">
-	<unicode hex="1FBD"/>
-	<advance width="299"/>
-	<outline>
-		<contour>
-			<point name="n00" x="490.333" y="1184.67" type="line"/>
-			<point name="n01" x="350.333" y="1184.67" type="line"/>
-			<point name="n02" x="283.667" y="908" type="line"/>
-			<point name="n03" x="372.333" y="908" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 908 276.67</string>
-							<string>vstem 283.67 206.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w299m490.33,1184.67l350.33,1184.67l283.67,908l372.33,908</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="299"/>
+  <unicode hex="1FBD"/>
+  <outline>
+    <contour>
+      <point x="490.333" y="1184.67" type="line"/>
+      <point x="350.333" y="1184.67" type="line"/>
+      <point x="283.667" y="908" type="line"/>
+      <point x="372.333" y="908" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

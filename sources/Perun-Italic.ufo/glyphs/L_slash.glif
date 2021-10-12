@@ -1,44 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-	<unicode hex="0141"/>
-	<advance width="590"/>
-	<outline>
-		<contour>
-			<point name="n00" x="561" y="0" type="line"/>
-			<point name="n01" x="581" y="87" type="line"/>
-			<point x="262" y="87" type="line"/>
-			<point x="334" y="398" type="line"/>
-			<point x="464" y="502" type="line"/>
-			<point x="483" y="584" type="line"/>
-			<point x="353" y="479" type="line"/>
-			<point name="n07" x="409" y="722" type="line"/>
-			<point x="308" y="722" type="line"/>
-			<point x="229" y="380" type="line"/>
-			<point x="98" y="275" type="line"/>
-			<point x="80" y="196" type="line"/>
-			<point x="210" y="300" type="line"/>
-			<point x="141" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w590m561,0l581,87l262,87l334,398l464,502l483,584l353,479l409,722l308,722l229,380l98,275l80,196l210,300l141,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="590"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="561" y="0" type="line"/>
+      <point x="581" y="87" type="line"/>
+      <point x="262" y="87" type="line"/>
+      <point x="334" y="398" type="line"/>
+      <point x="464" y="502" type="line"/>
+      <point x="483" y="584" type="line"/>
+      <point x="353" y="479" type="line"/>
+      <point x="409" y="722" type="line"/>
+      <point x="308" y="722" type="line"/>
+      <point x="229" y="380" type="line"/>
+      <point x="98" y="275" type="line"/>
+      <point x="80" y="196" type="line"/>
+      <point x="210" y="300" type="line"/>
+      <point x="141" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

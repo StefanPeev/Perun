@@ -1,62 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02E0" format="2">
-	<unicode hex="02E0"/>
-	<advance width="380"/>
-	<outline>
-		<contour>
-			<point x="265" y="323" type="curve"/>
-			<point x="278" y="306"/>
-			<point x="282" y="290"/>
-			<point x="278" y="271" type="curve"/>
-			<point x="274" y="255"/>
-			<point x="264" y="247"/>
-			<point name="n06" x="247" y="247" type="curve" smooth="yes"/>
-			<point x="231" y="247"/>
-			<point x="225" y="254"/>
-			<point x="228" y="269" type="curve"/>
-			<point x="229" y="272" type="line"/>
-			<point x="233" y="289"/>
-			<point x="245" y="306"/>
-		</contour>
-		<contour>
-			<point x="524" y="688" type="line"/>
-			<point x="450" y="688" type="line"/>
-			<point x="291" y="439" type="line"/>
-			<point x="248" y="688" type="line"/>
-			<point x="174" y="688" type="line"/>
-			<point x="240" y="369" type="line"/>
-			<point x="199" y="326"/>
-			<point x="176" y="289"/>
-			<point x="169" y="258" type="curve" smooth="yes"/>
-			<point x="162" y="226"/>
-			<point x="193" y="198"/>
-			<point name="n24" x="236" y="198" type="curve" smooth="yes"/>
-			<point x="279" y="198"/>
-			<point x="324" y="226"/>
-			<point x="331" y="258" type="curve" smooth="yes"/>
-			<point x="338" y="289"/>
-			<point x="331" y="326"/>
-			<point x="310" y="369" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 198 49</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>951ac9cc6c06367d7311b2c63003e52c7e178185a5d8b1686cef4e599bcc294d539e77a7b58b42e8f1b7082fe48ad449775c3952b1851591bca6975d49096e93</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="380"/>
+  <unicode hex="02E0"/>
+  <outline>
+    <component base="uni0263" xScale="0.706114" yScale="0.706114" xOffset="80" yOffset="340"/>
+  </outline>
 </glyph>

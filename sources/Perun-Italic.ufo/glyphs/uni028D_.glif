@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni028D" format="2">
-	<unicode hex="028D"/>
-	<advance width="814"/>
-	<outline>
-		<contour>
-			<point name="n00" x="799" y="0" type="line"/>
-			<point name="n01" x="745" y="500" type="line"/>
-			<point x="655" y="500" type="line"/>
-			<point x="427" y="85" type="line"/>
-			<point x="389" y="500" type="line"/>
-			<point x="299" y="500" type="line"/>
-			<point x="15" y="0" type="line"/>
-			<point x="111" y="0" type="line"/>
-			<point x="319" y="390" type="line"/>
-			<point x="347" y="0" type="line"/>
-			<point x="467" y="0" type="line"/>
-			<point x="675" y="390" type="line"/>
-			<point name="n12" x="703" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 703 96</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w814m799,0l745,500l655,500l427,85l389,500l299,500l15,0l111,0l319,390l347,0l467,0l675,390l703,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="865"/>
+  <unicode hex="028D"/>
+  <outline>
+    <component base="w" xScale="-1" yScale="-1" xOffset="992" yOffset="500"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>w</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,37 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni028C" format="2">
-	<unicode hex="028C"/>
-	<advance width="535"/>
-	<outline>
-		<contour>
-			<point name="n00" x="520" y="0" type="line"/>
-			<point name="n01" x="428" y="500" type="line"/>
-			<point x="336" y="500" type="line"/>
-			<point x="15" y="0" type="line"/>
-			<point x="110" y="0" type="line"/>
-			<point x="352" y="390" type="line"/>
-			<point x="415" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w535m520,0l428,500l336,500l15,0l110,0l352,390l415,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="579"/>
+  <unicode hex="028C"/>
+  <outline>
+    <component base="v" xScale="-1" yScale="-1" xOffset="705.667" yOffset="500"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>v</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,50 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF5" format="2">
-	<unicode hex="1EF5"/>
-	<advance width="535"/>
-	<outline>
-		<contour>
-			<point x="195" y="-56" type="line" smooth="yes"/>
-			<point x="137" y="-151"/>
-			<point name="n02" x="110" y="-198"/>
-			<point x="110" y="-198" type="curve"/>
-			<point x="202" y="-198" type="line"/>
-			<point x="345" y="36"/>
-			<point x="490" y="267"/>
-			<point name="n07" x="635" y="500" type="curve"/>
-			<point x="538" y="500" type="line"/>
-			<point x="305" y="123" type="line"/>
-			<point x="235" y="500" type="line"/>
-			<point x="130" y="500" type="line"/>
-			<point x="229" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n13" x="164" y="-358" type="line"/>
-			<point name="n14" x="187" y="-258" type="line"/>
-			<point x="97" y="-258" type="line"/>
-			<point x="74" y="-358" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -358 100</string>
-							<string>hstem -177 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>4538700b335812ecfe83dd5ff9f5c7a82ce18d7d6e1f74c2eebfbcb71974b3ea82122544b4c491eefdc486d0c80eb80dd007a87e0fc831f5eac65148a65c1e2b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="564"/>
+  <unicode hex="1EF5"/>
+  <anchor x="450" y="-60" name="bottom"/>
+  <anchor x="398" y="580" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotbelowcomb" xOffset="730"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+dotbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

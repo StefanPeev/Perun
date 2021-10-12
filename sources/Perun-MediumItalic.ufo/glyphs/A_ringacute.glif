@@ -1,80 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="2">
-	<unicode hex="01FA"/>
-	<advance width="750"/>
-	<outline>
-		<contour>
-			<point name="n00" x="571" y="278" type="line"/>
-			<point x="298" y="278" type="line"/>
-			<point x="510" y="611" type="line"/>
-		</contour>
-		<contour>
-			<point name="n03" x="564" y="860" type="curve" smooth="yes"/>
-			<point x="525" y="860"/>
-			<point x="500" y="890"/>
-			<point x="509" y="929" type="curve" smooth="yes"/>
-			<point x="518" y="968"/>
-			<point x="557" y="999"/>
-			<point name="n09" x="596" y="999" type="curve" smooth="yes"/>
-			<point x="635" y="999"/>
-			<point x="657" y="968"/>
-			<point x="648" y="929" type="curve" smooth="yes"/>
-			<point x="639" y="890"/>
-			<point x="603" y="860"/>
-		</contour>
-		<contour>
-			<point name="n15" x="734" y="0" type="line"/>
-			<point name="n16" x="594" y="722" type="line"/>
-			<point x="484" y="722" type="line"/>
-			<point x="14" y="0" type="line"/>
-			<point x="117" y="0" type="line"/>
-			<point x="241" y="193" type="line"/>
-			<point name="n21" x="595" y="193" type="line"/>
-			<point x="628" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n23" x="605" y="1040" type="curve" smooth="yes"/>
-			<point x="544" y="1040"/>
-			<point x="484" y="991"/>
-			<point x="470" y="930" type="curve" smooth="yes"/>
-			<point x="456" y="869"/>
-			<point x="493" y="820"/>
-			<point name="n29" x="554" y="820" type="curve" smooth="yes"/>
-			<point x="614" y="820"/>
-			<point x="676" y="870"/>
-			<point x="690" y="930" type="curve" smooth="yes"/>
-			<point x="704" y="991"/>
-			<point x="666" y="1040"/>
-		</contour>
-		<contour>
-			<point x="829" y="1271" type="line"/>
-			<point x="728" y="1271" type="line"/>
-			<point x="589" y="1100" type="line"/>
-			<point x="650" y="1100" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 193 85</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 820 40</string>
-							<string>hstem 999 41</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>f600b71da73f5a69edf57196023c4bf8380572373993510df3c3d6046c65b1ef17a66363236904111d1c4673e39f05c66b1987ad01ce0eb60f9cee1d9b3d6184</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="736"/>
+  <unicode hex="01FA"/>
+  <anchor x="368.333" y="-60" name="bottom"/>
+  <anchor x="638.667" y="10" name="bottomUC"/>
+  <anchor x="590.333" y="990" name="mkmktop"/>
+  <anchor x="537.667" y="800" name="top"/>
+  <outline>
+    <component base="Aring"/>
+    <component base="acutecomb" xScale="1" xOffset="774.667" yOffset="390"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Aring+acutecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

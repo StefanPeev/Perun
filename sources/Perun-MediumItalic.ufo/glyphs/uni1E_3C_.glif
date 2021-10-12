@@ -1,45 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E3C" format="2">
-	<unicode hex="1E3C"/>
-	<advance width="495"/>
-	<outline>
-		<contour>
-			<point name="n00" x="480" y="0" type="line"/>
-			<point name="n01" x="500" y="87" type="line"/>
-			<point x="181" y="87" type="line"/>
-			<point name="n03" x="328" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="362" y="-230" type="line"/>
-			<point x="311" y="-60" type="line"/>
-			<point x="201" y="-60" type="line"/>
-			<point x="72" y="-230" type="line"/>
-			<point x="132" y="-230" type="line"/>
-			<point x="242" y="-120" type="line"/>
-			<point x="302" y="-230" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w495m480,0l500,87l181,87l328,722l227,722l60,0m362,-230l311,-60l201,-60l72,-230l132,-230l242,-120l302,-230</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="520"/>
+  <unicode hex="1E3C"/>
+  <anchor x="258.333" y="-60" name="bottom"/>
+  <anchor x="431.667" y="376" name="dotCN"/>
+  <anchor x="300.667" y="800" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="circumflexbelowcomb" xyScale="-1.18424e-18" xOffset="496" yOffset="-33.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+circumflexbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

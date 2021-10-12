@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="2">
-	<unicode hex="02C7"/>
-	<advance width="289"/>
-	<outline>
-		<contour>
-			<point name="n00" x="468" y="770" type="line"/>
-			<point x="408" y="770" type="line"/>
-			<point x="297" y="660" type="line"/>
-			<point name="n03" x="238" y="770" type="line"/>
-			<point name="n04" x="178" y="770" type="line"/>
-			<point name="n05" x="229" y="600" type="line"/>
-			<point x="339" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 170</string>
-							<string>vstem 178 290</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w289m468,770l408,770l297,660l238,770l178,770l229,600l339,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="289"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="468" y="770" type="line"/>
+      <point x="408" y="770" type="line"/>
+      <point x="297" y="660" type="line"/>
+      <point x="238" y="770" type="line"/>
+      <point x="178" y="770" type="line"/>
+      <point x="229" y="600" type="line"/>
+      <point x="339" y="600" type="line"/>
+    </contour>
+  </outline>
 </glyph>

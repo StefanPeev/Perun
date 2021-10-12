@@ -1,41 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
-	<unicode hex="0138"/>
-	<advance width="479"/>
-	<outline>
-		<contour>
-			<point name="n00" x="459" y="0" type="line"/>
-			<point x="308" y="282" type="line"/>
-			<point name="n02" x="558" y="500" type="line"/>
-			<point x="445" y="500" type="line"/>
-			<point x="207" y="292" type="line"/>
-			<point x="255" y="500" type="line"/>
-			<point x="159" y="470" type="line"/>
-			<point x="50" y="0" type="line"/>
-			<point x="140" y="0" type="line"/>
-			<point x="202" y="267" type="line"/>
-			<point x="340" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w479m459,0l308,282l558,500l445,500l207,292l255,500l159,470l50,0l140,0l202,267l340,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="479"/>
+  <unicode hex="0138"/>
+  <anchor x="255.333" y="-60" name="bottom"/>
+  <anchor x="290.667" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="509.667" y="0" type="line"/>
+      <point x="372.667" y="283.333" type="line"/>
+      <point x="608.667" y="500" type="line"/>
+      <point x="463" y="500" type="line"/>
+      <point x="248.333" y="298" type="line"/>
+      <point x="295" y="500" type="line"/>
+      <point x="161" y="455.333" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="240.667" y="263" type="line"/>
+      <point x="360.667" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,44 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0361" format="2">
-	<unicode hex="0361"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point name="n00" x="588" y="680" type="line"/>
-			<point x="581" y="793"/>
-			<point x="451" y="850"/>
-			<point name="n03" x="198" y="850" type="curve" smooth="yes"/>
-			<point x="-57" y="850"/>
-			<point x="-214" y="793"/>
-			<point x="-273" y="680" type="curve"/>
-			<point x="-211" y="680" type="line"/>
-			<point x="-173" y="739"/>
-			<point x="-66" y="758"/>
-			<point name="n10" x="176" y="758" type="curve" smooth="yes"/>
-			<point x="418" y="758"/>
-			<point x="517" y="739"/>
-			<point name="n13" x="527" y="680" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 758 92</string>
-							<string>vstem 527 61</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1m588,680c581,793 451,850 198,850c-57,850 -214,793 -273,680l-211,680c-173,739 -66,758 176,758c418,758 517,739 527,680</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1"/>
+  <unicode hex="0361"/>
+  <outline>
+    <component base="uni035C" xScale="-1" yScale="-1" xOffset="128" yOffset="540"/>
+  </outline>
 </glyph>

@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icaron" format="2">
-	<unicode hex="01CF"/>
-	<advance width="261"/>
-	<outline>
-		<contour>
-			<point name="n00" x="180" y="0" type="line"/>
-			<point name="n01" x="347" y="722" type="line"/>
-			<point x="246" y="722" type="line"/>
-			<point x="79" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="498" y="966" type="line"/>
-			<point x="438" y="966" type="line"/>
-			<point x="328" y="856" type="line"/>
-			<point x="268" y="966" type="line"/>
-			<point x="208" y="966" type="line"/>
-			<point x="259" y="796" type="line"/>
-			<point x="369" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w261m180,0l347,722l246,722l79,0m498,966l438,966l328,856l268,966l208,966l259,796l369,796</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="280"/>
+  <unicode hex="01CF"/>
+  <anchor x="160" y="-65" name="bottom"/>
+  <anchor x="142.333" y="10" name="bottomUC"/>
+  <anchor x="319.333" y="800" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni030C" xOffset="480" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni030C</string>
+  </dict>
+  </lib>
 </glyph>

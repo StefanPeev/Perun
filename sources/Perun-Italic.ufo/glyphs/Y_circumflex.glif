@@ -1,48 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ycircumflex" format="2">
-	<unicode hex="0176"/>
-	<advance width="666"/>
-	<outline>
-		<contour>
-			<point name="n00" x="818" y="722" type="line"/>
-			<point x="704" y="722" type="line"/>
-			<point x="426" y="375" type="line"/>
-			<point x="305" y="722" type="line"/>
-			<point x="182" y="722" type="line"/>
-			<point x="348" y="287" type="line"/>
-			<point name="n06" x="282" y="0" type="line"/>
-			<point x="383" y="0" type="line"/>
-			<point x="449" y="287" type="line"/>
-		</contour>
-		<contour>
-			<point x="662" y="796" type="line"/>
-			<point x="606" y="966" type="line"/>
-			<point x="501" y="966" type="line"/>
-			<point x="372" y="796" type="line"/>
-			<point x="432" y="796" type="line"/>
-			<point x="542" y="906" type="line"/>
-			<point x="602" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>83679fb83b12a4b3b40e0d5c2a4428da3ceb2fcf551f1a04a778ae781dfad8dc30103ab3dc6c88b8f7e97fb1b00190ed0a5359341a425f7160e8a2055170e3c4</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="666"/>
+  <unicode hex="0176"/>
+  <anchor x="510" y="800" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="uni0302" xOffset="668" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

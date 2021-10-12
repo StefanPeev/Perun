@@ -1,108 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0227" format="2">
-	<unicode hex="0227"/>
-	<advance width="535"/>
-	<outline>
-		<contour>
-			<point name="n00" x="455" y="573" type="line"/>
-			<point name="n01" x="478" y="673" type="line"/>
-			<point x="388" y="673" type="line"/>
-			<point x="365" y="573" type="line"/>
-		</contour>
-		<contour>
-			<point x="177" y="144" type="line"/>
-			<point x="197" y="229"/>
-			<point x="315" y="249"/>
-			<point name="n07" x="395" y="249" type="curve"/>
-			<point x="396" y="249"/>
-			<point x="413" y="248"/>
-			<point x="446" y="246" type="curve"/>
-			<point x="418" y="126"/>
-			<point x="372" y="55"/>
-			<point name="n13" x="256" y="55" type="curve" smooth="yes"/>
-			<point x="202" y="55"/>
-			<point x="165" y="91"/>
-			<point x="177" y="145" type="curve"/>
-		</contour>
-		<contour>
-			<point x="385" y="447" type="line"/>
-			<point x="454" y="447"/>
-			<point x="489" y="412"/>
-			<point x="475" y="350" type="curve"/>
-			<point x="472" y="339"/>
-			<point x="468" y="327"/>
-			<point x="462" y="314" type="curve"/>
-			<point x="448" y="314"/>
-			<point x="408" y="316"/>
-			<point name="n26" x="394" y="316" type="curve" smooth="yes"/>
-			<point x="266" y="316"/>
-			<point x="114" y="281"/>
-			<point x="80" y="132" type="curve" smooth="yes"/>
-			<point x="59" y="40"/>
-			<point x="146" y="-13"/>
-			<point name="n32" x="238" y="-13" type="curve" smooth="yes"/>
-			<point x="316" y="-13"/>
-			<point x="360" y="25"/>
-			<point x="412" y="73" type="curve"/>
-			<point x="409" y="62"/>
-			<point x="408" y="38"/>
-			<point name="n38" x="406" y="0" type="curve"/>
-			<point name="n39" x="496" y="0" type="line"/>
-			<point x="493" y="25"/>
-			<point x="503" y="86"/>
-			<point x="525" y="183" type="curve" smooth="yes"/>
-			<point x="550" y="290" type="line" smooth="yes"/>
-			<point x="568" y="366"/>
-			<point x="574" y="412"/>
-			<point x="571" y="429" type="curve" smooth="yes"/>
-			<point x="561" y="486"/>
-			<point x="504" y="514"/>
-			<point name="n49" x="398" y="514" type="curve" smooth="yes"/>
-			<point x="264" y="514"/>
-			<point x="184" y="463"/>
-			<point name="n52" x="162" y="366" type="curve"/>
-			<point name="n53" x="255" y="366" type="line"/>
-			<point x="268" y="424"/>
-			<point x="328" y="447"/>
-			<point name="n56" x="386" y="447" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 573 100</string>
-							<string>hstem 249 67</string>
-							<string>hstem -13 68</string>
-							<string>hstem 447 67</string>
-							<string>vstem 162 93</string>
-							<string>vstem 406 90</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n38</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>vstem 406 90</string>
-							<string>hstem 447 67</string>
-							<string>vstem 162 93</string>
-							<string>hstem 249 67</string>
-							<string>hstem 573 100</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>7e06911748124b41d2717693631ff497a553bf6a68e694a0526f37e5c6060b614e15e2991f2d828d4e2c1463844917356857a636a86d5bffe683119926dfb997</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="620"/>
+  <unicode hex="0227"/>
+  <anchor x="280" y="-60" name="bottom"/>
+  <anchor x="452.667" y="730" name="mkmktop"/>
+  <anchor x="426" y="580" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni0307" xScale="1" xOffset="582.333" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni0307</string>
+  </dict>
+  </lib>
 </glyph>

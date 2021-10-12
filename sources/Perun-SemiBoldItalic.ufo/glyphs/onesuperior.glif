@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="2">
-	<unicode hex="00B9"/>
-	<advance width="290"/>
-	<outline>
-		<contour>
-			<point x="298" y="352" type="line"/>
-			<point name="n01" x="386" y="731" type="line"/>
-			<point x="324" y="731" type="line"/>
-			<point x="286" y="707" type="line" smooth="yes"/>
-			<point x="261" y="691"/>
-			<point x="236" y="682"/>
-			<point x="212" y="674" type="curve"/>
-			<point name="n07" x="199" y="619" type="line"/>
-			<point x="229" y="624"/>
-			<point x="265" y="640"/>
-			<point x="307" y="667" type="curve"/>
-			<point x="234" y="352" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 731 -20</string>
-							<string>vstem 199 187</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w290m298,352l386,731l324,731l286,707c261,691 236,682 212,674l199,619c229,624 265,640 307,667l234,352</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="290"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="309.333" y="350.667" type="line"/>
+      <point x="398" y="734.333" type="line"/>
+      <point x="320.667" y="734.333" type="line"/>
+      <point x="299.333" y="720.333" type="line" smooth="yes"/>
+      <point x="274.333" y="703"/>
+      <point x="233.333" y="685.333"/>
+      <point x="202" y="675.333" type="curve"/>
+      <point x="187.667" y="613" type="line"/>
+      <point x="221.667" y="621.333"/>
+      <point x="257" y="639.333"/>
+      <point x="293" y="662.333" type="curve"/>
+      <point x="221.333" y="350.667" type="line"/>
+    </contour>
+  </outline>
 </glyph>

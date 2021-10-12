@@ -1,55 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0204" format="2">
-	<unicode hex="0204"/>
-	<advance width="577"/>
-	<outline>
-		<contour>
-			<point name="n00" x="517" y="0" type="line"/>
-			<point name="n01" x="537" y="87" type="line"/>
-			<point x="181" y="87" type="line"/>
-			<point name="n03" x="236" y="326" type="line"/>
-			<point x="572" y="326" type="line"/>
-			<point x="592" y="413" type="line"/>
-			<point name="n06" x="256" y="413" type="line"/>
-			<point x="308" y="635" type="line"/>
-			<point name="n08" x="654" y="635" type="line"/>
-			<point name="n09" x="674" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="423" y="796" type="line"/>
-			<point x="392" y="967" type="line"/>
-			<point x="302" y="967" type="line"/>
-			<point x="373" y="796" type="line"/>
-		</contour>
-		<contour>
-			<point x="563" y="796" type="line"/>
-			<point x="532" y="967" type="line"/>
-			<point x="442" y="967" type="line"/>
-			<point x="513" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>486e192b4c4649a7941cdecd549f976a5011389ddb384cab2e04bb3cf45916a114f0f689671933e49723a285063eb2948e4793b30793ef4afbfb1fee9e6bb15d</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="594"/>
+  <unicode hex="0204"/>
+  <anchor x="320" y="-60" name="bottom"/>
+  <anchor x="471" y="800" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="uni030F" xOffset="585" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+uni030F</string>
+  </dict>
+  </lib>
 </glyph>

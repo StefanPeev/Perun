@@ -1,42 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02AF" format="2">
-	<unicode hex="02AF"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point name="n00" x="-237" y="-418" type="line"/>
-			<point name="n01" x="-225" y="-368" type="line"/>
-			<point x="-305" y="-368" type="line"/>
-			<point x="-286" y="-288" type="line"/>
-			<point x="-336" y="-288" type="line"/>
-			<point x="-355" y="-368" type="line"/>
-			<point x="-435" y="-368" type="line"/>
-			<point name="n07" x="-447" y="-418" type="line"/>
-			<point x="-367" y="-418" type="line"/>
-			<point x="-385" y="-498" type="line"/>
-			<point x="-335" y="-498" type="line"/>
-			<point x="-317" y="-418" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -418 50</string>
-							<string>vstem -447 222</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1m-237,-418l-225,-368l-305,-368l-286,-288l-336,-288l-355,-368l-435,-368l-447,-418l-367,-418l-385,-498l-335,-498l-317,-418</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="573"/>
+  <unicode hex="02AF"/>
+  <outline>
+    <component base="n" xScale="-1" yScale="-1" xOffset="699.667" yOffset="500"/>
+    <component base="uni027F" xyScale="-6.34752e-18" yScale="1" xOffset="-207" yOffset="223.333"/>
+    <component base="uni027F" xScale="-1" xyScale="1.76973e-17" yScale="-1" xOffset="883.667" yOffset="311.333"/>
+  </outline>
+  <guideline angle="0" x="0" y="734"/>
 </glyph>

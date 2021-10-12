@@ -1,51 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0268" format="2">
-	<unicode hex="0268"/>
-	<advance width="320"/>
-	<outline>
-		<contour>
-			<point name="n00" x="346" y="222" type="line"/>
-			<point name="n01" x="359" y="278" type="line"/>
-			<point x="269" y="278" type="line"/>
-			<point name="n03" x="320" y="500" type="line"/>
-			<point x="230" y="500" type="line"/>
-			<point x="179" y="278" type="line"/>
-			<point x="89" y="278" type="line"/>
-			<point name="n07" x="76" y="222" type="line"/>
-			<point x="166" y="222" type="line"/>
-			<point name="n09" x="115" y="0" type="line"/>
-			<point x="205" y="0" type="line"/>
-			<point x="256" y="222" type="line"/>
-		</contour>
-		<contour>
-			<point name="n12" x="353" y="630" type="line"/>
-			<point name="n13" x="375" y="722" type="line"/>
-			<point x="279" y="722" type="line"/>
-			<point x="257" y="630" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 222 56</string>
-							<string>hstem 500 -20</string>
-							<string>hstem 630 92</string>
-							<string>vstem 76 299</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w320m346,222l359,278l269,278l320,500l230,500l179,278l89,278l76,222l166,222l115,0l205,0l256,222m353,630l375,722l279,722l257,630</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="289"/>
+  <unicode hex="0268"/>
+  <outline>
+    <component base="i"/>
+    <contour>
+      <point x="62" y="278" type="line"/>
+      <point x="49" y="222" type="line"/>
+      <point x="319" y="222" type="line"/>
+      <point x="332" y="278" type="line"/>
+    </contour>
+  </outline>
 </glyph>

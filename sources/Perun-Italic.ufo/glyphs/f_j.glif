@@ -1,122 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_j" format="2">
-	<advance width="561"/>
-	<outline>
-		<contour>
-			<point x="339" y="-134" type="curve"/>
-			<point x="328" y="-134"/>
-			<point x="313" y="-134"/>
-			<point name="n03" x="294" y="-135" type="curve"/>
-			<point x="279" y="-199" type="line"/>
-			<point name="n05" x="290" y="-199" type="line" smooth="yes"/>
-			<point x="298" y="-199"/>
-			<point x="306" y="-199"/>
-			<point x="315" y="-200" type="curve"/>
-			<point x="324" y="-200" type="line" smooth="yes"/>
-			<point x="394" y="-200"/>
-			<point x="454" y="-161"/>
-			<point x="474" y="-74" type="curve" smooth="yes"/>
-			<point x="606" y="500" type="line"/>
-			<point x="315" y="500" type="line"/>
-			<point x="332" y="573" type="line" smooth="yes"/>
-			<point x="346" y="632"/>
-			<point x="371" y="660"/>
-			<point x="425" y="660" type="curve" smooth="yes"/>
-			<point name="n19" x="434" y="660" type="line" smooth="yes"/>
-			<point x="453" y="660"/>
-			<point x="469" y="656"/>
-			<point x="481" y="648" type="curve"/>
-			<point name="hr01" x="498" y="722" type="line"/>
-			<point x="480" y="729"/>
-			<point name="hr02" x="458" y="732"/>
-			<point name="n26" x="435" y="732" type="curve" smooth="yes"/>
-			<point x="429" y="732" type="line" smooth="yes"/>
-			<point x="322" y="732"/>
-			<point x="269" y="688"/>
-			<point x="243" y="575" type="curve" smooth="yes"/>
-			<point x="225" y="500" type="line"/>
-			<point name="n32" x="125" y="500" type="line"/>
-			<point name="n33" x="110" y="435" type="line"/>
-			<point x="210" y="435" type="line"/>
-			<point x="101" y="-39" type="line" smooth="yes"/>
-			<point x="87" y="-98"/>
-			<point x="62" y="-126"/>
-			<point x="8" y="-126" type="curve" smooth="yes"/>
-			<point name="n39" x="-1" y="-126" type="line" smooth="yes"/>
-			<point x="-20" y="-126"/>
-			<point x="-35" y="-122"/>
-			<point x="-47" y="-114" type="curve"/>
-			<point x="-64" y="-188" type="line"/>
-			<point x="-46" y="-195"/>
-			<point x="-25" y="-198"/>
-			<point name="n46" x="-2" y="-198" type="curve" smooth="yes"/>
-			<point x="4" y="-198" type="line" smooth="yes"/>
-			<point x="111" y="-198"/>
-			<point x="165" y="-154"/>
-			<point x="191" y="-41" type="curve" smooth="yes"/>
-			<point x="300" y="435" type="line"/>
-			<point x="501" y="435" type="line"/>
-			<point x="391" y="-44" type="line" smooth="yes"/>
-			<point x="380" y="-90"/>
-			<point x="370" y="-133"/>
-		</contour>
-		<contour>
-			<point name="n56" x="645" y="630" type="line"/>
-			<point name="n57" x="667" y="722" type="line"/>
-			<point x="561" y="722" type="line"/>
-			<point x="539" y="630" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -199 64</string>
-							<string>hstem 435 65</string>
-							<string>hstem 660 72</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr01</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 630 92</string>
-							<string>hstem -199 64</string>
-							<string>hstem 435 65</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hr02</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 660 72</string>
-							<string>hstem 435 65</string>
-							<string>hstem -198 72</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>n57</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 630 92</string>
-							<string>hstem -199 64</string>
-							<string>hstem 435 65</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>ea41b5adfa2a05c4651a235c8ce26103a5daa178c04a12f0c6e70e8eae1be1ac7315198d387001bcfb38ba333efa0d498779ef39586b68cc60c7acc7f5d5f7bd</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="575"/>
+  <anchor x="364" y="800" name="top"/>
+  <outline>
+    <component base="f"/>
+    <component base="j" xOffset="340"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>f_j</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

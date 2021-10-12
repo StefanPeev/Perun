@@ -1,45 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
-	<unicode hex="0057"/>
-	<advance width="981"/>
-	<outline>
-		<contour>
-			<point name="n00" x="1135" y="722" type="line"/>
-			<point x="1011" y="722" type="line"/>
-			<point x="742.667" y="160" type="line"/>
-			<point name="n03" x="724" y="722" type="line"/>
-			<point x="591.333" y="722" type="line"/>
-			<point x="313.333" y="160" type="line"/>
-			<point name="n06" x="304.333" y="722" type="line"/>
-			<point name="n07" x="180.333" y="722" type="line"/>
-			<point name="n08" x="216" y="0" type="line"/>
-			<point x="332.667" y="0" type="line"/>
-			<point name="n10" x="625" y="581.667" type="line"/>
-			<point x="648.667" y="0" type="line"/>
-			<point x="765.333" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 180.33 124</string>
-							<string>vstem 625 99</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>4af994982146b0a7930a0bd4cbf8e6eeb6433dd2c84f843a91c83868ac4d6fbedcd79a6a44a6c4098c1a8f9842cb2d19ec063b64ac5a9ef3a8dd133c83d1b0ea</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="981"/>
+  <unicode hex="0057"/>
+  <anchor x="483.333" y="-60" name="bottom"/>
+  <anchor x="667.667" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="1135" y="722" type="line"/>
+      <point x="1011" y="722" type="line"/>
+      <point x="742.667" y="160" type="line"/>
+      <point x="724" y="722" type="line"/>
+      <point x="591.333" y="722" type="line"/>
+      <point x="313.333" y="160" type="line"/>
+      <point x="304.333" y="722" type="line"/>
+      <point x="180.333" y="722" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="332.667" y="0" type="line"/>
+      <point x="625" y="581.667" type="line"/>
+      <point x="648.667" y="0" type="line"/>
+      <point x="765.333" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

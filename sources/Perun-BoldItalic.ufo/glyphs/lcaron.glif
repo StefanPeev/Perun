@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-	<unicode hex="013E"/>
-	<advance width="264"/>
-	<outline>
-		<contour>
-			<point name="n00" x="835" y="1444" type="line"/>
-			<point name="n01" x="685" y="1444" type="line"/>
-			<point x="644" y="1154" type="line"/>
-			<point x="742" y="1154" type="line"/>
-		</contour>
-		<contour>
-			<point x="200" y="0" type="line"/>
-			<point x="367" y="722" type="line"/>
-			<point x="232" y="722" type="line"/>
-			<point x="65" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 1444 -20</string>
-							<string>hstem 1465 -21</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w264m835,1444l685,1444l644,1154l742,1154m200,0l367,722l232,722l65,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="539"/>
+  <unicode hex="013E"/>
+  <anchor x="125" y="-60" name="bottom"/>
+  <anchor x="393" y="361" name="dotCN"/>
+  <anchor x="306" y="800" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="quoteright" xOffset="264"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l_quoteright</string>
+  </dict>
+  </lib>
 </glyph>

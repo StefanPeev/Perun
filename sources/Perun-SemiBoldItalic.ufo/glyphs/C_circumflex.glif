@@ -1,65 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccircumflex" format="2">
-	<unicode hex="0108"/>
-	<advance width="660"/>
-	<outline>
-		<contour>
-			<point x="627" y="529" type="curve"/>
-			<point x="728" y="529" type="line"/>
-			<point x="760" y="668"/>
-			<point x="670" y="736"/>
-			<point name="n04" x="519" y="736" type="curve" smooth="yes"/>
-			<point x="302" y="736"/>
-			<point x="182" y="572"/>
-			<point x="132" y="357" type="curve" smooth="yes"/>
-			<point x="83" y="143"/>
-			<point x="129" y="-14"/>
-			<point name="n10" x="344" y="-14" type="curve" smooth="yes"/>
-			<point x="488" y="-14"/>
-			<point x="624" y="58"/>
-			<point x="655" y="193" type="curve"/>
-			<point x="554" y="193" type="line"/>
-			<point x="535" y="109"/>
-			<point x="469" y="67"/>
-			<point name="n17" x="361" y="67" type="curve" smooth="yes"/>
-			<point x="208" y="67"/>
-			<point x="194" y="183"/>
-			<point x="234" y="356" type="curve" smooth="yes"/>
-			<point x="280" y="557"/>
-			<point x="370" y="657"/>
-			<point name="n23" x="502" y="657" type="curve" smooth="yes"/>
-			<point x="602" y="657"/>
-			<point x="649" y="623"/>
-		</contour>
-		<contour>
-			<point x="678" y="796" type="line"/>
-			<point x="627" y="966" type="line"/>
-			<point x="517" y="966" type="line"/>
-			<point x="388" y="796" type="line"/>
-			<point x="448" y="796" type="line"/>
-			<point x="558" y="906" type="line"/>
-			<point x="618" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 81</string>
-							<string>hstem 657 79</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>bf7f6da6dc3713543198fcc0fad960b664c4a6a42453502ed31efc9c0459de8c4e5f48f787309c2138e90a697e2898dde50fc9e4b59cc3be2aebb3e78240a2dd</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="705"/>
+  <unicode hex="0108"/>
+  <anchor x="351.333" y="-63.3333" name="bottom"/>
+  <anchor x="369.333" y="10" name="cedillaC"/>
+  <anchor x="547.333" y="800" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="uni0302" xScale="1" xOffset="712.667" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C+uni0302</string>
+  </dict>
+  </lib>
 </glyph>

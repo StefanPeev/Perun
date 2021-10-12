@@ -1,55 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0211" format="2">
-	<unicode hex="0211"/>
-	<advance width="373"/>
-	<outline>
-		<contour>
-			<point x="419" y="420" type="line"/>
-			<point name="n01" x="437" y="500" type="line"/>
-			<point x="317" y="500"/>
-			<point x="279" y="481"/>
-			<point x="240" y="432" type="curve"/>
-			<point x="255" y="500" type="line"/>
-			<point x="165" y="500" type="line"/>
-			<point name="n07" x="50" y="0" type="line"/>
-			<point x="140" y="0" type="line"/>
-			<point x="205" y="280" type="line" smooth="yes"/>
-			<point x="226" y="373"/>
-			<point x="298" y="420"/>
-			<point x="420" y="420" type="curve"/>
-		</contour>
-		<contour>
-			<point x="273" y="573" type="line"/>
-			<point x="243" y="744" type="line"/>
-			<point x="153" y="744" type="line"/>
-			<point x="223" y="573" type="line"/>
-		</contour>
-		<contour>
-			<point x="413" y="573" type="line"/>
-			<point x="383" y="744" type="line"/>
-			<point x="293" y="744" type="line"/>
-			<point x="363" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>bbe4272e033991b4a3aa25f6d2d2f2476e240555f7a136e9b54dbab0e5a917b1a34f0762f745a5caf8c4b93d02bda75e5b5002f10b3f37ff3bec56b61c2ba491</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="397"/>
+  <unicode hex="0211"/>
+  <anchor x="128" y="-60" name="bottom"/>
+  <anchor x="352" y="580" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="uni030F" xOffset="461" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+uni030F</string>
+  </dict>
+  </lib>
 </glyph>

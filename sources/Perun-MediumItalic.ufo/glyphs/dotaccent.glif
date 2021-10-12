@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="2">
-	<unicode hex="02D9"/>
-	<advance width="99"/>
-	<outline>
-		<contour>
-			<point name="n00" x="239" y="600" type="line"/>
-			<point name="n01" x="264.333" y="710" type="line"/>
-			<point x="164.333" y="710" type="line"/>
-			<point name="n03" x="139" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 110</string>
-							<string>vstem 139 125.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w99m239,600l264.33,710l164.33,710l139,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="99"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="239" y="600" type="line"/>
+      <point x="264.333" y="710" type="line"/>
+      <point x="164.333" y="710" type="line"/>
+      <point x="139" y="600" type="line"/>
+    </contour>
+  </outline>
 </glyph>

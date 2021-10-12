@@ -1,58 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="2">
-	<unicode hex="0074"/>
-	<advance width="370"/>
-	<outline>
-		<contour>
-			<point x="250" y="131" type="line"/>
-			<point name="n01" x="320" y="435" type="line"/>
-			<point x="430" y="435" type="line"/>
-			<point name="n03" x="445" y="500" type="line"/>
-			<point name="n04" x="335" y="500" type="line"/>
-			<point x="367" y="636" type="line"/>
-			<point x="268" y="599" type="line"/>
-			<point x="245" y="500" type="line"/>
-			<point x="155" y="500" type="line"/>
-			<point name="n09" x="140" y="435" type="line"/>
-			<point x="230" y="435" type="line"/>
-			<point x="160" y="131" type="line" smooth="yes"/>
-			<point x="138" y="35"/>
-			<point x="154" y="-14"/>
-			<point x="240" y="-14" type="curve" smooth="yes"/>
-			<point name="n15" x="252" y="-14" type="line"/>
-			<point x="281" y="-13"/>
-			<point x="307" y="-9"/>
-			<point x="330" y="-2" type="curve"/>
-			<point x="344" y="62" type="line"/>
-			<point x="327" y="57"/>
-			<point x="308" y="54"/>
-			<point x="287" y="53" type="curve"/>
-			<point name="n23" x="281" y="53" type="line" smooth="yes"/>
-			<point x="243" y="53"/>
-			<point x="240" y="83"/>
-			<point x="250" y="128" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 67</string>
-							<string>hstem 435 65</string>
-							<string>vstem 140 305</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>540188b4175a3e61444e8cc1bd394f3d5460e1608d8d5ef6d6ee69c09fd3d9f39b3b4d4d6ca1435f787442093e27323f870dff41ae6e2dbf7430ffef0bdd65f6</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="418"/>
+  <unicode hex="0074"/>
+  <anchor x="224" y="-60" name="bottom"/>
+  <anchor x="248" y="10" name="cedillaC"/>
+  <anchor x="524" y="816" name="leftTM"/>
+  <anchor x="353" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="302" y="159" type="curve" smooth="yes"/>
+      <point x="361" y="415" type="line"/>
+      <point x="480" y="415" type="line"/>
+      <point x="499" y="500" type="line"/>
+      <point x="380" y="500" type="line"/>
+      <point x="414" y="647" type="line"/>
+      <point x="264" y="590" type="line"/>
+      <point x="245" y="500" type="line"/>
+      <point x="145" y="500" type="line"/>
+      <point x="126" y="415" type="line"/>
+      <point x="226" y="415" type="line"/>
+      <point x="158" y="121" type="line"/>
+      <point x="156" y="111"/>
+      <point x="155" y="101"/>
+      <point x="155" y="92" type="curve" smooth="yes"/>
+      <point x="155" y="27"/>
+      <point x="212" y="-12"/>
+      <point x="293" y="-12" type="curve" smooth="yes"/>
+      <point x="325" y="-12"/>
+      <point x="360" y="-6"/>
+      <point x="394" y="5" type="curve"/>
+      <point x="414" y="90" type="line"/>
+      <point x="398" y="84"/>
+      <point x="380" y="81"/>
+      <point x="364" y="81" type="curve" smooth="yes"/>
+      <point x="322" y="81"/>
+      <point x="299" y="100"/>
+      <point x="299" y="135" type="curve" smooth="yes"/>
+      <point x="299" y="142"/>
+      <point x="300" y="150"/>
+    </contour>
+  </outline>
 </glyph>

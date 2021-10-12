@@ -1,66 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="2">
-	<unicode hex="0023"/>
-	<advance width="726"/>
-	<outline>
-		<contour>
-			<point x="802" y="530.333" type="line"/>
-			<point x="686.333" y="530.333" type="line"/>
-			<point name="n02" x="788.667" y="722" type="line"/>
-			<point x="697.333" y="722" type="line"/>
-			<point x="595" y="530.333" type="line"/>
-			<point x="470" y="530.333" type="line"/>
-			<point x="572.667" y="722" type="line"/>
-			<point x="481" y="722" type="line"/>
-			<point x="378.667" y="530.333" type="line"/>
-			<point name="n09" x="265" y="530.333" type="line"/>
-			<point name="n10" x="223" y="454" type="line"/>
-			<point x="339.333" y="454" type="line"/>
-			<point x="253.333" y="292" type="line"/>
-			<point x="139.333" y="292" type="line"/>
-			<point x="96.3333" y="215.667" type="line"/>
-			<point x="212.333" y="215.667" type="line"/>
-			<point name="n16" x="98.6667" y="0" type="line"/>
-			<point x="190" y="0" type="line"/>
-			<point name="n18" x="303.667" y="215.667" type="line"/>
-			<point x="429" y="215.667" type="line"/>
-			<point x="315" y="-0.666667" type="line"/>
-			<point x="406.333" y="0" type="line"/>
-			<point x="519.667" y="215.667" type="line"/>
-			<point x="633.333" y="215.667" type="line"/>
-			<point x="676.333" y="292" type="line"/>
-			<point x="560.667" y="292" type="line"/>
-			<point x="646" y="454" type="line"/>
-			<point x="760" y="454" type="line"/>
-		</contour>
-		<contour>
-			<point x="555.667" y="454" type="line"/>
-			<point x="470.333" y="292" type="line"/>
-			<point name="n30" x="344.333" y="292" type="line"/>
-			<point x="430" y="454" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 215.67 76.33</string>
-							<string>hstem 454 76.33</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>bf6b872116ba53ce22d72b27b9bed983e8ee5f7e325398af60781e2341b56a8338935bd98aba3a2ff4310780da4884a71335151fd57e258a2e191fb7d212338a</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="726"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="802" y="530.333" type="line"/>
+      <point x="686.333" y="530.333" type="line"/>
+      <point x="788.667" y="722" type="line"/>
+      <point x="697.333" y="722" type="line"/>
+      <point x="595" y="530.333" type="line"/>
+      <point x="470" y="530.333" type="line"/>
+      <point x="572.667" y="722" type="line"/>
+      <point x="481" y="722" type="line"/>
+      <point x="378.667" y="530.333" type="line"/>
+      <point x="265" y="530.333" type="line"/>
+      <point x="223" y="454" type="line"/>
+      <point x="339.333" y="454" type="line"/>
+      <point x="253.333" y="292" type="line"/>
+      <point x="139.333" y="292" type="line"/>
+      <point x="96.3333" y="215.667" type="line"/>
+      <point x="212.333" y="215.667" type="line"/>
+      <point x="98.6667" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="303.667" y="215.667" type="line"/>
+      <point x="429" y="215.667" type="line"/>
+      <point x="315" y="-0.666667" type="line"/>
+      <point x="406.333" y="0" type="line"/>
+      <point x="519.667" y="215.667" type="line"/>
+      <point x="633.333" y="215.667" type="line"/>
+      <point x="676.333" y="292" type="line"/>
+      <point x="560.667" y="292" type="line"/>
+      <point x="646" y="454" type="line"/>
+      <point x="760" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="555.667" y="454" type="line"/>
+      <point x="470.333" y="292" type="line"/>
+      <point x="344.333" y="292" type="line"/>
+      <point x="430" y="454" type="line"/>
+    </contour>
+  </outline>
 </glyph>

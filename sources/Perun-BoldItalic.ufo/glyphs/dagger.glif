@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-	<unicode hex="2020"/>
-	<advance width="545"/>
-	<outline>
-		<contour>
-			<point name="n00" x="598" y="400" type="line"/>
-			<point name="n01" x="621" y="500" type="line"/>
-			<point x="448" y="500" type="line"/>
-			<point name="n03" x="500" y="722" type="line"/>
-			<point x="380" y="722" type="line"/>
-			<point x="328" y="500" type="line"/>
-			<point x="155" y="500" type="line"/>
-			<point x="132" y="400" type="line"/>
-			<point x="305" y="400" type="line"/>
-			<point x="176" y="-160" type="line"/>
-			<point x="296" y="-160" type="line"/>
-			<point x="425" y="400" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 400 100</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w545m598,400l621,500l448,500l500,722l380,722l328,500l155,500l132,400l305,400l176,-160l296,-160l425,400</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="545"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="598" y="400" type="line"/>
+      <point x="621" y="500" type="line"/>
+      <point x="448" y="500" type="line"/>
+      <point x="500" y="722" type="line"/>
+      <point x="380" y="722" type="line"/>
+      <point x="328" y="500" type="line"/>
+      <point x="155" y="500" type="line"/>
+      <point x="132" y="400" type="line"/>
+      <point x="305" y="400" type="line"/>
+      <point x="176" y="-160" type="line"/>
+      <point x="296" y="-160" type="line"/>
+      <point x="425" y="400" type="line"/>
+    </contour>
+  </outline>
 </glyph>

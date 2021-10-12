@@ -1,46 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF4" format="2">
-	<unicode hex="1EF4"/>
-	<advance width="666"/>
-	<outline>
-		<contour>
-			<point name="n00" x="817" y="722" type="line"/>
-			<point x="703" y="722" type="line"/>
-			<point x="425" y="375" type="line"/>
-			<point x="304" y="722" type="line"/>
-			<point x="181" y="722" type="line"/>
-			<point x="347" y="287" type="line"/>
-			<point name="n06" x="281" y="0" type="line"/>
-			<point x="382" y="0" type="line"/>
-			<point x="448" y="287" type="line"/>
-		</contour>
-		<contour>
-			<point name="n09" x="340" y="-160" type="line"/>
-			<point name="n10" x="363" y="-60" type="line"/>
-			<point x="273" y="-60" type="line"/>
-			<point x="250" y="-160" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -160 100</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w666m817,722l703,722l425,375l304,722l181,722l347,287l281,0l382,0l448,287m340,-160l363,-60l273,-60l250,-160</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="657"/>
+  <unicode hex="1EF4"/>
+  <anchor x="506" y="800" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dotbelowcomb" xOffset="591"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+dotbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

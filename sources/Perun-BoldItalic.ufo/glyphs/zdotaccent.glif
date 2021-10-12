@@ -1,47 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zdotaccent" format="2">
-	<unicode hex="017C"/>
-	<advance width="448"/>
-	<outline>
-		<contour>
-			<point name="n00" x="408" y="0" type="line"/>
-			<point name="n01" x="424" y="70" type="line"/>
-			<point x="156" y="70" type="line"/>
-			<point x="504" y="417" type="line"/>
-			<point x="523" y="500" type="line"/>
-			<point name="n05" x="175" y="500" type="line"/>
-			<point name="n06" x="159" y="430" type="line"/>
-			<point x="405" y="430" type="line"/>
-			<point x="59" y="83" type="line"/>
-			<point x="40" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n10" x="411" y="573" type="line"/>
-			<point name="n11" x="434" y="673" type="line"/>
-			<point x="344" y="673" type="line"/>
-			<point x="321" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 70</string>
-							<string>hstem 430 70</string>
-							<string>hstem 573 100</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w448m408,0l424,70l156,70l504,417l523,500l175,500l159,430l405,430l59,83l40,0m411,573l434,673l344,673l321,573</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="501"/>
+  <unicode hex="017C"/>
+  <anchor x="248" y="-60" name="bottom"/>
+  <anchor x="388" y="750" name="mkmktop"/>
+  <anchor x="368" y="580" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="uni0307" xOffset="531" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+uni0307</string>
+  </dict>
+  </lib>
 </glyph>

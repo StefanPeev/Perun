@@ -1,65 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="2">
-	<unicode hex="010C"/>
-	<advance width="660"/>
-	<outline>
-		<contour>
-			<point x="627" y="529" type="curve"/>
-			<point x="728" y="529" type="line"/>
-			<point x="760" y="668"/>
-			<point x="670" y="736"/>
-			<point name="n04" x="519" y="736" type="curve" smooth="yes"/>
-			<point x="302" y="736"/>
-			<point x="182" y="572"/>
-			<point x="132" y="357" type="curve" smooth="yes"/>
-			<point x="83" y="143"/>
-			<point x="129" y="-14"/>
-			<point name="n10" x="344" y="-14" type="curve" smooth="yes"/>
-			<point x="488" y="-14"/>
-			<point x="624" y="58"/>
-			<point x="655" y="193" type="curve"/>
-			<point x="554" y="193" type="line"/>
-			<point x="535" y="109"/>
-			<point x="469" y="67"/>
-			<point name="n17" x="361" y="67" type="curve" smooth="yes"/>
-			<point x="208" y="67"/>
-			<point x="194" y="183"/>
-			<point x="234" y="356" type="curve" smooth="yes"/>
-			<point x="280" y="557"/>
-			<point x="370" y="657"/>
-			<point name="n23" x="502" y="657" type="curve" smooth="yes"/>
-			<point x="602" y="657"/>
-			<point x="649" y="623"/>
-		</contour>
-		<contour>
-			<point x="717" y="966" type="line"/>
-			<point x="657" y="966" type="line"/>
-			<point x="547" y="856" type="line"/>
-			<point x="487" y="966" type="line"/>
-			<point x="427" y="966" type="line"/>
-			<point x="478" y="796" type="line"/>
-			<point x="588" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 81</string>
-							<string>hstem 657 79</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>21145ee8c3c7255944dea5fa679aa755446e4bda9be1ef0404335d3a1ad78506d1f10bf81d0c6a2f9b355109d07e4dea3459a6f13d2e571b5c80ec4e7fa8eaf1</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="705"/>
+  <unicode hex="010C"/>
+  <anchor x="351.333" y="-63.3333" name="bottom"/>
+  <anchor x="369.333" y="10" name="cedillaC"/>
+  <anchor x="547.333" y="800" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="uni030C" xOffset="708" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C+uni030C</string>
+  </dict>
+  </lib>
 </glyph>

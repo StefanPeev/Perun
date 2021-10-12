@@ -1,52 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="2">
-	<unicode hex="0159"/>
-	<advance width="343"/>
-	<outline>
-		<contour>
-			<point x="419" y="420" type="line"/>
-			<point name="n01" x="437" y="500" type="line"/>
-			<point x="317" y="500"/>
-			<point x="279" y="481"/>
-			<point x="240" y="432" type="curve"/>
-			<point x="255" y="500" type="line"/>
-			<point x="165" y="500" type="line"/>
-			<point name="n07" x="50" y="0" type="line"/>
-			<point x="140" y="0" type="line"/>
-			<point x="205" y="280" type="line" smooth="yes"/>
-			<point x="226" y="373"/>
-			<point x="298" y="420"/>
-			<point x="420" y="420" type="curve"/>
-		</contour>
-		<contour>
-			<point x="503" y="743" type="line"/>
-			<point x="443" y="743" type="line"/>
-			<point x="332" y="633" type="line"/>
-			<point x="273" y="743" type="line"/>
-			<point x="213" y="743" type="line"/>
-			<point x="263" y="573" type="line"/>
-			<point x="373" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>3e3c7b5f19187243dbcf94f8cd29d48cc28d2c18c06d7bb200f3293102b11b88bb4445c36bbc2af018f1570f55141f7090a6aa96f22a3237f5a51ea9c50cc49e</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="408"/>
+  <unicode hex="0159"/>
+  <anchor x="131" y="-60" name="bottom"/>
+  <anchor x="356" y="580" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="uni030C" xOffset="516" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+uni030C</string>
+  </dict>
+  </lib>
 </glyph>

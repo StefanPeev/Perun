@@ -1,52 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="2">
-	<unicode hex="012C"/>
-	<advance width="261"/>
-	<outline>
-		<contour>
-			<point name="n00" x="179" y="0" type="line"/>
-			<point name="n01" x="346" y="722" type="line"/>
-			<point x="245" y="722" type="line"/>
-			<point x="78" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="327" y="859" type="curve" smooth="yes"/>
-			<point x="290" y="859"/>
-			<point x="252" y="883"/>
-			<point name="n07" x="252" y="913" type="curve"/>
-			<point name="n08" x="200" y="913" type="line"/>
-			<point x="193" y="849"/>
-			<point x="240" y="796"/>
-			<point name="n11" x="313" y="796" type="curve" smooth="yes"/>
-			<point x="387" y="796"/>
-			<point x="457" y="850"/>
-			<point x="481" y="913" type="curve"/>
-			<point x="429" y="913" type="line"/>
-			<point x="415" y="882"/>
-			<point x="365" y="859"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 796 63</string>
-							<string>vstem 200 52</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>d0805f5726b2a8fa173e1437dbd1d50e04114305c231adac7c31ce8ced203a230bf9a1769f7b7029e2edd2e3609f9cd19212c2d5b4632ee2ee20978cc2ad5eb5</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="261"/>
+  <unicode hex="012C"/>
+  <anchor x="214" y="-75" name="bottom"/>
+  <anchor x="133" y="10" name="bottomUC"/>
+  <anchor x="304" y="800" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0306" xOffset="457" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0306</string>
+  </dict>
+  </lib>
 </glyph>

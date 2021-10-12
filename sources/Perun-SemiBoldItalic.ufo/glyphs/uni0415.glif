@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0415" format="2">
-	<unicode hex="0415"/>
-	<advance width="610"/>
-	<outline>
-		<component base="E"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>E</string>
-		</dict>
-	</lib>
+  <advance width="593"/>
+  <unicode hex="0415"/>
+  <anchor x="313.333" y="-60" name="bottom"/>
+  <anchor x="465.667" y="800" name="top"/>
+  <outline>
+    <component base="E"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E</string>
+  </dict>
+  </lib>
 </glyph>

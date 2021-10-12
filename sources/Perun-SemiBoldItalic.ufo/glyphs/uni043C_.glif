@@ -1,43 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043C" format="2">
-	<unicode hex="043C"/>
-	<advance width="737"/>
-	<outline>
-		<contour>
-			<point name="n00" x="680" y="0" type="line"/>
-			<point name="n01" x="795" y="500" type="line"/>
-			<point x="627.667" y="500" type="line"/>
-			<point x="408" y="142.667" type="line"/>
-			<point x="353.333" y="500" type="line"/>
-			<point x="171.667" y="500" type="line"/>
-			<point x="56.6667" y="0" type="line"/>
-			<point x="166.667" y="0" type="line"/>
-			<point x="248.333" y="354" type="line"/>
-			<point x="304.667" y="0" type="line"/>
-			<point x="432" y="0" type="line"/>
-			<point x="652.333" y="356" type="line"/>
-			<point x="570" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w737m680,0l795,500l627.67,500l408,142.67l353.33,500l171.67,500l56.67,0l166.67,0l248.33,354l304.67,0l432,0l652.33,356l570,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="764"/>
+  <unicode hex="043C"/>
+  <outline>
+    <contour>
+      <point x="694.333" y="0" type="line"/>
+      <point x="809.333" y="500" type="line"/>
+      <point x="642" y="500" type="line"/>
+      <point x="422.333" y="142.667" type="line"/>
+      <point x="367.667" y="500" type="line"/>
+      <point x="186" y="500" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="262.667" y="354" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="446.333" y="0" type="line"/>
+      <point x="666.667" y="356" type="line"/>
+      <point x="584.333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

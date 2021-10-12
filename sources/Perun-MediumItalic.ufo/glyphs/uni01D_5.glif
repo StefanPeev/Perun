@@ -1,69 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D5" format="2">
-	<unicode hex="01D5"/>
-	<advance width="736"/>
-	<outline>
-		<contour>
-			<point x="365" y="-14" type="line"/>
-			<point x="582" y="-14"/>
-			<point x="679" y="96"/>
-			<point x="731" y="322" type="curve" smooth="yes"/>
-			<point name="n04" x="824" y="722" type="line"/>
-			<point x="723" y="722" type="line"/>
-			<point x="630" y="322" type="line" smooth="yes"/>
-			<point x="592" y="157"/>
-			<point x="527" y="74"/>
-			<point name="n09" x="385" y="74" type="curve" smooth="yes"/>
-			<point x="236" y="74"/>
-			<point x="219" y="168"/>
-			<point x="255" y="322" type="curve" smooth="yes"/>
-			<point x="348" y="722" type="line"/>
-			<point x="247" y="722" type="line"/>
-			<point x="154" y="322" type="line" smooth="yes"/>
-			<point x="102" y="96"/>
-			<point x="149" y="-14"/>
-			<point name="n18" x="366" y="-14" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n19" x="523" y="837" type="line"/>
-			<point name="n20" x="544" y="929" type="line"/>
-			<point x="454" y="929" type="line"/>
-			<point x="433" y="837" type="line"/>
-		</contour>
-		<contour>
-			<point x="723" y="837" type="line"/>
-			<point x="744" y="929" type="line"/>
-			<point x="654" y="929" type="line"/>
-			<point x="633" y="837" type="line"/>
-		</contour>
-		<contour>
-			<point name="n27" x="744" y="989" type="line"/>
-			<point name="n28" x="760" y="1058" type="line"/>
-			<point x="498" y="1058" type="line"/>
-			<point x="482" y="989" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 837 92</string>
-							<string>hstem 989 69</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>56a670c56856da1a5e42d50a3bb36df28f09d32d6597189952ab2255c58c21618785129ce922624b8b4d016ba56853166ea4cbaac036d57d2eda6c78a3bf9250</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="717"/>
+  <unicode hex="01D5"/>
+  <anchor x="360" y="10" name="bottomUC"/>
+  <anchor x="554" y="963.333" name="mkmktop"/>
+  <anchor x="525.333" y="800" name="top"/>
+  <outline>
+    <component base="Udieresis"/>
+    <component base="macroncomb" xyScale="1.95162e-17" xOffset="663.333" yOffset="343.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Udieresis+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

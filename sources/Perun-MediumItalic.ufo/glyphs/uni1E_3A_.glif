@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E3A" format="2">
-	<unicode hex="1E3A"/>
-	<advance width="495"/>
-	<outline>
-		<contour>
-			<point name="n00" x="480" y="0" type="line"/>
-			<point name="n01" x="500" y="87" type="line"/>
-			<point x="181" y="87" type="line"/>
-			<point name="n03" x="328" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="60" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n06" x="385" y="-129" type="line"/>
-			<point name="n07" x="401" y="-60" type="line"/>
-			<point x="111" y="-60" type="line"/>
-			<point x="95" y="-129" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -129 69</string>
-							<string>hstem 0 87</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w495m480,0l500,87l181,87l328,722l227,722l60,0m385,-129l401,-60l111,-60l95,-129</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="520"/>
+  <unicode hex="1E3A"/>
+  <anchor x="258.333" y="-60" name="bottom"/>
+  <anchor x="431.667" y="376" name="dotCN"/>
+  <anchor x="300.667" y="800" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="macronbelowcomb" xScale="1" xOffset="522.333" yOffset="-10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+macronbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

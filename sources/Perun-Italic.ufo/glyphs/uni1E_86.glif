@@ -1,52 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E86" format="2">
-	<unicode hex="1E86"/>
-	<advance width="972"/>
-	<outline>
-		<contour>
-			<point name="n00" x="1124" y="722" type="line"/>
-			<point x="1018" y="722" type="line"/>
-			<point x="733" y="150" type="line"/>
-			<point name="n03" x="713" y="722" type="line"/>
-			<point x="593" y="722" type="line"/>
-			<point x="309" y="150" type="line"/>
-			<point name="n06" x="288" y="722" type="line"/>
-			<point name="n07" x="182" y="722" type="line"/>
-			<point name="n08" x="229" y="0" type="line"/>
-			<point x="319" y="0" type="line"/>
-			<point x="625" y="602" type="line"/>
-			<point x="653" y="0" type="line"/>
-			<point x="743" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n13" x="715" y="796" type="line"/>
-			<point name="n14" x="738" y="896" type="line"/>
-			<point x="648" y="896" type="line"/>
-			<point name="n16" x="625" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 722 -20</string>
-							<string>hstem 796 100</string>
-							<string>vstem 182 106</string>
-							<string>vstem 625 88</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>abff9c3af8325a1428d8af6d2c649cceb504b1ab29be9c7ff8180f2b329ebf9ec33a571d6d84cf5ef5469e9efc7832bb5c3e5ca8ae9255cdbe2651d004d05fca</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="972"/>
+  <unicode hex="1E86"/>
+  <anchor x="480" y="-60" name="bottom"/>
+  <anchor x="693" y="940" name="mkmktop"/>
+  <anchor x="663" y="800" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="uni0307" xOffset="816" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+uni0307</string>
+  </dict>
+  </lib>
 </glyph>

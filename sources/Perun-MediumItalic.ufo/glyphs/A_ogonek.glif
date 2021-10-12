@@ -1,64 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-	<unicode hex="0104"/>
-	<advance width="750"/>
-	<outline>
-		<contour>
-			<point name="n00" x="573" y="278" type="line"/>
-			<point x="300" y="278" type="line"/>
-			<point x="512" y="611" type="line"/>
-		</contour>
-		<contour>
-			<point name="n03" x="621" y="-213" type="curve" smooth="yes"/>
-			<point x="633" y="-213"/>
-			<point x="657" y="-212"/>
-			<point x="693" y="-209" type="curve"/>
-			<point x="709" y="-139" type="line"/>
-			<point name="n08" x="668" y="-143" type="line"/>
-			<point x="635" y="-143"/>
-			<point x="622" y="-132"/>
-			<point x="627" y="-109" type="curve" smooth="yes"/>
-			<point x="637" y="-65"/>
-			<point x="678" y="-15"/>
-			<point name="n14" x="695" y="0" type="curve"/>
-			<point x="735" y="0" type="line"/>
-			<point name="n16" x="595" y="722" type="line"/>
-			<point x="485" y="722" type="line"/>
-			<point x="15" y="0" type="line"/>
-			<point x="118" y="0" type="line"/>
-			<point x="242" y="193" type="line"/>
-			<point name="n21" x="596" y="193" type="line"/>
-			<point x="629" y="0" type="line"/>
-			<point x="655" y="0" type="line"/>
-			<point x="640" y="-12" type="line"/>
-			<point x="611" y="-32"/>
-			<point x="562" y="-85"/>
-			<point x="552" y="-128" type="curve" smooth="yes"/>
-			<point x="539" y="-183"/>
-			<point x="566" y="-213"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -213 70</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 193 85</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>80f660f406d105df65ac56b985f4ce75e69c396690e897bb212b71b28a4d4faea680ffbd35f1d06302d51798f2f202eb80e823ef94982a3882464735d34aa76b</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="736"/>
+  <unicode hex="0104"/>
+  <anchor x="368.333" y="-60" name="bottom"/>
+  <anchor x="638.667" y="10" name="bottomUC"/>
+  <anchor x="537.667" y="800" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ogonekcomb" xScale="1" xyScale="2.54611e-19" xOffset="761" yOffset="6.66667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+ogonekcomb</string>
+  </dict>
+  </lib>
 </glyph>

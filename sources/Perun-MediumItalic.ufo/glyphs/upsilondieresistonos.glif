@@ -1,62 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresistonos" format="2">
-	<unicode hex="03B0"/>
-	<advance width="697"/>
-	<outline>
-		<contour>
-			<point x="345" y="-14" type="line"/>
-			<point x="562" y="-14"/>
-			<point x="659" y="96"/>
-			<point x="711" y="322" type="curve" smooth="yes"/>
-			<point name="n04" x="804" y="722" type="line"/>
-			<point x="703" y="722" type="line"/>
-			<point x="610" y="322" type="line" smooth="yes"/>
-			<point x="572" y="157"/>
-			<point x="507" y="74"/>
-			<point name="n09" x="365" y="74" type="curve" smooth="yes"/>
-			<point x="216" y="74"/>
-			<point x="199" y="168"/>
-			<point x="235" y="322" type="curve" smooth="yes"/>
-			<point x="328" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="134" y="322" type="line" smooth="yes"/>
-			<point x="82" y="96"/>
-			<point x="129" y="-14"/>
-			<point name="n18" x="346" y="-14" type="curve"/>
-		</contour>
-		<contour>
-			<point name="n19" x="273" y="-174" type="line"/>
-			<point name="n20" x="296" y="-74" type="line"/>
-			<point x="206" y="-74" type="line"/>
-			<point x="183" y="-174" type="line"/>
-		</contour>
-		<contour>
-			<point x="433" y="-174" type="line"/>
-			<point x="456" y="-74" type="line"/>
-			<point x="366" y="-74" type="line"/>
-			<point x="343" y="-174" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -174 100</string>
-							<string>hstem -14 88</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>a9a5459d6beb92250d5565d42fafd49b4177584668f17e254fb42cd3b5224007cf4685d51317cccb678d6e5b8dd9726865f0133578f012659fb75f39e639959d</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="608"/>
+  <unicode hex="03B0"/>
+  <anchor x="422" y="580" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresisacute" xScale="1" xOffset="121.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>upsilon+uni1FEE</string>
+  </dict>
+  </lib>
 </glyph>

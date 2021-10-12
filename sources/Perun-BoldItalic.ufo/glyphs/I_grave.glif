@@ -1,41 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Igrave" format="2">
-	<unicode hex="00CC"/>
-	<advance width="289"/>
-	<outline>
-		<contour>
-			<point name="n00" x="381" y="820" type="line"/>
-			<point name="n01" x="332" y="1000" type="line"/>
-			<point x="202" y="1000" type="line"/>
-			<point name="n03" x="311" y="820" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="220" y="0" type="line"/>
-			<point x="387" y="722" type="line"/>
-			<point x="237" y="722" type="line"/>
-			<point x="70" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 841 -21</string>
-							<string>hstem 1000 -20</string>
-							<string>vstem 220 91</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w289m381,820l332,1000l202,1000l311,820m220,0l387,722l237,722l70,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="289"/>
+  <unicode hex="00CC"/>
+  <anchor x="133" y="-60" name="bottom"/>
+  <anchor x="147" y="10" name="bottomUC"/>
+  <anchor x="327" y="800" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="gravecomb" xOffset="442" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

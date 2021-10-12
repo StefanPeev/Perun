@@ -1,56 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0401" format="2">
-	<unicode hex="0401"/>
-	<advance width="577"/>
-	<outline>
-		<contour>
-			<point name="n00" x="516" y="0" type="line"/>
-			<point name="n01" x="536" y="87" type="line"/>
-			<point x="180" y="87" type="line"/>
-			<point name="n03" x="235" y="326" type="line"/>
-			<point x="571" y="326" type="line"/>
-			<point x="591" y="413" type="line"/>
-			<point name="n06" x="255" y="413" type="line"/>
-			<point x="307" y="635" type="line"/>
-			<point name="n08" x="653" y="635" type="line"/>
-			<point name="n09" x="673" y="722" type="line"/>
-			<point x="226" y="722" type="line"/>
-			<point x="59" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point name="n12" x="412" y="796" type="line"/>
-			<point name="n13" x="433" y="888" type="line"/>
-			<point x="343" y="888" type="line"/>
-			<point x="322" y="796" type="line"/>
-		</contour>
-		<contour>
-			<point x="612" y="796" type="line"/>
-			<point x="633" y="888" type="line"/>
-			<point x="543" y="888" type="line"/>
-			<point x="522" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-							<string>hstem 796 92</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>0bf5f0c59bd43c48a03d8907793de6d415ac88c400a89051ca182eb7fe7f4173f6e005b4bd4924b68ebd0d2a3e0811462b3779b13d797b687dd0460ea8ceaa78</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="594"/>
+  <unicode hex="0401"/>
+  <anchor x="320" y="-60" name="bottom"/>
+  <anchor x="501" y="970" name="mkmktop"/>
+  <anchor x="471" y="800" name="top"/>
+  <outline>
+    <component base="uni0415"/>
+    <component base="uni0308" xOffset="610" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0415+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

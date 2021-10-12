@@ -1,47 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E70" format="2">
-	<unicode hex="1E70"/>
-	<advance width="622"/>
-	<outline>
-		<contour>
-			<point name="n00" x="739" y="635" type="line"/>
-			<point name="n01" x="759" y="722" type="line"/>
-			<point x="186" y="722" type="line"/>
-			<point x="166" y="635" type="line"/>
-			<point x="402" y="635" type="line"/>
-			<point name="n05" x="255" y="0" type="line"/>
-			<point x="356" y="0" type="line"/>
-			<point x="503" y="635" type="line"/>
-		</contour>
-		<contour>
-			<point x="398" y="-230" type="line"/>
-			<point x="342" y="-60" type="line"/>
-			<point x="237" y="-60" type="line"/>
-			<point x="108" y="-230" type="line"/>
-			<point x="168" y="-230" type="line"/>
-			<point x="278" y="-120" type="line"/>
-			<point x="338" y="-230" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w622m739,635l759,722l186,722l166,635l402,635l255,0l356,0l503,635m398,-230l342,-60l237,-60l108,-230l168,-230l278,-120l338,-230</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="626"/>
+  <unicode hex="1E70"/>
+  <anchor x="480" y="800" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="circumflexbelowcomb" xScale="1" xOffset="560.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+circumflexbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

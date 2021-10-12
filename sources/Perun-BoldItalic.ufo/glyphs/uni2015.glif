@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2015" format="2">
-	<unicode hex="2015"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point name="n00" x="1049" y="211" type="line"/>
-			<point name="n01" x="1063" y="275" type="line"/>
-			<point x="63" y="275" type="line"/>
-			<point x="49" y="211" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 211 64</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w1000m1049,211l1063,275l63,275l49,211</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="1049" y="211" type="line"/>
+      <point x="1063" y="275" type="line"/>
+      <point x="63" y="275" type="line"/>
+      <point x="49" y="211" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

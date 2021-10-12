@@ -1,59 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EA6" format="2">
-	<unicode hex="1EA6"/>
-	<advance width="750"/>
-	<outline>
-		<contour>
-			<point name="n00" x="572" y="278" type="line"/>
-			<point x="299" y="278" type="line"/>
-			<point x="511" y="611" type="line"/>
-		</contour>
-		<contour>
-			<point name="n03" x="734" y="0" type="line"/>
-			<point name="n04" x="594" y="722" type="line"/>
-			<point x="484" y="722" type="line"/>
-			<point x="14" y="0" type="line"/>
-			<point x="117" y="0" type="line"/>
-			<point x="241" y="193" type="line"/>
-			<point name="n09" x="595" y="193" type="line"/>
-			<point x="628" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="709" y="821" type="line"/>
-			<point x="658" y="991" type="line"/>
-			<point x="548" y="991" type="line"/>
-			<point x="419" y="821" type="line"/>
-			<point x="479" y="821" type="line"/>
-			<point x="589" y="931" type="line"/>
-			<point x="649" y="821" type="line"/>
-		</contour>
-		<contour>
-			<point x="648" y="1051" type="line"/>
-			<point x="587" y="1222" type="line"/>
-			<point x="486" y="1222" type="line"/>
-			<point x="587" y="1051" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 193 85</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>2f5f5e5ff1789c4d6f19afd6b390a72dcc2a7b6a13455e1de5f18fe6f9fce23f8e0588fd73c55eeadf133b4a15f9a9c7d5ddcd11b2a8c6234147dd3760f9c831</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="709"/>
+  <unicode hex="1EA6"/>
+  <anchor x="355" y="-60" name="bottom"/>
+  <anchor x="582" y="10" name="bottomUC"/>
+  <anchor x="535" y="800" name="top"/>
+  <outline>
+    <component base="Acircumflex"/>
+    <component base="gravecomb" xOffset="650" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Acircumflex+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

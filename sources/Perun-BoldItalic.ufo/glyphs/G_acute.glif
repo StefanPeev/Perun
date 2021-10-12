@@ -1,67 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gacute" format="2">
-	<unicode hex="01F4"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point x="678" y="36" type="curve"/>
-			<point x="759" y="385" type="line"/>
-			<point name="n02" x="494" y="385" type="line"/>
-			<point name="n03" x="474" y="298" type="line"/>
-			<point x="638" y="298" type="line"/>
-			<point x="592" y="98" type="line"/>
-			<point x="535" y="85"/>
-			<point x="476" y="74"/>
-			<point name="n08" x="412" y="74" type="curve" smooth="yes"/>
-			<point x="234" y="74"/>
-			<point x="201" y="211"/>
-			<point x="242" y="388" type="curve" smooth="yes"/>
-			<point x="280" y="551"/>
-			<point x="390" y="649"/>
-			<point name="n14" x="557" y="649" type="curve" smooth="yes"/>
-			<point x="657" y="649"/>
-			<point x="710" y="593"/>
-			<point x="698" y="542" type="curve"/>
-			<point x="799" y="542" type="line"/>
-			<point x="828" y="669"/>
-			<point x="703" y="736"/>
-			<point name="n21" x="568" y="736" type="curve" smooth="yes"/>
-			<point x="363" y="736"/>
-			<point x="185" y="591"/>
-			<point x="139" y="390" type="curve" smooth="yes"/>
-			<point x="77" y="121"/>
-			<point x="165" y="-14"/>
-			<point name="n27" x="403" y="-14" type="curve" smooth="yes"/>
-			<point x="516" y="-14"/>
-			<point x="606" y="12"/>
-		</contour>
-		<contour>
-			<point x="792" y="967" type="line"/>
-			<point x="691" y="967" type="line"/>
-			<point x="552" y="796" type="line"/>
-			<point x="613" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>hstem 298 87</string>
-							<string>hstem 649 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>7c9fd6efae95aae41d3c76a8f115e47b45fab7b618611a917da087c650aae6bb870d7c2fd13c6c9b7b9ad381d742fd6d6df2a18b16e443e5d5452bd02cf92d8c</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="774"/>
+  <unicode hex="01F4"/>
+  <anchor x="600" y="800" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="acutecomb" xOffset="767" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

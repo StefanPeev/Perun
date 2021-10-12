@@ -1,59 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AEacute" format="2">
-	<unicode hex="01FC"/>
-	<advance width="976"/>
-	<outline>
-		<contour>
-			<point name="n00" x="524" y="278" type="line"/>
-			<point x="342" y="278" type="line"/>
-			<point x="608" y="641" type="line"/>
-		</contour>
-		<contour>
-			<point name="n03" x="917" y="0" type="line"/>
-			<point name="n04" x="937" y="87" type="line"/>
-			<point x="581" y="87" type="line"/>
-			<point name="n06" x="636" y="326" type="line"/>
-			<point x="972" y="326" type="line"/>
-			<point x="992" y="413" type="line"/>
-			<point name="n09" x="656" y="413" type="line"/>
-			<point x="708" y="635" type="line"/>
-			<point name="n11" x="1054" y="635" type="line"/>
-			<point name="n12" x="1074" y="722" type="line"/>
-			<point x="565" y="722" type="line"/>
-			<point x="15" y="0" type="line"/>
-			<point x="121" y="0" type="line"/>
-			<point x="274" y="193" type="line"/>
-			<point name="n17" x="505" y="193" type="line"/>
-			<point x="460" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="1046" y="967" type="line"/>
-			<point x="945" y="967" type="line"/>
-			<point x="806" y="796" type="line"/>
-			<point x="867" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 193 85</string>
-							<string>hstem 326 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>0b8453e2c50ed215e7ecc6a20b63451158f3828a428488f12404a48d38983f4c40c811d24db4b68c3dd68550686d1596645d4e3c8e350ffa3e5b2dc0cc2d5641</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="984"/>
+  <unicode hex="01FC"/>
+  <anchor x="712.333" y="800" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acutecomb" xOffset="892" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>AE+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,59 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E12" format="2">
-	<unicode hex="1E12"/>
-	<advance width="690"/>
-	<outline>
-		<contour>
-			<point name="n00" x="306" y="87" type="curve" smooth="yes"/>
-			<point x="180" y="87" type="line"/>
-			<point x="307" y="635" type="line"/>
-			<point name="n03" x="433" y="635" type="line" smooth="yes"/>
-			<point x="597" y="635"/>
-			<point x="663" y="530"/>
-			<point x="624" y="362" type="curve" smooth="yes"/>
-			<point x="586" y="196"/>
-			<point x="469" y="87"/>
-		</contour>
-		<contour>
-			<point x="723" y="362" type="curve" smooth="yes"/>
-			<point x="776" y="593"/>
-			<point x="685" y="722"/>
-			<point name="n12" x="451" y="722" type="curve" smooth="yes"/>
-			<point x="226" y="722" type="line"/>
-			<point x="59" y="0" type="line"/>
-			<point name="n15" x="284" y="0" type="line" smooth="yes"/>
-			<point x="513" y="0"/>
-			<point x="670" y="134"/>
-		</contour>
-		<contour>
-			<point x="264" y="-230" type="line"/>
-			<point x="213" y="-60" type="line"/>
-			<point x="103" y="-60" type="line"/>
-			<point x="-26" y="-230" type="line"/>
-			<point x="34" y="-230" type="line"/>
-			<point x="144" y="-120" type="line"/>
-			<point x="204" y="-230" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 87</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>8b40e4af896baf9eb8e48c236c78e7c8ed630dfb363608aaad693e6584f36cbff4e5005ab2f1646d2c483cffa13de4106a0b29c35a64bc38887e5a73afa0f3f8</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="728"/>
+  <unicode hex="1E12"/>
+  <anchor x="449" y="800" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="circumflexbelowcomb" xOffset="614"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>D+circumflexbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

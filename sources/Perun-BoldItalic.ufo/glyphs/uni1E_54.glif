@@ -1,59 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E54" format="2">
-	<unicode hex="1E54"/>
-	<advance width="593"/>
-	<outline>
-		<contour>
-			<point x="357" y="394" type="curve" smooth="yes"/>
-			<point name="n01" x="251" y="394" type="line"/>
-			<point x="307" y="635" type="line"/>
-			<point name="n03" x="413" y="635" type="line" smooth="yes"/>
-			<point x="521" y="635"/>
-			<point x="587" y="612"/>
-			<point x="564" y="514" type="curve" smooth="yes"/>
-			<point x="541" y="414"/>
-			<point x="466" y="394"/>
-		</contour>
-		<contour>
-			<point x="661" y="514" type="curve" smooth="yes"/>
-			<point x="699" y="680"/>
-			<point x="594" y="722"/>
-			<point name="n12" x="430" y="722" type="curve" smooth="yes"/>
-			<point x="226" y="722" type="line"/>
-			<point name="n14" x="59" y="0" type="line"/>
-			<point x="160" y="0" type="line"/>
-			<point name="n16" x="231" y="306" type="line"/>
-			<point x="334" y="306" type="line" smooth="yes"/>
-			<point x="498" y="306"/>
-			<point x="623" y="348"/>
-		</contour>
-		<contour>
-			<point x="555" y="967" type="line"/>
-			<point x="454" y="967" type="line"/>
-			<point x="315" y="796" type="line"/>
-			<point x="376" y="796" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 306 88</string>
-							<string>hstem 635 87</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>087f9b4280e07671cb9ffc5b5059c80bd6673b90380d400b908c1822989a7fd4ff04c43ac0dbbe398c92ad5af9afd516d2b487181055b08cb9aa709e7b71b7f4</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="650"/>
+  <unicode hex="1E54"/>
+  <anchor x="439" y="800" name="top"/>
+  <outline>
+    <component base="P"/>
+    <component base="acutecomb" xOffset="606" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>P+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

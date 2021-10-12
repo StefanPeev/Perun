@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-	<unicode hex="0021"/>
-	<advance width="276"/>
-	<outline>
-		<contour>
-			<point name="n00" x="245.667" y="240.667" type="line"/>
-			<point name="n01" x="210.333" y="304" type="line"/>
-			<point x="111.333" y="127" type="line"/>
-			<point name="n03" x="129.333" y="63.6667" type="line"/>
-		</contour>
-		<contour>
-			<point name="n04" x="286.667" y="481.333" type="line"/>
-			<point x="240.333" y="519.667" type="line"/>
-			<point x="111.667" y="151" type="line"/>
-			<point x="158" y="112.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 240.67 63.33</string>
-							<string>hstem 481.33 -20</string>
-							<string>vstem 129.33 157.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w276m245.67,240.67l210.33,304l111.33,127l129.33,63.67m286.67,481.33l240.33,519.67l111.67,151l158,112.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="276"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="345.667" y="722" type="line"/>
+      <point x="240.333" y="722" type="line"/>
+      <point x="122.667" y="176.333" type="line"/>
+      <point x="210.667" y="176.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="186.667" y="0" type="line"/>
+      <point x="210.333" y="101.667" type="line"/>
+      <point x="100.333" y="101.667" type="line"/>
+      <point x="76.6667" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,41 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lozenge" format="2">
-	<unicode hex="25CA"/>
-	<advance width="536"/>
-	<outline>
-		<contour>
-			<point x="530" y="392" type="line"/>
-			<point x="282" y="56" type="line"/>
-			<point x="188" y="392" type="line"/>
-			<point x="435" y="719" type="line"/>
-		</contour>
-		<contour>
-			<point x="592" y="392" type="line"/>
-			<point x="479" y="776" type="line"/>
-			<point x="416" y="776" type="line"/>
-			<point x="126" y="392" type="line"/>
-			<point name="n08" x="237" y="0" type="line"/>
-			<point x="300" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w536m530,392l282,56l188,392l435,719m592,392l479,776l416,776l126,392l237,0l300,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="536"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="530" y="392" type="line"/>
+      <point x="282" y="56" type="line"/>
+      <point x="188" y="392" type="line"/>
+      <point x="435" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="592" y="392" type="line"/>
+      <point x="479" y="776" type="line"/>
+      <point x="416" y="776" type="line"/>
+      <point x="126" y="392" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

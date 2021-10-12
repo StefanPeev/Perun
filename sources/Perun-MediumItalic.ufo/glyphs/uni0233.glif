@@ -1,49 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0233" format="2">
-	<unicode hex="0233"/>
-	<advance width="535"/>
-	<outline>
-		<contour>
-			<point x="194" y="-56" type="line" smooth="yes"/>
-			<point x="137" y="-152"/>
-			<point x="109" y="-200"/>
-			<point x="109" y="-200" type="curve"/>
-			<point x="201" y="-200" type="line"/>
-			<point x="344" y="35"/>
-			<point x="490" y="267"/>
-			<point name="n07" x="635" y="501" type="curve"/>
-			<point x="538" y="501" type="line"/>
-			<point x="305" y="124" type="line"/>
-			<point x="235" y="501" type="line"/>
-			<point x="130" y="501" type="line"/>
-			<point x="228" y="1" type="line"/>
-		</contour>
-		<contour>
-			<point name="n13" x="530" y="573" type="line"/>
-			<point name="n14" x="546" y="642" type="line"/>
-			<point x="284" y="642" type="line"/>
-			<point x="268" y="573" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 501 -20</string>
-							<string>hstem 573 69</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>80a8f44f8c2d33b71a5859f7a5f616737dc5aa19608014e96024ffa3eb6d26d5a6452f0a8643ddc3a7716e6a0bfd7934b8cccb760ca4951a544e289cd1386d98</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="560"/>
+  <unicode hex="0233"/>
+  <anchor x="450" y="-60" name="bottom"/>
+  <anchor x="402" y="580" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="macroncomb" xOffset="502" yOffset="-40"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+macroncomb</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FBD" format="2">
-	<unicode hex="1FBD"/>
-	<advance width="299"/>
-	<outline>
-		<contour>
-			<point name="n00" x="590" y="1342" type="line"/>
-			<point name="n01" x="440" y="1342" type="line"/>
-			<point name="n02" x="399" y="1052" type="line"/>
-			<point name="n03" x="497" y="1052" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 1052 290</string>
-							<string>vstem 399 191</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w299m590,1342l440,1342l399,1052l497,1052</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="299"/>
+  <unicode hex="1FBD"/>
+  <outline>
+    <contour>
+      <point x="590" y="1342" type="line"/>
+      <point x="440" y="1342" type="line"/>
+      <point x="399" y="1052" type="line"/>
+      <point x="497" y="1052" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

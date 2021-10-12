@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="2">
-	<unicode hex="0076"/>
-	<advance width="540"/>
-	<outline>
-		<contour>
-			<point name="n00" x="644.333" y="500" type="line"/>
-			<point x="516.667" y="500" type="line"/>
-			<point x="304" y="137.333" type="line"/>
-			<point x="257.667" y="500" type="line"/>
-			<point x="126.667" y="500" type="line"/>
-			<point name="n05" x="205.333" y="0" type="line"/>
-			<point x="336" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 500 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w540m644.33,500l516.67,500l304,137.33l257.67,500l126.67,500l205.33,0l336,0</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="579"/>
+  <unicode hex="0076"/>
+  <anchor x="278.333" y="-60" name="bottom"/>
+  <anchor x="400.667" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="658.333" y="500" type="line"/>
+      <point x="530.667" y="500" type="line"/>
+      <point x="318" y="137.333" type="line"/>
+      <point x="271.667" y="500" type="line"/>
+      <point x="140.667" y="500" type="line"/>
+      <point x="219.333" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,74 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0205" format="2">
-	<unicode hex="0205"/>
-	<advance width="537"/>
-	<outline>
-		<contour>
-			<point x="470" y="302" type="curve"/>
-			<point name="n01" x="206" y="302" type="line"/>
-			<point x="231" y="399"/>
-			<point x="298" y="447"/>
-			<point name="n04" x="370" y="447" type="curve" smooth="yes"/>
-			<point x="478" y="447"/>
-			<point x="484" y="362"/>
-		</contour>
-		<contour>
-			<point x="362" y="573" type="line"/>
-			<point x="332" y="744" type="line"/>
-			<point x="242" y="744" type="line"/>
-			<point x="312" y="573" type="line"/>
-		</contour>
-		<contour>
-			<point x="502" y="573" type="line"/>
-			<point x="472" y="744" type="line"/>
-			<point x="382" y="744" type="line"/>
-			<point x="452" y="573" type="line"/>
-		</contour>
-		<contour>
-			<point name="n15" x="190" y="236" type="curve"/>
-			<point x="548" y="236" type="line"/>
-			<point x="559" y="283" type="line" smooth="yes"/>
-			<point x="591" y="423"/>
-			<point x="532" y="512"/>
-			<point name="n20" x="387" y="512" type="curve" smooth="yes"/>
-			<point x="234" y="512"/>
-			<point x="134" y="405"/>
-			<point x="98" y="251" type="curve" smooth="yes"/>
-			<point x="64" y="102"/>
-			<point x="106" y="-14"/>
-			<point name="n26" x="271" y="-14" type="curve" smooth="yes"/>
-			<point x="395" y="-14"/>
-			<point x="488" y="55"/>
-			<point name="n29" x="532" y="160" type="curve"/>
-			<point name="n30" x="436" y="160" type="line"/>
-			<point x="416" y="98"/>
-			<point x="362" y="51"/>
-			<point name="n33" x="294" y="51" type="curve" smooth="yes"/>
-			<point x="198" y="51"/>
-			<point x="166" y="134"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 65</string>
-							<string>hstem 236 66</string>
-							<string>hstem 447 65</string>
-							<string>vstem 436 96</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>03d642811f218c9c0425627ed23122480abe0b64bc09ee6d95fa9affe8471a8cbe26134401fcde2db2c4a6ac0d9c60ff1790d1fa75db4c8c4774d9d704118088</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="571"/>
+  <unicode hex="0205"/>
+  <anchor x="273" y="-60" name="bottom"/>
+  <anchor x="411" y="580" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni030F" xOffset="520" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni030F</string>
+  </dict>
+  </lib>
 </glyph>

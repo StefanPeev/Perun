@@ -1,58 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E76" format="2">
-	<unicode hex="1E76"/>
-	<advance width="697"/>
-	<outline>
-		<contour>
-			<point x="345" y="-14" type="line"/>
-			<point x="562" y="-14"/>
-			<point x="659" y="96"/>
-			<point x="711" y="322" type="curve" smooth="yes"/>
-			<point name="n04" x="804" y="722" type="line"/>
-			<point x="703" y="722" type="line"/>
-			<point x="610" y="322" type="line" smooth="yes"/>
-			<point x="572" y="157"/>
-			<point x="507" y="74"/>
-			<point name="n09" x="365" y="74" type="curve" smooth="yes"/>
-			<point x="216" y="74"/>
-			<point x="199" y="168"/>
-			<point x="235" y="322" type="curve" smooth="yes"/>
-			<point x="328" y="722" type="line"/>
-			<point x="227" y="722" type="line"/>
-			<point x="134" y="322" type="line" smooth="yes"/>
-			<point x="82" y="96"/>
-			<point x="129" y="-14"/>
-			<point name="n18" x="346" y="-14" type="curve"/>
-		</contour>
-		<contour>
-			<point x="437" y="-244" type="line"/>
-			<point x="386" y="-74" type="line"/>
-			<point x="276" y="-74" type="line"/>
-			<point x="147" y="-244" type="line"/>
-			<point x="207" y="-244" type="line"/>
-			<point x="317" y="-134" type="line"/>
-			<point x="377" y="-244" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -14 88</string>
-							<string>hstem 722 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>68a524e72ca7acea1181e413296c79bef78f9834c90d5db80ea988279f713685b5860058938e902ac04f7436a3df80057da8d35b7743015484932e498387681f</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="717"/>
+  <unicode hex="1E76"/>
+  <anchor x="360" y="10" name="bottomUC"/>
+  <anchor x="525.333" y="800" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="circumflexbelowcomb" xScale="1" xOffset="605.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+circumflexbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

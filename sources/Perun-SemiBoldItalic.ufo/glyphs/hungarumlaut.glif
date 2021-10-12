@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
-	<unicode hex="02DD"/>
-	<advance width="319"/>
-	<outline>
-		<contour>
-			<point x="500" y="780" type="line"/>
-			<point x="390" y="780" type="line"/>
-			<point x="299" y="600" type="line"/>
-			<point x="344" y="600" type="line"/>
-		</contour>
-		<contour>
-			<point x="340" y="780" type="line"/>
-			<point x="230" y="780" type="line"/>
-			<point x="139" y="600" type="line"/>
-			<point x="189" y="600" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 600 180</string>
-							<string>vstem 139 361</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w319m500,780l390,780l299,600l344,600m340,780l230,780l139,600l189,600</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="319"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="500" y="780" type="line"/>
+      <point x="390" y="780" type="line"/>
+      <point x="299" y="600" type="line"/>
+      <point x="344" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="780" type="line"/>
+      <point x="230" y="780" type="line"/>
+      <point x="139" y="600" type="line"/>
+      <point x="189" y="600" type="line"/>
+    </contour>
+  </outline>
 </glyph>
