@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ibreve" format="2">
-	<unicode hex="012D"/>
-	<advance width="252"/>
-	<outline>
-		<component base="dotlessi"/>
-		<component base="breve" xOffset="-26.3333"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>480</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>573</integer>
-						<key>width</key>
-						<integer>80</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>573</integer>
-						<key>width</key>
-						<integer>150</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>65</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>dotlessi+breve</string>
-		</dict>
-	</lib>
+  <advance width="252"/>
+  <unicode hex="012D"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="breve" xOffset="-26.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>573</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>573</integer>
+        <key>width</key>
+        <integer>150</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>65</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+breve</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ljecyr" format="2">
-  <advance width="913"/>
+  <advance width="916"/>
   <unicode hex="0459"/>
   <outline>
     <component base="uni044C" xOffset="323.333"/>
@@ -29,6 +29,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni044C</string>
   <key>com.fontlab.recipe</key>
   <string>uni043B_uni044C</string>
   </dict>

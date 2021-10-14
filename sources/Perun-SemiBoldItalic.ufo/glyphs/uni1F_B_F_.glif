@@ -3,17 +3,14 @@
   <advance width="299"/>
   <unicode hex="1FBF"/>
   <outline>
-    <contour>
-      <point x="490.333" y="1184.67" type="line"/>
-      <point x="350.333" y="1184.67" type="line"/>
-      <point x="283.667" y="908" type="line"/>
-      <point x="372.333" y="908" type="line"/>
-    </contour>
+    <component base="commaabovecomb" xOffset="270.333"/>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>space+commaabovecomb</string>
   </dict>
   </lib>
 </glyph>

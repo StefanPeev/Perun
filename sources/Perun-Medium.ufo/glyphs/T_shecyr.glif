@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="810"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="761.43" y="0" type="line"/>
+      <point x="642.239" y="-0.0593333" type="line"/>
+      <point x="642.333" y="220.263" type="line" smooth="yes"/>
+      <point x="642.376" y="317.423"/>
+      <point x="581.656" y="371.226"/>
+      <point x="463.121" y="371.226" type="curve" smooth="yes"/>
+      <point x="416.276" y="371.226"/>
+      <point x="370.833" y="359.926"/>
+      <point x="325.333" y="341.226" type="curve"/>
+      <point x="325.333" y="426.974" type="line"/>
+      <point x="370.833" y="445.674"/>
+      <point x="441.942" y="456.974"/>
+      <point x="494.333" y="456.974" type="curve" smooth="yes"/>
+      <point x="679.185" y="456.974"/>
+      <point x="761.274" y="368.322"/>
+      <point x="761.333" y="231.462" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="596.667" y="625.667" type="line"/>
+      <point x="368.333" y="625.667" type="line"/>
+      <point x="368.333" y="0" type="line"/>
+      <point x="251.667" y="0" type="line"/>
+      <point x="251.667" y="625.667" type="line"/>
+      <point x="23.3333" y="625.667" type="line"/>
+      <point x="23.3333" y="722" type="line"/>
+      <point x="596.667" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Djecyr</string>
+  </dict>
+  </lib>
+</glyph>

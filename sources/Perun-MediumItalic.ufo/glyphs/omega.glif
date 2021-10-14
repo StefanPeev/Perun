@@ -2,60 +2,54 @@
 <glyph name="omega" format="2">
   <advance width="719"/>
   <unicode hex="03C9"/>
+  <anchor x="488.333" y="580" name="top"/>
   <outline>
     <contour>
-      <point x="261" y="500" type="line"/>
-      <point x="216" y="455"/>
-      <point x="174" y="405"/>
-      <point x="135" y="354" type="curve"/>
-      <point x="113" y="313"/>
-      <point x="96" y="271"/>
-      <point x="85" y="228" type="curve"/>
-      <point x="66" y="132"/>
-      <point x="60" y="-17"/>
-      <point x="217" y="-17" type="curve" smooth="yes"/>
-      <point x="283" y="-17"/>
-      <point x="336" y="20"/>
-      <point x="370" y="72" type="curve"/>
-      <point x="382" y="22"/>
-      <point x="401" y="-17"/>
-      <point x="476" y="-17" type="curve" smooth="yes"/>
-      <point x="641" y="-17"/>
-      <point x="705" y="147"/>
-      <point x="721" y="218" type="curve" smooth="yes"/>
-      <point x="745" y="324"/>
-      <point x="731" y="418"/>
-      <point x="673" y="501" type="curve"/>
-      <point x="575" y="500" type="line"/>
-      <point x="636" y="433"/>
-      <point x="657" y="319"/>
-      <point x="634" y="221" type="curve" smooth="yes"/>
-      <point x="620" y="159"/>
-      <point x="574" y="54"/>
-      <point x="493" y="54" type="curve" smooth="yes"/>
-      <point x="445" y="54"/>
-      <point x="421" y="90"/>
-      <point x="431" y="147" type="curve"/>
-      <point x="486" y="387" type="line"/>
-      <point x="395" y="387" type="line"/>
-      <point x="335" y="127" type="line"/>
-      <point x="320" y="88"/>
-      <point x="282" y="55"/>
-      <point x="241" y="55" type="curve" smooth="yes"/>
-      <point x="165" y="55"/>
-      <point x="154" y="142"/>
-      <point x="173" y="226" type="curve" smooth="yes"/>
-      <point x="187" y="287"/>
-      <point x="217" y="345"/>
-      <point x="257" y="400" type="curve"/>
-      <point x="357" y="501" type="line"/>
-      <point x="262" y="501" type="line"/>
+      <point x="73.3333" y="157" type="curve" smooth="yes"/>
+      <point x="73.3333" y="61.6667"/>
+      <point x="113.667" y="-12.6667"/>
+      <point x="218.667" y="-12.6667" type="curve" smooth="yes"/>
+      <point x="281.333" y="-12.6667"/>
+      <point x="345" y="27.6667"/>
+      <point x="377" y="76.3333" type="curve"/>
+      <point x="373" y="76.3333" type="line"/>
+      <point x="380.333" y="23"/>
+      <point x="409.667" y="-12.6667"/>
+      <point x="485.333" y="-12.6667" type="curve" smooth="yes"/>
+      <point x="646.667" y="-12.6667"/>
+      <point x="740.333" y="152.667"/>
+      <point x="740.333" y="317" type="curve" smooth="yes"/>
+      <point x="740.333" y="385"/>
+      <point x="721.333" y="443"/>
+      <point x="681.333" y="500" type="curve"/>
+      <point x="566.333" y="500" type="line"/>
+      <point x="611.333" y="451"/>
+      <point x="634.333" y="381"/>
+      <point x="634.333" y="314" type="curve" smooth="yes"/>
+      <point x="634.333" y="203.667"/>
+      <point x="588.667" y="66.6667"/>
+      <point x="498" y="66.6667" type="curve" smooth="yes"/>
+      <point x="462" y="66.6667"/>
+      <point x="439.667" y="89"/>
+      <point x="439.667" y="125.667" type="curve" smooth="yes"/>
+      <point x="439.667" y="134"/>
+      <point x="440.667" y="143"/>
+      <point x="442.667" y="152" type="curve" smooth="yes"/>
+      <point x="497.667" y="387" type="line"/>
+      <point x="392.667" y="387" type="line"/>
+      <point x="332.667" y="132" type="line" smooth="yes"/>
+      <point x="322.667" y="91"/>
+      <point x="286.333" y="66.6667"/>
+      <point x="250.333" y="66.6667" type="curve" smooth="yes"/>
+      <point x="203.333" y="66.6667"/>
+      <point x="183.333" y="107.667"/>
+      <point x="183.333" y="173" type="curve" smooth="yes"/>
+      <point x="183.333" y="313"/>
+      <point x="274.333" y="402"/>
+      <point x="375.333" y="500" type="curve"/>
+      <point x="263.667" y="500" type="line"/>
+      <point x="146.667" y="402"/>
+      <point x="73.3333" y="290"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

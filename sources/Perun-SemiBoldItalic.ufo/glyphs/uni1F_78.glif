@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F78" format="2">
-  <advance width="609"/>
+  <advance width="615"/>
   <unicode hex="1F78"/>
+  <anchor x="294" y="-60" name="bottom"/>
+  <anchor x="438.333" y="580" name="top"/>
   <outline>
     <component base="omicron"/>
-    <component base="gravecomb" xScale="1" xyScale="2.60532e-19" xOffset="591" yOffset="-6.66667"/>
+    <component base="gravecomb" xScale="1" xOffset="546.333" yOffset="-20"/>
   </outline>
   <lib>
   <dict>

@@ -1,84 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E28" format="2">
-	<unicode hex="1E28"/>
-	<advance width="689"/>
-	<outline>
-		<component base="H"/>
-		<component base="cedillacomb" xOffset="366" yOffset="10"/>
-	</outline>
-	<anchor name="bottom" x="335" y="-75"/>
-	<anchor name="cedilla.bottom" x="120" y="10"/>
-	<anchor name="left" x="20" y="361"/>
-	<anchor name="top" x="335" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-236</integer>
-						<key>width</key>
-						<integer>56</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-236</integer>
-						<key>width</key>
-						<integer>194</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>320</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>70</integer>
-						<key>width</key>
-						<integer>145</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>117</integer>
-						<key>width</key>
-						<integer>98</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>222</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>500</integer>
-						<key>width</key>
-						<integer>145</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>H+cedillacomb</string>
-		</dict>
-	</lib>
+  <advance width="689"/>
+  <unicode hex="1E28"/>
+  <anchor x="335" y="-75" name="bottom"/>
+  <anchor x="120" y="10" name="cedilla.bottom"/>
+  <anchor x="20" y="361" name="left"/>
+  <anchor x="335" y="797" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="cedillacomb" xOffset="366" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-236</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-236</integer>
+        <key>width</key>
+        <integer>194</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>320</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>70</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>117</integer>
+        <key>width</key>
+        <integer>98</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>222</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>H+cedillacomb</string>
+  </dict>
+  </lib>
 </glyph>

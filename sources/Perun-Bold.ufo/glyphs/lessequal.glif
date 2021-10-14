@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="2">
-	<unicode hex="2264"/>
-	<advance width="1000"/>
-	<outline>
-		<contour>
-			<point x="800" y="157" type="line"/>
-			<point x="140" y="347" type="line"/>
-			<point x="140" y="529" type="line"/>
-			<point x="800" y="719" type="line"/>
-			<point x="800" y="597" type="line"/>
-			<point x="264" y="428" type="line"/>
-			<point x="800" y="269" type="line"/>
-		</contour>
-		<contour>
-			<point x="800" y="0" type="line"/>
-			<point x="140" y="0" type="line"/>
-			<point x="140" y="115" type="line"/>
-			<point x="800" y="115" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>55</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>539</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1000"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="800" y="157" type="line"/>
+      <point x="140" y="347" type="line"/>
+      <point x="140" y="529" type="line"/>
+      <point x="800" y="719" type="line"/>
+      <point x="800" y="597" type="line"/>
+      <point x="264" y="428" type="line"/>
+      <point x="800" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="115" type="line"/>
+      <point x="800" y="115" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>539</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

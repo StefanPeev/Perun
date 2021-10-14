@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E2E" format="2">
-  <advance width="260"/>
+  <advance width="261"/>
   <unicode hex="1E2E"/>
+  <anchor x="214" y="-75" name="bottom"/>
+  <anchor x="133" y="10" name="bottomUC"/>
+  <anchor x="332" y="960" name="mkmktop"/>
+  <anchor x="304" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="180" y="0" type="line"/>
-      <point x="347" y="722" type="line"/>
-      <point x="246" y="722" type="line"/>
-      <point x="79" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="271" y="850" type="line"/>
-      <point x="292" y="942" type="line"/>
-      <point x="202" y="942" type="line"/>
-      <point x="181" y="850" type="line"/>
-    </contour>
-    <contour>
-      <point x="471" y="850" type="line"/>
-      <point x="492" y="942" type="line"/>
-      <point x="402" y="942" type="line"/>
-      <point x="381" y="850" type="line"/>
-    </contour>
-    <contour>
-      <point x="572" y="1173" type="line"/>
-      <point x="456" y="1173" type="line"/>
-      <point x="331" y="1002" type="line"/>
-      <point x="392" y="1002" type="line"/>
-    </contour>
+    <component base="Idieresis"/>
+    <component base="acutecomb" xOffset="524" yOffset="360"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Idieresis+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

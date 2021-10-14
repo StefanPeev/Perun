@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0252" format="2">
-	<unicode hex="0252"/>
-	<advance width="606"/>
-	<outline>
-		<component base="uni0251" xScale="-1" xOffset="596.667"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=n</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=o</string>
-			<key>com.fontlab.recipe</key>
-			<string>uni0251</string>
-		</dict>
-	</lib>
+  <advance width="606"/>
+  <unicode hex="0252"/>
+  <outline>
+    <component base="uni0251" xScale="-1" xOffset="596.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni0251</string>
+  </dict>
+  </lib>
 </glyph>

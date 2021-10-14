@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E2E" format="2">
-	<unicode hex="1E2E"/>
-	<advance width="270"/>
-	<outline>
-		<component base="Idieresis"/>
-		<component base="acutecomb" xOffset="463" yOffset="387"/>
-	</outline>
-	<anchor name="top" x="131" y="797"/>
-	<anchor name="top.mkmk" x="133" y="987"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>852</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1192</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-15</integer>
-						<key>width</key>
-						<integer>110</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>70</integer>
-						<key>width</key>
-						<integer>150</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>195</integer>
-						<key>width</key>
-						<integer>110</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>Idieresis+acutecomb</string>
-		</dict>
-	</lib>
+  <advance width="270"/>
+  <unicode hex="1E2E"/>
+  <anchor x="131" y="797" name="top"/>
+  <anchor x="133" y="987" name="top.mkmk"/>
+  <outline>
+    <component base="Idieresis"/>
+    <component base="acutecomb" xOffset="463" yOffset="387"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>852</integer>
+        <key>width</key>
+        <integer>120</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1192</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-15</integer>
+        <key>width</key>
+        <integer>110</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>70</integer>
+        <key>width</key>
+        <integer>150</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>195</integer>
+        <key>width</key>
+        <integer>110</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Idieresis+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

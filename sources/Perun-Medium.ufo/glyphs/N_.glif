@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="2">
-	<unicode hex="004E"/>
-	<advance width="711"/>
-	<outline>
-		<contour>
-			<point x="63.3333" y="0" type="line"/>
-			<point x="63.3333" y="722" type="line"/>
-			<point x="228" y="722" type="line"/>
-			<point x="534.667" y="135" type="line"/>
-			<point x="534.667" y="722" type="line"/>
-			<point x="648" y="722" type="line"/>
-			<point x="648" y="0" type="line"/>
-			<point x="482.667" y="0" type="line"/>
-			<point x="176.667" y="587" type="line"/>
-			<point x="176.667" y="0" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="top" x="358" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>70</integer>
-						<key>width</key>
-						<integer>140</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>558</integer>
-						<key>width</key>
-						<integer>140</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="711"/>
+  <unicode hex="004E"/>
+  <anchor x="358" y="797" name="top"/>
+  <outline>
+    <contour>
+      <point x="63.3333" y="0" type="line"/>
+      <point x="63.3333" y="722" type="line"/>
+      <point x="228" y="722" type="line"/>
+      <point x="534.667" y="135" type="line"/>
+      <point x="534.667" y="722" type="line"/>
+      <point x="648" y="722" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="482.667" y="0" type="line"/>
+      <point x="176.667" y="587" type="line"/>
+      <point x="176.667" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>70</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>558</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

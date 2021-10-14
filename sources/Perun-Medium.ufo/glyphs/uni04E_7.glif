@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04E7" format="2">
-	<unicode hex="04E7"/>
-	<advance width="615"/>
-	<outline>
-		<component base="uni043E"/>
-		<component base="uni0308" xyScale="0" xOffset="589.333" yOffset="-13.3333"/>
-	</outline>
-	<anchor name="top" x="302.667" y="586.667"/>
-	<anchor name="top.mkmk" x="304.667" y="776.667"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-14</integer>
-						<key>width</key>
-						<integer>86</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>428</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>573</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>50</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>148</integer>
-						<key>width</key>
-						<integer>110</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>358</integer>
-						<key>width</key>
-						<integer>110</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>429</integer>
-						<key>width</key>
-						<integer>137</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>uni043E+uni0308</string>
-		</dict>
-	</lib>
+  <advance width="615"/>
+  <unicode hex="04E7"/>
+  <anchor x="302.667" y="586.667" name="top"/>
+  <anchor x="304.667" y="776.667" name="top.mkmk"/>
+  <outline>
+    <component base="uni043E"/>
+    <component base="uni0308" xyScale="-4.9738e-19" xOffset="589.333" yOffset="-13.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>428</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>573</integer>
+        <key>width</key>
+        <integer>120</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>148</integer>
+        <key>width</key>
+        <integer>110</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>358</integer>
+        <key>width</key>
+        <integer>110</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>429</integer>
+        <key>width</key>
+        <integer>137</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni043E+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

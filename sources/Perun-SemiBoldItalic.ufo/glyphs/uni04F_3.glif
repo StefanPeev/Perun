@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04F3" format="2">
-  <advance width="525"/>
+  <advance width="562"/>
   <unicode hex="04F3"/>
+  <anchor x="450" y="-60" name="bottom"/>
+  <anchor x="400" y="580" name="top"/>
   <outline>
-    <contour>
-      <point x="189" y="-56" type="line" smooth="yes"/>
-      <point x="131" y="-151"/>
-      <point x="104" y="-198"/>
-      <point x="104" y="-198" type="curve"/>
-      <point x="196" y="-198" type="line"/>
-      <point x="339" y="36"/>
-      <point x="484" y="267"/>
-      <point x="629" y="500" type="curve"/>
-      <point x="532" y="500" type="line"/>
-      <point x="299" y="123" type="line"/>
-      <point x="229" y="500" type="line"/>
-      <point x="124" y="500" type="line"/>
-      <point x="223" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="499" y="744" type="line"/>
-      <point x="395" y="744" type="line"/>
-      <point x="299" y="573" type="line"/>
-      <point x="349" y="573" type="line"/>
-    </contour>
-    <contour>
-      <point x="639" y="744" type="line"/>
-      <point x="549" y="744" type="line"/>
-      <point x="439" y="573" type="line"/>
-      <point x="489" y="573" type="line"/>
-    </contour>
+    <component base="uni0443"/>
+    <component base="uni030B" xScale="1" xOffset="557.333" yOffset="-20"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0443+uni030B</string>
+  </dict>
+  </lib>
 </glyph>

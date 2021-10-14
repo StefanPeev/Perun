@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcaron" format="2">
-	<unicode hex="01E9"/>
-	<advance width="545"/>
-	<outline>
-		<component base="k"/>
-		<component base="caron" xOffset="135" yOffset="272"/>
-	</outline>
-	<anchor name="top" x="295" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>480</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>942</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>64</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=k</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=k</string>
-			<key>com.fontlab.recipe</key>
-			<string>k+caron</string>
-		</dict>
-	</lib>
+  <advance width="545"/>
+  <unicode hex="01E9"/>
+  <anchor x="295" y="797" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="caron" xOffset="135" yOffset="272"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>942</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>64</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  <key>com.fontlab.recipe</key>
+  <string>k+caron</string>
+  </dict>
+  </lib>
 </glyph>

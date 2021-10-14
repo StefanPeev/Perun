@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EAF" format="2">
-	<unicode hex="1EAF"/>
-	<advance width="563"/>
-	<outline>
-		<component base="abreve"/>
-		<component base="acutecomb" xyScale="0" xOffset="598" yOffset="-6.66667"/>
-	</outline>
-	<anchor name="bottom" x="277.667" y="-50"/>
-	<anchor name="ogonekLC" x="418" y="10"/>
-	<anchor name="top" x="284.667" y="593.333"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-16</integer>
-						<key>width</key>
-						<integer>90</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-2</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>248</integer>
-						<key>width</key>
-						<integer>76</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>362</integer>
-						<key>width</key>
-						<integer>149</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>433</integer>
-						<key>width</key>
-						<integer>78</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>573</integer>
-						<key>width</key>
-						<integer>80</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>573</integer>
-						<key>width</key>
-						<integer>150</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>573</integer>
-						<key>width</key>
-						<integer>180</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>45</integer>
-						<key>width</key>
-						<integer>138</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>356</integer>
-						<key>width</key>
-						<integer>134</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>abreve+acutecomb</string>
-		</dict>
-	</lib>
+  <advance width="563"/>
+  <unicode hex="1EAF"/>
+  <anchor x="277.667" y="-50" name="bottom"/>
+  <anchor x="418" y="10" name="ogonekLC"/>
+  <anchor x="284.667" y="593.333" name="top"/>
+  <outline>
+    <component base="abreve"/>
+    <component base="acutecomb" xScale="1" xyScale="-1.06108e-18" yScale="1" xOffset="598.667" yOffset="37.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>248</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>362</integer>
+        <key>width</key>
+        <integer>149</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>433</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>573</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>573</integer>
+        <key>width</key>
+        <integer>150</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>573</integer>
+        <key>width</key>
+        <integer>180</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>45</integer>
+        <key>width</key>
+        <integer>138</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>356</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>abreve+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

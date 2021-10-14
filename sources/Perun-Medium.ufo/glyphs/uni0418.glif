@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0418" format="2">
-	<unicode hex="0418"/>
-	<advance width="701"/>
-	<outline>
-		<contour>
-			<point x="66.6667" y="0" type="line"/>
-			<point x="66.6667" y="722" type="line"/>
-			<point x="180.667" y="722" type="line"/>
-			<point x="180.667" y="159.333" type="line"/>
-			<point x="481.667" y="722" type="line"/>
-			<point x="634.667" y="722" type="line"/>
-			<point x="634.667" y="0" type="line"/>
-			<point x="520.667" y="0" type="line"/>
-			<point x="520.667" y="563" type="line"/>
-			<point x="218.333" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>47</integer>
-						<key>width</key>
-						<integer>140</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>485</integer>
-						<key>width</key>
-						<integer>140</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=uni041D</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=uni041D</string>
-		</dict>
-	</lib>
+  <advance width="701"/>
+  <unicode hex="0418"/>
+  <outline>
+    <contour>
+      <point x="66.6667" y="0" type="line"/>
+      <point x="66.6667" y="722" type="line"/>
+      <point x="180.667" y="722" type="line"/>
+      <point x="180.667" y="159.333" type="line"/>
+      <point x="481.667" y="722" type="line"/>
+      <point x="634.667" y="722" type="line"/>
+      <point x="634.667" y="0" type="line"/>
+      <point x="520.667" y="0" type="line"/>
+      <point x="520.667" y="563" type="line"/>
+      <point x="218.333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>47</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>485</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni041D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni041D</string>
+  </dict>
+  </lib>
 </glyph>

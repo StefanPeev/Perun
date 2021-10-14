@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EA4" format="2">
-	<unicode hex="1EA4"/>
-	<advance width="750"/>
-	<outline>
-		<component base="Acircumflex"/>
-		<component base="acutecomb" xOffset="709" yOffset="387"/>
-	</outline>
-	<anchor name="bottom" x="375" y="-75"/>
-	<anchor name="ogonekUC" x="662" y="10"/>
-	<anchor name="top" x="375" y="797"/>
-	<anchor name="top.mkmk" x="379" y="987"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>154</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1220</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>Acircumflex+acutecomb</string>
-		</dict>
-	</lib>
+  <advance width="750"/>
+  <unicode hex="1EA4"/>
+  <anchor x="375" y="-75" name="bottom"/>
+  <anchor x="662" y="10" name="ogonekUC"/>
+  <anchor x="375" y="797" name="top"/>
+  <anchor x="379" y="987" name="top.mkmk"/>
+  <outline>
+    <component base="Acircumflex"/>
+    <component base="acutecomb" xOffset="709" yOffset="387"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>154</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1220</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Acircumflex+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

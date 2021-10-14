@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omacron" format="2">
-	<unicode hex="014C"/>
-	<advance width="767"/>
-	<outline>
-		<component base="O"/>
-		<component base="macron" xyScale="0" xOffset="218.667" yOffset="213.667"/>
-	</outline>
-	<anchor name="top" x="374" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-13</integer>
-						<key>width</key>
-						<integer>114</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>621</integer>
-						<key>width</key>
-						<integer>114</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>795</integer>
-						<key>width</key>
-						<integer>79</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>56</integer>
-						<key>width</key>
-						<integer>151</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>587</integer>
-						<key>width</key>
-						<integer>152</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>O+macron</string>
-		</dict>
-	</lib>
+  <advance width="767"/>
+  <unicode hex="014C"/>
+  <anchor x="374" y="797" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="macron" xScale="1" xOffset="211.333" yOffset="197"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>114</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>621</integer>
+        <key>width</key>
+        <integer>114</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>795</integer>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>56</integer>
+        <key>width</key>
+        <integer>151</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>587</integer>
+        <key>width</key>
+        <integer>152</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+macron</string>
+  </dict>
+  </lib>
 </glyph>

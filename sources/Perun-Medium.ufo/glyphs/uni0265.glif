@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0265" format="2">
-	<unicode hex="0265"/>
-	<advance width="591"/>
-	<outline>
-		<contour>
-			<point x="246.816" y="-13" type="curve" smooth="yes"/>
-			<point x="131" y="-13"/>
-			<point x="73.3333" y="50.3333"/>
-			<point x="73.3333" y="180" type="curve" smooth="yes"/>
-			<point x="73.3333" y="500" type="line"/>
-			<point x="178.333" y="500" type="line"/>
-			<point x="178.333" y="190.667" type="line" smooth="yes"/>
-			<point x="178.333" y="112.333"/>
-			<point x="213.667" y="59"/>
-			<point x="278.574" y="59" type="curve" smooth="yes"/>
-			<point x="345.667" y="59"/>
-			<point x="412.333" y="118.333"/>
-			<point x="412.333" y="203" type="curve" smooth="yes"/>
-			<point x="412.333" y="500" type="line"/>
-			<point x="517.333" y="500" type="line"/>
-			<point x="517.333" y="-200" type="line"/>
-			<point x="412.333" y="-200" type="line"/>
-			<point x="412.333" y="61" type="line"/>
-			<point x="379.884" y="15.0862"/>
-			<point x="323.359" y="-13"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.recipe</key>
-			<string>h</string>
-		</dict>
-	</lib>
+  <advance width="591"/>
+  <unicode hex="0265"/>
+  <outline>
+    <contour>
+      <point x="246.816" y="-13" type="curve" smooth="yes"/>
+      <point x="131" y="-13"/>
+      <point x="73.3333" y="50.3333"/>
+      <point x="73.3333" y="180" type="curve" smooth="yes"/>
+      <point x="73.3333" y="500" type="line"/>
+      <point x="178.333" y="500" type="line"/>
+      <point x="178.333" y="190.667" type="line" smooth="yes"/>
+      <point x="178.333" y="112.333"/>
+      <point x="213.667" y="59"/>
+      <point x="278.574" y="59" type="curve" smooth="yes"/>
+      <point x="345.667" y="59"/>
+      <point x="412.333" y="118.333"/>
+      <point x="412.333" y="203" type="curve" smooth="yes"/>
+      <point x="412.333" y="500" type="line"/>
+      <point x="517.333" y="500" type="line"/>
+      <point x="517.333" y="-200" type="line"/>
+      <point x="412.333" y="-200" type="line"/>
+      <point x="412.333" y="61" type="line"/>
+      <point x="379.884" y="15.0862"/>
+      <point x="323.359" y="-13"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>h</string>
+  </dict>
+  </lib>
 </glyph>

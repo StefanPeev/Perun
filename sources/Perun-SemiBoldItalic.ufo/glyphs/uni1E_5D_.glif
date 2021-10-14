@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E5D" format="2">
-  <advance width="343"/>
+  <advance width="404"/>
   <unicode hex="1E5D"/>
+  <anchor x="130" y="-60" name="bottom"/>
+  <anchor x="354.667" y="580" name="top"/>
   <outline>
-    <contour>
-      <point x="420" y="420" type="line"/>
-      <point x="438" y="500" type="line"/>
-      <point x="318" y="500"/>
-      <point x="280" y="481"/>
-      <point x="241" y="432" type="curve"/>
-      <point x="256" y="500" type="line"/>
-      <point x="166" y="500" type="line"/>
-      <point x="51" y="0" type="line"/>
-      <point x="141" y="0" type="line"/>
-      <point x="206" y="280" type="line" smooth="yes"/>
-      <point x="227" y="373"/>
-      <point x="299" y="420"/>
-      <point x="421" y="420" type="curve"/>
-    </contour>
-    <contour>
-      <point x="103" y="-160" type="line"/>
-      <point x="126" y="-60" type="line"/>
-      <point x="36" y="-60" type="line"/>
-      <point x="13" y="-160" type="line"/>
-    </contour>
-    <contour>
-      <point x="449" y="573" type="line"/>
-      <point x="465" y="642" type="line"/>
-      <point x="203" y="642" type="line"/>
-      <point x="187" y="573" type="line"/>
-    </contour>
+    <component base="uni1E5B"/>
+    <component base="macron" xOffset="38"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E5B+macron</string>
+  </dict>
+  </lib>
 </glyph>

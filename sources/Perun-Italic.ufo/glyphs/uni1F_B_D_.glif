@@ -3,17 +3,12 @@
   <advance width="299"/>
   <unicode hex="1FBD"/>
   <outline>
-    <contour>
-      <point x="291" y="870" type="line"/>
-      <point x="171" y="870" type="line"/>
-      <point x="53" y="620" type="line"/>
-      <point x="123" y="620" type="line"/>
-    </contour>
+    <component base="commaabovecomb" xOffset="275"/>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.recipe</key>
+  <string>space+commaabovecomb</string>
   </dict>
   </lib>
 </glyph>

@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-	<unicode hex="0048"/>
-	<advance width="695"/>
-	<outline>
-		<contour>
-			<point x="60" y="0" type="line"/>
-			<point x="60" y="722" type="line"/>
-			<point x="205" y="722" type="line"/>
-			<point x="205" y="435" type="line"/>
-			<point x="490" y="435" type="line"/>
-			<point x="490" y="722" type="line"/>
-			<point x="635" y="722" type="line"/>
-			<point x="635" y="0" type="line"/>
-			<point x="490" y="0" type="line"/>
-			<point x="490" y="320" type="line"/>
-			<point x="205" y="320" type="line"/>
-			<point x="205" y="0" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="bottom" x="348" y="-75"/>
-	<anchor name="cedilla.bottom" x="130" y="10"/>
-	<anchor name="left" x="10" y="361"/>
-	<anchor name="top" x="348" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>320</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>70</integer>
-						<key>width</key>
-						<integer>145</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>500</integer>
-						<key>width</key>
-						<integer>145</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="695"/>
+  <unicode hex="0048"/>
+  <anchor x="348" y="-75" name="bottom"/>
+  <anchor x="130" y="10" name="cedilla.bottom"/>
+  <anchor x="10" y="361" name="left"/>
+  <anchor x="348" y="797" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="722" type="line"/>
+      <point x="205" y="722" type="line"/>
+      <point x="205" y="435" type="line"/>
+      <point x="490" y="435" type="line"/>
+      <point x="490" y="722" type="line"/>
+      <point x="635" y="722" type="line"/>
+      <point x="635" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="320" type="line"/>
+      <point x="205" y="320" type="line"/>
+      <point x="205" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>320</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>70</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

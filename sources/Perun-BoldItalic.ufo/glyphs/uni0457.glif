@@ -2,24 +2,19 @@
 <glyph name="uni0457" format="2">
   <advance width="264"/>
   <unicode hex="0457"/>
+  <anchor x="127" y="-60" name="bottom"/>
+  <anchor x="290" y="750" name="mkmktop"/>
+  <anchor x="260" y="580" name="top"/>
   <outline>
-    <contour>
-      <point x="424" y="573" type="line"/>
-      <point x="452" y="693" type="line"/>
-      <point x="342" y="693" type="line"/>
-      <point x="314" y="573" type="line"/>
-    </contour>
-    <contour>
-      <point x="214" y="573" type="line"/>
-      <point x="242" y="693" type="line"/>
-      <point x="132" y="693" type="line"/>
-      <point x="104" y="573" type="line"/>
-    </contour>
-    <contour>
-      <point x="200" y="0" type="line"/>
-      <point x="315" y="500" type="line"/>
-      <point x="180" y="500" type="line"/>
-      <point x="65" y="0" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="uni0308" xOffset="399" yOffset="-20"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

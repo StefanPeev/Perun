@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0292" format="2">
-	<unicode hex="0292"/>
-	<advance width="511"/>
-	<outline>
-		<contour>
-			<point x="475.333" y="23.4319" type="curve" smooth="yes"/>
-			<point x="475.333" y="-104.788"/>
-			<point x="377.924" y="-200"/>
-			<point x="246.682" y="-200" type="curve" smooth="yes"/>
-			<point x="102.73" y="-200"/>
-			<point x="22" y="-139.66"/>
-			<point x="22" y="-32" type="curve"/>
-			<point x="132" y="-32" type="line"/>
-			<point x="132" y="-82.0257"/>
-			<point x="172.431" y="-108.333"/>
-			<point x="246.956" y="-108.333" type="curve" smooth="yes"/>
-			<point x="307.952" y="-108.333"/>
-			<point x="355.333" y="-51.2197"/>
-			<point x="355.333" y="21.5472" type="curve" smooth="yes"/>
-			<point x="355.333" y="133.891"/>
-			<point x="284.831" y="187"/>
-			<point x="135.817" y="187" type="curve"/>
-			<point x="135.817" y="224" type="line"/>
-			<point x="311.282" y="420.333" type="line"/>
-			<point x="50.3146" y="420.333" type="line"/>
-			<point x="50.3146" y="500" type="line"/>
-			<point x="443.64" y="500" type="line"/>
-			<point x="443.64" y="418.936" type="line"/>
-			<point x="285.863" y="241" type="line"/>
-			<point x="410.787" y="208.876"/>
-			<point x="475.333" y="134.774"/>
-		</contour>
-	</outline>
-	<anchor name="top" x="246.667" y="600"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.recipe</key>
-			<string>uni04E1</string>
-		</dict>
-	</lib>
+  <advance width="511"/>
+  <unicode hex="0292"/>
+  <anchor x="246.667" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="475.333" y="23.4319" type="curve" smooth="yes"/>
+      <point x="475.333" y="-104.788"/>
+      <point x="377.924" y="-200"/>
+      <point x="246.682" y="-200" type="curve" smooth="yes"/>
+      <point x="102.73" y="-200"/>
+      <point x="22" y="-139.66"/>
+      <point x="22" y="-32" type="curve"/>
+      <point x="132" y="-32" type="line"/>
+      <point x="132" y="-82.0257"/>
+      <point x="172.431" y="-108.333"/>
+      <point x="246.956" y="-108.333" type="curve" smooth="yes"/>
+      <point x="307.952" y="-108.333"/>
+      <point x="355.333" y="-51.2197"/>
+      <point x="355.333" y="21.5472" type="curve" smooth="yes"/>
+      <point x="355.333" y="133.891"/>
+      <point x="284.831" y="187"/>
+      <point x="135.817" y="187" type="curve"/>
+      <point x="135.817" y="224" type="line"/>
+      <point x="311.282" y="420.333" type="line"/>
+      <point x="50.3146" y="420.333" type="line"/>
+      <point x="50.3146" y="500" type="line"/>
+      <point x="443.64" y="500" type="line"/>
+      <point x="443.64" y="418.936" type="line"/>
+      <point x="285.863" y="241" type="line"/>
+      <point x="410.787" y="208.876"/>
+      <point x="475.333" y="134.774"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni04E1</string>
+  </dict>
+  </lib>
 </glyph>

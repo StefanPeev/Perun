@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045E" format="2">
-  <advance width="525"/>
+  <advance width="562"/>
   <unicode hex="045E"/>
+  <anchor x="450" y="-60" name="bottom"/>
+  <anchor x="400" y="580" name="top"/>
   <outline>
-    <contour>
-      <point x="188" y="-56" type="line" smooth="yes"/>
-      <point x="130" y="-151"/>
-      <point x="103" y="-198"/>
-      <point x="103" y="-198" type="curve"/>
-      <point x="195" y="-198" type="line"/>
-      <point x="338" y="36"/>
-      <point x="483" y="267"/>
-      <point x="628" y="500" type="curve"/>
-      <point x="531" y="500" type="line"/>
-      <point x="298" y="123" type="line"/>
-      <point x="228" y="500" type="line"/>
-      <point x="123" y="500" type="line"/>
-      <point x="222" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="408" y="636" type="curve" smooth="yes"/>
-      <point x="371" y="636"/>
-      <point x="332" y="660"/>
-      <point x="332" y="690" type="curve"/>
-      <point x="280" y="690" type="line"/>
-      <point x="273" y="626"/>
-      <point x="320" y="573"/>
-      <point x="393" y="573" type="curve" smooth="yes"/>
-      <point x="467" y="573"/>
-      <point x="537" y="627"/>
-      <point x="561" y="690" type="curve"/>
-      <point x="509" y="690" type="line"/>
-      <point x="495" y="659"/>
-      <point x="446" y="636"/>
-    </contour>
+    <component base="uni0443"/>
+    <component base="uni0306" xOffset="549" yOffset="-20"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0443+uni0306</string>
+  </dict>
+  </lib>
 </glyph>

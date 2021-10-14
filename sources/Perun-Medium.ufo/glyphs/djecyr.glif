@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="djecyr" format="2">
+  <advance width="591"/>
+  <unicode hex="0452"/>
+  <outline>
+    <component base="h"/>
+    <contour>
+      <point x="517.333" y="134" type="line"/>
+      <point x="517.333" y="-60" type="line" smooth="yes"/>
+      <point x="517.333" y="-142.764"/>
+      <point x="450.529" y="-199"/>
+      <point x="356.333" y="-199" type="curve" smooth="yes"/>
+      <point x="299.333" y="-199"/>
+      <point x="253.333" y="-180"/>
+      <point x="218.333" y="-142" type="curve"/>
+      <point x="281.566" y="-78.7172" type="line"/>
+      <point x="299.289" y="-102.093"/>
+      <point x="321.333" y="-115.667"/>
+      <point x="350.333" y="-115.667" type="curve" smooth="yes"/>
+      <point x="384.333" y="-115.667"/>
+      <point x="412.333" y="-89.6667"/>
+      <point x="412.333" y="-47.6667" type="curve" smooth="yes"/>
+      <point x="412.333" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="303.333" y="556.333" type="line"/>
+      <point x="-6.66667" y="556.333" type="line"/>
+      <point x="-6.66667" y="635.667" type="line"/>
+      <point x="303.333" y="635.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>h</string>
+  </dict>
+  </lib>
+</glyph>

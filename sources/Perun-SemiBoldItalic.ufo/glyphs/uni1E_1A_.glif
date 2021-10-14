@@ -1,43 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E1A" format="2">
-  <advance width="577"/>
+  <advance width="593"/>
   <unicode hex="1E1A"/>
+  <anchor x="313.333" y="-60" name="bottom"/>
+  <anchor x="465.667" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="518" y="0" type="line"/>
-      <point x="538" y="87" type="line"/>
-      <point x="182" y="87" type="line"/>
-      <point x="237" y="326" type="line"/>
-      <point x="573" y="326" type="line"/>
-      <point x="593" y="413" type="line"/>
-      <point x="257" y="413" type="line"/>
-      <point x="309" y="635" type="line"/>
-      <point x="655" y="635" type="line"/>
-      <point x="675" y="722" type="line"/>
-      <point x="228" y="722" type="line"/>
-      <point x="61" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="-162" type="curve"/>
-      <point x="161" y="-162" type="line"/>
-      <point x="174" y="-135"/>
-      <point x="188" y="-121"/>
-      <point x="202" y="-121" type="curve" smooth="yes"/>
-      <point x="210" y="-121"/>
-      <point x="275" y="-157"/>
-      <point x="312" y="-157" type="curve" smooth="yes"/>
-      <point x="361" y="-157"/>
-      <point x="403" y="-109"/>
-      <point x="419" y="-59" type="curve"/>
-      <point x="364" y="-59" type="line"/>
-      <point x="351" y="-86"/>
-      <point x="338" y="-100"/>
-      <point x="325" y="-100" type="curve" smooth="yes"/>
-      <point x="317" y="-100"/>
-      <point x="252" y="-64"/>
-      <point x="213" y="-64" type="curve" smooth="yes"/>
-      <point x="165" y="-64"/>
-      <point x="123" y="-113"/>
-    </contour>
+    <component base="E"/>
+    <component base="tildebelowcomb" xOffset="566"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+tildebelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

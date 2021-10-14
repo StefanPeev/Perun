@@ -1,60 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E68" format="2">
-  <advance width="642"/>
+  <advance width="682"/>
   <unicode hex="1E68"/>
+  <anchor x="518" y="970" name="mkmktop"/>
+  <anchor x="498" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="587" y="540" type="line"/>
-      <point x="688" y="540" type="line"/>
-      <point x="720" y="678"/>
-      <point x="623" y="737"/>
-      <point x="475" y="737" type="curve" smooth="yes"/>
-      <point x="382" y="737"/>
-      <point x="215" y="680"/>
-      <point x="182" y="538" type="curve" smooth="yes"/>
-      <point x="113" y="237"/>
-      <point x="587" y="418"/>
-      <point x="535" y="193" type="curve" smooth="yes"/>
-      <point x="511" y="90"/>
-      <point x="404" y="73"/>
-      <point x="302" y="73" type="curve" smooth="yes"/>
-      <point x="224" y="73"/>
-      <point x="182" y="136"/>
-      <point x="200" y="214" type="curve"/>
-      <point x="98" y="214" type="line"/>
-      <point x="66" y="75"/>
-      <point x="146" y="-15"/>
-      <point x="285" y="-15" type="curve" smooth="yes"/>
-      <point x="430" y="-15"/>
-      <point x="598" y="32"/>
-      <point x="637" y="199" type="curve" smooth="yes"/>
-      <point x="705" y="494"/>
-      <point x="238" y="341"/>
-      <point x="282" y="533" type="curve" smooth="yes"/>
-      <point x="300" y="609"/>
-      <point x="354" y="647"/>
-      <point x="447" y="647" type="curve" smooth="yes"/>
-      <point x="538" y="647"/>
-      <point x="605" y="630"/>
-      <point x="584" y="538" type="curve"/>
-    </contour>
-    <contour>
-      <point x="294" y="-174" type="line"/>
-      <point x="317" y="-74" type="line"/>
-      <point x="227" y="-74" type="line"/>
-      <point x="204" y="-174" type="line"/>
-    </contour>
-    <contour>
-      <point x="535" y="796" type="line"/>
-      <point x="558" y="896" type="line"/>
-      <point x="468" y="896" type="line"/>
-      <point x="445" y="796" type="line"/>
-    </contour>
+    <component base="Sdotbelow"/>
+    <component base="uni0307" xOffset="661" yOffset="200"/>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Sdotbelow+uni0307</string>
   </dict>
   </lib>
 </glyph>

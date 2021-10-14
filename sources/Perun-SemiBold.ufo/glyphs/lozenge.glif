@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lozenge" format="2">
-	<unicode hex="25CA"/>
-	<advance width="536"/>
-	<outline>
-		<contour>
-			<point x="502" y="392" type="line"/>
-			<point x="300" y="0" type="line"/>
-			<point x="237" y="0" type="line"/>
-			<point x="35" y="392" type="line"/>
-			<point x="237" y="776" type="line"/>
-			<point x="300" y="776" type="line"/>
-		</contour>
-		<contour>
-			<point x="397.697" y="390.89" type="line"/>
-			<point x="268.877" y="637.23" type="line"/>
-			<point x="139.303" y="390.89" type="line"/>
-			<point x="268.877" y="137.77" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>756</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="536"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="502" y="392" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="35" y="392" type="line"/>
+      <point x="237" y="776" type="line"/>
+      <point x="300" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="397.697" y="390.89" type="line"/>
+      <point x="268.877" y="637.23" type="line"/>
+      <point x="139.303" y="390.89" type="line"/>
+      <point x="268.877" y="137.77" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>756</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

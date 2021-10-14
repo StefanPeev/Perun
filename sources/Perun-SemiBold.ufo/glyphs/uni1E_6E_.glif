@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E6E" format="2">
-	<unicode hex="1E6E"/>
-	<advance width="631"/>
-	<outline>
-		<component base="T"/>
-		<component base="macronbelowcomb" xOffset="585.571"/>
-	</outline>
-	<anchor name="cedilla.bottom" x="314" y="10"/>
-	<anchor name="top" x="313.667" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-139</integer>
-						<key>width</key>
-						<integer>79</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>607</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>243</integer>
-						<key>width</key>
-						<integer>150</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>T+macronbelowcomb</string>
-		</dict>
-	</lib>
+  <advance width="631"/>
+  <unicode hex="1E6E"/>
+  <anchor x="314" y="10" name="cedilla.bottom"/>
+  <anchor x="313.667" y="797" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="macronbelowcomb" xScale="1" xOffset="585.571"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-139</integer>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>607</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>243</integer>
+        <key>width</key>
+        <integer>150</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>T+macronbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

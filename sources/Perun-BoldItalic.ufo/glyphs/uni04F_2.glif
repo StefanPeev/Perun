@@ -2,40 +2,17 @@
 <glyph name="uni04F2" format="2">
   <advance width="666"/>
   <unicode hex="04F2"/>
+  <anchor x="513" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="818" y="722" type="line"/>
-      <point x="704" y="722" type="line"/>
-      <point x="418" y="328" type="line"/>
-      <point x="305" y="722" type="line"/>
-      <point x="182" y="722" type="line"/>
-      <point x="352" y="225" type="line"/>
-      <point x="292" y="135"/>
-      <point x="246" y="71"/>
-      <point x="168" y="71" type="curve" smooth="yes"/>
-      <point x="138" y="71"/>
-      <point x="92" y="86"/>
-      <point x="82" y="102" type="curve"/>
-      <point x="66" y="34" type="line"/>
-      <point x="87" y="14"/>
-      <point x="125" y="-10"/>
-      <point x="168" y="-10" type="curve" smooth="yes"/>
-      <point x="244" y="-10"/>
-      <point x="303" y="27"/>
-      <point x="349" y="78" type="curve"/>
-      <point x="401" y="148" type="line"/>
-    </contour>
-    <contour>
-      <point x="621" y="967" type="line"/>
-      <point x="531" y="967" type="line"/>
-      <point x="422" y="796" type="line"/>
-      <point x="472" y="796" type="line"/>
-    </contour>
-    <contour>
-      <point x="761" y="967" type="line"/>
-      <point x="671" y="967" type="line"/>
-      <point x="562" y="796" type="line"/>
-      <point x="612" y="796" type="line"/>
-    </contour>
+    <component base="uni0423"/>
+    <component base="uni030B" xOffset="673" yOffset="200"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0423+uni030B</string>
+  </dict>
+  </lib>
 </glyph>

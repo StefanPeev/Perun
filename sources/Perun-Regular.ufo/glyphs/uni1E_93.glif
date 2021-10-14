@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E93" format="2">
-	<unicode hex="1E93"/>
-	<advance width="488"/>
-	<outline>
-		<component base="z"/>
-		<component base="dotbelowcomb" xOffset="505"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>415</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>z+dotbelowcomb</string>
-		</dict>
-	</lib>
+  <advance width="488"/>
+  <unicode hex="1E93"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotbelowcomb" xOffset="505"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>415</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>z+dotbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

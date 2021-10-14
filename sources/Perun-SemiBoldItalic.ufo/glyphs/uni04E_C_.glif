@@ -1,55 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04EC" format="2">
-  <advance width="711"/>
+  <advance width="715"/>
   <unicode hex="04EC"/>
+  <anchor x="565.333" y="966.667" name="mkmktop"/>
+  <anchor x="536" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="182" y="573" type="line"/>
-      <point x="184" y="570" type="line"/>
-      <point x="184" y="573" type="line"/>
-    </contour>
-    <contour>
-      <point x="466" y="795" type="line"/>
-      <point x="487" y="887" type="line"/>
-      <point x="397" y="887" type="line"/>
-      <point x="376" y="795" type="line"/>
-    </contour>
-    <contour>
-      <point x="666" y="795" type="line"/>
-      <point x="687" y="887" type="line"/>
-      <point x="597" y="887" type="line"/>
-      <point x="576" y="795" type="line"/>
-    </contour>
-    <contour>
-      <point x="185" y="572" type="curve"/>
-      <point x="295" y="572" type="line"/>
-      <point x="344" y="623"/>
-      <point x="408" y="648"/>
-      <point x="487" y="648" type="curve" smooth="yes"/>
-      <point x="668" y="648"/>
-      <point x="674" y="497"/>
-      <point x="654" y="412" type="curve"/>
-      <point x="365" y="412" type="line"/>
-      <point x="345" y="325" type="line"/>
-      <point x="634" y="325" type="line"/>
-      <point x="598" y="183"/>
-      <point x="517" y="73"/>
-      <point x="354" y="73" type="curve" smooth="yes"/>
-      <point x="268" y="73"/>
-      <point x="221" y="111"/>
-      <point x="199" y="165" type="curve"/>
-      <point x="90" y="165" type="line"/>
-      <point x="114" y="65"/>
-      <point x="195" y="-15"/>
-      <point x="335" y="-15" type="curve" smooth="yes"/>
-      <point x="538" y="-15"/>
-      <point x="698" y="142"/>
-      <point x="751" y="373" type="curve" smooth="yes"/>
-      <point x="800" y="586"/>
-      <point x="723" y="733"/>
-      <point x="508" y="733" type="curve" smooth="yes"/>
-      <point x="367" y="733"/>
-      <point x="259" y="672"/>
-    </contour>
+    <component base="uni042D"/>
+    <component base="uni0308" xScale="1" xOffset="678.667" yOffset="200"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni042D+uni0308</string>
+  </dict>
+  </lib>
 </glyph>

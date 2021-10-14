@@ -2,30 +2,20 @@
 <glyph name="uni1E2E" format="2">
   <advance width="289"/>
   <unicode hex="1E2E"/>
+  <anchor x="133" y="-60" name="bottom"/>
+  <anchor x="147" y="10" name="bottomUC"/>
+  <anchor x="357" y="970" name="mkmktop"/>
+  <anchor x="327" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="611" y="1212" type="line"/>
-      <point x="481" y="1212" type="line"/>
-      <point x="348" y="1032" type="line"/>
-      <point x="418" y="1032" type="line"/>
-    </contour>
-    <contour>
-      <point x="502" y="852" type="line"/>
-      <point x="529" y="972" type="line"/>
-      <point x="419" y="972" type="line"/>
-      <point x="392" y="852" type="line"/>
-    </contour>
-    <contour>
-      <point x="292" y="852" type="line"/>
-      <point x="319" y="972" type="line"/>
-      <point x="209" y="972" type="line"/>
-      <point x="182" y="852" type="line"/>
-    </contour>
-    <contour>
-      <point x="220" y="0" type="line"/>
-      <point x="387" y="722" type="line"/>
-      <point x="237" y="722" type="line"/>
-      <point x="70" y="0" type="line"/>
-    </contour>
+    <component base="Idieresis"/>
+    <component base="acutecomb" xOffset="526" yOffset="370"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Idieresis+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

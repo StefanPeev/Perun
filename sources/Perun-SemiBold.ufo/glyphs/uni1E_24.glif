@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E24" format="2">
-	<unicode hex="1E24"/>
-	<advance width="693"/>
-	<outline>
-		<component base="H"/>
-		<component base="dotbelowcomb" xyScale="0" xOffset="606.333" yOffset="11.6667"/>
-	</outline>
-	<anchor name="bottom" x="343.667" y="-75"/>
-	<anchor name="cedilla.bottom" x="126.667" y="10"/>
-	<anchor name="left" x="13.3333" y="361"/>
-	<anchor name="top" x="343.667" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>320</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>702</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>70</integer>
-						<key>width</key>
-						<integer>145</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>500</integer>
-						<key>width</key>
-						<integer>145</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>H+dotbelowcomb</string>
-		</dict>
-	</lib>
+  <advance width="693"/>
+  <unicode hex="1E24"/>
+  <anchor x="343.667" y="-75" name="bottom"/>
+  <anchor x="126.667" y="10" name="cedilla.bottom"/>
+  <anchor x="13.3333" y="361" name="left"/>
+  <anchor x="343.667" y="797" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="dotbelowcomb" xyScale="4.55932e-19" xOffset="606.333" yOffset="11.6667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>320</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>70</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>H+dotbelowcomb</string>
+  </dict>
+  </lib>
 </glyph>

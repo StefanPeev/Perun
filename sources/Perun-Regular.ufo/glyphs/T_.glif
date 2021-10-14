@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-	<unicode hex="0054"/>
-	<advance width="622"/>
-	<outline>
-		<contour>
-			<point x="592" y="635" type="line"/>
-			<point x="356" y="635" type="line"/>
-			<point x="356" y="0" type="line"/>
-			<point x="256" y="0" type="line"/>
-			<point x="256" y="635" type="line"/>
-			<point x="20" y="635" type="line"/>
-			<point x="20" y="722" type="line"/>
-			<point x="592" y="722" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="cedilla.bottom" x="306" y="10"/>
-	<anchor name="top" x="305" y="797"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>607</integer>
-						<key>width</key>
-						<integer>115</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>243</integer>
-						<key>width</key>
-						<integer>150</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="0054"/>
+  <anchor x="306" y="10" name="cedilla.bottom"/>
+  <anchor x="305" y="797" name="top"/>
+  <outline>
+    <contour>
+      <point x="592" y="635" type="line"/>
+      <point x="356" y="635" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="635" type="line"/>
+      <point x="20" y="635" type="line"/>
+      <point x="20" y="722" type="line"/>
+      <point x="592" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>607</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>243</integer>
+        <key>width</key>
+        <integer>150</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

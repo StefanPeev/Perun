@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EC1" format="2">
-	<unicode hex="1EC1"/>
-	<advance width="547"/>
-	<outline>
-		<component base="ecircumflex"/>
-		<contour>
-			<point x="357" y="803.333" type="line"/>
-			<point x="290" y="803.333" type="line"/>
-			<point x="142.667" y="980.333" type="line"/>
-			<point x="263" y="980.333" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="_top" x="271.667" y="543.333"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-15</integer>
-						<key>width</key>
-						<integer>86</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-15</integer>
-						<key>width</key>
-						<integer>170</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-14</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>222</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>428</integer>
-						<key>width</key>
-						<integer>85</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1000</integer>
-						<key>width</key>
-						<integer>20</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>43</integer>
-						<key>width</key>
-						<integer>139</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>365</integer>
-						<key>width</key>
-						<integer>141</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.fontlab.recipe</key>
-			<string>ecircumflex+gravecomb</string>
-		</dict>
-	</lib>
+  <advance width="547"/>
+  <unicode hex="1EC1"/>
+  <anchor x="271.667" y="543.333" name="_top"/>
+  <outline>
+    <component base="ecircumflex"/>
+    <contour>
+      <point x="357" y="803.333" type="line"/>
+      <point x="290" y="803.333" type="line"/>
+      <point x="142.667" y="980.333" type="line"/>
+      <point x="263" y="980.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-15</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-15</integer>
+        <key>width</key>
+        <integer>170</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>222</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>428</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1000</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>43</integer>
+        <key>width</key>
+        <integer>139</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>365</integer>
+        <key>width</key>
+        <integer>141</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>ecircumflex+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

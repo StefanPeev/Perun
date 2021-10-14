@@ -2,14 +2,18 @@
 <glyph name="upsilondieresisacute" format="2">
   <advance width="608"/>
   <unicode hex="1FE3"/>
+  <anchor x="450.667" y="743.333" name="mkmktop"/>
+  <anchor x="422" y="580" name="top"/>
   <outline>
     <component base="upsilondieresis"/>
-    <component base="acutecomb" xScale="1" xOffset="539.333"/>
+    <component base="acutecomb" xyScale="-4.07378e-18" yScale="1" xOffset="635" yOffset="143.333"/>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>upsilondieresis+acutecomb</string>
   </dict>
   </lib>
 </glyph>

@@ -1,3 +1,14 @@
+#> classes
+#/> otclasses
+@aalt = [Scedilla scedilla Tcedilla tcedilla];
+@aalt2 = [Scommaaccent scommaaccent Tcedilla tcedilla];
+@locl = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@ss01 = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@ss012 = [uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+#/< otclasses
+#< classes
+
 #> languagesystem
 languagesystem DFLT dflt;
 languagesystem latn dflt;
@@ -5,6 +16,7 @@ languagesystem latn MOL;
 languagesystem latn ROM;
 languagesystem cyrl dflt;
 languagesystem cyrl BGR;
+languagesystem cyrl SRB;
 languagesystem grek dflt;
 #< languagesystem
 
@@ -50,6 +62,9 @@ feature locl {
   sub uni044C by uni044C.loclBGR;
   sub uni044E by uni044E.loclBGR;
   sub uni045D by uni045D.loclBGR;
+
+  language SRB; # Serbian
+  sub uni0431 by uni0431.loclSRB;
 
   script latn; # Latin
   language MOL; # Moldavian
@@ -138,7 +153,6 @@ feature salt {
 # Stylistic Alternates
 
 #> feature
-  sub pi from [pi.cv01];
   sub uni0432 from [uni0432.ss01];
   sub uni0443 from [uni0443.ss01];
 #< feature
