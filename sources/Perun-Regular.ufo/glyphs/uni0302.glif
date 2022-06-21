@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302" format="2">
-  <advance width="1"/>
-  <unicode hex="0302"/>
-  <anchor x="-300" y="600" name="_top"/>
-  <anchor x="-296" y="790" name="top.mkmk"/>
-  <outline>
-    <contour>
-      <point x="-151" y="600" type="line"/>
-      <point x="-211" y="600" type="line"/>
-      <point x="-296" y="710" type="line"/>
-      <point x="-381" y="600" type="line"/>
-      <point x="-441" y="600" type="line"/>
-      <point x="-351" y="770" type="line"/>
-      <point x="-241" y="770" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>600</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>760</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0302"/>
+	<advance width="1"/>
+	<outline>
+		<contour>
+			<point x="-441" y="600" type="line"/>
+			<point x="-351" y="770" type="line"/>
+			<point x="-241" y="770" type="line"/>
+			<point x="-151" y="600" type="line"/>
+			<point x="-211" y="600" type="line"/>
+			<point x="-296" y="710" type="line"/>
+			<point x="-381" y="600" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-300" y="600"/>
+	<anchor name="top.mkmk" x="-296" y="790"/>
+	<guideline x="-296" y="0" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>600</integer>
+						<key>width</key>
+						<integer>170</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-441</integer>
+						<key>width</key>
+						<integer>290</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

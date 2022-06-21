@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DE" format="2">
+  <advance width="750"/>
+  <unicode hex="01DE"/>
+  <anchor x="375" y="-75" name="bottom"/>
+  <anchor x="662" y="10" name="ogonekUC"/>
+  <anchor x="375" y="797" name="top"/>
+  <anchor x="379" y="1112" name="top.mkmk"/>
+  <outline>
+    <contour>
+      <point x="236" y="278" type="line"/>
+      <point x="509" y="278" type="line"/>
+      <point x="371" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="318" y="722" type="line"/>
+      <point x="428" y="722" type="line"/>
+      <point x="735" y="0" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="551" y="193" type="line"/>
+      <point x="197" y="193" type="line"/>
+      <point x="118" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="797" type="line"/>
+      <point x="433" y="797" type="line"/>
+      <point x="433" y="897" type="line"/>
+      <point x="523" y="897" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="797" type="line"/>
+      <point x="233" y="797" type="line"/>
+      <point x="233" y="897" type="line"/>
+      <point x="323" y="897" type="line"/>
+    </contour>
+    <contour>
+      <point x="524" y="972" type="line"/>
+      <point x="234" y="972" type="line"/>
+      <point x="234" y="1041" type="line"/>
+      <point x="524" y="1041" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>154</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>851</integer>
+        <key>width</key>
+        <integer>120</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>1031</integer>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>195</integer>
+        <key>width</key>
+        <integer>110</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>405</integer>
+        <key>width</key>
+        <integer>110</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Adieresis+macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

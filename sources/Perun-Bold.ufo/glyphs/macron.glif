@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="380"/>
-  <unicode hex="00AF"/>
-  <anchor x="200" y="600" name="_top"/>
-  <outline>
-    <contour>
-      <point x="380" y="609" type="line"/>
-      <point x="0" y="609" type="line"/>
-      <point x="0" y="709" type="line"/>
-      <point x="380" y="709" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>630</integer>
-        <key>width</key>
-        <integer>79</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="00AF"/>
+	<advance width="380"/>
+	<outline>
+		<contour>
+			<point x="380" y="609" type="line"/>
+			<point x="0" y="609" type="line"/>
+			<point x="0" y="709" type="line"/>
+			<point x="380" y="709" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="190" y="784"/>
+	<anchor name="_left" x="430" y="659"/>
+	<anchor name="_top" x="200" y="600"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>630</integer>
+						<key>width</key>
+						<integer>79</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

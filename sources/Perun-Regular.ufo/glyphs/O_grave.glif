@@ -1,55 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="2">
-  <advance width="754"/>
-  <unicode hex="00D2"/>
-  <anchor x="365" y="797" name="top"/>
-  <outline>
-    <component base="O"/>
-    <component base="gravecomb" xOffset="545" yOffset="197"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-13</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>621</integer>
-        <key>width</key>
-        <integer>114</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>981</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>56</integer>
-        <key>width</key>
-        <integer>151</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>587</integer>
-        <key>width</key>
-        <integer>152</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="00D2"/>
+	<advance width="754"/>
+	<outline>
+		<component base="O"/>
+		<component base="gravecomb" xOffset="545" yOffset="197"/>
+	</outline>
+	<anchor name="top" x="365" y="797"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-14</integer>
+						<key>width</key>
+						<integer>87</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>649</integer>
+						<key>width</key>
+						<integer>86</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>59</integer>
+						<key>width</key>
+						<integer>102</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>610</integer>
+						<key>width</key>
+						<integer>103</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

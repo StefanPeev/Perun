@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
-  <advance width="1000"/>
-  <unicode hex="005E"/>
-  <outline>
-    <contour>
-      <point x="761" y="10" type="line"/>
-      <point x="699" y="10" type="line"/>
-      <point x="500" y="546" type="line"/>
-      <point x="301" y="10" type="line"/>
-      <point x="239" y="10" type="line"/>
-      <point x="469" y="610" type="line"/>
-      <point x="531" y="610" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>10</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>590</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  </dict>
-  </lib>
+	<unicode hex="005E"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="761" y="10" type="line"/>
+			<point x="699" y="10" type="line"/>
+			<point x="500" y="546" type="line"/>
+			<point x="301" y="10" type="line"/>
+			<point x="239" y="10" type="line"/>
+			<point x="469" y="610" type="line"/>
+			<point x="531" y="610" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>10</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>590</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>public.markColor</key>
+			<string>1,0.6,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

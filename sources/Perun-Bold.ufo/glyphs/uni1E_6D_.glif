@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E6D" format="2">
-  <advance width="418"/>
-  <unicode hex="1E6D"/>
-  <anchor x="212" y="10" name="cedilla.bottom"/>
-  <anchor x="212" y="722" name="top"/>
-  <outline>
-    <component base="t"/>
-    <component base="dotbelowcomb" xOffset="470.635"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-12</integer>
-        <key>width</key>
-        <integer>93</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>415</integer>
-        <key>width</key>
-        <integer>85</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>627</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>130</integer>
-        <key>width</key>
-        <integer>135</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>com.fontlab.recipe</key>
-  <string>t+dotbelowcomb</string>
-  </dict>
-  </lib>
+	<unicode hex="1E6D"/>
+	<advance width="418"/>
+	<outline>
+		<component base="t"/>
+		<component base="dotbelowcomb" xOffset="470.635"/>
+	</outline>
+	<anchor name="cedilla.bottom" x="212" y="10"/>
+	<anchor name="top" x="212" y="722"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-12</integer>
+						<key>width</key>
+						<integer>93</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>415</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>627</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>130</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.fontlab.recipe</key>
+			<string>t+dotbelowcomb</string>
+		</dict>
+	</lib>
 </glyph>
