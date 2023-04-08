@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta" format="2">
+  <advance width="632"/>
+  <unicode hex="0396"/>
+  <anchor x="316" y="797" name="top"/>
+  <outline>
+    <component base="Z"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>607</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Z</string>
+  </dict>
+  </lib>
+</glyph>

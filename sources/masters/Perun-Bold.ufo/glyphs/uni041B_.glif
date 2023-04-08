@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041B" format="2">
+  <advance width="723"/>
+  <unicode hex="041B"/>
+  <outline>
+    <contour>
+      <point x="15" y="2" type="line"/>
+      <point x="29" y="-4"/>
+      <point x="49" y="-7"/>
+      <point x="72.3919" y="-7" type="curve" smooth="yes"/>
+      <point x="230" y="-7"/>
+      <point x="290.499" y="129.17"/>
+      <point x="300" y="394" type="curve" smooth="yes"/>
+      <point x="311.767" y="722" type="line"/>
+      <point x="165" y="722" type="line"/>
+      <point x="153" y="418" type="line" smooth="yes"/>
+      <point x="146.058" y="242.137"/>
+      <point x="124.619" y="122"/>
+      <point x="49.8239" y="122" type="curve" smooth="yes"/>
+      <point x="43" y="122"/>
+      <point x="26" y="123"/>
+      <point x="15" y="128" type="curve"/>
+    </contour>
+    <contour>
+      <point x="516" y="722.015" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+      <point x="663" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="170.18" y="602" type="line"/>
+      <point x="516.009" y="602" type="line"/>
+      <point x="516" y="722" type="line"/>
+      <point x="175" y="722" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="87.9454" x="300" y="394"/>
+  <guideline angle="87.9047" x="300" y="394"/>
+  <guideline angle="267.739" x="165" y="722"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni041D</string>
+  </dict>
+  </lib>
+</glyph>

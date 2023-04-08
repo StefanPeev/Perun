@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="2">
+  <advance width="506"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="462" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="44" y="105" type="line"/>
+      <point x="316.797" y="424.121" type="line"/>
+      <point x="321" y="415" type="line"/>
+      <point x="49" y="415" type="line"/>
+      <point x="49" y="500" type="line"/>
+      <point x="449" y="500" type="line"/>
+      <point x="449" y="395" type="line"/>
+      <point x="176.203" y="75.8785" type="line"/>
+      <point x="172" y="85" type="line"/>
+      <point x="462" y="85" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="49.4431" x="44" y="105"/>
+  <guideline angle="229.443" x="449" y="395"/>
+  <guideline angle="49.4431" x="44" y="105"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>415</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

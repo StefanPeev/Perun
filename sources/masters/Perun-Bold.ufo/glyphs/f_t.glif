@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_t" format="2">
+  <advance width="777"/>
+  <anchor x="566" y="722" name="top"/>
+  <anchor x="185" y="-75" name="bottom"/>
+  <anchor x="566" y="10" name="cedilla.bottom"/>
+  <outline>
+    <component base="f"/>
+    <component base="t" xOffset="354"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>f_t</string>
+  </dict>
+  </lib>
+</glyph>

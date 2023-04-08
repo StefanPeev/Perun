@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s" format="2">
+  <advance width="523"/>
+  <unicode hex="0073"/>
+  <anchor x="258" y="580" name="top"/>
+  <anchor x="243" y="0" name="cedilla.bottom"/>
+  <outline>
+    <contour>
+      <point x="80" y="144" type="curve"/>
+      <point x="100" y="144" type="line"/>
+      <point x="100" y="58.1393"/>
+      <point x="154.01" y="10"/>
+      <point x="262.043" y="10" type="curve" smooth="yes"/>
+      <point x="360.147" y="10"/>
+      <point x="423" y="49.6969"/>
+      <point x="423" y="116.468" type="curve" smooth="yes"/>
+      <point x="423" y="170.137"/>
+      <point x="382.395" y="218.281"/>
+      <point x="261.466" y="246.508" type="curve" smooth="yes"/>
+      <point x="234.453" y="252.813" type="line" smooth="yes"/>
+      <point x="126.809" y="277.939"/>
+      <point x="94" y="332.455"/>
+      <point x="94" y="387.136" type="curve" smooth="yes"/>
+      <point x="94" y="457.567"/>
+      <point x="148.433" y="512"/>
+      <point x="265.851" y="512" type="curve" smooth="yes"/>
+      <point x="385.997" y="512"/>
+      <point x="433" y="456.339"/>
+      <point x="433" y="366" type="curve"/>
+      <point x="413.019" y="366" type="line"/>
+      <point x="413.002" y="446.871"/>
+      <point x="375.395" y="492"/>
+      <point x="266.737" y="492" type="curve" smooth="yes"/>
+      <point x="168.097" y="492"/>
+      <point x="114" y="454.809"/>
+      <point x="114" y="388.054" type="curve" smooth="yes"/>
+      <point x="114" y="334.322"/>
+      <point x="149.049" y="291.933"/>
+      <point x="250.082" y="268.772" type="curve" smooth="yes"/>
+      <point x="279.589" y="262.008" type="line" smooth="yes"/>
+      <point x="395.852" y="235.356"/>
+      <point x="443" y="173.73"/>
+      <point x="443" y="123" type="curve" smooth="yes"/>
+      <point x="443" y="35.3393"/>
+      <point x="376.829" y="-10"/>
+      <point x="252" y="-10" type="curve" smooth="yes"/>
+      <point x="141.205" y="-10"/>
+      <point x="80" y="44.1433"/>
+    </contour>
+  </outline>
+  <guideline angle="344.863" x="80" y="306"/>
+  <guideline angle="344.863" x="80" y="316"/>
+  <guideline angle="344.863" x="80" y="296"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>65</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>449</integer>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>36</integer>
+        <key>width</key>
+        <integer>92</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>91</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>337</integer>
+        <key>width</key>
+        <integer>92</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>348</integer>
+        <key>width</key>
+        <integer>91</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

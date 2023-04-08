@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0414.loclBGR" format="2">
+  <advance width="711"/>
+  <outline>
+    <contour>
+      <point x="642.031" y="74.869" type="line"/>
+      <point x="411.619" y="722" type="line"/>
+      <point x="301.385" y="722" type="line"/>
+      <point x="71.4128" y="74.866" type="line"/>
+      <point x="183.358" y="74.7842" type="line"/>
+      <point x="361.333" y="603.373" type="line"/>
+      <point x="353.675" y="603.373" type="line"/>
+      <point x="531.65" y="74.7842" type="line"/>
+    </contour>
+    <contour>
+      <point x="691" y="-160" type="line"/>
+      <point x="691" y="89" type="line"/>
+      <point x="20" y="89" type="line"/>
+      <point x="20" y="-160" type="line"/>
+      <point x="120" y="-160" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="591" y="-160" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="357" y="0"/>
+  <guideline angle="0" x="0" y="722"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>89</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>20</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>591</integer>
+        <key>width</key>
+        <integer>100</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

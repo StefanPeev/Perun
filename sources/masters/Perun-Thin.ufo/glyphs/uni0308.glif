@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308" format="2">
+  <unicode hex="0308"/>
+  <anchor x="-290" y="775" name="top.mkmk"/>
+  <anchor x="-290" y="600" name="_top"/>
+  <anchor x="-290" y="600" name="_top.mkmk"/>
+  <outline>
+    <component base="uni0307" xOffset="-100"/>
+    <component base="uni0307" xOffset="100"/>
+  </outline>
+  <guideline angle="90" x="-401" y="0"/>
+  <guideline angle="90" x="-179" y="0"/>
+  <guideline angle="90" x="-290" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>600</integer>
+        <key>width</key>
+        <integer>100</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-417</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-257</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="njecyr" format="2">
+  <advance width="899"/>
+  <unicode hex="045A"/>
+  <outline>
+    <component base="uni043D"/>
+    <contour>
+      <point x="530" y="0" type="line"/>
+      <point x="670.505" y="0" type="line" smooth="yes"/>
+      <point x="777.989" y="0"/>
+      <point x="840.326" y="62"/>
+      <point x="840.326" y="159.82" type="curve" smooth="yes"/>
+      <point x="840.326" y="263"/>
+      <point x="770.972" y="325"/>
+      <point x="661.463" y="325" type="curve" smooth="yes"/>
+      <point x="530" y="325" type="line"/>
+      <point x="530" y="255" type="line"/>
+      <point x="640.364" y="255" type="line" smooth="yes"/>
+      <point x="709.687" y="255"/>
+      <point x="745.855" y="223"/>
+      <point x="745.855" y="165.291" type="curve" smooth="yes"/>
+      <point x="745.855" y="106"/>
+      <point x="707.678" y="70"/>
+      <point x="646.393" y="70" type="curve" smooth="yes"/>
+      <point x="529.918" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni043D_uni044C</string>
+  </dict>
+  </lib>
+</glyph>

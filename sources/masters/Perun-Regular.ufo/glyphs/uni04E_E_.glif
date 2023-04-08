@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04EE" format="2">
+  <advance width="676"/>
+  <unicode hex="04EE"/>
+  <anchor x="338" y="996" name="top.mkmk"/>
+  <outline>
+    <component base="uni0423"/>
+    <component base="macron" xOffset="193" yOffset="222"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>796</integer>
+        <key>width</key>
+        <integer>69</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>afii10037+macron</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utildebelow" format="2">
+  <advance width="716"/>
+  <unicode hex="1E74"/>
+  <anchor x="358" y="797" name="top"/>
+  <anchor x="358" y="-50" name="bottom"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildebelowcomb" xOffset="618"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+tildebelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

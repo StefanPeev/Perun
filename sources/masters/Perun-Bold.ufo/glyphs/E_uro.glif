@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+  <advance width="572"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="513" y="666" type="line"/>
+      <point x="488" y="685"/>
+      <point x="429" y="707"/>
+      <point x="356.082" y="707" type="curve" smooth="yes"/>
+      <point x="145.563" y="707"/>
+      <point x="60" y="523.63"/>
+      <point x="60" y="347.896" type="curve" smooth="yes"/>
+      <point x="60" y="176.213"/>
+      <point x="141.664" y="-14"/>
+      <point x="361.303" y="-14" type="curve" smooth="yes"/>
+      <point x="436" y="-14"/>
+      <point x="491" y="8"/>
+      <point x="513" y="26" type="curve"/>
+      <point x="513" y="167" type="line"/>
+      <point x="484" y="140"/>
+      <point x="437" y="117"/>
+      <point x="379.739" y="117" type="curve" smooth="yes"/>
+      <point x="253.713" y="117"/>
+      <point x="210" y="228.412"/>
+      <point x="210" y="349.478" type="curve" smooth="yes"/>
+      <point x="210" y="471.434"/>
+      <point x="254.073" y="576"/>
+      <point x="378.425" y="576" type="curve" smooth="yes"/>
+      <point x="438" y="576"/>
+      <point x="486" y="552"/>
+      <point x="513" y="526" type="curve"/>
+    </contour>
+    <contour>
+      <point x="158" y="371" type="line"/>
+      <point x="449" y="371" type="line"/>
+      <point x="475" y="449" type="line"/>
+      <point x="158" y="449" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="237" type="line"/>
+      <point x="398" y="237" type="line"/>
+      <point x="425" y="315" type="line"/>
+      <point x="158" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="315" type="line"/>
+      <point x="19" y="315" type="line"/>
+      <point x="-8" y="237" type="line"/>
+      <point x="100" y="237" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="449" type="line"/>
+      <point x="19" y="449" type="line"/>
+      <point x="-8" y="371" type="line"/>
+      <point x="100" y="371" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="250.907" x="49" y="459"/>
+  <guideline angle="250.907" x="49" y="315"/>
+  <guideline angle="71.5651" x="449" y="381"/>
+</glyph>

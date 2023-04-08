@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+  <advance width="556"/>
+  <unicode hex="0076"/>
+  <anchor x="278" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="536" y="500" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="20" y="500" type="line"/>
+      <point x="125" y="500" type="line"/>
+      <point x="282.383" y="98.8289" type="line"/>
+      <point x="273.642" y="98.8192" type="line"/>
+      <point x="441" y="500" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="278" y="0"/>
+  <guideline angle="112.977" x="232" y="0"/>
+  <guideline angle="291.381" x="125" y="500"/>
+  <guideline angle="67.3903" x="274" y="99"/>
+  <guideline angle="247.023" x="536" y="500"/>
+  <guideline angle="0" x="0" y="21"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  </dict>
+  </lib>
+</glyph>

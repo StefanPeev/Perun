@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043F" format="2">
+  <advance width="571"/>
+  <unicode hex="043F"/>
+  <anchor x="285" y="21" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="100.051" y="0" type="line"/>
+      <point x="100.051" y="500" type="line"/>
+      <point x="470.415" y="500" type="line"/>
+      <point x="470.415" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="480" type="line"/>
+      <point x="120" y="480" type="line"/>
+      <point x="120" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>435</integer>
+        <key>width</key>
+        <integer>65</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>392</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043D</string>
+  </dict>
+  </lib>
+</glyph>

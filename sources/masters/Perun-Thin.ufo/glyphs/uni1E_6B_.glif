@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E6B" format="2">
+  <advance width="344"/>
+  <unicode hex="1E6B"/>
+  <anchor x="169" y="0" name="cedilla.bottom"/>
+  <anchor x="161" y="886" name="top.mkmk"/>
+  <outline>
+    <component base="t"/>
+    <component base="uni0307" xOffset="451" yOffset="111"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>436</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>696</integer>
+        <key>width</key>
+        <integer>100</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>130</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>t+uni0307</string>
+  </dict>
+  </lib>
+</glyph>

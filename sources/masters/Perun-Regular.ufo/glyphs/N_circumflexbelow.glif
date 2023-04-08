@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncircumflexbelow" format="2">
+  <advance width="683"/>
+  <unicode hex="1E4A"/>
+  <anchor x="345" y="797" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="circumflexbelowcomb" xOffset="625.594"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+circumflexbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

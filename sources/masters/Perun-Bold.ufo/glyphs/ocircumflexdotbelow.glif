@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexdotbelow" format="2">
+  <advance width="604"/>
+  <unicode hex="1ED9"/>
+  <anchor x="302" y="600" name="tonos.top"/>
+  <anchor x="302" y="820" name="top.mkmk"/>
+  <outline>
+    <component base="uni1ECD"/>
+    <component base="uni0302" xOffset="616"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1ECD+uni0302</string>
+  </dict>
+  </lib>
+</glyph>

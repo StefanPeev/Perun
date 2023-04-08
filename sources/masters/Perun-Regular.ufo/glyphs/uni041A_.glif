@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041A" format="2">
+  <advance width="635"/>
+  <unicode hex="041A"/>
+  <outline>
+    <component base="I" xOffset="-10"/>
+    <contour>
+      <point x="240" y="415" type="line"/>
+      <point x="478" y="722" type="line"/>
+      <point x="602" y="722" type="line"/>
+      <point x="346.57" y="402.46" type="line"/>
+      <point x="347.298" y="420.202" type="line"/>
+      <point x="391.876" y="420.235"/>
+      <point x="417.981" y="395.203"/>
+      <point x="439.177" y="357.302" type="curve" smooth="yes"/>
+      <point x="639" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="340.761" y="298.544" type="line" smooth="yes"/>
+      <point x="319.458" y="337.506"/>
+      <point x="294.486" y="350.977"/>
+      <point x="240" y="351.33" type="curve"/>
+    </contour>
+    <contour>
+      <point x="170" y="445" type="line"/>
+      <point x="298" y="445" type="line"/>
+      <point x="298" y="351" type="line"/>
+      <point x="170" y="351" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="45.8523" x="180" y="415"/>
+  <guideline angle="225.371" x="602" y="722"/>
+  <guideline angle="309.929" x="295" y="411"/>
+  <guideline angle="130.378" x="504" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni041D</string>
+  </dict>
+  </lib>
+</glyph>

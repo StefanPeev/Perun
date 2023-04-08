@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D1" format="2">
+  <advance width="566"/>
+  <unicode hex="04D1"/>
+  <anchor x="283" y="580" name="top"/>
+  <anchor x="452" y="10" name="ogonekLC"/>
+  <anchor x="283" y="-50" name="bottom"/>
+  <anchor x="285" y="712" name="top.mkmk"/>
+  <outline>
+    <component base="uni0430"/>
+    <contour>
+      <point x="165" y="722" type="line"/>
+      <point x="168.744" y="645.244"/>
+      <point x="207.989" y="603.993"/>
+      <point x="282.177" y="603.993" type="curve" smooth="yes"/>
+      <point x="354.678" y="603.993"/>
+      <point x="395.074" y="643.389"/>
+      <point x="401" y="722" type="curve"/>
+      <point x="423" y="722" type="line"/>
+      <point x="418" y="634"/>
+      <point x="368" y="584"/>
+      <point x="282.5" y="584" type="curve" smooth="yes"/>
+      <point x="197" y="584"/>
+      <point x="148" y="634"/>
+      <point x="143" y="722" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>249</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>447</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>574</integer>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>37</integer>
+        <key>width</key>
+        <integer>94</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>65</integer>
+        <key>width</key>
+        <integer>93</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>127</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>356</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>381</integer>
+        <key>width</key>
+        <integer>89</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0430+uni0306</string>
+  </dict>
+  </lib>
+</glyph>

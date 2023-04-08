@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0256" format="2">
+  <advance width="591"/>
+  <unicode hex="0256"/>
+  <outline>
+    <component base="d"/>
+    <contour>
+      <point x="411" y="134" type="line"/>
+      <point x="411" y="-60" type="line" smooth="yes"/>
+      <point x="411" y="-140.291"/>
+      <point x="493.413" y="-199"/>
+      <point x="602" y="-199" type="curve" smooth="yes"/>
+      <point x="659" y="-199"/>
+      <point x="705" y="-180"/>
+      <point x="740" y="-142" type="curve"/>
+      <point x="664.302" y="-66.1515" type="line"/>
+      <point x="653.132" y="-78.279"/>
+      <point x="637" y="-89"/>
+      <point x="608" y="-89" type="curve" smooth="yes"/>
+      <point x="574" y="-89"/>
+      <point x="546" y="-63"/>
+      <point x="546" y="-21" type="curve" smooth="yes"/>
+      <point x="546" y="134" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=d</string>
+  </dict>
+  </lib>
+</glyph>
