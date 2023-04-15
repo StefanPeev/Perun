@@ -3,12 +3,7 @@
   <advance width="539"/>
   <unicode hex="003F"/>
   <outline>
-    <contour>
-      <point x="290" y="-3" type="line"/>
-      <point x="170" y="-3" type="line"/>
-      <point x="170" y="109" type="line"/>
-      <point x="290" y="109" type="line"/>
-    </contour>
+    <component base="period" xOffset="123" yOffset="5.11591e-13"/>
     <contour>
       <point x="341" y="548" type="curve" smooth="yes"/>
       <point x="341" y="601"/>
@@ -24,22 +19,23 @@
       <point x="386" y="734"/>
       <point x="482" y="674"/>
       <point x="482" y="560" type="curve" smooth="yes"/>
-      <point x="482" y="447"/>
-      <point x="426" y="416"/>
-      <point x="373" y="388" type="curve" smooth="yes"/>
-      <point x="326" y="363"/>
-      <point x="282" y="340"/>
-      <point x="282" y="261" type="curve" smooth="yes"/>
-      <point x="282" y="181" type="line"/>
-      <point x="182" y="181" type="line"/>
-      <point x="182" y="276" type="line" smooth="yes"/>
-      <point x="182" y="356"/>
-      <point x="221" y="383"/>
-      <point x="261" y="411" type="curve" smooth="yes"/>
-      <point x="301" y="439"/>
-      <point x="341" y="467"/>
+      <point x="482" y="345.724"/>
+      <point x="300" y="428.323"/>
+      <point x="300" y="261" type="curve" smooth="yes"/>
+      <point x="300" y="211" type="line"/>
+      <point x="164" y="211" type="line"/>
+      <point x="164" y="276" type="line" smooth="yes"/>
+      <point x="164" y="435.974"/>
+      <point x="341" y="386.468"/>
     </contour>
   </outline>
+  <guideline angle="146.739" x="116" y="532"/>
+  <guideline angle="0" x="0" y="734"/>
+  <guideline angle="0" x="0" y="734"/>
+  <guideline angle="62.2161" x="23" y="593"/>
+  <guideline angle="60.6422" x="116" y="532"/>
+  <guideline angle="90" x="209" y="0"/>
+  <guideline angle="90" x="300" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

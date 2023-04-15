@@ -2,7 +2,6 @@
 <glyph name="uni1EAA" format="2">
   <advance width="760"/>
   <unicode hex="1EAA"/>
-  <anchor x="380" y="797" name="top"/>
   <anchor x="667" y="10" name="ogonekUC"/>
   <anchor x="380" y="-75" name="bottom"/>
   <anchor x="182" y="722" name="tonos"/>
@@ -53,6 +52,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>Acircumflex+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

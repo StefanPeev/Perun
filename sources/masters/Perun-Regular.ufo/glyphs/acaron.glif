@@ -2,7 +2,6 @@
 <glyph name="acaron" format="2">
   <advance width="566"/>
   <unicode hex="01CE"/>
-  <anchor x="283" y="580" name="top"/>
   <anchor x="432" y="10" name="ogonekLC"/>
   <anchor x="283" y="-50" name="bottom"/>
   <outline>
@@ -66,6 +65,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>a+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

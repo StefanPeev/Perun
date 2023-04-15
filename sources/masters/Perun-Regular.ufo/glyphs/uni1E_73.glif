@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E73" format="2">
-  <advance width="594"/>
+  <advance width="595"/>
   <unicode hex="1E73"/>
   <anchor x="297" y="580" name="top"/>
   <anchor x="297" y="-87" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="uni0324" xOffset="573.5"/>
+    <component base="uni0324" xOffset="574"/>
   </outline>
   <lib>
   <dict>
@@ -71,6 +71,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>u+uni0324</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

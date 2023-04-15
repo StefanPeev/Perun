@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="2">
-  <advance width="594"/>
+  <advance width="595"/>
   <unicode hex="016F"/>
-  <anchor x="287" y="830" name="top"/>
   <anchor x="297" y="-87" name="bottom"/>
+  <anchor x="287" y="830" name="top"/>
   <outline>
     <component base="u"/>
     <component base="uni030A" xOffset="587" yOffset="-20"/>
@@ -77,6 +77,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>u+uni030A</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

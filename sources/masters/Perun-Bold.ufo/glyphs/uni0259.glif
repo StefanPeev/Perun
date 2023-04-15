@@ -2,15 +2,24 @@
 <glyph name="uni0259" format="2">
   <advance width="550"/>
   <unicode hex="0259"/>
+  <anchor x="275" y="-100" name="top"/>
+  <anchor x="275" y="589" name="bottom"/>
+  <anchor x="275" y="500" name="cedilla.bottom"/>
   <outline>
-    <component base="uni0258" yScale="-1" yOffset="500"/>
+    <component base="uni01DD"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=e</string>
   <key>com.fontlab.metricsRight</key>
   <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni01DD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

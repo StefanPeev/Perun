@@ -2,7 +2,6 @@
 <glyph name="obreve" format="2">
   <advance width="620"/>
   <unicode hex="014F"/>
-  <anchor x="310" y="580" name="top"/>
   <anchor x="310" y="-75" name="bottom"/>
   <anchor x="310" y="580" name="tonos.top"/>
   <anchor x="312" y="712" name="top.mkmk"/>
@@ -65,6 +64,8 @@
       </dict>
     </array>
   </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

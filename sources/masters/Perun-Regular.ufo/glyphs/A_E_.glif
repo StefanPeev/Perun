@@ -4,7 +4,6 @@
   <unicode hex="00C6"/>
   <anchor x="380" y="797" name="top"/>
   <outline>
-    <component base="I" xOffset="87" yOffset="0.001"/>
     <contour>
       <point x="20" y="0" type="line"/>
       <point x="126" y="0" type="line"/>
@@ -17,6 +16,12 @@
       <point x="480" y="193" type="line"/>
       <point x="480" y="280" type="line"/>
       <point x="264" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="575" y="0.001" type="line"/>
+      <point x="575" y="722.001" type="line"/>
+      <point x="475" y="722.001" type="line"/>
+      <point x="475" y="0.001" type="line"/>
     </contour>
     <contour>
       <point x="564" y="0" type="line"/>

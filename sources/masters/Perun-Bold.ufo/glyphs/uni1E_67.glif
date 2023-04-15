@@ -2,12 +2,15 @@
 <glyph name="uni1E67" format="2">
   <advance width="516"/>
   <unicode hex="1E67"/>
+  <anchor x="248" y="0" name="cedilla.bottom"/>
   <outline>
     <component base="scaron"/>
-    <component base="uni0307" xOffset="550" yOffset="210"/>
+    <component base="uni0307" xOffset="550"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -73,6 +76,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>scaron+uni0307</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

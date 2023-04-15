@@ -3,15 +3,7 @@
   <advance width="700"/>
   <unicode hex="003E"/>
   <outline>
-    <contour>
-      <point x="50" y="39" type="line"/>
-      <point x="50" y="101" type="line"/>
-      <point x="586" y="300" type="line"/>
-      <point x="50" y="499" type="line"/>
-      <point x="50" y="561" type="line"/>
-      <point x="650" y="331" type="line"/>
-      <point x="650" y="269" type="line"/>
-    </contour>
+    <component base="less" xScale="-1" xOffset="700"/>
   </outline>
   <lib>
   <dict>
@@ -36,6 +28,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>less</string>
   </dict>
   </lib>
 </glyph>

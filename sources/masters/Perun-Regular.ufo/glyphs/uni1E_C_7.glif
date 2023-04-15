@@ -2,8 +2,6 @@
 <glyph name="uni1EC7" format="2">
   <advance width="576"/>
   <unicode hex="1EC7"/>
-  <anchor x="288" y="580" name="top"/>
-  <anchor x="288" y="-89" name="bottom"/>
   <anchor x="288" y="0" name="cedilla.bottom"/>
   <anchor x="292" y="770" name="top.mkmk"/>
   <outline>
@@ -67,6 +65,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>uni1EB9+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

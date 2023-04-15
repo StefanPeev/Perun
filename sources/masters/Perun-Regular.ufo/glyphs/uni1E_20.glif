@@ -2,7 +2,6 @@
 <glyph name="uni1E20" format="2">
   <advance width="735"/>
   <unicode hex="1E20"/>
-  <anchor x="358" y="797" name="top"/>
   <anchor x="359" y="971" name="top.mkmk"/>
   <outline>
     <component base="G"/>
@@ -59,6 +58,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>G+macron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,9 +2,7 @@
 <glyph name="uni1E16" format="2">
   <advance width="587"/>
   <unicode hex="1E16"/>
-  <anchor x="295" y="797" name="top"/>
   <anchor x="-20" y="722" name="tonos"/>
-  <anchor x="296" y="971" name="top.mkmk"/>
   <outline>
     <component base="Emacron"/>
     <component base="acutecomb" xOffset="626" yOffset="371"/>
@@ -54,6 +52,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>Emacron+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

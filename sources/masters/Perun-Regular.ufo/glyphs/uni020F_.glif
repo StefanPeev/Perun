@@ -2,7 +2,6 @@
 <glyph name="uni020F" format="2">
   <advance width="620"/>
   <unicode hex="020F"/>
-  <anchor x="310" y="580" name="top"/>
   <anchor x="310" y="-75" name="bottom"/>
   <anchor x="310" y="580" name="tonos.top"/>
   <outline>
@@ -66,6 +65,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>o+uni0311</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,11 +2,16 @@
 <glyph name="uni0259" format="2">
   <advance width="576"/>
   <unicode hex="0259"/>
+  <anchor x="288" y="-82" name="top"/>
+  <anchor x="288" y="587" name="bottom"/>
+  <anchor x="288" y="498" name="cedilla.bottom"/>
   <outline>
-    <component base="uni0258" yScale="-1" yOffset="498"/>
+    <component base="uni01DD"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -50,6 +55,10 @@
   <string>=e</string>
   <key>com.fontlab.metricsRight</key>
   <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni01DD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

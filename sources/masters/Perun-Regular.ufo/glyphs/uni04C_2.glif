@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04C2" format="2">
-  <advance width="828"/>
+  <advance width="804"/>
   <unicode hex="04C2"/>
-  <anchor x="414" y="732" name="top.mkmk"/>
+  <anchor x="402" y="732" name="top.mkmk"/>
   <outline>
     <component base="uni0436"/>
-    <component base="uni0306" xOffset="712"/>
+    <component base="uni0306" xOffset="700"/>
   </outline>
   <lib>
   <dict>
@@ -64,6 +64,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>uni0436+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

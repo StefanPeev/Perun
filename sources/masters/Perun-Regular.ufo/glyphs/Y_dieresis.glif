@@ -2,7 +2,6 @@
 <glyph name="Ydieresis" format="2">
   <advance width="676"/>
   <unicode hex="0178"/>
-  <anchor x="338" y="797" name="top"/>
   <anchor x="338" y="972" name="top.mkmk"/>
   <outline>
     <component base="Y"/>
@@ -59,6 +58,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>Y+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

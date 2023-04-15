@@ -2,7 +2,6 @@
 <glyph name="uni1EBD" format="2">
   <advance width="576"/>
   <unicode hex="1EBD"/>
-  <anchor x="288" y="580" name="top"/>
   <anchor x="288" y="-89" name="bottom"/>
   <anchor x="288" y="0" name="cedilla.bottom"/>
   <anchor x="284" y="760" name="top.mkmk"/>
@@ -67,6 +66,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>e+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

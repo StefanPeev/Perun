@@ -2,13 +2,12 @@
 <glyph name="uni1E4F" format="2">
   <advance width="620"/>
   <unicode hex="1E4F"/>
-  <anchor x="310" y="580" name="top"/>
   <anchor x="310" y="-75" name="bottom"/>
   <anchor x="310" y="580" name="tonos.top"/>
-  <anchor x="310" y="755" name="top.mkmk"/>
+  <anchor x="306" y="935" name="top.mkmk"/>
   <outline>
     <component base="otilde"/>
-    <component base="uni0308" xOffset="602" yOffset="-20"/>
+    <component base="uni0308" xOffset="598" yOffset="160"/>
   </outline>
   <lib>
   <dict>

@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="2">
-  <advance width="1000"/>
+  <advance width="720"/>
   <unicode hex="003E"/>
   <outline>
-    <contour>
-      <point x="200" y="-21" type="line"/>
-      <point x="200" y="101" type="line"/>
-      <point x="736" y="300" type="line"/>
-      <point x="200" y="499" type="line"/>
-      <point x="200" y="621" type="line"/>
-      <point x="860" y="391" type="line"/>
-      <point x="860" y="209" type="line"/>
-    </contour>
+    <component base="less" xScale="-1" xOffset="720"/>
   </outline>
   <lib>
   <dict>
@@ -33,6 +25,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>less</string>
   </dict>
   </lib>
 </glyph>

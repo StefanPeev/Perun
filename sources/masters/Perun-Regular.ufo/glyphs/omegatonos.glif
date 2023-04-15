@@ -2,7 +2,6 @@
 <glyph name="omegatonos" format="2">
   <advance width="719"/>
   <unicode hex="03CE"/>
-  <anchor x="350" y="600" name="tonos.top"/>
   <outline>
     <component base="omega"/>
     <component base="tonos" xOffset="334" yOffset="88"/>
@@ -52,6 +51,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>omega+tonos</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

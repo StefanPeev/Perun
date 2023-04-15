@@ -2,7 +2,6 @@
 <glyph name="uni1EC6" format="2">
   <advance width="587"/>
   <unicode hex="1EC6"/>
-  <anchor x="295" y="797" name="top"/>
   <anchor x="-20" y="722" name="tonos"/>
   <anchor x="299" y="987" name="top.mkmk"/>
   <outline>
@@ -60,6 +59,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>uni1EB8+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

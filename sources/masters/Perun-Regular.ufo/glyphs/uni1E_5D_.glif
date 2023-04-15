@@ -2,7 +2,6 @@
 <glyph name="uni1E5D" format="2">
   <advance width="372"/>
   <unicode hex="1E5D"/>
-  <anchor x="204" y="580" name="top"/>
   <anchor x="205" y="754" name="top.mkmk"/>
   <outline>
     <component base="uni1E5B"/>
@@ -53,6 +52,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>uni1E5B+macron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

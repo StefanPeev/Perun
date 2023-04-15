@@ -2,7 +2,6 @@
 <glyph name="uni01DF" format="2">
   <advance width="566"/>
   <unicode hex="01DF"/>
-  <anchor x="283" y="580" name="top"/>
   <anchor x="432" y="10" name="ogonekLC"/>
   <anchor x="283" y="-50" name="bottom"/>
   <anchor x="184" y="925" name="top.mkmk"/>
@@ -91,6 +90,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>adieresis+macroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

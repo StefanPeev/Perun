@@ -2,7 +2,6 @@
 <glyph name="uni01ED" format="2">
   <advance width="620"/>
   <unicode hex="01ED"/>
-  <anchor x="310" y="580" name="top"/>
   <anchor x="310" y="-75" name="bottom"/>
   <anchor x="310" y="580" name="tonos.top"/>
   <anchor x="208" y="750" name="top.mkmk"/>
@@ -68,6 +67,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>o+ogonek+macroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

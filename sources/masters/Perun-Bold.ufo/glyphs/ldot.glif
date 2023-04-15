@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="2">
-  <advance width="547"/>
+  <advance width="461"/>
   <unicode hex="0140"/>
+  <anchor x="128" y="797" name="top"/>
+  <anchor x="190" y="722" name="lcaron"/>
   <outline>
-    <contour>
-      <point x="469" y="276" type="line"/>
-      <point x="343" y="276" type="line"/>
-      <point x="343" y="408" type="line"/>
-      <point x="469" y="408" type="line"/>
-    </contour>
-    <contour>
-      <point x="200" y="0" type="line"/>
-      <point x="65" y="0" type="line"/>
-      <point x="65" y="722" type="line"/>
-      <point x="200" y="722" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="periodcentered" xOffset="255"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -57,6 +51,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>l_periodcentered</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

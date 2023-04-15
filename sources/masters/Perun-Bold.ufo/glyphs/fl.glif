@@ -1,43 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="2">
-  <advance width="625"/>
+  <advance width="609"/>
   <unicode hex="FB02"/>
+  <anchor x="482" y="797" name="top"/>
+  <anchor x="185" y="-75" name="bottom"/>
+  <anchor x="544" y="722" name="lcaron"/>
   <outline>
-    <contour>
-      <point x="95" y="0" type="line"/>
-      <point x="95" y="415" type="line"/>
-      <point x="5" y="415" type="line"/>
-      <point x="5" y="500" type="line"/>
-      <point x="95" y="500" type="line"/>
-      <point x="95" y="575" type="line" smooth="yes"/>
-      <point x="95" y="689"/>
-      <point x="142" y="735"/>
-      <point x="251" y="735" type="curve" smooth="yes"/>
-      <point x="282" y="735"/>
-      <point x="315" y="729"/>
-      <point x="350" y="717" type="curve"/>
-      <point x="350" y="632" type="line"/>
-      <point x="332" y="642"/>
-      <point x="313" y="646"/>
-      <point x="294" y="646" type="curve" smooth="yes"/>
-      <point x="243" y="646"/>
-      <point x="230" y="623"/>
-      <point x="230" y="572" type="curve" smooth="yes"/>
-      <point x="230" y="500" type="line"/>
-      <point x="336" y="500" type="line"/>
-      <point x="336" y="415" type="line"/>
-      <point x="230" y="415" type="line"/>
-      <point x="230" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="426" y="0" type="line"/>
-      <point x="426" y="722" type="line"/>
-      <point x="561" y="722" type="line"/>
-      <point x="561" y="0" type="line"/>
-    </contour>
+    <component base="f"/>
+    <component base="l" xOffset="354"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -83,6 +58,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>f_l</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

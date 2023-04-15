@@ -2,7 +2,6 @@
 <glyph name="uni1E3F" format="2">
   <advance width="910"/>
   <unicode hex="1E3F"/>
-  <anchor x="464" y="580" name="top"/>
   <outline>
     <component base="m"/>
     <component base="acutecomb" xOffset="794" yOffset="-20"/>
@@ -58,6 +57,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>m+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

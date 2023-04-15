@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E66" format="2">
-  <advance width="642"/>
+  <advance width="640"/>
   <unicode hex="1E66"/>
-  <anchor x="305" y="797" name="top"/>
-  <anchor x="303" y="972" name="top.mkmk"/>
+  <anchor x="320" y="997" name="top.mkmk"/>
   <outline>
     <component base="Scaron"/>
-    <component base="uni0307" xOffset="595" yOffset="387"/>
+    <component base="uni0307" xOffset="612" yOffset="222"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -75,6 +76,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>Scaron+uni0307</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>
