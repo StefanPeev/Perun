@@ -2,9 +2,6 @@
 <glyph name="f_f_l" format="2">
   <advance width="940"/>
   <unicode hex="FB04"/>
-  <anchor x="815" y="762" name="top"/>
-  <anchor x="530" y="-75" name="bottom"/>
-  <anchor x="880" y="722" name="lcaron"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="345"/>
@@ -12,8 +9,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

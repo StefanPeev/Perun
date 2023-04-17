@@ -3,39 +3,13 @@
   <advance width="1000"/>
   <unicode hex="00F7"/>
   <outline>
+    <component base="period" xOffset="392" yOffset="38.6536"/>
+    <component base="period" xOffset="392" yOffset="420.527"/>
     <contour>
-      <point x="500" y="521" type="curve" smooth="yes"/>
-      <point x="532" y="521"/>
-      <point x="560" y="494"/>
-      <point x="560" y="461" type="curve" smooth="yes"/>
-      <point x="560" y="428"/>
-      <point x="533" y="401"/>
-      <point x="500" y="401" type="curve" smooth="yes"/>
-      <point x="467" y="401"/>
-      <point x="440" y="428"/>
-      <point x="440" y="461" type="curve" smooth="yes"/>
-      <point x="440" y="494"/>
-      <point x="468" y="521"/>
-    </contour>
-    <contour>
-      <point x="800" y="269" type="line"/>
-      <point x="200" y="269" type="line"/>
-      <point x="200" y="331" type="line"/>
-      <point x="800" y="331" type="line"/>
-    </contour>
-    <contour>
-      <point x="500" y="199" type="curve" smooth="yes"/>
-      <point x="533" y="199"/>
-      <point x="560" y="172"/>
-      <point x="560" y="139" type="curve" smooth="yes"/>
-      <point x="560" y="107"/>
-      <point x="532" y="80"/>
-      <point x="500" y="80" type="curve" smooth="yes"/>
-      <point x="468" y="80"/>
-      <point x="440" y="106"/>
-      <point x="440" y="139" type="curve" smooth="yes"/>
-      <point x="440" y="172"/>
-      <point x="467" y="199"/>
+      <point x="800" y="250" type="line"/>
+      <point x="200" y="250" type="line"/>
+      <point x="200" y="350" type="line"/>
+      <point x="800" y="350" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -73,8 +47,6 @@
       </dict>
     </array>
   </dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

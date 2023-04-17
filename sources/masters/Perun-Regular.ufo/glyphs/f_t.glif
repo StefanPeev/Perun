@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_t" format="2">
   <advance width="689"/>
-  <anchor x="506" y="711" name="top"/>
-  <anchor x="185" y="-75" name="bottom"/>
-  <anchor x="514" y="10" name="cedilla.bottom"/>
   <outline>
     <component base="f"/>
     <component base="t" xOffset="345"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

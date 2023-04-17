@@ -22,7 +22,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>248</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -170,7 +170,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.058</string>
+  <string>Version 1.059</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -263,12 +263,12 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <integer>-0</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-14</integer>
+    <integer>-10</integer>
     <integer>0</integer>
     <integer>500</integer>
-    <integer>513</integer>
-    <integer>500</integer>
-    <integer>513</integer>
+    <integer>510</integer>
+    <integer>722</integer>
+    <integer>732</integer>
   </array>
   <key>postscriptFontName</key>
   <string>Perun-Thin</string>
@@ -280,20 +280,19 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <false/>
   <key>postscriptOtherBlues</key>
   <array>
-    <integer>-198</integer>
-    <integer>-198</integer>
+    <integer>-200</integer>
+    <integer>-200</integer>
   </array>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>22</integer>
     <integer>20</integer>
-    <integer>88</integer>
+    <integer>18</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
     <integer>22</integer>
     <integer>20</integer>
-    <integer>100</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-261</integer>
@@ -314,7 +313,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>58</integer>
+  <integer>59</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

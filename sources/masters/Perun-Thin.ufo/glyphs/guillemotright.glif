@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="2">
-  <advance width="557"/>
+  <advance width="512"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="289" y="252" type="line"/>
-      <point x="152" y="57" type="line"/>
-      <point x="74" y="57" type="line"/>
-      <point x="193" y="252" type="line"/>
-      <point x="74" y="447" type="line"/>
-      <point x="152" y="447" type="line"/>
+      <point x="274.701" y="57" type="line"/>
+      <point x="294.701" y="57" type="line"/>
+      <point x="431.701" y="252" type="line"/>
+      <point x="294.701" y="447" type="line"/>
+      <point x="274.701" y="447" type="line"/>
+      <point x="400.99" y="241.78" type="line"/>
+      <point x="400.99" y="262.22" type="line"/>
     </contour>
     <contour>
-      <point x="484" y="252" type="line"/>
-      <point x="347" y="57" type="line"/>
-      <point x="269" y="57" type="line"/>
-      <point x="388" y="252" type="line"/>
-      <point x="269" y="447" type="line"/>
-      <point x="347" y="447" type="line"/>
+      <point x="80" y="57" type="line"/>
+      <point x="100" y="57" type="line"/>
+      <point x="237" y="252" type="line"/>
+      <point x="100" y="447" type="line"/>
+      <point x="80" y="447" type="line"/>
+      <point x="206.289" y="241.78" type="line"/>
+      <point x="206.289" y="262.22" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +45,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=guillemotleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=guillemotleft</string>
   </dict>
   </lib>
 </glyph>

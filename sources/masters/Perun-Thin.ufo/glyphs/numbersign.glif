@@ -4,42 +4,36 @@
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="286" y="308" type="line"/>
-      <point x="418" y="308" type="line"/>
-      <point x="460" y="444" type="line"/>
-      <point x="329" y="444" type="line"/>
+      <point x="140.269" y="0" type="line"/>
+      <point x="161.163" y="0" type="line"/>
+      <point x="381.163" y="722" type="line"/>
+      <point x="360.269" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="120" y="0" type="line"/>
-      <point x="192" y="239" type="line"/>
-      <point x="50" y="239" type="line"/>
-      <point x="71" y="308" type="line"/>
-      <point x="213" y="308" type="line"/>
-      <point x="255" y="444" type="line"/>
-      <point x="114" y="444" type="line"/>
+      <point x="323.397" y="0" type="line"/>
+      <point x="344.292" y="0" type="line"/>
+      <point x="564.292" y="722" type="line"/>
+      <point x="543.397" y="722" type="line"/>
+    </contour>
+    <contour>
       <point x="135" y="513" type="line"/>
-      <point x="276" y="513" type="line"/>
-      <point x="340" y="722" type="line"/>
-      <point x="415" y="722" type="line"/>
-      <point x="350" y="513" type="line"/>
-      <point x="481" y="513" type="line"/>
-      <point x="545" y="722" type="line"/>
-      <point x="619" y="722" type="line"/>
-      <point x="555" y="513" type="line"/>
+      <point x="128.913" y="493" type="line"/>
+      <point x="689.898" y="493" type="line"/>
       <point x="696" y="513" type="line"/>
-      <point x="675" y="444" type="line"/>
-      <point x="533" y="444" type="line"/>
-      <point x="491" y="308" type="line"/>
-      <point x="632" y="308" type="line"/>
-      <point x="611" y="239" type="line"/>
-      <point x="470" y="239" type="line"/>
-      <point x="399" y="0" type="line"/>
-      <point x="325" y="0" type="line"/>
-      <point x="396" y="239" type="line"/>
-      <point x="266" y="239" type="line"/>
-      <point x="194" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="64.3079" y="287.744" type="line"/>
+      <point x="58.221" y="267.744" type="line"/>
+      <point x="619.206" y="267.744" type="line"/>
+      <point x="625.308" y="287.744" type="line"/>
     </contour>
   </outline>
+  <guideline angle="253.054" x="545" y="722"/>
+  <guideline angle="73.0535" x="399" y="0"/>
+  <guideline angle="253.072" x="135" y="513"/>
+  <guideline angle="73.0725" x="675" y="444"/>
+  <guideline angle="0" x="0" y="513"/>
+  <guideline angle="0" x="0" y="493"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

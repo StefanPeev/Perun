@@ -2,16 +2,12 @@
 <glyph name="f_f" format="2">
   <advance width="690"/>
   <unicode hex="FB00"/>
-  <anchor x="538" y="757" name="top"/>
-  <anchor x="482" y="-75" name="bottom"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="345"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

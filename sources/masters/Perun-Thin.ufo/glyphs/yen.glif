@@ -4,31 +4,49 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="556" y="722" type="line"/>
-      <point x="447" y="508" type="line"/>
-      <point x="546" y="508" type="line"/>
-      <point x="546" y="457" type="line"/>
-      <point x="422" y="457" type="line"/>
-      <point x="364" y="338" type="line"/>
-      <point x="546" y="338" type="line"/>
-      <point x="546" y="287" type="line"/>
-      <point x="331" y="287" type="line"/>
-      <point x="331" y="0" type="line"/>
-      <point x="229" y="0" type="line"/>
-      <point x="229" y="287" type="line"/>
+      <point x="515" y="722" type="line"/>
+      <point x="493.185" y="722" type="line"/>
+      <point x="276.859" y="294.367" type="line"/>
+      <point x="284.813" y="294.367" type="line"/>
+      <point x="67" y="722" type="line"/>
+      <point x="45" y="722" type="line"/>
+      <point x="264.766" y="287" type="line"/>
+      <point x="270" y="287" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="287" type="line"/>
+      <point x="293.5" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="269.125" y="307" type="line"/>
+      <point x="14" y="307" type="line"/>
       <point x="14" y="287" type="line"/>
-      <point x="14" y="338" type="line"/>
-      <point x="198" y="338" type="line"/>
-      <point x="140" y="457" type="line"/>
-      <point x="14" y="457" type="line"/>
-      <point x="14" y="508" type="line"/>
-      <point x="115" y="508" type="line"/>
-      <point x="4" y="722" type="line"/>
-      <point x="109" y="722" type="line"/>
-      <point x="281" y="365" type="line"/>
-      <point x="451" y="722" type="line"/>
+      <point x="280" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="279.737" y="287" type="line"/>
+      <point x="546" y="287" type="line"/>
+      <point x="546" y="307" type="line"/>
+      <point x="290" y="307" type="line"/>
+    </contour>
+    <contour>
+      <point x="172.578" y="492.5" type="line"/>
+      <point x="14" y="492.5" type="line"/>
+      <point x="14" y="472.5" type="line"/>
+      <point x="183.283" y="472.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="377.319" y="472.5" type="line"/>
+      <point x="546" y="472.5" type="line"/>
+      <point x="546" y="492.5" type="line"/>
+      <point x="387.204" y="492.5" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="280" y="0"/>
+  <guideline angle="90" x="270" y="0"/>
+  <guideline angle="90" x="290" y="0"/>
+  <guideline angle="116.937" x="254" y="354"/>
+  <guideline angle="243.186" x="493" y="722"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

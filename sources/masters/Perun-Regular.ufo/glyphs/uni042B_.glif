@@ -2,16 +2,13 @@
 <glyph name="uni042B" format="2">
   <advance width="842"/>
   <unicode hex="042B"/>
-  <anchor x="716" y="797" name="top"/>
-  <anchor x="584" y="722" name="tonos"/>
+  <anchor x="454" y="722" name="top"/>
   <outline>
     <component base="uni042C"/>
     <component base="I" xOffset="592"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

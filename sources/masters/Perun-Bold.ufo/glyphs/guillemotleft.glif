@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="2">
-  <advance width="603"/>
+  <advance width="538"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="551" y="57" type="line"/>
-      <point x="421" y="57" type="line"/>
-      <point x="311" y="252" type="line"/>
-      <point x="421" y="447" type="line"/>
-      <point x="551" y="447" type="line"/>
-      <point x="461" y="252" type="line"/>
+      <point x="280" y="57" type="line"/>
+      <point x="150" y="57" type="line"/>
+      <point x="40" y="252" type="line"/>
+      <point x="150" y="447" type="line"/>
+      <point x="280" y="447" type="line"/>
+      <point x="184.971" y="241.104" type="line"/>
+      <point x="184.971" y="262.896" type="line"/>
     </contour>
     <contour>
-      <point x="293" y="57" type="line"/>
-      <point x="163" y="57" type="line"/>
-      <point x="53" y="252" type="line"/>
-      <point x="163" y="447" type="line"/>
-      <point x="293" y="447" type="line"/>
-      <point x="203" y="252" type="line"/>
+      <point x="498" y="57" type="line"/>
+      <point x="368" y="57" type="line"/>
+      <point x="258" y="252" type="line"/>
+      <point x="368" y="447" type="line"/>
+      <point x="498" y="447" type="line"/>
+      <point x="402.971" y="241.104" type="line"/>
+      <point x="402.971" y="262.896" type="line"/>
     </contour>
   </outline>
+  <guideline angle="294.758" x="443" y="263"/>
+  <guideline angle="245.242" x="538" y="447"/>
+  <guideline angle="60.5725" x="298" y="252"/>
+  <guideline angle="119.427" x="408" y="57"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -40,6 +46,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
   </dict>
   </lib>
 </glyph>

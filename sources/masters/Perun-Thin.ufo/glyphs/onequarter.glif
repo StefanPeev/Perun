@@ -4,31 +4,24 @@
   <unicode hex="00BC"/>
   <outline>
     <component base="onesuperior"/>
+    <component base="fraction" xOffset="70"/>
     <contour>
-      <point x="613" y="736" type="line"/>
-      <point x="187" y="-14" type="line"/>
-      <point x="118" y="-14" type="line"/>
-      <point x="544" y="736" type="line"/>
-    </contour>
-    <contour>
-      <point x="744" y="95" type="line"/>
-      <point x="663" y="95" type="line"/>
-      <point x="663" y="0" type="line"/>
-      <point x="599" y="0" type="line"/>
-      <point x="599" y="95" type="line"/>
-      <point x="419" y="95" type="line"/>
-      <point x="419" y="147.981" type="line"/>
-      <point x="593" y="390" type="line"/>
-      <point x="663" y="390" type="line"/>
-      <point x="663" y="149" type="line"/>
-      <point x="744" y="149" type="line"/>
-    </contour>
-    <contour>
-      <point x="599" y="149" type="line"/>
-      <point x="599" y="314" type="line"/>
-      <point x="478" y="149" type="line"/>
+      <point x="453.72" y="122.172" type="line"/>
+      <point x="626.833" y="362.141" type="line"/>
+      <point x="621" y="372.874" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="641" y="0" type="line"/>
+      <point x="641" y="390" type="line"/>
+      <point x="623.572" y="390" type="line"/>
+      <point x="439" y="133.347" type="line"/>
+      <point x="439" y="113" type="line"/>
+      <point x="724" y="113" type="line"/>
+      <point x="724" y="131" type="line"/>
+      <point x="455.085" y="131" type="line"/>
     </contour>
   </outline>
+  <guideline angle="53.8807" x="471" y="139"/>
+  <guideline angle="234.284" x="593" y="390"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

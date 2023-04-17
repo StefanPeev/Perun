@@ -5,12 +5,7 @@
   <outline>
     <component base="onesuperior"/>
     <component base="twosuperior" xOffset="425" yOffset="-351.145"/>
-    <contour>
-      <point x="613" y="736" type="line"/>
-      <point x="187" y="-14" type="line"/>
-      <point x="118" y="-14" type="line"/>
-      <point x="544" y="736" type="line"/>
-    </contour>
+    <component base="fraction" xOffset="85" yOffset="1.13687e-13"/>
   </outline>
   <lib>
   <dict>
