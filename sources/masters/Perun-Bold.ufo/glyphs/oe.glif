@@ -1,66 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="2">
-  <advance width="906"/>
+  <advance width="931"/>
   <unicode hex="0153"/>
   <outline>
-    <contour>
-      <point x="44" y="252.308" type="curve" smooth="yes"/>
-      <point x="44" y="404.641"/>
-      <point x="150.32" y="515"/>
-      <point x="300.117" y="515" type="curve" smooth="yes"/>
-      <point x="367" y="515"/>
-      <point x="418.305" y="493"/>
-      <point x="464.831" y="449" type="curve"/>
-      <point x="506.186" y="492"/>
-      <point x="566" y="514.332"/>
-      <point x="639.92" y="514.332" type="curve" smooth="yes"/>
-      <point x="782.176" y="514.332"/>
-      <point x="871.432" y="429.93"/>
-      <point x="863.485" y="273.037" type="curve" smooth="yes"/>
-      <point x="861" y="224" type="line"/>
-      <point x="533" y="224" type="line"/>
-      <point x="533" y="123"/>
-      <point x="567.995" y="71"/>
-      <point x="634.174" y="71" type="curve" smooth="yes"/>
-      <point x="689.998" y="71"/>
-      <point x="719" y="108"/>
-      <point x="725" y="157" type="curve"/>
-      <point x="861" y="157" type="line"/>
-      <point x="849" y="44"/>
-      <point x="773" y="-12"/>
-      <point x="638.416" y="-12" type="curve" smooth="yes"/>
-      <point x="556" y="-12"/>
-      <point x="496.881" y="9"/>
-      <point x="458.627" y="50" type="curve"/>
-      <point x="414.17" y="9"/>
-      <point x="365" y="-12"/>
-      <point x="299.603" y="-12" type="curve" smooth="yes"/>
-      <point x="146.967" y="-12"/>
-      <point x="44" y="102.395"/>
-    </contour>
-    <contour>
-      <point x="179" y="252" type="curve" smooth="yes"/>
-      <point x="179" y="154"/>
-      <point x="211" y="74"/>
-      <point x="299.23" y="74" type="curve" smooth="yes"/>
-      <point x="375" y="74"/>
-      <point x="412" y="133"/>
-      <point x="412" y="252" type="curve" smooth="yes"/>
-      <point x="412" y="371"/>
-      <point x="375" y="430"/>
-      <point x="299.23" y="430" type="curve" smooth="yes"/>
-      <point x="211" y="430"/>
-      <point x="179" y="350"/>
-    </contour>
-    <contour>
-      <point x="531" y="310" type="curve"/>
-      <point x="724" y="310" type="line"/>
-      <point x="724" y="391"/>
-      <point x="693" y="431"/>
-      <point x="633.408" y="431" type="curve" smooth="yes"/>
-      <point x="561.904" y="431"/>
-      <point x="531" y="373.409"/>
-    </contour>
+    <component base="o"/>
+    <component base="e" xOffset="380" yOffset="1.13687e-13"/>
   </outline>
   <lib>
   <dict>
@@ -115,6 +59,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
   </dict>
   </lib>
 </glyph>

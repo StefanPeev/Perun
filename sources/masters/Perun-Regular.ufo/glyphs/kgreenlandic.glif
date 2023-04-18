@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="509"/>
+  <advance width="489"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="489" y="0" type="line"/>
-      <point x="370" y="0" type="line"/>
-      <point x="170" y="267" type="line"/>
       <point x="170" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="470" type="line"/>
       <point x="170" y="500" type="line"/>
-      <point x="170" y="292" type="line"/>
-      <point x="360" y="500" type="line"/>
-      <point x="473" y="500" type="line"/>
-      <point x="273" y="282" type="line"/>
+      <point x="80" y="470" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="0" type="line"/>
+      <point x="245.703" y="291.527" type="line"/>
+      <point x="244.888" y="273.158" type="line"/>
+      <point x="453" y="500" type="line"/>
+      <point x="340" y="500" type="line"/>
+      <point x="139.711" y="280.736" type="line"/>
+      <point x="350" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="198.435" x="170" y="500"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

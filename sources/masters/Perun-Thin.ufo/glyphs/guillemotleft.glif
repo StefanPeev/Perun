@@ -3,24 +3,8 @@
   <advance width="512"/>
   <unicode hex="00AB"/>
   <outline>
-    <contour>
-      <point x="237" y="57" type="line"/>
-      <point x="217" y="57" type="line"/>
-      <point x="80" y="252" type="line"/>
-      <point x="217" y="447" type="line"/>
-      <point x="237" y="447" type="line"/>
-      <point x="110.711" y="241.78" type="line"/>
-      <point x="110.711" y="262.22" type="line"/>
-    </contour>
-    <contour>
-      <point x="431.701" y="57" type="line"/>
-      <point x="411.701" y="57" type="line"/>
-      <point x="274.701" y="252" type="line"/>
-      <point x="411.701" y="447" type="line"/>
-      <point x="431.701" y="447" type="line"/>
-      <point x="305.411" y="241.78" type="line"/>
-      <point x="305.411" y="262.22" type="line"/>
-    </contour>
+    <component base="guilsinglleft"/>
+    <component base="guilsinglleft" xOffset="194.701"/>
   </outline>
   <guideline angle="301.576" x="169" y="262"/>
   <guideline angle="54.9095" x="100" y="252"/>

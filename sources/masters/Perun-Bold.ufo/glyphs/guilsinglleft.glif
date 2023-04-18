@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="369"/>
+  <advance width="320"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="305" y="57" type="line"/>
-      <point x="175" y="57" type="line"/>
-      <point x="65" y="252" type="line"/>
-      <point x="175" y="447" type="line"/>
-      <point x="305" y="447" type="line"/>
-      <point x="215" y="252" type="line"/>
+      <point x="280" y="57" type="line"/>
+      <point x="150" y="57" type="line"/>
+      <point x="40" y="252" type="line"/>
+      <point x="150" y="447" type="line"/>
+      <point x="280" y="447" type="line"/>
+      <point x="184.971" y="241.104" type="line"/>
+      <point x="184.971" y="262.896" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +33,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=guillemotleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=guillemotleft</string>
   </dict>
   </lib>
 </glyph>

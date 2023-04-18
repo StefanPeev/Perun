@@ -15,11 +15,12 @@
       <point x="454.617" y="627"/>
       <point x="206.126" y="736" type="curve"/>
       <point x="140.658" y="688.909" type="line"/>
-      <point x="226.984" y="651.037"/>
-      <point x="323.841" y="574.126"/>
-      <point x="363.761" y="504" type="curve"/>
-      <point x="343.94" y="508.703"/>
-      <point x="323.841" y="512"/>
+      <point x="230.51" y="649.49"/>
+      <point x="331.77" y="567.779"/>
+      <point x="368.363" y="495.445" type="curve"/>
+      <point x="374.28" y="501.386" type="line"/>
+      <point x="350.816" y="507.435"/>
+      <point x="328.674" y="512"/>
       <point x="296.49" y="512" type="curve" smooth="yes"/>
       <point x="137" y="512"/>
       <point x="44" y="408"/>
@@ -45,6 +46,11 @@
       <point x="506.382" y="751" type="line"/>
     </contour>
   </outline>
+  <guideline angle="215.87" x="206" y="736"/>
+  <guideline angle="204.766" x="506" y="751"/>
+  <guideline angle="204.766" x="506" y="751"/>
+  <guideline angle="295.253" x="105" y="566"/>
+  <guideline angle="113.575" x="530" y="696"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
