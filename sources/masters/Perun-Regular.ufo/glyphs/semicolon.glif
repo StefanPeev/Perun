@@ -3,8 +3,18 @@
   <advance width="275"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="period" xOffset="38" yOffset="377"/>
-    <component base="comma" xOffset="-14.1071"/>
+    <contour>
+      <point x="33.8929" y="-127" type="line"/>
+      <point x="103.893" y="-127" type="line"/>
+      <point x="213.893" y="123" type="line"/>
+      <point x="93.8929" y="123" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="377" type="line"/>
+      <point x="206" y="377" type="line"/>
+      <point x="206" y="500" type="line"/>
+      <point x="98" y="500" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="98" y="0"/>
   <guideline angle="90" x="206" y="0"/>

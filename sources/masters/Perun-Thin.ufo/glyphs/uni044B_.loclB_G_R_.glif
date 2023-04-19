@@ -3,7 +3,12 @@
   <advance width="770"/>
   <outline>
     <component base="uni044C.loclBGR"/>
-    <component base="dotlessi" xOffset="550"/>
+    <contour>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="500" type="line"/>
+      <point x="650" y="500" type="line"/>
+      <point x="650" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

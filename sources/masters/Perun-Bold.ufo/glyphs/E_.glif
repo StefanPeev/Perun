@@ -7,22 +7,22 @@
   <outline>
     <component base="I" xOffset="-10"/>
     <contour>
-      <point x="210" y="722" type="line"/>
-      <point x="537" y="722" type="line"/>
-      <point x="537" y="607" type="line"/>
-      <point x="210" y="607" type="line"/>
-    </contour>
-    <contour>
       <point x="210" y="115" type="line"/>
-      <point x="547" y="115" type="line"/>
-      <point x="547" y="0" type="line"/>
       <point x="210" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="547" y="115" type="line"/>
     </contour>
     <contour>
       <point x="210" y="429" type="line"/>
-      <point x="517" y="429" type="line"/>
-      <point x="517" y="317" type="line"/>
       <point x="210" y="317" type="line"/>
+      <point x="517" y="317" type="line"/>
+      <point x="517" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="722" type="line"/>
+      <point x="210" y="607" type="line"/>
+      <point x="537" y="607" type="line"/>
+      <point x="537" y="722" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="440" y="0"/>

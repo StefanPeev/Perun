@@ -5,6 +5,22 @@
   <outline>
     <component base="E" xOffset="465.027" yOffset="-1"/>
     <contour>
+      <point x="100" y="361" type="curve" smooth="yes"/>
+      <point x="100" y="143"/>
+      <point x="180" y="-10"/>
+      <point x="398" y="-10" type="curve"/>
+      <point x="398" y="9.53642" type="line"/>
+      <point x="198" y="9.53642"/>
+      <point x="122" y="161"/>
+      <point x="122" y="361" type="curve" smooth="yes"/>
+      <point x="122" y="561"/>
+      <point x="198" y="712"/>
+      <point x="398" y="712" type="curve"/>
+      <point x="398" y="732" type="line"/>
+      <point x="180" y="732"/>
+      <point x="100" y="579"/>
+    </contour>
+    <contour>
       <point x="398" y="712" type="line"/>
       <point x="454.981" y="712"/>
       <point x="503.659" y="708.538"/>
@@ -23,22 +39,6 @@
       <point x="505.575" y="13.1756"/>
       <point x="469" y="10"/>
       <point x="398" y="10" type="curve"/>
-    </contour>
-    <contour>
-      <point x="100" y="361" type="curve" smooth="yes"/>
-      <point x="100" y="143"/>
-      <point x="180" y="-10"/>
-      <point x="398" y="-10" type="curve"/>
-      <point x="398" y="9.53642" type="line"/>
-      <point x="198" y="9.53642"/>
-      <point x="122" y="161"/>
-      <point x="122" y="361" type="curve" smooth="yes"/>
-      <point x="122" y="561"/>
-      <point x="198" y="712"/>
-      <point x="398" y="712" type="curve"/>
-      <point x="398" y="732" type="line"/>
-      <point x="180" y="732"/>
-      <point x="100" y="579"/>
     </contour>
   </outline>
   <lib>

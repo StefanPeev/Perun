@@ -2,8 +2,6 @@
 <glyph name="f_f_i" format="2">
   <advance width="828"/>
   <unicode hex="FB03"/>
-  <anchor x="190" y="757" name="top"/>
-  <anchor x="171" y="-75" name="bottom"/>
   <outline>
     <component base="fi" xOffset="290"/>
     <contour>
@@ -26,15 +24,15 @@
     </contour>
     <contour>
       <point x="185" y="435" type="line"/>
-      <point x="320" y="435" type="line"/>
-      <point x="320" y="500" type="line"/>
       <point x="185" y="500" type="line"/>
+      <point x="320" y="500" type="line"/>
+      <point x="320" y="435" type="line"/>
     </contour>
     <contour>
       <point x="125" y="500" type="line"/>
-      <point x="10" y="500" type="line"/>
-      <point x="10" y="435" type="line"/>
       <point x="125" y="435" type="line"/>
+      <point x="10" y="435" type="line"/>
+      <point x="10" y="500" type="line"/>
     </contour>
   </outline>
   <lib>

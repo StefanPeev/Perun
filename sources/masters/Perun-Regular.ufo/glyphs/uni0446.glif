@@ -7,17 +7,17 @@
     <component base="dotlessi" xOffset="338"/>
     <contour>
       <point x="170" y="65" type="line"/>
-      <point x="418" y="65" type="line"/>
-      <point x="418" y="0" type="line"/>
       <point x="170" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="418" y="65" type="line"/>
     </contour>
     <contour>
       <point x="602" y="65" type="line"/>
-      <point x="602" y="-160" type="line"/>
-      <point x="512" y="-160" type="line"/>
-      <point x="512" y="0" type="line"/>
-      <point x="508" y="0" type="line"/>
       <point x="508" y="65" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="-160" type="line"/>
+      <point x="602" y="-160" type="line"/>
     </contour>
   </outline>
   <lib>

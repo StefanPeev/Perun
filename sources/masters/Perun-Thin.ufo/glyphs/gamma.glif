@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma" format="2">
-  <advance width="551"/>
+  <advance width="524"/>
   <unicode hex="03B3"/>
   <outline>
     <contour>
-      <point x="142" y="467" type="curve" smooth="yes"/>
-      <point x="288.484" y="126" type="line"/>
-      <point x="280.484" y="126" type="line"/>
-      <point x="435" y="503" type="line"/>
-      <point x="526" y="503" type="line"/>
-      <point x="328" y="27" type="line"/>
-      <point x="328" y="-200" type="line"/>
-      <point x="238" y="-200" type="line"/>
-      <point x="238" y="33" type="line"/>
-      <point x="73" y="409" type="line" smooth="yes"/>
-      <point x="64.1504" y="429.166"/>
-      <point x="52.3468" y="436.65"/>
-      <point x="34.3256" y="437.872" type="curve" smooth="yes"/>
-      <point x="25.9762" y="438.439"/>
-      <point x="11.2976" y="438"/>
-      <point x="5" y="437" type="curve"/>
-      <point x="5" y="511" type="line"/>
-      <point x="22.4787" y="513.496"/>
-      <point x="31.2015" y="514"/>
-      <point x="40.5793" y="514" type="curve" smooth="yes"/>
-      <point x="84.7993" y="514"/>
-      <point x="126.622" y="502.799"/>
+      <point x="96.332" y="494.252" type="line" smooth="yes"/>
+      <point x="90.9212" y="506.889"/>
+      <point x="79.2537" y="514"/>
+      <point x="69.3165" y="514" type="curve" smooth="yes"/>
+      <point x="59.9388" y="514"/>
+      <point x="49.5975" y="512.84"/>
+      <point x="40.3526" y="511" type="curve"/>
+      <point x="40.3526" y="493.379" type="line"/>
+      <point x="46.6502" y="494.379"/>
+      <point x="51.1552" y="494.251"/>
+      <point x="55.0308" y="494.251" type="curve" smooth="yes"/>
+      <point x="68.2787" y="494.251"/>
+      <point x="72.5372" y="489.812"/>
+      <point x="77.0396" y="479.552" type="curve" smooth="yes"/>
+      <point x="273" y="33" type="line"/>
+      <point x="273" y="-200" type="line"/>
+      <point x="293" y="-200" type="line"/>
+      <point x="293" y="32.9751" type="line"/>
+      <point x="483.307" y="503" type="line"/>
+      <point x="458.577" y="503" type="line"/>
+      <point x="273.869" y="42.4107" type="line"/>
+      <point x="289.789" y="42.4107" type="line"/>
     </contour>
   </outline>
+  <guideline angle="293.693" x="108" y="409"/>
+  <guideline angle="113.178" x="254" y="126"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -57,6 +59,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
   </dict>
   </lib>
 </glyph>

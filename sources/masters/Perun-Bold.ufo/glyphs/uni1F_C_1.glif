@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FC1" format="2">
-  <advance width="319"/>
+  <advance width="439"/>
   <unicode hex="1FC1"/>
+  <anchor x="219" y="822" name="top.mkmk"/>
   <outline>
-    <component base="uni1FC0" xOffset="160" yOffset="190"/>
-    <contour>
-      <point x="109" y="630" type="line"/>
-      <point x="-1" y="630" type="line"/>
-      <point x="-1" y="750" type="line"/>
-      <point x="109" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="319" y="630" type="line"/>
-      <point x="209" y="630" type="line"/>
-      <point x="209" y="750" type="line"/>
-      <point x="319" y="750" type="line"/>
-    </contour>
+    <component base="dieresis"/>
+    <component base="perispomenicomb" xOffset="489.428"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -64,6 +56,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresis+uni0342</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="2">
-  <advance width="1000"/>
+  <advance width="701"/>
   <unicode hex="2265"/>
   <outline>
-    <contour>
-      <point x="800" y="307" type="line"/>
-      <point x="200" y="117" type="line"/>
-      <point x="200" y="179" type="line"/>
-      <point x="736" y="338" type="line"/>
-      <point x="200" y="497" type="line"/>
-      <point x="200" y="559" type="line"/>
-      <point x="800" y="369" type="line"/>
-    </contour>
-    <contour>
-      <point x="800" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="200" y="55" type="line"/>
-      <point x="800" y="55" type="line"/>
-    </contour>
+    <component base="lessequal" xScale="-1" xOffset="701.745"/>
   </outline>
   <lib>
   <dict>
@@ -33,6 +19,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>lessequal</string>
   </dict>
   </lib>
 </glyph>

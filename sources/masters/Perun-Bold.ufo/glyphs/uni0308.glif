@@ -5,8 +5,18 @@
   <anchor x="-270" y="600" name="_top"/>
   <anchor x="-270" y="795" name="_bottom"/>
   <outline>
-    <component base="uni0307" xOffset="-103"/>
-    <component base="uni0307" xOffset="147"/>
+    <contour>
+      <point x="-450" y="600" type="line"/>
+      <point x="-340" y="600" type="line"/>
+      <point x="-340" y="720" type="line"/>
+      <point x="-450" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-200" y="600" type="line"/>
+      <point x="-90" y="600" type="line"/>
+      <point x="-90" y="720" type="line"/>
+      <point x="-200" y="720" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-450" y="0"/>
   <guideline angle="90" x="-90" y="0"/>

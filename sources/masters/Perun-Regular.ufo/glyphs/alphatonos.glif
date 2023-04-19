@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="2">
-  <advance width="608"/>
+  <advance width="629"/>
   <unicode hex="03AC"/>
   <outline>
-    <component base="alpha"/>
-    <component base="tonos" xOffset="254" yOffset="88"/>
+    <component base="alpha" xOffset="21"/>
+    <component base="tonos" xOffset="275" yOffset="88"/>
   </outline>
   <lib>
   <dict>
@@ -55,6 +55,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
   <key>com.fontlab.recipe</key>
   <string>alpha+tonos</string>
   <key>public.markColor</key>

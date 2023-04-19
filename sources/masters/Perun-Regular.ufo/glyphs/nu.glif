@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nu" format="2">
-  <advance width="551"/>
+  <advance width="556"/>
   <unicode hex="03BD"/>
   <outline>
-    <component base="v" xOffset="-5"/>
+    <component base="v"/>
   </outline>
   <lib>
   <dict>
@@ -25,6 +25,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=v</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=v</string>
   </dict>
   </lib>
 </glyph>

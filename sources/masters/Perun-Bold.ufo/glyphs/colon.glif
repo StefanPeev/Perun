@@ -3,8 +3,18 @@
   <advance width="216"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period"/>
-    <component base="period" yOffset="368"/>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="142.476" type="line"/>
+      <point x="40" y="142.476" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="368" type="line"/>
+      <point x="176" y="368" type="line"/>
+      <point x="176" y="510.476" type="line"/>
+      <point x="40" y="510.476" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

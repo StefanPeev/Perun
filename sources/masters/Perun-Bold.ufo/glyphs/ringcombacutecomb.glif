@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcombacutecomb" format="2">
+  <advance width="1"/>
+  <anchor x="-300" y="600" name="_top"/>
+  <anchor x="-300" y="870" name="top"/>
+  <anchor x="-301" y="915" name="top.mkmk"/>
+  <outline>
+    <component base="uni030A"/>
+    <component base="acutecomb" xOffset="-0.544403" yOffset="312.852"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ringcomb+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -2,10 +2,11 @@
 <glyph name="uni1E4D" format="2">
   <advance width="604"/>
   <unicode hex="1E4D"/>
+  <anchor x="302" y="-75" name="bottom"/>
   <anchor x="302" y="600" name="tonos.top"/>
   <outline>
     <component base="otilde"/>
-    <component base="acutecomb" xOffset="533" yOffset="-930"/>
+    <component base="acutecomb" xOffset="532.5"/>
   </outline>
   <lib>
   <dict>

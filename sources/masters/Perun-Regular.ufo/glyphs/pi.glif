@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi" format="2">
-  <advance width="608"/>
+  <advance width="622"/>
   <unicode hex="03C0"/>
   <outline>
     <contour>
-      <point x="21" y="429" type="line"/>
-      <point x="21" y="501" type="line"/>
-      <point x="583" y="501" type="line"/>
-      <point x="583" y="429" type="line"/>
-      <point x="510" y="429" type="line"/>
-      <point x="510" y="99" type="line" smooth="yes"/>
-      <point x="510" y="76"/>
-      <point x="531" y="64"/>
-      <point x="549" y="64" type="curve" smooth="yes"/>
-      <point x="558" y="64" type="line" smooth="yes"/>
-      <point x="566" y="64"/>
-      <point x="574" y="65"/>
-      <point x="582" y="66" type="curve"/>
-      <point x="582" y="-1" type="line"/>
-      <point x="505" y="-8" type="line"/>
-      <point x="445" y="-8"/>
-      <point x="427" y="35"/>
-      <point x="420" y="77" type="curve"/>
-      <point x="420" y="429" type="line"/>
-      <point x="181" y="429" type="line"/>
-      <point x="181" y="0" type="line"/>
-      <point x="91" y="0" type="line"/>
-      <point x="91" y="429" type="line"/>
+      <point x="30" y="429" type="line"/>
+      <point x="592" y="429" type="line"/>
+      <point x="592" y="501" type="line"/>
+      <point x="30" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="444" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="444" type="line"/>
+      <point x="429" y="77" type="line" smooth="yes"/>
+      <point x="429" y="34.4207"/>
+      <point x="454" y="-8"/>
+      <point x="514" y="-8" type="curve" smooth="yes"/>
+      <point x="539.202" y="-8"/>
+      <point x="566.026" y="-5.35674"/>
+      <point x="591" y="-1" type="curve"/>
+      <point x="591" y="66" type="line"/>
+      <point x="578.501" y="63.2955"/>
+      <point x="568.04" y="62.0587"/>
+      <point x="559.32" y="62.0509" type="curve" smooth="yes"/>
+      <point x="527.743" y="62.0228"/>
+      <point x="519" y="78.1136"/>
+      <point x="519" y="99" type="curve" smooth="yes"/>
+      <point x="519" y="444" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -70,6 +75,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=tau</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=tau</string>
   </dict>
   </lib>
 </glyph>

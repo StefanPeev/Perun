@@ -8,20 +8,20 @@
   <outline>
     <component base="uni0435"/>
     <contour>
-      <point x="214" y="718" type="line"/>
-      <point x="218.39" y="661.447"/>
-      <point x="242.634" y="633.921"/>
-      <point x="287.527" y="633.921" type="curve" smooth="yes"/>
-      <point x="329.937" y="633.921"/>
-      <point x="352.558" y="658.487"/>
-      <point x="361" y="718" type="curve"/>
-      <point x="430" y="718" type="line"/>
-      <point x="424.995" y="629.912"/>
-      <point x="372.913" y="580"/>
-      <point x="287.517" y="580" type="curve" smooth="yes"/>
-      <point x="202.5" y="580"/>
+      <point x="214" y="718" type="curve"/>
+      <point x="146" y="718" type="line"/>
       <point x="151.03" y="629.47"/>
-      <point x="146" y="718" type="curve"/>
+      <point x="202.5" y="580"/>
+      <point x="287.517" y="580" type="curve" smooth="yes"/>
+      <point x="372.913" y="580"/>
+      <point x="424.995" y="629.912"/>
+      <point x="430" y="718" type="curve"/>
+      <point x="361" y="718" type="line"/>
+      <point x="352.558" y="658.487"/>
+      <point x="329.937" y="633.921"/>
+      <point x="287.527" y="633.921" type="curve" smooth="yes"/>
+      <point x="242.634" y="633.921"/>
+      <point x="218.39" y="661.447"/>
     </contour>
   </outline>
   <lib>

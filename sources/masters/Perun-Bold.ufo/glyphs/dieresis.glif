@@ -2,20 +2,23 @@
 <glyph name="dieresis" format="2">
   <advance width="439"/>
   <unicode hex="00A8"/>
+  <anchor x="219" y="822" name="top.mkmk"/>
   <outline>
     <contour>
       <point x="380" y="630" type="line"/>
-      <point x="270" y="630" type="line"/>
-      <point x="270" y="750" type="line"/>
       <point x="380" y="750" type="line"/>
+      <point x="270" y="750" type="line"/>
+      <point x="270" y="630" type="line"/>
     </contour>
     <contour>
       <point x="170" y="630" type="line"/>
-      <point x="60" y="630" type="line"/>
-      <point x="60" y="750" type="line"/>
       <point x="170" y="750" type="line"/>
+      <point x="60" y="750" type="line"/>
+      <point x="60" y="630" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="270" y="0"/>
+  <guideline angle="90" x="184" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

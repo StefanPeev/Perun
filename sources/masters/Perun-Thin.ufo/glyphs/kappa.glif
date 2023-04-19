@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="2">
-  <advance width="566"/>
+  <advance width="468"/>
   <unicode hex="03BA"/>
   <outline>
     <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="190" y="500" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="500" type="line"/>
       <point x="100" y="500" type="line"/>
       <point x="100" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="255.602" y="271.429" type="line"/>
-      <point x="439" y="0" type="line"/>
-      <point x="546" y="0" type="line"/>
-      <point x="321.572" y="330.408" type="line"/>
+      <point x="189.29" y="303.685" type="line"/>
+      <point x="394.362" y="0" type="line"/>
+      <point x="419.818" y="0" type="line"/>
+      <point x="204.969" y="316.518" type="line"/>
     </contour>
     <contour>
-      <point x="530" y="500" type="line"/>
-      <point x="410" y="500" type="line"/>
-      <point x="178.926" y="288.882" type="line"/>
-      <point x="178.806" y="183.016" type="line"/>
+      <point x="427.585" y="500" type="line"/>
+      <point x="393.517" y="500" type="line"/>
+      <point x="110.926" y="243.701" type="line"/>
+      <point x="110.806" y="214.589" type="line"/>
     </contour>
   </outline>
+  <guideline angle="222.409" x="342" y="454.701"/>
+  <guideline angle="42.0863" x="111" y="214.385"/>
+  <guideline angle="304.03" x="211.362" y="271"/>
+  <guideline angle="124.168" x="419.818" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -53,6 +57,8 @@
   </dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
   </dict>
   </lib>
 </glyph>

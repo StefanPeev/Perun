@@ -4,7 +4,12 @@
   <unicode hex="00BC"/>
   <outline>
     <component base="onesuperior"/>
-    <component base="fraction" xOffset="90"/>
+    <contour>
+      <point x="617" y="736" type="line"/>
+      <point x="548" y="736" type="line"/>
+      <point x="122" y="-14" type="line"/>
+      <point x="191" y="-14" type="line"/>
+    </contour>
     <contour>
       <point x="470.904" y="139.323" type="line"/>
       <point x="606.096" y="323.677" type="line"/>
@@ -22,6 +27,7 @@
   </outline>
   <guideline angle="53.8807" x="471" y="139"/>
   <guideline angle="234.284" x="593" y="390"/>
+  <guideline angle="0" x="0" y="722"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

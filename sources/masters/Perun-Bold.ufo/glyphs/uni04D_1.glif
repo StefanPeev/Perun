@@ -2,30 +2,16 @@
 <glyph name="uni04D1" format="2">
   <advance width="550"/>
   <unicode hex="04D1"/>
-  <anchor x="275" y="600" name="top"/>
   <anchor x="275" y="-50" name="bottom"/>
   <anchor x="411" y="10" name="ogonekLC"/>
   <outline>
     <component base="uni0430"/>
-    <contour>
-      <point x="275.002" y="682.607" type="curve" smooth="yes"/>
-      <point x="312.859" y="682.607"/>
-      <point x="335.002" y="708.44"/>
-      <point x="335.002" y="752.607" type="curve"/>
-      <point x="435.002" y="752.607" type="line"/>
-      <point x="434.271" y="652.607"/>
-      <point x="368.279" y="602.607"/>
-      <point x="275.002" y="602.607" type="curve" smooth="yes"/>
-      <point x="176.228" y="602.607"/>
-      <point x="114.378" y="652.607"/>
-      <point x="115.002" y="752.607" type="curve"/>
-      <point x="215.002" y="752.607" type="line"/>
-      <point x="215.002" y="708.44"/>
-      <point x="237.145" y="682.607"/>
-    </contour>
+    <component base="uni0306" xOffset="573"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -91,6 +77,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>uni0430+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

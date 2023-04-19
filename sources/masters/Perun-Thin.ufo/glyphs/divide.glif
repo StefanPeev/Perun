@@ -3,13 +3,23 @@
   <advance width="1000"/>
   <unicode hex="00F7"/>
   <outline>
-    <component base="period" xOffset="409.088" yOffset="77.7445"/>
-    <component base="period" xOffset="409.088" yOffset="398.738"/>
     <contour>
       <point x="800" y="290" type="line"/>
-      <point x="200" y="290" type="line"/>
-      <point x="200" y="310" type="line"/>
       <point x="800" y="310" type="line"/>
+      <point x="200" y="310" type="line"/>
+      <point x="200" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="489.088" y="77.7445" type="line"/>
+      <point x="511.088" y="77.7445" type="line"/>
+      <point x="511.088" y="200.745" type="line"/>
+      <point x="489.088" y="200.745" type="line"/>
+    </contour>
+    <contour>
+      <point x="489.088" y="398.738" type="line"/>
+      <point x="511.088" y="398.738" type="line"/>
+      <point x="511.088" y="521.738" type="line"/>
+      <point x="489.088" y="521.738" type="line"/>
     </contour>
   </outline>
   <lib>

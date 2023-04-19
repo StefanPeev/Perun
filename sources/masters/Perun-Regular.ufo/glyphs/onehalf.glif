@@ -4,9 +4,15 @@
   <unicode hex="00BD"/>
   <outline>
     <component base="onesuperior"/>
-    <component base="twosuperior" xOffset="425" yOffset="-351.145"/>
-    <component base="fraction" xOffset="85" yOffset="1.13687e-13"/>
+    <component base="twosuperior" xOffset="425" yOffset="-341.145"/>
+    <contour>
+      <point x="612" y="736" type="line"/>
+      <point x="543" y="736" type="line"/>
+      <point x="117" y="-14" type="line"/>
+      <point x="186" y="-14" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="0" x="0" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="2">
-  <advance width="1000"/>
+  <advance width="720"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="800" y="157" type="line"/>
-      <point x="140" y="347" type="line"/>
-      <point x="140" y="529" type="line"/>
-      <point x="800" y="719" type="line"/>
-      <point x="800" y="597" type="line"/>
-      <point x="264" y="428" type="line"/>
-      <point x="800" y="269" type="line"/>
+      <point x="690" y="0" type="line"/>
+      <point x="690" y="115" type="line"/>
+      <point x="30" y="115" type="line"/>
+      <point x="30" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="800" y="0" type="line"/>
-      <point x="140" y="0" type="line"/>
-      <point x="140" y="115" type="line"/>
-      <point x="800" y="115" type="line"/>
+      <point x="30" y="347" type="line"/>
+      <point x="690" y="117" type="line"/>
+      <point x="690" y="239" type="line"/>
+      <point x="142.75" y="442.177" type="line"/>
+      <point x="142.75" y="433.823" type="line"/>
+      <point x="690" y="637" type="line"/>
+      <point x="690" y="759" type="line"/>
+      <point x="30" y="529" type="line"/>
     </contour>
   </outline>
+  <guideline angle="197.551" x="690" y="597"/>
+  <guideline angle="16.06" x="30" y="529"/>
+  <guideline angle="343.531" x="142" y="431"/>
+  <guideline angle="163.94" x="690" y="157"/>
+  <guideline angle="90" x="690" y="0"/>
+  <guideline angle="90" x="30" y="0"/>
+  <guideline angle="0" x="0" y="335"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -39,6 +47,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=less</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=less</string>
   </dict>
   </lib>
 </glyph>

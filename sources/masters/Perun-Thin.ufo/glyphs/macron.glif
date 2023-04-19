@@ -4,15 +4,19 @@
   <unicode hex="00AF"/>
   <anchor x="144" y="600" name="_top"/>
   <anchor x="145" y="774" name="top.mkmk"/>
+  <anchor x="145" y="750" name="_bottom"/>
+  <anchor x="143" y="655" name="_top.mkmk"/>
   <outline>
     <contour>
       <point x="290" y="655.25" type="line"/>
-      <point x="0" y="655.25" type="line"/>
-      <point x="0" y="675" type="line"/>
       <point x="290" y="675" type="line"/>
+      <point x="0" y="675" type="line"/>
+      <point x="0" y="655.25" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="665"/>
+  <guideline angle="90" x="200" y="0"/>
+  <guideline angle="90" x="145" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

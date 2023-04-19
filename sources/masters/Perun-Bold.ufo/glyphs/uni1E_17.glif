@@ -2,10 +2,11 @@
 <glyph name="uni1E17" format="2">
   <advance width="550"/>
   <unicode hex="1E17"/>
+  <anchor x="275" y="-89" name="bottom"/>
   <anchor x="275" y="0" name="cedilla.bottom"/>
   <outline>
     <component base="emacron"/>
-    <component base="acutecomb" xOffset="506" yOffset="-944"/>
+    <component base="acutecomb" xOffset="505.5"/>
   </outline>
   <lib>
   <dict>

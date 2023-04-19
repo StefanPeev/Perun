@@ -5,6 +5,22 @@
   <anchor x="378" y="797" name="top"/>
   <outline>
     <contour>
+      <point x="36" y="361" type="curve" smooth="yes"/>
+      <point x="36" y="143"/>
+      <point x="148" y="-14"/>
+      <point x="378" y="-14" type="curve"/>
+      <point x="378" y="100" type="line"/>
+      <point x="238" y="100"/>
+      <point x="187" y="191"/>
+      <point x="187" y="361" type="curve" smooth="yes"/>
+      <point x="187" y="531"/>
+      <point x="238" y="622"/>
+      <point x="378" y="622" type="curve"/>
+      <point x="378" y="736" type="line"/>
+      <point x="148" y="736"/>
+      <point x="36" y="579"/>
+    </contour>
+    <contour>
       <point x="378" y="622" type="line"/>
       <point x="459" y="622"/>
       <point x="524" y="585"/>
@@ -27,22 +43,6 @@
       <point x="527" y="116" type="line"/>
       <point x="490" y="105"/>
       <point x="409" y="100"/>
-    </contour>
-    <contour>
-      <point x="36" y="361" type="curve" smooth="yes"/>
-      <point x="36" y="143"/>
-      <point x="148" y="-14"/>
-      <point x="378" y="-14" type="curve"/>
-      <point x="378" y="100" type="line"/>
-      <point x="238" y="100"/>
-      <point x="187" y="191"/>
-      <point x="187" y="361" type="curve" smooth="yes"/>
-      <point x="187" y="531"/>
-      <point x="238" y="622"/>
-      <point x="378" y="622" type="curve"/>
-      <point x="378" y="736" type="line"/>
-      <point x="148" y="736"/>
-      <point x="36" y="579"/>
     </contour>
   </outline>
   <guideline angle="90" x="378" y="0"/>

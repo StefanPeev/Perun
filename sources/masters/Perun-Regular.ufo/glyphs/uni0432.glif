@@ -3,7 +3,12 @@
   <advance width="544"/>
   <unicode hex="0432"/>
   <outline>
-    <component base="dotlessi"/>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
     <contour>
       <point x="170" y="0" type="line"/>
       <point x="342" y="0" type="line" smooth="yes"/>

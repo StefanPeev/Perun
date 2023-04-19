@@ -3,8 +3,36 @@
   <unicode hex="030A"/>
   <anchor x="-300" y="600" name="_top"/>
   <anchor x="-300" y="870" name="top"/>
+  <anchor x="-301" y="915" name="top.mkmk"/>
   <outline>
-    <component base="degree" xOffset="-460.544" yOffset="109.977"/>
+    <contour>
+      <point x="-300.544" y="839.977" type="curve" smooth="yes"/>
+      <point x="-366.544" y="839.977"/>
+      <point x="-420.544" y="785.977"/>
+      <point x="-420.544" y="719.977" type="curve" smooth="yes"/>
+      <point x="-420.544" y="654.977"/>
+      <point x="-366.544" y="599.977"/>
+      <point x="-300.544" y="599.977" type="curve" smooth="yes"/>
+      <point x="-235.544" y="599.977"/>
+      <point x="-180.544" y="654.977"/>
+      <point x="-180.544" y="719.977" type="curve" smooth="yes"/>
+      <point x="-180.544" y="785.977"/>
+      <point x="-235.544" y="839.977"/>
+    </contour>
+    <contour>
+      <point x="-300.544" y="659.977" type="curve" smooth="yes"/>
+      <point x="-333.544" y="659.977"/>
+      <point x="-360.544" y="686.977"/>
+      <point x="-360.544" y="719.977" type="curve" smooth="yes"/>
+      <point x="-360.544" y="751.977"/>
+      <point x="-332.544" y="779.977"/>
+      <point x="-300.544" y="779.977" type="curve" smooth="yes"/>
+      <point x="-267.544" y="779.977"/>
+      <point x="-240.544" y="752.977"/>
+      <point x="-240.544" y="719.977" type="curve" smooth="yes"/>
+      <point x="-240.544" y="687.977"/>
+      <point x="-268.544" y="659.977"/>
+    </contour>
   </outline>
   <lib>
   <dict>

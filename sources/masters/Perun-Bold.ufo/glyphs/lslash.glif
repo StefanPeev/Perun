@@ -3,12 +3,17 @@
   <advance width="438"/>
   <unicode hex="0142"/>
   <outline>
-    <component base="I" xOffset="70" yOffset="0.0045"/>
     <contour>
       <point x="60" y="312" type="line"/>
       <point x="60" y="193" type="line"/>
       <point x="379" y="465" type="line"/>
       <point x="379" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="0.0045" type="line"/>
+      <point x="290" y="0.0045" type="line"/>
+      <point x="290" y="722.004" type="line"/>
+      <point x="140" y="722.004" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilon" format="2">
-  <advance width="608"/>
+  <advance width="558"/>
   <unicode hex="03C5"/>
-  <anchor x="290" y="600" name="tonos.top"/>
+  <anchor x="269" y="600" name="tonos.top"/>
   <outline>
     <contour>
-      <point x="121" y="158" type="curve" smooth="yes"/>
-      <point x="121" y="500" type="line"/>
-      <point x="141" y="500" type="line"/>
-      <point x="141" y="160.394" type="line" smooth="yes"/>
-      <point x="141" y="55.4833"/>
-      <point x="194.36" y="8.39389"/>
-      <point x="300.46" y="8.39389" type="curve" smooth="yes"/>
-      <point x="399.209" y="8.39389"/>
-      <point x="459" y="62.4549"/>
-      <point x="459" y="160" type="curve" smooth="yes"/>
-      <point x="459" y="500" type="line"/>
-      <point x="479" y="500" type="line"/>
-      <point x="479" y="158" type="line" smooth="yes"/>
-      <point x="479" y="54.9745"/>
-      <point x="413.11" y="-10"/>
-      <point x="310.125" y="-10" type="curve" smooth="yes"/>
-      <point x="289.886" y="-10" type="line" smooth="yes"/>
-      <point x="178.563" y="-10"/>
-      <point x="121" y="46.6349"/>
+      <point x="100" y="158" type="line" smooth="yes"/>
+      <point x="100" y="46.6349"/>
+      <point x="157.563" y="-10"/>
+      <point x="268.886" y="-10" type="curve" smooth="yes"/>
+      <point x="289.125" y="-10" type="line" smooth="yes"/>
+      <point x="392.11" y="-10"/>
+      <point x="458" y="54.9745"/>
+      <point x="458" y="158" type="curve" smooth="yes"/>
+      <point x="458" y="500" type="line"/>
+      <point x="438" y="500" type="line"/>
+      <point x="438" y="160" type="line" smooth="yes"/>
+      <point x="438" y="62.4549"/>
+      <point x="378.209" y="8.39389"/>
+      <point x="279.46" y="8.39389" type="curve" smooth="yes"/>
+      <point x="173.36" y="8.39389"/>
+      <point x="120" y="55.4833"/>
+      <point x="120" y="160.394" type="curve" smooth="yes"/>
+      <point x="120" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -61,6 +61,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   </dict>
   </lib>
 </glyph>

@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FED" format="2">
-  <advance width="289"/>
+  <advance width="362"/>
   <unicode hex="1FED"/>
   <outline>
-    <contour>
-      <point x="89" y="630" type="line"/>
-      <point x="-1" y="630" type="line"/>
-      <point x="-1" y="722" type="line"/>
-      <point x="89" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="630" type="line"/>
-      <point x="199" y="630" type="line"/>
-      <point x="199" y="722" type="line"/>
-      <point x="289" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="175" y="782" type="line"/>
-      <point x="114" y="782" type="line"/>
-      <point x="-26" y="953" type="line"/>
-      <point x="75" y="953" type="line"/>
-    </contour>
+    <component base="dieresis"/>
+    <component base="gravecomb" xOffset="361" yOffset="192"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -51,6 +37,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresis+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

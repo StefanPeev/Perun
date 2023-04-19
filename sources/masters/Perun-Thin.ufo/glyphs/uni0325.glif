@@ -2,7 +2,34 @@
 <glyph name="uni0325" format="2">
   <unicode hex="0325"/>
   <outline>
-    <component base="degree" xOffset="-457" yOffset="-819"/>
+    <contour>
+      <point x="-296.504" y="-99" type="curve" smooth="yes"/>
+      <point x="-357.071" y="-99"/>
+      <point x="-407" y="-148"/>
+      <point x="-407" y="-209" type="curve" smooth="yes"/>
+      <point x="-407" y="-270"/>
+      <point x="-357.071" y="-319"/>
+      <point x="-296.504" y="-319" type="curve" smooth="yes"/>
+      <point x="-236.929" y="-319"/>
+      <point x="-187" y="-269"/>
+      <point x="-187" y="-209" type="curve" smooth="yes"/>
+      <point x="-187" y="-148"/>
+      <point x="-235.936" y="-99"/>
+    </contour>
+    <contour>
+      <point x="-297.695" y="-299" type="curve" smooth="yes"/>
+      <point x="-346.594" y="-299"/>
+      <point x="-387" y="-259.371"/>
+      <point x="-387" y="-210.567" type="curve" smooth="yes"/>
+      <point x="-387" y="-160.485"/>
+      <point x="-344.452" y="-119"/>
+      <point x="-295.109" y="-119" type="curve" smooth="yes"/>
+      <point x="-246.787" y="-119"/>
+      <point x="-207" y="-158.787"/>
+      <point x="-207" y="-209" type="curve" smooth="yes"/>
+      <point x="-207" y="-258.027"/>
+      <point x="-247.973" y="-299"/>
+    </contour>
   </outline>
   <lib>
   <dict>

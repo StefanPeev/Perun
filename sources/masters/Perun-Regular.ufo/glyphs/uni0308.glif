@@ -6,8 +6,18 @@
   <anchor x="-292" y="600" name="_top"/>
   <anchor x="-292" y="600" name="_top.mkmk"/>
   <outline>
-    <component base="uni0307" xOffset="-101"/>
-    <component base="uni0307" xOffset="100"/>
+    <contour>
+      <point x="-438" y="600" type="line"/>
+      <point x="-348" y="600" type="line"/>
+      <point x="-348" y="700" type="line"/>
+      <point x="-438" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="-237" y="600" type="line"/>
+      <point x="-147" y="600" type="line"/>
+      <point x="-147" y="700" type="line"/>
+      <point x="-237" y="700" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-437" y="0"/>
   <guideline angle="90" x="-147" y="0"/>

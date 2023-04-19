@@ -241,7 +241,9 @@ feature mark {
     markClass gravecomb <anchor -152 600> @top;
     markClass gravecomb <anchor -180 600> @top.mkmk;
     markClass hookabovecomb <anchor -290 530> @top;
+    markClass macron <anchor 145 750> @bottom;
     markClass macron <anchor 144 600> @top;
+    markClass macron <anchor 143 655> @top.mkmk;
     markClass quoteleft <anchor 72 472> @cedilla.top;
     markClass quoteright <anchor 71 722> @caron_TR;
     markClass tilde <anchor 146 600> @top;
@@ -699,8 +701,6 @@ feature mark {
           <anchor -8 722> mark @tonos;
       pos base uni0406
           <anchor -8 722> mark @tonos;
-      pos base uni0407
-          <anchor -8 722> mark @tonos;
       pos base uni0410
           <anchor 353 -75> mark @bottom
           <anchor 651 10> mark @ogonekUC
@@ -714,8 +714,6 @@ feature mark {
           <anchor 72 722> mark @tonos;
       pos base uni0421
           <anchor 357 10> mark @bottom;
-      pos base uni042B
-          <anchor 594 722> mark @tonos;
       pos base uni0430
           <anchor 283 -50> mark @bottom;
       pos base uni0434.loclBGR
@@ -758,8 +756,6 @@ feature mark {
           <anchor 72 722> mark @tonos;
       pos base uni04E7
           <anchor 310 -75> mark @bottom;
-      pos base uni04F8
-          <anchor 594 722> mark @tonos;
       pos base uni1E00
           <anchor 353 -75> mark @bottom
           <anchor 651 10> mark @ogonekUC
@@ -964,6 +960,8 @@ feature mark {
           <anchor 353 797> mark @top;
       pos base Aring
           <anchor 353 1047> mark @top;
+      pos base Aringacute
+          <anchor 353 1047> mark @top;
       pos base B
           <anchor 208 797> mark @top;
       pos base Beta
@@ -1081,6 +1079,8 @@ feature mark {
       pos base aogonek
           <anchor 283 580> mark @top;
       pos base aring
+          <anchor 283 830> mark @top;
+      pos base aringacute
           <anchor 283 830> mark @top;
       pos base b
           <anchor 253 754> mark @top;
@@ -1223,7 +1223,7 @@ feature mark {
       pos base uni0425
           <anchor 342 797> mark @top;
       pos base uni042B
-          <anchor 693 797> mark @top;
+          <anchor 416 722> mark @top;
       pos base uni0430
           <anchor 283 580> mark @top;
       pos base uni0434.loclBGR
@@ -1467,6 +1467,8 @@ feature mark {
           <anchor 353 972> mark @top.mkmk;
       pos base Amacron
           <anchor 251 967> mark @top.mkmk;
+      pos base Aring
+          <anchor 353 1092> mark @top.mkmk;
       pos base Atilde
           <anchor 349 977> mark @top.mkmk;
       pos base Ccircumflex
@@ -1531,6 +1533,8 @@ feature mark {
           <anchor 225 967> mark @top.mkmk;
       pos base Upsilondieresis
           <anchor 318 972> mark @top.mkmk;
+      pos base Uring
+          <anchor 327 1092> mark @top.mkmk;
       pos base Utilde
           <anchor 323 977> mark @top.mkmk;
       pos base Wcircumflex
@@ -1551,12 +1555,16 @@ feature mark {
           <anchor 283 755> mark @top.mkmk;
       pos base amacron
           <anchor 284 754> mark @top.mkmk;
+      pos base aring
+          <anchor 283 875> mark @top.mkmk;
       pos base atilde
           <anchor 279 760> mark @top.mkmk;
       pos base ccircumflex
           <anchor 298 770> mark @top.mkmk;
       pos base cdotaccent
           <anchor 294 755> mark @top.mkmk;
+      pos base dieresis
+          <anchor 181 792> mark @top.mkmk;
       pos base ebreve
           <anchor 310 712> mark @top.mkmk;
       pos base ecircumflex
@@ -1722,7 +1730,7 @@ feature mark {
       pos base uni04F5
           <anchor 256 775> mark @top.mkmk;
       pos base uni04F8
-          <anchor 693 972> mark @top.mkmk;
+          <anchor 416 897> mark @top.mkmk;
       pos base uni04F9
           <anchor 335 775> mark @top.mkmk;
       pos base uni1E02
@@ -1831,6 +1839,10 @@ feature mark {
           <anchor 290 770> mark @top.mkmk;
       pos base uni1E97
           <anchor 161 886> mark @top.mkmk;
+      pos base uni1E98
+          <anchor 392 875> mark @top.mkmk;
+      pos base uni1E99
+          <anchor 289 875> mark @top.mkmk;
       pos base uni1EA7
           <anchor 287 770> mark @top.mkmk;
       pos base uni1EAA
@@ -1879,6 +1891,8 @@ feature mark {
           <anchor 354 971> mark @top.mkmk;
       pos base upsilondieresis
           <anchor 304 775> mark @top.mkmk;
+      pos base uring
+          <anchor 292 875> mark @top.mkmk;
       pos base utilde
           <anchor 288 760> mark @top.mkmk;
       pos base wcircumflex
@@ -1897,6 +1911,10 @@ feature mark {
           <anchor 369 987> mark @top.mkmk;
       pos base ocircumflexdotbelow
           <anchor 314 770> mark @top.mkmk;
+      pos base dieresismacron
+          <anchor 183 911> mark @top.mkmk;
+      pos base ringcombacutecomb
+          <anchor -300 895> mark @top.mkmk;
   } markLTR3;
 
   lookup markLTR4 {
@@ -2280,6 +2298,7 @@ feature mkmk {
 #    markClass gravecomb <anchor -180 600> @top.mkmk;
 #    markClass hookabovecomb <anchor -290 530> @top;
 #    markClass macron <anchor 144 600> @top;
+#    markClass macron <anchor 143 655> @top.mkmk;
 #    markClass tilde <anchor 146 600> @top;
 #    markClass tildecomb <anchor -290 600> @top;
 #    markClass tildecomb <anchor -300 600> @top.mkmk;
@@ -2320,6 +2339,8 @@ feature mkmk {
           <anchor -290 775> mark @top.mkmk;
       pos mark uni0308
           <anchor -290 775> mark @top.mkmk;
+      pos mark uni030A
+          <anchor -300 895> mark @top.mkmk;
       pos mark macroncomb
           <anchor -355 770> mark @top.mkmk;
   } mkmkLTR1;

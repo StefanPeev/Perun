@@ -6,25 +6,25 @@
     <component base="dotlessi"/>
     <contour>
       <point x="202" y="272" type="line"/>
-      <point x="388" y="500" type="line"/>
-      <point x="494" y="500" type="line"/>
-      <point x="299" y="260" type="line"/>
-      <point x="299" y="268" type="line"/>
-      <point x="327.561" y="266.107"/>
-      <point x="345.2" y="255.779"/>
-      <point x="360.098" y="232.227" type="curve" smooth="yes"/>
-      <point x="507" y="0" type="line"/>
-      <point x="401" y="0" type="line"/>
-      <point x="295.03" y="165.556" type="line" smooth="yes"/>
-      <point x="271.255" y="202.699"/>
+      <point x="202" y="211" type="line"/>
       <point x="254.249" y="211"/>
-      <point x="202" y="211" type="curve"/>
+      <point x="271.255" y="202.699"/>
+      <point x="295.03" y="165.556" type="curve" smooth="yes"/>
+      <point x="401" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="360.098" y="232.227" type="line" smooth="yes"/>
+      <point x="345.2" y="255.779"/>
+      <point x="327.561" y="266.107"/>
+      <point x="299" y="268" type="curve"/>
+      <point x="299" y="260" type="line"/>
+      <point x="494" y="500" type="line"/>
+      <point x="388" y="500" type="line"/>
     </contour>
     <contour>
       <point x="170" y="286" type="line"/>
-      <point x="268" y="286" type="line"/>
-      <point x="268" y="211" type="line"/>
       <point x="170" y="211" type="line"/>
+      <point x="268" y="211" type="line"/>
+      <point x="268" y="286" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="2">
-  <advance width="1000"/>
+  <advance width="702"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="800" y="117" type="line"/>
-      <point x="200" y="307" type="line"/>
-      <point x="200" y="369" type="line"/>
-      <point x="800" y="559" type="line"/>
-      <point x="800" y="497" type="line"/>
-      <point x="264" y="338" type="line"/>
-      <point x="800" y="179" type="line"/>
+      <point x="650" y="17.5" type="line"/>
+      <point x="650" y="37.5" type="line"/>
+      <point x="50" y="37.5" type="line"/>
+      <point x="50" y="17.5" type="line"/>
     </contour>
     <contour>
-      <point x="800" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="200" y="55" type="line"/>
-      <point x="800" y="55" type="line"/>
+      <point x="51.3543" y="325.119" type="line"/>
+      <point x="651.354" y="95.1192" type="line"/>
+      <point x="651.354" y="116.119" type="line"/>
+      <point x="68.8916" y="340.54" type="line"/>
+      <point x="69.0749" y="332.023" type="line"/>
+      <point x="651.354" y="556.119" type="line"/>
+      <point x="651.354" y="577.119" type="line"/>
+      <point x="51.3543" y="347.119" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="650" y="0"/>
+  <guideline angle="90" x="50" y="0"/>
+  <guideline angle="0" x="0" y="338"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -33,6 +37,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=less</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=less</string>
   </dict>
   </lib>
 </glyph>
