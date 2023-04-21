@@ -20,6 +20,7 @@ languagesystem cyrl SRB;
 languagesystem grek dflt;
 #< languagesystem
 
+
 feature aalt {
 # Access All Alternates
 
@@ -90,6 +91,7 @@ feature locl {
 
 
 
+
 feature sups {
 # Superscript
 
@@ -103,6 +105,7 @@ feature sups {
   sub w by uni02B7;
 #< feature
 } sups;
+
 
 
 
@@ -136,6 +139,7 @@ lookup frac_precomposed {
 
 
 
+
 feature ordn {
 # Ordinals
 
@@ -145,6 +149,7 @@ feature ordn {
   sub N o period by uni2116;
 #< feature
 } ordn;
+
 
 
 
@@ -171,6 +176,7 @@ feature salt {
 
 
 
+
 feature ss01 {
 # Stylistic Set 01–20
 
@@ -179,6 +185,7 @@ feature ss01 {
   sub uni0443 by uni0443.ss01;
 #< feature
 } ss01;
+
 
 
 
@@ -211,6 +218,7 @@ feature liga {
 
 
 
+
 feature hist {
 # Historical Forms
 
@@ -218,6 +226,7 @@ feature hist {
   sub s by longs;
 #< feature
 } hist;
+
 
 
 
@@ -2285,6 +2294,7 @@ feature mark {
 
 
 
+
 feature mkmk {
 #> feature
 # GPOS feature : Mark to Mark Positioning
@@ -2372,6 +2382,7 @@ feature mkmk {
   lookup mkmkLTR4;
 #< feature
 } mkmk;
+
 
 
 

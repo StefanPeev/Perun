@@ -6,9 +6,8 @@
   <anchor x="353" y="-75" name="bottom"/>
   <anchor x="192" y="722" name="tonos"/>
   <outline>
-    <component base="A"/>
-    <component base="breve" xOffset="214" yOffset="222"/>
-    <component base="gravecomb" xOffset="505" yOffset="197"/>
+    <component base="Abreve"/>
+    <component base="gravecomb" xOffset="535" yOffset="329"/>
   </outline>
   <lib>
   <dict>
@@ -60,9 +59,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>A+breve+gravecomb</string>
+  <string>Abreve+gravecomb</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

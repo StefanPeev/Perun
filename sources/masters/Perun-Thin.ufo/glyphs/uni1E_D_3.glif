@@ -2,57 +2,16 @@
 <glyph name="uni1ED3" format="2">
   <advance width="620"/>
   <unicode hex="1ED3"/>
-  <anchor x="310" y="580" name="top"/>
   <anchor x="310" y="-75" name="bottom"/>
   <anchor x="310" y="580" name="tonos.top"/>
-  <anchor x="314" y="770" name="top.mkmk"/>
   <outline>
-    <contour>
-      <point x="80" y="250" type="curve" smooth="yes"/>
-      <point x="80" y="89.739"/>
-      <point x="166.287" y="-10"/>
-      <point x="311" y="-10" type="curve" smooth="yes"/>
-      <point x="455.094" y="-10"/>
-      <point x="540" y="89.0984"/>
-      <point x="540" y="250" type="curve" smooth="yes"/>
-      <point x="540" y="410.902"/>
-      <point x="455.094" y="510"/>
-      <point x="311" y="510" type="curve" smooth="yes"/>
-      <point x="166.287" y="510"/>
-      <point x="80" y="410.261"/>
-    </contour>
-    <contour>
-      <point x="101.495" y="250" type="curve" smooth="yes"/>
-      <point x="101.495" y="397.561"/>
-      <point x="185.501" y="490.005"/>
-      <point x="310" y="490.005" type="curve" smooth="yes"/>
-      <point x="436.695" y="490.005"/>
-      <point x="518" y="396.305"/>
-      <point x="518" y="250" type="curve" smooth="yes"/>
-      <point x="518" y="101.621"/>
-      <point x="434.754" y="9.95889"/>
-      <point x="310" y="9.95889" type="curve" smooth="yes"/>
-      <point x="184.978" y="9.95889"/>
-      <point x="101.495" y="101.877"/>
-    </contour>
-    <contour>
-      <point x="199" y="580" type="line"/>
-      <point x="209" y="580" type="line"/>
-      <point x="314" y="730.172" type="line"/>
-      <point x="419" y="580" type="line"/>
-      <point x="429.04" y="580" type="line"/>
-      <point x="329.04" y="750" type="line"/>
-      <point x="299" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="348" y="770" type="line"/>
-      <point x="248" y="941" type="line"/>
-      <point x="198.242" y="941" type="line"/>
-      <point x="338.242" y="770" type="line"/>
-    </contour>
+    <component base="ocircumflex"/>
+    <component base="gravecomb" xOffset="494" yOffset="170"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -89,7 +48,7 @@
   <key>com.fontlab.recipe</key>
   <string>ocircumflex+gravecomb</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni026F" format="2">
-  <advance width="873"/>
+  <advance width="876"/>
   <unicode hex="026F"/>
   <outline>
     <component base="uni0448.loclBGR"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=encyr</string>
   <key>com.fontlab.metricsRight</key>
   <string>=encyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni0448.loclBGR</string>
   </dict>
   </lib>
 </glyph>

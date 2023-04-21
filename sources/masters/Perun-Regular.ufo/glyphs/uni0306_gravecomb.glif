@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0310" format="2">
+<glyph name="uni0306_gravecomb" format="2">
   <advance width="1"/>
-  <unicode hex="0310"/>
-  <anchor x="-290" y="600" name="_top"/>
+  <anchor x="-300" y="600" name="_top"/>
+  <anchor x="-298" y="732" name="top.mkmk"/>
   <outline>
+    <component base="gravecomb" xOffset="-118" yOffset="132"/>
     <contour>
       <point x="-439" y="717" type="line"/>
       <point x="-431" y="651"/>
@@ -20,12 +21,6 @@
       <point x="-381" y="686"/>
       <point x="-387" y="717" type="curve"/>
     </contour>
-    <contour>
-      <point x="-337" y="717" type="line"/>
-      <point x="-247" y="717" type="line"/>
-      <point x="-247" y="817" type="line"/>
-      <point x="-337" y="817" type="line"/>
-    </contour>
   </outline>
   <lib>
   <dict>
@@ -39,12 +34,6 @@
         <key>width</key>
         <integer>64</integer>
       </dict>
-      <dict>
-        <key>position</key>
-        <integer>717</integer>
-        <key>width</key>
-        <integer>100</integer>
-      </dict>
     </array>
     <key>vhints</key>
     <array>
@@ -53,12 +42,6 @@
         <integer>-439</integer>
         <key>width</key>
         <integer>52</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-337</integer>
-        <key>width</key>
-        <integer>90</integer>
       </dict>
       <dict>
         <key>position</key>

@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni028F" format="2">
-  <advance width="493"/>
+  <advance width="474"/>
   <unicode hex="028F"/>
   <outline>
     <contour>
-      <point x="484" y="500" type="line"/>
-      <point x="396" y="500" type="line"/>
-      <point x="249" y="260" type="line"/>
-      <point x="253" y="260" type="line"/>
-      <point x="104" y="500" type="line"/>
-      <point x="9" y="500" type="line"/>
-      <point x="207" y="199" type="line"/>
-      <point x="207" y="0" type="line"/>
-      <point x="286" y="0" type="line"/>
-      <point x="286" y="199" type="line"/>
+      <point x="433.211" y="500" type="line"/>
+      <point x="409.582" y="500" type="line"/>
+      <point x="234.274" y="213.101" type="line"/>
+      <point x="242.116" y="213.101" type="line"/>
+      <point x="63.7776" y="500" type="line"/>
+      <point x="40.4794" y="500" type="line"/>
+      <point x="228.5" y="199" type="line"/>
+      <point x="228.5" y="0" type="line"/>
+      <point x="248.5" y="0" type="line"/>
+      <point x="248.5" y="199" type="line"/>
     </contour>
   </outline>
+  <guideline angle="238.513" x="410" y="500"/>
+  <guideline angle="121.833" x="213" y="260"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -45,6 +47,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
   </dict>
   </lib>
 </glyph>

@@ -2,78 +2,16 @@
 <glyph name="uni1EA7" format="2">
   <advance width="550"/>
   <unicode hex="1EA7"/>
-  <anchor x="275" y="600" name="top"/>
   <anchor x="275" y="-50" name="bottom"/>
   <anchor x="411" y="10" name="ogonekLC"/>
-  <anchor x="275" y="820" name="top.mkmk"/>
   <outline>
-    <contour>
-      <point x="44" y="139" type="curve" smooth="yes"/>
-      <point x="44" y="50.8486"/>
-      <point x="117.247" y="-14"/>
-      <point x="220.731" y="-14" type="curve" smooth="yes"/>
-      <point x="278.974" y="-14"/>
-      <point x="322.41" y="8"/>
-      <point x="366" y="60" type="curve"/>
-      <point x="370" y="35"/>
-      <point x="374" y="19"/>
-      <point x="381" y="0" type="curve"/>
-      <point x="506" y="0" type="line"/>
-      <point x="495" y="43"/>
-      <point x="482.448" y="112.036"/>
-      <point x="485" y="202" type="curve" smooth="yes"/>
-      <point x="489" y="343.375" type="line" smooth="yes"/>
-      <point x="492.528" y="467.348"/>
-      <point x="435.508" y="514"/>
-      <point x="280.949" y="514" type="curve" smooth="yes"/>
-      <point x="148.53" y="514"/>
-      <point x="64.9829" y="454"/>
-      <point x="64.9829" y="364" type="curve"/>
-      <point x="200.987" y="364" type="line"/>
-      <point x="200.987" y="411"/>
-      <point x="227.641" y="435"/>
-      <point x="277.987" y="435" type="curve" smooth="yes"/>
-      <point x="330.308" y="435"/>
-      <point x="355" y="410"/>
-      <point x="355" y="357.125" type="curve" smooth="yes"/>
-      <point x="355" y="197" type="line" smooth="yes"/>
-      <point x="355" y="122"/>
-      <point x="322.41" y="76"/>
-      <point x="268.115" y="76" type="curve" smooth="yes"/>
-      <point x="221.871" y="76"/>
-      <point x="180.235" y="107.871"/>
-      <point x="180.235" y="147" type="curve" smooth="yes"/>
-      <point x="180.235" y="215"/>
-      <point x="226.654" y="230"/>
-      <point x="310.564" y="230" type="curve" smooth="yes"/>
-      <point x="337.876" y="230"/>
-      <point x="362.322" y="227.515"/>
-      <point x="395.906" y="222.544" type="curve"/>
-      <point x="391.928" y="300.81" type="line"/>
-      <point x="345.631" y="307.122"/>
-      <point x="321.191" y="309"/>
-      <point x="282.923" y="309" type="curve" smooth="yes"/>
-      <point x="129.855" y="309"/>
-      <point x="44" y="259.372"/>
-    </contour>
-    <contour>
-      <point x="185" y="600" type="line"/>
-      <point x="275" y="710" type="line"/>
-      <point x="365" y="600" type="line"/>
-      <point x="435" y="600" type="line"/>
-      <point x="345" y="780" type="line"/>
-      <point x="205" y="780" type="line"/>
-      <point x="115" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="219" y="1000" type="line"/>
-      <point x="89" y="1000" type="line"/>
-      <point x="240" y="820" type="line"/>
-      <point x="310" y="820" type="line"/>
-    </contour>
+    <component base="acircumflex"/>
+    <component base="gravecomb" xOffset="460" yOffset="220"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -134,7 +72,7 @@
   <key>com.fontlab.recipe</key>
   <string>acircumflex+gravecomb</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

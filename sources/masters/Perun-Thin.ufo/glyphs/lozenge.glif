@@ -5,19 +5,23 @@
   <outline>
     <contour>
       <point x="502" y="392" type="line"/>
-      <point x="300" y="776" type="line"/>
-      <point x="237" y="776" type="line"/>
+      <point x="272.646" y="828" type="line"/>
+      <point x="264.201" y="827.709" type="line"/>
       <point x="35" y="392" type="line"/>
-      <point x="237" y="0" type="line"/>
-      <point x="300" y="0" type="line"/>
+      <point x="262.792" y="-50.0517" type="line"/>
+      <point x="274.18" y="-50.1062" type="line"/>
     </contour>
     <contour>
-      <point x="440" y="392" type="line"/>
-      <point x="269" y="56" type="line"/>
-      <point x="97" y="392" type="line"/>
-      <point x="269" y="719" type="line"/>
+      <point x="480.175" y="393.222" type="line"/>
+      <point x="269.117" y="-23.9988" type="line"/>
+      <point x="56.8249" y="393.222" type="line"/>
+      <point x="269.117" y="798.999" type="line"/>
     </contour>
   </outline>
+  <guideline angle="117.746" x="502" y="392"/>
+  <guideline angle="242.254" x="237" y="776"/>
+  <guideline angle="62.7377" x="300" y="-0"/>
+  <guideline angle="297.262" x="35" y="392"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni028F" format="2">
-  <advance width="493"/>
+  <advance width="511"/>
   <unicode hex="028F"/>
   <outline>
     <contour>
-      <point x="492" y="500" type="line"/>
-      <point x="336" y="500" type="line"/>
-      <point x="209" y="240" type="line"/>
-      <point x="293" y="240" type="line"/>
-      <point x="164" y="500" type="line"/>
-      <point x="1" y="500" type="line"/>
-      <point x="179" y="179" type="line"/>
-      <point x="179" y="0" type="line"/>
-      <point x="314" y="0" type="line"/>
-      <point x="314" y="179" type="line"/>
+      <point x="501" y="500" type="line"/>
+      <point x="345" y="500" type="line"/>
+      <point x="218" y="240" type="line"/>
+      <point x="302" y="240" type="line"/>
+      <point x="173" y="500" type="line"/>
+      <point x="10" y="500" type="line"/>
+      <point x="188" y="179" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="323" y="179" type="line"/>
     </contour>
   </outline>
+  <guideline angle="243.966" x="345" y="500"/>
+  <guideline angle="116.388" x="302" y="240"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
+  </dict>
+  </lib>
 </glyph>
