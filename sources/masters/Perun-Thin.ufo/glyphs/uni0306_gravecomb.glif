@@ -3,7 +3,6 @@
   <anchor x="-300" y="600" name="_top"/>
   <anchor x="-298" y="732" name="top.mkmk"/>
   <outline>
-    <component base="gravecomb" xOffset="-118" yOffset="132"/>
     <contour>
       <point x="-439" y="717" type="line"/>
       <point x="-431" y="651"/>
@@ -19,6 +18,12 @@
       <point x="-364.841" y="619.992"/>
       <point x="-417.733" y="658.794"/>
       <point x="-429" y="716.992" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-264" y="732" type="line"/>
+      <point x="-374" y="903" type="line"/>
+      <point x="-403.758" y="903" type="line"/>
+      <point x="-273.758" y="732" type="line"/>
     </contour>
   </outline>
   <lib>

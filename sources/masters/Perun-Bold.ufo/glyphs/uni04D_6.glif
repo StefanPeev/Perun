@@ -2,25 +2,47 @@
 <glyph name="uni04D6" format="2">
   <advance width="616"/>
   <unicode hex="04D6"/>
-  <anchor x="292" y="797" name="top"/>
   <anchor x="-13" y="722" name="tonos"/>
   <outline>
-    <component base="uni0415"/>
     <contour>
-      <point x="298.006" y="898" type="curve" smooth="yes"/>
-      <point x="269.006" y="898"/>
-      <point x="239.006" y="920"/>
-      <point x="239.006" y="949" type="curve"/>
-      <point x="113.006" y="949" type="line"/>
-      <point x="113.006" y="867"/>
-      <point x="178.006" y="800"/>
-      <point x="298.006" y="800" type="curve" smooth="yes"/>
-      <point x="418.006" y="800"/>
-      <point x="483.006" y="868"/>
-      <point x="483.006" y="949" type="curve"/>
-      <point x="357.006" y="949" type="line"/>
-      <point x="357.006" y="919"/>
-      <point x="326.006" y="898"/>
+      <point x="210" y="115" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="547" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="722" type="line"/>
+      <point x="60" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="429" type="line"/>
+      <point x="210" y="317" type="line"/>
+      <point x="517" y="317" type="line"/>
+      <point x="517" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="722" type="line"/>
+      <point x="210" y="607" type="line"/>
+      <point x="537" y="607" type="line"/>
+      <point x="537" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="947" type="line"/>
+      <point x="140" y="857"/>
+      <point x="194" y="797"/>
+      <point x="292" y="797" type="curve" smooth="yes"/>
+      <point x="384" y="797"/>
+      <point x="442" y="864"/>
+      <point x="452" y="947" type="curve"/>
+      <point x="392" y="947" type="line"/>
+      <point x="392" y="917"/>
+      <point x="341" y="877"/>
+      <point x="291" y="877" type="curve" smooth="yes"/>
+      <point x="241" y="877"/>
+      <point x="192" y="917"/>
+      <point x="192" y="947" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -70,6 +92,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0415+uni0306</string>
   </dict>
   </lib>
 </glyph>
