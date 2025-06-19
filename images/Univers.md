@@ -22,4 +22,20 @@ Univers' ampersand is a distinctive 'et' ligature of a style popular in French-s
 Frutiger's original ampersand was a true 'et' ligature, similar to that in Trebuchet among others. Frutiger later provided an alternative for non French-speaking countries in which the form might be less familiar. 
  
 The Deberny & Peignot library was acquired in 1972 by Haas Type Foundry. It was transferred into the D. Stempel AG and Linotype collection in 1985 and 1989 respectively upon the Haas'sche Schriftgiesserei's acquisition and closure; it is now owned by Monotype following its purchase of Linotype in 2007. An independent version of Univers was licensed by the Berthold Type Foundry for its phototypesetting system with adaptations by Günter Gerhard Lange; Frutiger wrote in his autobiography that he had some affection for it. 
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Univers)
+
+### Univers specimens 
+ 
+[Table with numbered styles](https://www.flickr.com/photos/46165392@N05/49926029297/in/dateposted/) 
+[Corpus typographique français](http://collections.bm-lyon.fr/mil/search?query[]=title_s:%22Univers%22) 
+[1963 ATF specimen](https://oa.letterformarchive.org/item?workID=lfa_type_0120) 
+[1964 Deberny et Peignot specimen}(https://www.flickr.com/photos/46165392@N05/albums/72157714420973298) 
+[1964 Monotype ad](https://www.flickr.com/photos/36844288@N00/48530365731/in/contacts/) 
+[1968 ATF specimen](https://archive.org/details/ATFFoundryUniversDebernyPeignotIP1968/mode/2up) 
+[Jan 1961 TM feature by Ruder](https://productiontype.com/article/deberny-et-peignot-s-univers-1957) 
+[1961 Graphis showing of table by Ruder](https://iaddb.org/?query=search=ccobjectid=3672150&showtype=record) 
+[1961 Print feature](https://www.printmag.com/design-inspiration/subtleties-of-the-univers/) 
+[1961 Penrose Annual feature by Dreyfus](https://www.flickr.com/photos/acejet170/8075126658/in/album-72157631740646663/) 
+[1961 Revue der Reclame critique](https://iaddb.org/?query=search=ccobjectid=3456146&showtype=record) 
   
