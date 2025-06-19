@@ -22,7 +22,7 @@ SIL Open Font License [OFL](documentation/OFL.txt)
 
 ### Examples
 
-See [images](/images/), [Univers](Univers.md), [Spécimen Univers (Frutiger 1957)](https://github.com/StefanPeev/Perun/blob/master/images/Sp%C3%A9cimen%20Univers%20(Frutiger%201957).md).
+See [images](/images/), [Univers](/images/Univers.md), [Spécimen Univers (Frutiger 1957)](https://github.com/StefanPeev/Perun/blob/master/images/Sp%C3%A9cimen%20Univers%20(Frutiger%201957).md).
 
 ### Local Fonts Project
 
