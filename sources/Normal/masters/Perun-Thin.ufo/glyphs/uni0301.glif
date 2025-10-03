@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0301" format="2">
+  <unicode hex="0301"/>
+  <anchor x="-64" y="580" name="_top"/>
+  <anchor x="-63" y="580" name="_t.mkmk"/>
+  <outline>
+    <component base="acute" xOffset="-114.5"/>
+  </outline>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="720"/>
+  <guideline angle="90" x="-74.5" y="0"/>
+  <guideline angle="90" x="74.5" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>600</integer>
+        <key>width</key>
+        <integer>171</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-357</integer>
+        <key>width</key>
+        <integer>201</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

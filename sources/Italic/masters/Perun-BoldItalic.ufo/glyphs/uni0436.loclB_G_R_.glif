@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0436.loclBGR" format="2">
+  <advance width="787"/>
+  <outline>
+    <contour>
+      <point x="744.829" y="0" type="line"/>
+      <point x="599.142" y="293.876" type="line"/>
+      <point x="594.564" y="274.781" type="line"/>
+      <point x="826.029" y="500" type="line"/>
+      <point x="664.029" y="500" type="line"/>
+      <point x="450.498" y="282.853" type="line"/>
+      <point x="580.829" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="261.829" y="0" type="line"/>
+      <point x="397.829" y="0" type="line"/>
+      <point x="538.186" y="722" type="line"/>
+      <point x="402.186" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="69.5188" y="500" type="line"/>
+      <point x="178.2" y="271.976" type="line"/>
+      <point x="214.975" y="355.29" type="line"/>
+      <point x="-79.502" y="0" type="line"/>
+      <point x="92.498" y="0" type="line"/>
+      <point x="316.844" y="283" type="line"/>
+      <point x="223.519" y="500" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="283"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>686</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>325</integer>
+        <key>width</key>
+        <integer>120</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-80</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  </dict>
+  </lib>
+</glyph>

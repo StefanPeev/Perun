@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB02" format="2">
+  <advance width="490"/>
+  <unicode hex="FB02"/>
+  <anchor x="390" y="762" name="top"/>
+  <anchor x="390" y="-57" name="bottom"/>
+  <anchor x="470" y="722" name="caron_TR"/>
+  <outline>
+    <contour>
+      <point x="110" y="622.98" type="curve" smooth="yes"/>
+      <point x="110" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="620.98" type="line" smooth="yes"/>
+      <point x="130" y="682.944"/>
+      <point x="148.197" y="711.926"/>
+      <point x="201.763" y="711.926" type="curve" smooth="yes"/>
+      <point x="219.525" y="711.926"/>
+      <point x="241.515" y="709.179"/>
+      <point x="261" y="701.98" type="curve"/>
+      <point x="261" y="722" type="line"/>
+      <point x="238.955" y="729.348"/>
+      <point x="223.045" y="732"/>
+      <point x="192.024" y="732" type="curve" smooth="yes"/>
+      <point x="137.751" y="732"/>
+      <point x="110" y="692.469"/>
+    </contour>
+    <contour>
+      <point x="120" y="500" type="line"/>
+      <point x="10" y="500" type="line"/>
+      <point x="10" y="480" type="line"/>
+      <point x="120" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="120.494" y="480" type="line"/>
+      <point x="256" y="480" type="line"/>
+      <point x="256" y="500" type="line"/>
+      <point x="120.493" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="722" type="line"/>
+      <point x="380" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>f_l</string>
+  </dict>
+  </lib>
+</glyph>

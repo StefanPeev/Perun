@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="2">
+  <advance width="536"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="497.724" y="392" type="line"/>
+      <point x="353.119" y="828" type="line"/>
+      <point x="344.618" y="827.709" type="line"/>
+      <point x="30.7236" y="392" type="line"/>
+      <point x="172.589" y="-50.0517" type="line"/>
+      <point x="183.967" y="-50.1062" type="line"/>
+    </contour>
+    <contour>
+      <point x="476.136" y="393.222" type="line"/>
+      <point x="183.979" y="-23.9988" type="line"/>
+      <point x="52.786" y="393.222" type="line"/>
+      <point x="343.953" y="798.999" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="117.746" x="502" y="392"/>
+  <guideline angle="242.254" x="237" y="776"/>
+  <guideline angle="62.7377" x="300" y="0"/>
+  <guideline angle="297.262" x="35" y="392"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

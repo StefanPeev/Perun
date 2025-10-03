@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="2">
+  <advance width="643"/>
+  <unicode hex="03B4"/>
+  <outline>
+    <contour>
+      <point x="362.916" y="420.42" type="line"/>
+      <point x="367.233" y="417.756" type="line" smooth="yes"/>
+      <point x="411.901" y="390.196"/>
+      <point x="439.214" y="346.817"/>
+      <point x="439.214" y="285.24" type="curve" smooth="yes"/>
+      <point x="439.214" y="195.609"/>
+      <point x="381.346" y="71.58"/>
+      <point x="283.089" y="71.58" type="curve" smooth="yes"/>
+      <point x="274.989" y="71.58" type="line" smooth="yes"/>
+      <point x="210.182" y="71.58"/>
+      <point x="176.545" y="121.367"/>
+      <point x="176.545" y="189.207" type="curve" smooth="yes"/>
+      <point x="176.545" y="283.635"/>
+      <point x="240.745" y="420.42"/>
+      <point x="346.996" y="420.42" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="169.407" y="592.738" type="line"/>
+      <point x="311.449" y="479.432" type="line"/>
+      <point x="317.344" y="490.054" type="line"/>
+      <point x="153.115" y="453.604"/>
+      <point x="36.4109" y="347.179"/>
+      <point x="36.4109" y="173.445" type="curve" smooth="yes"/>
+      <point x="36.4109" y="68.539"/>
+      <point x="97.0166" y="-14.4"/>
+      <point x="253.067" y="-14.4" type="curve" smooth="yes"/>
+      <point x="444.487" y="-14.4"/>
+      <point x="575.133" y="110.397"/>
+      <point x="575.133" y="298.283" type="curve" smooth="yes"/>
+      <point x="575.133" y="374.464"/>
+      <point x="542.664" y="436.329"/>
+      <point x="484.942" y="485.4" type="curve" smooth="yes"/>
+      <point x="309.705" y="634.373" type="line"/>
+      <point x="306.025" y="627.3" type="line"/>
+      <point x="585.125" y="627.3" type="line"/>
+      <point x="603.61" y="722.4" type="line"/>
+      <point x="194.61" y="722.4" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="322.028" x="124" y="607"/>
+  <guideline angle="143.856" x="461" y="485"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

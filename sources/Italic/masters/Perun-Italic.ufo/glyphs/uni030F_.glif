@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030F" format="2">
+  <advance width="1"/>
+  <unicode hex="030F"/>
+  <anchor x="-228.305" y="600" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-384.551" y="771" type="line"/>
+      <point x="-307.794" y="600" type="line"/>
+      <point x="-257.794" y="600" type="line"/>
+      <point x="-294.551" y="771" type="line"/>
+    </contour>
+    <contour>
+      <point x="-244.551" y="771" type="line"/>
+      <point x="-167.794" y="600" type="line"/>
+      <point x="-117.794" y="600" type="line"/>
+      <point x="-154.551" y="771" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>600</integer>
+        <key>width</key>
+        <integer>171</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-457</integer>
+        <key>width</key>
+        <integer>300</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

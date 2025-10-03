@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="568"/>
+  <unicode hex="0141"/>
+  <outline>
+    <component base="L" xOffset="48.6852"/>
+    <contour>
+      <point x="264.563" y="338.118" type="line"/>
+      <point x="421.882" y="468.43" type="line"/>
+      <point x="445.597" y="590.43" type="line"/>
+      <point x="288.278" y="460.118" type="line"/>
+    </contour>
+    <contour>
+      <point x="158.941" y="351.685" type="line"/>
+      <point x="18.5916" y="235.43" type="line"/>
+      <point x="-5.12275" y="113.43" type="line"/>
+      <point x="135.226" y="229.685" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>116</integer>
+        <key>width</key>
+        <integer>150</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=L-26</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L</string>
+  </dict>
+  </lib>
+</glyph>

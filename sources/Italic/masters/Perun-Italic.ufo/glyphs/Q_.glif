@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="779"/>
+  <unicode hex="0051"/>
+  <anchor x="471.584" y="797" name="top"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="542.909" y="70.1269" type="curve"/>
+      <point x="373.734" y="-8.4" type="line"/>
+      <point x="381.006" y="-7" type="line" smooth="yes"/>
+      <point x="405.98" y="-2.1922"/>
+      <point x="497.662" y="0"/>
+      <point x="517.662" y="0" type="curve" smooth="yes"/>
+      <point x="696.662" y="0" type="line"/>
+      <point x="713.768" y="88" type="line"/>
+      <point x="666.811" y="88"/>
+      <point x="558.142" y="77.2674"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>650</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>49</integer>
+        <key>width</key>
+        <integer>102</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>600</integer>
+        <key>width</key>
+        <integer>104</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>

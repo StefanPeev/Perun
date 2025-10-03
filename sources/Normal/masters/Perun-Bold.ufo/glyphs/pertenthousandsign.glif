@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pertenthousandsign" format="2">
+  <advance width="1918"/>
+  <unicode hex="2031"/>
+  <outline>
+    <component base="perthousand"/>
+    <contour>
+      <point x="1488" y="195" type="curve" smooth="yes"/>
+      <point x="1488" y="78"/>
+      <point x="1566" y="-7"/>
+      <point x="1686" y="-7" type="curve" smooth="yes"/>
+      <point x="1806" y="-7"/>
+      <point x="1886" y="79"/>
+      <point x="1886" y="196" type="curve" smooth="yes"/>
+      <point x="1886" y="313"/>
+      <point x="1807" y="401"/>
+      <point x="1688" y="401" type="curve" smooth="yes"/>
+      <point x="1568" y="401"/>
+      <point x="1488" y="313"/>
+    </contour>
+    <contour>
+      <point x="1591" y="197" type="curve" smooth="yes"/>
+      <point x="1591" y="272"/>
+      <point x="1617" y="334"/>
+      <point x="1686" y="334" type="curve" smooth="yes"/>
+      <point x="1755" y="334"/>
+      <point x="1780" y="272"/>
+      <point x="1780" y="197" type="curve" smooth="yes"/>
+      <point x="1780" y="122"/>
+      <point x="1755" y="60"/>
+      <point x="1686" y="60" type="curve" smooth="yes"/>
+      <point x="1617" y="60"/>
+      <point x="1591" y="122"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="192"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=percent</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=percent</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcommaaccent" format="2">
+  <advance width="613"/>
+  <unicode hex="0123"/>
+  <anchor x="317" y="-273" name="bottom"/>
+  <anchor x="292" y="580" name="cedilla.top"/>
+  <outline>
+    <component base="g"/>
+    <component base="commaaccent.alt" xOffset="227"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g+commaaccent.alt</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

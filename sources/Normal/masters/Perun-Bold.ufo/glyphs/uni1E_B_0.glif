@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EB0" format="2">
+  <advance width="710"/>
+  <unicode hex="1EB0"/>
+  <anchor x="355" y="-75" name="bottom"/>
+  <anchor x="355" y="666" name="t.ring"/>
+  <anchor x="152" y="722" name="tonos"/>
+  <anchor x="700" y="0" name="ogonekUC"/>
+  <outline>
+    <component base="Abreve"/>
+    <component base="uni0300" xOffset="350.5" yOffset="222"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>955</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Abreve+uni0300</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udotbelow" format="2">
+  <advance width="574"/>
+  <unicode hex="1EE5"/>
+  <anchor x="282" y="580" name="top"/>
+  <anchor x="474" y="0" name="ogonekLC"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni0323" xOffset="282" yOffset="-12"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni0323</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

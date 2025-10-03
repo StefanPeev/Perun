@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080301" format="2">
+  <advance width="500"/>
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="720" name="t.mkmk"/>
+  <outline>
+    <component base="uni0308"/>
+    <component base="uni0301" xOffset="63" yOffset="140"/>
+  </outline>
+  <guideline angle="90" x="-401" y="0"/>
+  <guideline angle="90" x="-179" y="0"/>
+  <guideline angle="90" x="-290" y="0"/>
+  <guideline angle="0" x="0" y="600"/>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="720"/>
+  <guideline angle="90" x="-74.5" y="0"/>
+  <guideline angle="90" x="74.5" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresiscomb_acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

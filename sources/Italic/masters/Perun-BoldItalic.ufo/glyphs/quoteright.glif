@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="2">
+  <advance width="275"/>
+  <unicode hex="2019"/>
+  <anchor x="141.171" y="722" name="_caron_TR"/>
+  <outline>
+    <contour>
+      <point x="316.186" y="722" type="line"/>
+      <point x="180.186" y="722" type="line"/>
+      <point x="52.1967" y="470" type="line"/>
+      <point x="147.197" y="470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>470</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

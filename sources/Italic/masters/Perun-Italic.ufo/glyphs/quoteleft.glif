@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+  <advance width="270"/>
+  <unicode hex="2018"/>
+  <anchor x="77.5762" y="472" name="_cedilla.top"/>
+  <outline>
+    <contour>
+      <point x="20.5855" y="472" type="line"/>
+      <point x="140.586" y="472" type="line"/>
+      <point x="249.186" y="722" type="line"/>
+      <point x="179.186" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>472</integer>
+        <key>width</key>
+        <integer>250</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>40</integer>
+        <key>width</key>
+        <integer>180</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  </dict>
+  </lib>
+</glyph>

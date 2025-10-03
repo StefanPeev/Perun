@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="2">
+  <advance width="296"/>
+  <unicode hex="0237"/>
+  <anchor x="219" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="-59.8079" y="-212" type="line"/>
+      <point x="-36.8079" y="-212" type="line" smooth="yes"/>
+      <point x="59.1921" y="-212"/>
+      <point x="133.413" y="-180"/>
+      <point x="152.853" y="-80" type="curve" smooth="yes"/>
+      <point x="265.605" y="500" type="line"/>
+      <point x="130.605" y="500" type="line"/>
+      <point x="23.6849" y="-50" type="line" smooth="yes"/>
+      <point x="18.6305" y="-76"/>
+      <point x="4.38173" y="-103"/>
+      <point x="-26.6183" y="-103" type="curve" smooth="yes"/>
+      <point x="-38.6183" y="-103" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-232</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>100</integer>
+        <key>width</key>
+        <integer>187</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>152</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  <key>com.fontlab.recipe</key>
+  <string>j</string>
+  </dict>
+  </lib>
+</glyph>

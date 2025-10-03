@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0303" format="2">
+  <unicode hex="0303"/>
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="720" name="t.mkmk"/>
+  <outline>
+    <component base="tilde" xOffset="-146"/>
+  </outline>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="600"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>623</integer>
+        <key>width</key>
+        <integer>57</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>659</integer>
+        <key>width</key>
+        <integer>57</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-441</integer>
+        <key>width</key>
+        <integer>291</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

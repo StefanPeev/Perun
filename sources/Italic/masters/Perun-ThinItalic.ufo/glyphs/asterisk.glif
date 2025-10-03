@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="656"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="210.862" y="366.298" type="line"/>
+      <point x="229.782" y="354.844" type="line"/>
+      <point x="362.572" y="527" type="line"/>
+      <point x="417.78" y="348.956" type="line"/>
+      <point x="441.738" y="361.132" type="line"/>
+      <point x="362.572" y="527" type="line"/>
+      <point x="560.439" y="516.025" type="line"/>
+      <point x="565.093" y="539.968" type="line"/>
+      <point x="362.572" y="527" type="line"/>
+      <point x="507.856" y="695.738" type="line"/>
+      <point x="486.657" y="708.572" type="line"/>
+      <point x="362.572" y="527" type="line"/>
+      <point x="303.373" y="705.979" type="line"/>
+      <point x="280.185" y="694.756" type="line"/>
+      <point x="362.572" y="527" type="line"/>
+      <point x="164.191" y="540.473" type="line"/>
+      <point x="159.437" y="516.014" type="line"/>
+      <point x="362.572" y="527" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="28.1132" x="192" y="227.781"/>
+  <guideline angle="28.1132" x="192" y="683"/>
+  <guideline angle="90" x="128" y="0"/>
+  <guideline angle="90" x="529" y="0"/>
+  <guideline angle="331.557" x="393" y="266.375"/>
+  <guideline angle="331.557" x="393" y="722"/>
+  <guideline angle="90" x="329" y="0"/>
+  <guideline angle="0" x="0" y="527"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

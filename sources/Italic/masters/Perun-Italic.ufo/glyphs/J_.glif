@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="2">
+  <advance width="508"/>
+  <unicode hex="004A"/>
+  <anchor x="446.75" y="797" name="top"/>
+  <outline>
+    <contour>
+      <point x="-44.4577" y="194" type="line"/>
+      <point x="-47.5353" y="178.169"/>
+      <point x="-49.0301" y="162.944"/>
+      <point x="-49.0301" y="148.434" type="curve" smooth="yes"/>
+      <point x="-49.0301" y="51.1288"/>
+      <point x="18.1977" y="-14"/>
+      <point x="126.107" y="-14" type="curve" smooth="yes"/>
+      <point x="256.107" y="-14"/>
+      <point x="362.575" y="81"/>
+      <point x="388.625" y="215" type="curve" smooth="yes"/>
+      <point x="487.185" y="722" type="line"/>
+      <point x="387.185" y="722" type="line"/>
+      <point x="288.625" y="215" type="line" smooth="yes"/>
+      <point x="273.073" y="135"/>
+      <point x="220.214" y="74"/>
+      <point x="139.214" y="74" type="curve" smooth="yes"/>
+      <point x="84.0267" y="74"/>
+      <point x="51.7557" y="101.968"/>
+      <point x="51.7557" y="157.903" type="curve" smooth="yes"/>
+      <point x="51.7557" y="168.862"/>
+      <point x="52.9944" y="180.894"/>
+      <point x="55.5422" y="194" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>98</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>378</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A-70</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  </dict>
+  </lib>
+</glyph>

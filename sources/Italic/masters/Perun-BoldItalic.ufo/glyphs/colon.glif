@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="2">
+  <advance width="316"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="40.3867" y="0" type="line"/>
+      <point x="176.387" y="0" type="line"/>
+      <point x="204.081" y="142.476" type="line"/>
+      <point x="68.0813" y="142.476" type="line"/>
+    </contour>
+    <contour>
+      <point x="111.919" y="368" type="line"/>
+      <point x="247.919" y="368" type="line"/>
+      <point x="275.613" y="510.476" type="line"/>
+      <point x="139.613" y="510.476" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>132</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>368</integer>
+        <key>width</key>
+        <integer>132</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>137</integer>
+        <key>width</key>
+        <integer>126</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=period</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+  <advance width="577"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="242.636" y="57" type="line"/>
+      <point x="187.629" y="262.896" type="line"/>
+      <point x="183.393" y="241.104" type="line"/>
+      <point x="318.444" y="447" type="line"/>
+      <point x="188.444" y="447" type="line"/>
+      <point x="40.5398" y="252" type="line"/>
+      <point x="112.636" y="57" type="line"/>
+    </contour>
+    <contour>
+      <point x="460.636" y="57" type="line"/>
+      <point x="405.629" y="262.896" type="line"/>
+      <point x="401.393" y="241.104" type="line"/>
+      <point x="536.444" y="447" type="line"/>
+      <point x="406.444" y="447" type="line"/>
+      <point x="258.54" y="252" type="line"/>
+      <point x="330.636" y="57" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="294.758" x="438" y="263"/>
+  <guideline angle="245.242" x="533" y="447"/>
+  <guideline angle="60.5725" x="293" y="252"/>
+  <guideline angle="119.427" x="403" y="57"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>57</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>427</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
+</glyph>

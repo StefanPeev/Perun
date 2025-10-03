@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent.alt" format="2">
+  <advance width="228"/>
+  <anchor x="114" y="580" name="_top"/>
+  <outline>
+    <contour>
+      <point x="52.7093" y="580" type="line"/>
+      <point x="140.709" y="580" type="line"/>
+      <point x="175.709" y="725" type="line"/>
+      <point x="112.709" y="725" type="line"/>
+      <point x="52.6736" y="591.955" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="90" x="114" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=52</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=52</string>
+  </dict>
+  </lib>
+</glyph>

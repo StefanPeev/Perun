@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="640"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="177.985" y="388" type="line"/>
+      <point x="261.266" y="338" type="line"/>
+      <point x="342.868" y="480" type="line"/>
+      <point x="369.266" y="338" type="line"/>
+      <point x="470.985" y="388" type="line"/>
+      <point x="394.088" y="512" type="line"/>
+      <point x="544.034" y="486" type="line"/>
+      <point x="563.861" y="588" type="line"/>
+      <point x="403.807" y="562" type="line"/>
+      <point x="528.91" y="686" type="line"/>
+      <point x="446.435" y="735" type="line"/>
+      <point x="365.027" y="594" type="line"/>
+      <point x="338.435" y="735" type="line"/>
+      <point x="235.91" y="686" type="line"/>
+      <point x="312.807" y="562" type="line"/>
+      <point x="162.861" y="588" type="line"/>
+      <point x="143.034" y="486" type="line"/>
+      <point x="303.088" y="512" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="331.96" x="375" y="735"/>
+  <guideline angle="331.96" x="375" y="735"/>
+  <guideline angle="290.956" x="267" y="735"/>
+  <guideline angle="129.163" x="275" y="562"/>
+  <guideline angle="90" x="329" y="0"/>
+  <guideline angle="0" x="0" y="527"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>338</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>715</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

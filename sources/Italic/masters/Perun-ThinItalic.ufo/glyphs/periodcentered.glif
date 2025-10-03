@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+  <advance width="206"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="102.014" y="298" type="line"/>
+      <point x="125.925" y="421" type="line"/>
+      <point x="103.925" y="421" type="line"/>
+      <point x="80.0141" y="298" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>278</integer>
+        <key>width</key>
+        <integer>123</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>84</integer>
+        <key>width</key>
+        <integer>108</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=period</string>
+  </dict>
+  </lib>
+</glyph>

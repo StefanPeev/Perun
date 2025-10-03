@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="2">
+  <advance width="767"/>
+  <unicode hex="0048"/>
+  <anchor x="397.75" y="797" name="top"/>
+  <anchor x="228.25" y="-75" name="bottom"/>
+  <anchor x="22.1713" y="722" name="tonos"/>
+  <anchor x="78" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="224.587" y="436" type="line"/>
+      <point x="202.037" y="320" type="line"/>
+      <point x="547.037" y="320" type="line"/>
+      <point x="569.587" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="20.8287" y="0" type="line"/>
+      <point x="170.829" y="0" type="line"/>
+      <point x="311.185" y="722" type="line"/>
+      <point x="161.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="455.829" y="0" type="line"/>
+      <point x="605.829" y="0" type="line"/>
+      <point x="746.186" y="722" type="line"/>
+      <point x="596.186" y="722" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="30" y="0"/>
+  <guideline angle="90" x="510" y="0"/>
+  <guideline angle="90" x="233" y="0"/>
+  <guideline angle="90" x="194" y="0"/>
+  <guideline angle="90" x="273" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>320</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>70</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>145</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  </dict>
+  </lib>
+</glyph>

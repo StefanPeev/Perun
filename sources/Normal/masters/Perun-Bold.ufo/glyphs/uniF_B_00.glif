@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB00" format="2">
+  <advance width="708"/>
+  <unicode hex="FB00"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="354"/>
+    <contour>
+      <point x="282" y="415" type="line"/>
+      <point x="422" y="415" type="line"/>
+      <point x="422" y="500" type="line"/>
+      <point x="282" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=f</string>
+  <key>com.fontlab.recipe</key>
+  <string>f_f</string>
+  </dict>
+  </lib>
+</glyph>

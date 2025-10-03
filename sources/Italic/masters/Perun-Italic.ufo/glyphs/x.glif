@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+  <advance width="572"/>
+  <unicode hex="0078"/>
+  <anchor x="330.146" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="467.405" y="0" type="line"/>
+      <point x="179.605" y="500" type="line"/>
+      <point x="65.6049" y="500" type="line"/>
+      <point x="353.405" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.206" y="270.894" type="line"/>
+      <point x="-39.5951" y="0" type="line"/>
+      <point x="65.4049" y="0" type="line"/>
+      <point x="256.838" y="209.168" type="line"/>
+    </contour>
+    <contour>
+      <point x="307.281" y="247.125" type="line"/>
+      <point x="551.605" y="500" type="line"/>
+      <point x="446.605" y="500" type="line"/>
+      <point x="272.71" y="308.799" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="127.596" x="516" y="0"/>
+  <guideline angle="127.596" x="413" y="0"/>
+  <guideline angle="54.1523" x="114" y="0"/>
+  <guideline angle="232.493" x="217" y="271"/>
+  <guideline angle="52.3767" x="308" y="247"/>
+  <guideline angle="234.349" x="398" y="500"/>
+  <guideline angle="90" x="213" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  </dict>
+  </lib>
+</glyph>

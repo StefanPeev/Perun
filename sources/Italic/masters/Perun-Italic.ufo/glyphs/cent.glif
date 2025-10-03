@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+  <advance width="558"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <component base="c" xOffset="5"/>
+    <contour>
+      <point x="483.217" y="612" type="line"/>
+      <point x="436.744" y="625" type="line"/>
+      <point x="45.7642" y="-126" type="line"/>
+      <point x="91.2373" y="-139" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="165.141" x="425" y="612"/>
+  <guideline angle="344.846" x="131" y="-126"/>
+  <guideline angle="251.932" x="376" y="625"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>445</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>71</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>400</integer>
+        <key>width</key>
+        <integer>89</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

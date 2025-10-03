@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="2">
+  <advance width="575"/>
+  <unicode hex="006F"/>
+  <anchor x="351.979" y="580" name="top"/>
+  <anchor x="224.66" y="-75" name="bottom"/>
+  <anchor x="351.979" y="580" name="tonos.top"/>
+  <anchor x="290" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="30.9787" y="192.708" type="curve" smooth="yes"/>
+      <point x="30.9787" y="61.4526"/>
+      <point x="106.576" y="-12"/>
+      <point x="236.519" y="-12" type="curve" smooth="yes"/>
+      <point x="424.147" y="-12"/>
+      <point x="544.818" y="141.143"/>
+      <point x="544.818" y="309.032" type="curve" smooth="yes"/>
+      <point x="544.818" y="439.021"/>
+      <point x="470.724" y="512"/>
+      <point x="341.057" y="512" type="curve" smooth="yes"/>
+      <point x="154.138" y="512"/>
+      <point x="30.9787" y="360.808"/>
+    </contour>
+    <contour>
+      <point x="328.402" y="447" type="curve" smooth="yes"/>
+      <point x="407.176" y="447"/>
+      <point x="451.148" y="405.243"/>
+      <point x="451.148" y="319.084" type="curve" smooth="yes"/>
+      <point x="451.148" y="194.86"/>
+      <point x="391.994" y="53"/>
+      <point x="247.276" y="53" type="curve" smooth="yes"/>
+      <point x="168.502" y="53"/>
+      <point x="124.53" y="95.032"/>
+      <point x="124.53" y="181.757" type="curve" smooth="yes"/>
+      <point x="124.53" y="306.067"/>
+      <point x="183.683" y="447"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="289" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>65</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>447</integer>
+        <key>width</key>
+        <integer>65</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>40</integer>
+        <key>width</key>
+        <integer>94</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>446</integer>
+        <key>width</key>
+        <integer>94</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

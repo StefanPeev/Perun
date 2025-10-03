@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+  <advance width="952"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="20.8287" y="0" type="line"/>
+      <point x="170.829" y="0" type="line"/>
+      <point x="311.185" y="722" type="line"/>
+      <point x="161.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="640.829" y="0" type="line"/>
+      <point x="790.829" y="0" type="line"/>
+      <point x="931.185" y="722" type="line"/>
+      <point x="781.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="343.829" y="0" type="line"/>
+      <point x="487.829" y="0" type="line"/>
+      <point x="841.186" y="722" type="line"/>
+      <point x="703.186" y="722" type="line"/>
+      <point x="447.644" y="185.621" type="line"/>
+      <point x="456.183" y="185.621" type="line"/>
+      <point x="388.186" y="722" type="line"/>
+      <point x="251.186" y="722" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="486" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>706</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>70</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>720</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>com.fontlab.recipe</key>
+  <string>M+uni0327</string>
+  </dict>
+  </lib>
+</glyph>

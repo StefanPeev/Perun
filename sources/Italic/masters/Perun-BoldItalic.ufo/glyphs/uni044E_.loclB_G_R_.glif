@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E.loclBGR" format="2">
+  <advance width="795"/>
+  <outline>
+    <contour>
+      <point x="20.8287" y="0" type="line"/>
+      <point x="156.829" y="0" type="line"/>
+      <point x="297.171" y="722" type="line"/>
+      <point x="161.171" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="453.913" y="-15" type="curve" smooth="yes"/>
+      <point x="643.412" y="-15"/>
+      <point x="755.384" y="153.656"/>
+      <point x="755.384" y="328.336" type="curve" smooth="yes"/>
+      <point x="755.384" y="420.557"/>
+      <point x="715.623" y="511"/>
+      <point x="553.157" y="511" type="curve" smooth="yes"/>
+      <point x="362.766" y="511"/>
+      <point x="247.25" y="357.541"/>
+      <point x="247.25" y="178.95" type="curve" smooth="yes"/>
+      <point x="247.25" y="60.0514"/>
+      <point x="311.867" y="-15"/>
+    </contour>
+    <contour>
+      <point x="534.691" y="416" type="curve" smooth="yes"/>
+      <point x="588.674" y="416"/>
+      <point x="612.94" y="367.033"/>
+      <point x="612.94" y="304.535" type="curve" smooth="yes"/>
+      <point x="612.94" y="223.164"/>
+      <point x="564.671" y="84"/>
+      <point x="470.157" y="84" type="curve" smooth="yes"/>
+      <point x="416.174" y="84"/>
+      <point x="391.908" y="132.967"/>
+      <point x="391.908" y="195.465" type="curve" smooth="yes"/>
+      <point x="391.908" y="276.836"/>
+      <point x="440.177" y="416"/>
+    </contour>
+    <contour>
+      <point x="182.426" y="214" type="line"/>
+      <point x="265.426" y="214" type="line"/>
+      <point x="283.892" y="309" type="line"/>
+      <point x="200.892" y="309" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-15</integer>
+        <key>width</key>
+        <integer>99</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>416</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>684</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>218</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>568</integer>
+        <key>width</key>
+        <integer>140</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

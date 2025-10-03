@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="320"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="230.473" y="720" type="curve" smooth="yes"/>
+      <point x="162.202" y="720"/>
+      <point x="96.528" y="658.097"/>
+      <point x="96.528" y="589.021" type="curve" smooth="yes"/>
+      <point x="96.528" y="538.145"/>
+      <point x="134.271" y="500"/>
+      <point x="187.71" y="500" type="curve" smooth="yes"/>
+      <point x="255.369" y="500"/>
+      <point x="320.701" y="563.184"/>
+      <point x="320.701" y="631.353" type="curve" smooth="yes"/>
+      <point x="320.701" y="682.042"/>
+      <point x="283.781" y="720"/>
+    </contour>
+    <contour>
+      <point x="190.406" y="520" type="curve" smooth="yes"/>
+      <point x="147.209" y="520"/>
+      <point x="116.652" y="550.925"/>
+      <point x="116.652" y="591.781" type="curve" smooth="yes"/>
+      <point x="116.652" y="648.251"/>
+      <point x="172.429" y="700"/>
+      <point x="227.98" y="700" type="curve" smooth="yes"/>
+      <point x="270.446" y="700"/>
+      <point x="300.347" y="669.273"/>
+      <point x="300.347" y="627.746" type="curve" smooth="yes"/>
+      <point x="300.347" y="571.148"/>
+      <point x="246.43" y="520"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>681</integer>
+        <key>width</key>
+        <integer>39</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>230</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

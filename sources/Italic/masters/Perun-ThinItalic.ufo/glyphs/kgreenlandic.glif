@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="371"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="40.4049" y="0" type="line"/>
+      <point x="137.595" y="500" type="line"/>
+      <point x="116.232" y="492.989" type="line"/>
+      <point x="20.4049" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="339.405" y="0" type="line"/>
+      <point x="118.565" y="287.753" type="line"/>
+      <point x="115.762" y="272.384" type="line"/>
+      <point x="410.595" y="500" type="line"/>
+      <point x="377.595" y="500" type="line"/>
+      <point x="94.6854" y="280.736" type="line"/>
+      <point x="310.405" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="198.435" x="124" y="511.667"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  </dict>
+  </lib>
+</glyph>

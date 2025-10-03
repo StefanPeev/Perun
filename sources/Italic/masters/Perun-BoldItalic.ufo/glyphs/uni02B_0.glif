@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02B0" format="2">
+  <advance width="427"/>
+  <unicode hex="02B0"/>
+  <outline>
+    <contour>
+      <point x="20.4356" y="350.445" type="line"/>
+      <point x="114.939" y="350.445" type="line"/>
+      <point x="154.263" y="552.75" type="line" smooth="yes"/>
+      <point x="167.052" y="618.545"/>
+      <point x="204.658" y="653.552"/>
+      <point x="248.059" y="653.552" type="curve" smooth="yes"/>
+      <point x="280.678" y="653.552"/>
+      <point x="297.02" y="634.974"/>
+      <point x="297.02" y="597.491" type="curve" smooth="yes"/>
+      <point x="297.02" y="586.71"/>
+      <point x="295.668" y="574.366"/>
+      <point x="292.963" y="560.45" type="curve" smooth="yes"/>
+      <point x="252.142" y="350.445" type="line"/>
+      <point x="346.644" y="350.445" type="line"/>
+      <point x="392.908" y="588.45" type="line" smooth="yes"/>
+      <point x="395.212" y="600.304"/>
+      <point x="396.363" y="611.455"/>
+      <point x="396.363" y="621.831" type="curve" smooth="yes"/>
+      <point x="396.363" y="677.022"/>
+      <point x="363.798" y="710.253"/>
+      <point x="298.981" y="710.253" type="curve" smooth="yes"/>
+      <point x="241.473" y="710.253"/>
+      <point x="208.265" y="701.149"/>
+      <point x="175.218" y="660.552" type="curve"/>
+      <point x="213.181" y="855.857" type="line"/>
+      <point x="118.678" y="855.857" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-1</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>432</integer>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>494</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>701</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>66</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>397</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
+</glyph>

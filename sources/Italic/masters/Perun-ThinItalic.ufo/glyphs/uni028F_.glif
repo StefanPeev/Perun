@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni028F" format="2">
+  <advance width="472"/>
+  <unicode hex="028F"/>
+  <outline>
+    <contour>
+      <point x="383.806" y="500" type="line"/>
+      <point x="360.177" y="500" type="line"/>
+      <point x="129.102" y="213.101" type="line"/>
+      <point x="136.944" y="213.101" type="line"/>
+      <point x="14.3726" y="500" type="line"/>
+      <point x="-8.92558" y="500" type="line"/>
+      <point x="120.587" y="199" type="line"/>
+      <point x="81.9049" y="0" type="line"/>
+      <point x="101.905" y="0" type="line"/>
+      <point x="140.587" y="199" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="238.513" x="312" y="500"/>
+  <guideline angle="121.833" x="115" y="260"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>207</integer>
+        <key>width</key>
+        <integer>79</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
+  </dict>
+  </lib>
+</glyph>

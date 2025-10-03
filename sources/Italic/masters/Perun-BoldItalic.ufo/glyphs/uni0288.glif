@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0288" format="2">
+  <advance width="372"/>
+  <unicode hex="0288"/>
+  <outline>
+    <contour>
+      <point x="7.09449" y="-67" type="line" smooth="yes"/>
+      <point x="5.43209" y="-75.5524"/>
+      <point x="4.63409" y="-83.7544"/>
+      <point x="4.63409" y="-91.5874" type="curve" smooth="yes"/>
+      <point x="4.63409" y="-159.773"/>
+      <point x="65.1034" y="-200"/>
+      <point x="142.242" y="-200" type="curve" smooth="yes"/>
+      <point x="179.242" y="-200"/>
+      <point x="214.408" y="-194"/>
+      <point x="247.546" y="-183" type="curve"/>
+      <point x="264.069" y="-98" type="line"/>
+      <point x="247.902" y="-104"/>
+      <point x="230.319" y="-107"/>
+      <point x="212.319" y="-107" type="curve" smooth="yes"/>
+      <point x="171.284" y="-107"/>
+      <point x="147.382" y="-86.5362"/>
+      <point x="147.382" y="-49.3573" type="curve" smooth="yes"/>
+      <point x="147.382" y="-43.047"/>
+      <point x="148.071" y="-36.2551"/>
+      <point x="149.481" y="-29" type="curve" smooth="yes"/>
+      <point x="280.882" y="647" type="line"/>
+      <point x="132.275" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="220.786" y="415" type="line"/>
+      <point x="354.786" y="415" type="line"/>
+      <point x="371.308" y="500" type="line"/>
+      <point x="237.308" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.785799" y="415" type="line"/>
+      <point x="115.786" y="415" type="line"/>
+      <point x="132.308" y="500" type="line"/>
+      <point x="17.3081" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=t</string>
+  </dict>
+  </lib>
+</glyph>

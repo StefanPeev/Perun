@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="357"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="316.186" y="722" type="line"/>
+      <point x="186.959" y="191" type="line"/>
+      <point x="88.9591" y="191" type="line"/>
+      <point x="166.186" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="170.829" y="0" type="line"/>
+      <point x="40.8287" y="0" type="line"/>
+      <point x="63.1847" y="115" type="line"/>
+      <point x="193.185" y="115" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>133</integer>
+        <key>width</key>
+        <integer>124</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=period</string>
+  </dict>
+  </lib>
+</glyph>

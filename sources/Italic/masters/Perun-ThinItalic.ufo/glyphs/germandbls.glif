@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+  <advance width="578"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="60.793" y="-0.3284" type="line"/>
+      <point x="82.793" y="-0.3284" type="line"/>
+      <point x="186.171" y="531.507" type="line" smooth="yes"/>
+      <point x="209.011" y="649.009"/>
+      <point x="271.174" y="712"/>
+      <point x="384.618" y="712" type="curve" smooth="yes"/>
+      <point x="466.969" y="712"/>
+      <point x="511.453" y="675.355"/>
+      <point x="511.453" y="611.992" type="curve" smooth="yes"/>
+      <point x="511.453" y="602.225"/>
+      <point x="510.395" y="591.823"/>
+      <point x="508.257" y="580.822" type="curve" smooth="yes"/>
+      <point x="481.89" y="445.177"/>
+      <point x="354.69" y="449.29"/>
+      <point x="342.456" y="386.352" type="curve" smooth="yes"/>
+      <point x="328.171" y="312.862"/>
+      <point x="508.758" y="328.603"/>
+      <point x="508.758" y="179.453" type="curve" smooth="yes"/>
+      <point x="508.758" y="75.9204"/>
+      <point x="445.912" y="10"/>
+      <point x="338.862" y="10" type="curve" smooth="yes"/>
+      <point x="258.559" y="10"/>
+      <point x="216.836" y="44.0109"/>
+      <point x="216.836" y="108.205" type="curve" smooth="yes"/>
+      <point x="216.836" y="119.046"/>
+      <point x="218.026" y="130.747"/>
+      <point x="220.421" y="143.29" type="curve"/>
+      <point x="198.421" y="143.29" type="line"/>
+      <point x="195.614" y="128.851"/>
+      <point x="194.257" y="115.488"/>
+      <point x="194.257" y="103.179" type="curve" smooth="yes"/>
+      <point x="194.257" y="25.7519"/>
+      <point x="247.957" y="-10"/>
+      <point x="332.388" y="-10" type="curve" smooth="yes"/>
+      <point x="454.114" y="-10"/>
+      <point x="532.763" y="67.3549"/>
+      <point x="532.763" y="188.272" type="curve" smooth="yes"/>
+      <point x="532.763" y="332.69"/>
+      <point x="354.089" y="333.019"/>
+      <point x="365.018" y="389.242" type="curve" smooth="yes"/>
+      <point x="373.576" y="433.272"/>
+      <point x="502.116" y="441.196"/>
+      <point x="528.703" y="577.973" type="curve" smooth="yes"/>
+      <point x="531.227" y="590.959"/>
+      <point x="532.467" y="603.224"/>
+      <point x="532.467" y="614.729" type="curve" smooth="yes"/>
+      <point x="532.467" y="689.336"/>
+      <point x="480.353" y="732"/>
+      <point x="388.484" y="732" type="curve" smooth="yes"/>
+      <point x="265.489" y="732"/>
+      <point x="190.432" y="666.608"/>
+      <point x="165.356" y="537.604" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>659</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>51</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>208</integer>
+        <key>width</key>
+        <integer>93</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>254</integer>
+        <key>width</key>
+        <integer>97</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>382</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>468</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=B</string>
+  </dict>
+  </lib>
+</glyph>

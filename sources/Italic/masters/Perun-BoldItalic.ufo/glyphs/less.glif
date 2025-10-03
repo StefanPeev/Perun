@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+  <advance width="801"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="30.2704" y="209" type="line"/>
+      <point x="645.563" y="-21" type="line"/>
+      <point x="669.277" y="101" type="line"/>
+      <point x="161.521" y="304.177" type="line"/>
+      <point x="159.897" y="295.823" type="line"/>
+      <point x="746.641" y="499" type="line"/>
+      <point x="770.355" y="621" type="line"/>
+      <point x="65.6476" y="391" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="19.2127" x="50" y="391"/>
+  <guideline angle="200.361" x="710" y="499"/>
+  <guideline angle="339.639" x="163" y="304"/>
+  <guideline angle="160.787" x="710" y="-21"/>
+  <guideline angle="90" x="710" y="0"/>
+  <guideline angle="90" x="50" y="0"/>
+  <guideline angle="90" x="-20" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>39</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>541</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

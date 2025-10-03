@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+  <advance width="400"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="200" y="580" type="curve" smooth="yes"/>
+      <point x="273.72" y="580"/>
+      <point x="323.881" y="622.756"/>
+      <point x="340" y="697" type="curve"/>
+      <point x="320" y="696.992" type="line"/>
+      <point x="304.179" y="633.104"/>
+      <point x="263.216" y="599.992"/>
+      <point x="200" y="599.992" type="curve" smooth="yes"/>
+      <point x="137.132" y="599.992"/>
+      <point x="96.4241" y="632.897"/>
+      <point x="80" y="696.992" type="curve"/>
+      <point x="60" y="697" type="line"/>
+      <point x="72.9386" y="624.16"/>
+      <point x="125.78" y="580"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="200" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>600</integer>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-1</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>228</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

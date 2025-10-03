@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0448.loclBGR" format="2">
+  <advance width="866"/>
+  <outline>
+    <contour>
+      <point x="473.397" y="180" type="curve" smooth="yes"/>
+      <point x="535.605" y="500" type="line"/>
+      <point x="399.605" y="500" type="line"/>
+      <point x="345.367" y="221" type="line" smooth="yes"/>
+      <point x="324.552" y="113.924"/>
+      <point x="270.346" y="82"/>
+      <point x="214.346" y="82" type="curve" smooth="yes"/>
+      <point x="179.36" y="82"/>
+      <point x="159.319" y="100.335"/>
+      <point x="159.319" y="142.535" type="curve" smooth="yes"/>
+      <point x="159.319" y="153.407"/>
+      <point x="160.649" y="165.864"/>
+      <point x="163.397" y="180" type="curve" smooth="yes"/>
+      <point x="225.605" y="500" type="line"/>
+      <point x="89.6049" y="500" type="line"/>
+      <point x="25.4529" y="170" type="line" smooth="yes"/>
+      <point x="21.864" y="151.539"/>
+      <point x="20.0891" y="134.35"/>
+      <point x="20.0891" y="118.488" type="curve" smooth="yes"/>
+      <point x="20.0891" y="32.9637"/>
+      <point x="71.6865" y="-14"/>
+      <point x="168.754" y="-14" type="curve" smooth="yes"/>
+      <point x="231.576" y="-14"/>
+      <point x="290.163" y="17.4767"/>
+      <point x="334.409" y="75" type="curve"/>
+      <point x="345.805" y="26.878"/>
+      <point x="393.045" y="-14"/>
+      <point x="467.045" y="-14" type="curve" smooth="yes"/>
+      <point x="536.9" y="-14"/>
+      <point x="604.64" y="29.163"/>
+      <point x="641.262" y="97" type="curve"/>
+      <point x="665.36" y="220.964" type="line"/>
+      <point x="655.367" y="221" type="line"/>
+      <point x="641.067" y="147.436"/>
+      <point x="594.798" y="82"/>
+      <point x="527.097" y="82" type="curve" smooth="yes"/>
+      <point x="489.464" y="82"/>
+      <point x="469.938" y="105.975"/>
+      <point x="469.938" y="147.143" type="curve" smooth="yes"/>
+      <point x="469.938" y="157.118"/>
+      <point x="471.084" y="168.103"/>
+    </contour>
+    <contour>
+      <point x="639.621" y="140" type="line"/>
+      <point x="612.405" y="0" type="line"/>
+      <point x="748.405" y="0" type="line"/>
+      <point x="775.621" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="775.621" y="140" type="line"/>
+      <point x="845.605" y="500" type="line"/>
+      <point x="709.605" y="500" type="line"/>
+      <point x="639.564" y="139.709" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="75"/>
+  <guideline angle="0" x="0" y="130"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>481</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>366</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>676</integer>
+        <key>width</key>
+        <integer>135</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043D</string>
+  </dict>
+  </lib>
+</glyph>

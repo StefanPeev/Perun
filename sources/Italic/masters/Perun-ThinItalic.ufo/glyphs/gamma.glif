@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+  <advance width="426"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="16.4491" y="494.252" type="line" smooth="yes"/>
+      <point x="13.4948" y="506.889"/>
+      <point x="3.2094" y="514"/>
+      <point x="-6.72774" y="514" type="curve" smooth="yes"/>
+      <point x="-16.1055" y="514"/>
+      <point x="-26.6722" y="512.84"/>
+      <point x="-36.2748" y="511" type="curve"/>
+      <point x="-39.7" y="493.379" type="line"/>
+      <point x="-33.208" y="494.379"/>
+      <point x="-28.7278" y="494.251"/>
+      <point x="-24.8522" y="494.251" type="curve" smooth="yes"/>
+      <point x="-11.6043" y="494.251"/>
+      <point x="-8.20865" y="489.812"/>
+      <point x="-5.70065" y="479.552" type="curve" smooth="yes"/>
+      <point x="103.459" y="33" type="line"/>
+      <point x="58.1682" y="-200" type="line"/>
+      <point x="78.1682" y="-200" type="line"/>
+      <point x="123.454" y="32.9751" type="line"/>
+      <point x="405.124" y="503" type="line"/>
+      <point x="380.394" y="503" type="line"/>
+      <point x="106.157" y="42.4106" type="line"/>
+      <point x="122.077" y="42.4106" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="293.693" x="-18" y="409"/>
+  <guideline angle="113.178" x="128" y="126"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>438</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>483</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>237</integer>
+        <key>width</key>
+        <integer>91</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
+  </dict>
+  </lib>
+</glyph>

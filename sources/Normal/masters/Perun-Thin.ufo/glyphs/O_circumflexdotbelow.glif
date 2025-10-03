@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexdotbelow" format="2">
+  <advance width="754"/>
+  <unicode hex="1ED8"/>
+  <anchor x="72" y="722" name="tonos"/>
+  <anchor x="390" y="0" name="ogonekUC"/>
+  <outline>
+    <component base="uni1ECC"/>
+    <component base="uni0302" xOffset="365" yOffset="217"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1ECC+uni0302</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

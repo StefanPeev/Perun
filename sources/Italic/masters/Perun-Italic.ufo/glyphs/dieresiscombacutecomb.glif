@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscombacutecomb" format="2">
+  <advance width="481"/>
+  <anchor x="172.686" y="600" name="_top"/>
+  <outline>
+    <component base="uni0308" xOffset="440"/>
+    <contour>
+      <point x="430.965" y="946" type="line"/>
+      <point x="329.965" y="946" type="line"/>
+      <point x="196.723" y="775" type="line"/>
+      <point x="257.723" y="775" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>com.fontlab.recipe</key>
+  <string>dieresiscomb+uni0301</string>
+  </dict>
+  </lib>
+</glyph>

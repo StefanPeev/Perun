@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="811"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="650.312" y="17.5" type="line"/>
+      <point x="654.2" y="37.5" type="line"/>
+      <point x="54.1997" y="37.5" type="line"/>
+      <point x="50.3117" y="17.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="111.467" y="325.119" type="line"/>
+      <point x="666.755" y="95.1193" type="line"/>
+      <point x="670.838" y="116.119" type="line"/>
+      <point x="132.002" y="340.54" type="line"/>
+      <point x="130.53" y="332.023" type="line"/>
+      <point x="756.374" y="556.119" type="line"/>
+      <point x="760.456" y="577.119" type="line"/>
+      <point x="115.744" y="347.119" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="703" y="0"/>
+  <guideline angle="90" x="103" y="0"/>
+  <guideline angle="0" x="0" y="338"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=less</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=less</string>
+  </dict>
+  </lib>
+</glyph>

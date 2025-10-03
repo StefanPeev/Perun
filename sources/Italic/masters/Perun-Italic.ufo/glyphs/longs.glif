@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs" format="2">
+  <advance width="305"/>
+  <unicode hex="017F"/>
+  <outline>
+    <contour>
+      <point x="164.625" y="575" type="curve" smooth="yes"/>
+      <point x="52.8568" y="0" type="line"/>
+      <point x="142.857" y="0" type="line"/>
+      <point x="254.237" y="573" type="line" smooth="yes"/>
+      <point x="265.705" y="632"/>
+      <point x="290.148" y="660"/>
+      <point x="347.655" y="660" type="curve" smooth="yes"/>
+      <point x="365.722" y="660"/>
+      <point x="385.648" y="657.236"/>
+      <point x="399.815" y="648" type="curve"/>
+      <point x="414.199" y="722" type="line"/>
+      <point x="395.56" y="729"/>
+      <point x="369.396" y="732"/>
+      <point x="342.22" y="732" type="curve" smooth="yes"/>
+      <point x="238.143" y="732"/>
+      <point x="186.59" y="688"/>
+    </contour>
+    <contour>
+      <point x="165.047" y="500" type="line"/>
+      <point x="50.047" y="500" type="line"/>
+      <point x="37.4122" y="435" type="line"/>
+      <point x="152.412" y="435" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>435</integer>
+        <key>width</key>
+        <integer>65</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>660</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>110</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=f</string>
+  </dict>
+  </lib>
+</glyph>

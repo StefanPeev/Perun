@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.cv01" format="2">
+  <advance width="567"/>
+  <anchor x="359.672" y="600" name="top"/>
+  <anchor x="233.325" y="-50" name="bottom"/>
+  <anchor x="380.988" y="10" name="ogonekLC"/>
+  <outline>
+    <contour>
+      <point x="36.18" y="157.707" type="curve" smooth="yes"/>
+      <point x="36.18" y="37"/>
+      <point x="94.26" y="-14"/>
+      <point x="184.77" y="-14" type="curve" smooth="yes"/>
+      <point x="248.946" y="-14"/>
+      <point x="309.562" y="11.6554"/>
+      <point x="368.696" y="73.0406" type="curve"/>
+      <point x="378.695" y="216.316" type="line"/>
+      <point x="347.438" y="132.598"/>
+      <point x="309.876" y="76"/>
+      <point x="249.512" y="76" type="curve" smooth="yes"/>
+      <point x="203.018" y="76"/>
+      <point x="175.82" y="109.577"/>
+      <point x="175.82" y="168.726" type="curve" smooth="yes"/>
+      <point x="175.82" y="219.64"/>
+      <point x="219.75" y="435"/>
+      <point x="340.006" y="435" type="curve" smooth="yes"/>
+      <point x="380.178" y="435"/>
+      <point x="406.606" y="425.627"/>
+      <point x="428.676" y="394.686" type="curve"/>
+      <point x="472.008" y="455.818" type="line"/>
+      <point x="450.902" y="490.727"/>
+      <point x="396.229" y="514"/>
+      <point x="335.326" y="514" type="curve" smooth="yes"/>
+      <point x="123.91" y="514"/>
+      <point x="36.18" y="306.06"/>
+    </contour>
+    <contour>
+      <point x="349.04" y="0" type="curve"/>
+      <point x="476.04" y="0" type="line"/>
+      <point x="474.37" y="10.92"/>
+      <point x="472.92" y="23.52"/>
+      <point x="472.98" y="44.45" type="curve" smooth="yes"/>
+      <point x="473.08" y="79.42"/>
+      <point x="477.36" y="134.88"/>
+      <point x="492.31" y="202" type="curve" smooth="yes"/>
+      <point x="523.79" y="343.37" type="line" smooth="yes"/>
+      <point x="535.209" y="395.064"/>
+      <point x="547.279" y="450.93"/>
+      <point x="567.16" y="500" type="curve"/>
+      <point x="476.75" y="500" type="line"/>
+      <point x="419.909" y="463.23" type="line"/>
+      <point x="347.32" y="109.589" type="line" smooth="yes"/>
+      <point x="343.608" y="91.5061"/>
+      <point x="341.603" y="74.3375"/>
+      <point x="341.551" y="57.3472" type="curve" smooth="yes"/>
+      <point x="341.492" y="38.3515"/>
+      <point x="343.874" y="19.5785"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="293" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-2</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>248</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>362</integer>
+        <key>width</key>
+        <integer>149</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>433</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>45</integer>
+        <key>width</key>
+        <integer>138</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>356</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o-40</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="199"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="89.9718" y="0" type="curve"/>
+      <point x="80" y="0" type="line"/>
+      <point x="57.3064" y="-19" type="line" smooth="yes"/>
+      <point x="18.0084" y="-51.9018"/>
+      <point x="-29.9654" y="-109.678"/>
+      <point x="-29.9654" y="-163.798" type="curve" smooth="yes"/>
+      <point x="-29.9654" y="-198.668"/>
+      <point x="-8.72246" y="-220"/>
+      <point x="39.343" y="-220" type="curve" smooth="yes"/>
+      <point x="49.343" y="-220"/>
+      <point x="65.3982" y="-219"/>
+      <point x="86.9814" y="-216" type="curve"/>
+      <point x="90.8694" y="-196" type="line"/>
+      <point x="77.7917" y="-199.32"/>
+      <point x="64.3842" y="-200"/>
+      <point x="54.5982" y="-200" type="curve" smooth="yes"/>
+      <point x="14.3667" y="-200"/>
+      <point x="-7.38706" y="-188.507"/>
+      <point x="-7.38706" y="-152.063" type="curve" smooth="yes"/>
+      <point x="-7.38706" y="-95.213"/>
+      <point x="49.0561" y="-34.2563"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-220</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-20</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

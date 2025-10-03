@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="2">
+  <advance width="495"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="20.5249" y="-200" type="line"/>
+      <point x="168.525" y="-200" type="line"/>
+      <point x="554.605" y="500" type="line"/>
+      <point x="411.605" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="241.809" y="165.912" type="line"/>
+      <point x="184.605" y="500" type="line"/>
+      <point x="31.6049" y="500" type="line"/>
+      <point x="137.268" y="-13.9271" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="249.984" x="363" y="500"/>
+  <guideline angle="70.3462" x="256" y="-200"/>
+  <guideline angle="110.066" x="258" y="166"/>
+  <guideline angle="291.84" x="-17" y="500"/>
+  <guideline angle="69.0265" x="189" y="-14"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-198</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>480</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=v-20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x-50</string>
+  </dict>
+  </lib>
+</glyph>

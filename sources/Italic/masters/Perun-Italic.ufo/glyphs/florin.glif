@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="2">
+  <advance width="503"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="37.2737" y="-3" type="line" smooth="yes"/>
+      <point x="-9.11193" y="-103.015"/>
+      <point x="-45.9677" y="-138"/>
+      <point x="-106.201" y="-138" type="curve" smooth="yes"/>
+      <point x="-128.968" y="-138"/>
+      <point x="-140.996" y="-133"/>
+      <point x="-148.246" y="-124" type="curve"/>
+      <point x="-182.825" y="-199" type="line"/>
+      <point x="-168.574" y="-208"/>
+      <point x="-151.352" y="-212"/>
+      <point x="-132.352" y="-212" type="curve" smooth="yes"/>
+      <point x="-9.35182" y="-212"/>
+      <point x="52.4535" y="-163.08"/>
+      <point x="126.079" y="-4" type="curve" smooth="yes"/>
+      <point x="364.896" y="512" type="line" smooth="yes"/>
+      <point x="430.337" y="653.396"/>
+      <point x="441.759" y="658"/>
+      <point x="503.759" y="658" type="curve" smooth="yes"/>
+      <point x="526.759" y="658"/>
+      <point x="543.986" y="654.025"/>
+      <point x="555.441" y="646.076" type="curve"/>
+      <point x="592.173" y="721.863" type="line"/>
+      <point x="571.197" y="729.857"/>
+      <point x="548.847" y="732"/>
+      <point x="525.143" y="732" type="curve" smooth="yes"/>
+      <point x="380.143" y="732"/>
+      <point x="360.524" y="693.981"/>
+      <point x="293.437" y="549.331" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="169.95" y="499.5" type="line"/>
+      <point x="140.315" y="434.5" type="line"/>
+      <point x="449.315" y="434.5" type="line"/>
+      <point x="478.95" y="499.5" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="74.9736" x="198" y="-4"/>
+  <guideline angle="254.922" x="227" y="435"/>
+  <guideline angle="74.9736" x="198" y="-4"/>
+  <guideline angle="254.922" x="227" y="435"/>
+  <guideline angle="74.9736" x="198" y="-4"/>
+  <guideline angle="254.922" x="227" y="435"/>
+  <guideline angle="255.343" x="144" y="500"/>
+  <guideline angle="75.3432" x="436" y="435"/>
+  <guideline angle="0" x="0" y="500"/>
+  <guideline angle="73.8557" x="501" y="646"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-212</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>434</integer>
+        <key>width</key>
+        <integer>65</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>659</integer>
+        <key>width</key>
+        <integer>73</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

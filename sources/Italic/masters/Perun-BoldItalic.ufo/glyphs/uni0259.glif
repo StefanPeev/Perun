@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0259" format="2">
+  <advance width="558"/>
+  <unicode hex="0259"/>
+  <anchor x="209.606" y="-100" name="top"/>
+  <anchor x="343.534" y="589" name="bottom"/>
+  <anchor x="326.234" y="500" name="cedilla.bottom"/>
+  <outline>
+    <component base="uni01DD" xOffset="4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni01DD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

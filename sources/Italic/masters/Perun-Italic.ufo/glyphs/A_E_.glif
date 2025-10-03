@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="1053"/>
+  <unicode hex="00C6"/>
+  <anchor x="535.747" y="797" name="top"/>
+  <outline>
+    <contour>
+      <point x="20.8256" y="0" type="line"/>
+      <point x="126.826" y="0" type="line"/>
+      <point x="600.992" y="644.717" type="line"/>
+      <point x="616.016" y="722" type="line"/>
+      <point x="544.182" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="257.345" y="193" type="line"/>
+      <point x="518.345" y="193" type="line"/>
+      <point x="535.258" y="280" type="line"/>
+      <point x="319.258" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="564.826" y="0" type="line"/>
+      <point x="921.826" y="0" type="line"/>
+      <point x="938.738" y="87" type="line"/>
+      <point x="581.738" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="628.2" y="326" type="line"/>
+      <point x="965.2" y="326" type="line"/>
+      <point x="982.113" y="413" type="line"/>
+      <point x="645.113" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="688.276" y="635.032" type="line"/>
+      <point x="1025.28" y="635.032" type="line"/>
+      <point x="1042.19" y="722.032" type="line"/>
+      <point x="705.189" y="722.032" type="line"/>
+    </contour>
+    <contour>
+      <point x="475.659" y="0" type="line"/>
+      <point x="575.659" y="0" type="line"/>
+      <point x="716.016" y="722" type="line"/>
+      <point x="616.016" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>193</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>326</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>635</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>460</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=E</string>
+  </dict>
+  </lib>
+</glyph>

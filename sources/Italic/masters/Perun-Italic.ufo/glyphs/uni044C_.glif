@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044C" format="2">
+  <advance width="440"/>
+  <outline>
+    <component base="dotlessi" xOffset="-30"/>
+    <contour>
+      <point x="64.4049" y="0" type="line"/>
+      <point x="204.91" y="0" type="line" smooth="yes"/>
+      <point x="322.43" y="0"/>
+      <point x="409.757" y="80.9543"/>
+      <point x="409.757" y="190.692" type="curve" smooth="yes"/>
+      <point x="409.757" y="278.341"/>
+      <point x="354.047" y="325"/>
+      <point x="259.048" y="325" type="curve" smooth="yes"/>
+      <point x="127.585" y="325" type="line"/>
+      <point x="113.977" y="255" type="line"/>
+      <point x="224.341" y="255" type="line" smooth="yes"/>
+      <point x="284.19" y="255"/>
+      <point x="314.69" y="231.149"/>
+      <point x="314.69" y="182.413" type="curve" smooth="yes"/>
+      <point x="314.69" y="118.938"/>
+      <point x="262.95" y="70"/>
+      <point x="194.405" y="70" type="curve" smooth="yes"/>
+      <point x="77.9308" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>255</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>482</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>364</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

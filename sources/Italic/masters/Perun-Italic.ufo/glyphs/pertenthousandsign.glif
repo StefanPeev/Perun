@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pertenthousandsign" format="2">
+  <advance width="1544"/>
+  <unicode hex="2031"/>
+  <outline>
+    <component base="perthousand"/>
+    <contour>
+      <point x="1362.24" y="140.165" type="curve" smooth="yes"/>
+      <point x="1362.24" y="51.5977"/>
+      <point x="1416.58" y="-4"/>
+      <point x="1508.69" y="-4" type="curve" smooth="yes"/>
+      <point x="1641.65" y="-4"/>
+      <point x="1730.21" y="112.279"/>
+      <point x="1730.21" y="238.048" type="curve" smooth="yes"/>
+      <point x="1730.21" y="326.004"/>
+      <point x="1676.29" y="380"/>
+      <point x="1583.33" y="380" type="curve" smooth="yes"/>
+      <point x="1450.53" y="380"/>
+      <point x="1362.24" y="266.113"/>
+    </contour>
+    <contour>
+      <point x="1569.73" y="310" type="curve" smooth="yes"/>
+      <point x="1617.81" y="310"/>
+      <point x="1644.17" y="280.419"/>
+      <point x="1644.17" y="227.628" type="curve" smooth="yes"/>
+      <point x="1644.17" y="155.335"/>
+      <point x="1605.36" y="66"/>
+      <point x="1522.3" y="66" type="curve" smooth="yes"/>
+      <point x="1474.21" y="66"/>
+      <point x="1447.85" y="95.5811"/>
+      <point x="1447.85" y="148.372" type="curve" smooth="yes"/>
+      <point x="1447.85" y="220.665"/>
+      <point x="1486.66" y="310"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="192"/>
+</glyph>
