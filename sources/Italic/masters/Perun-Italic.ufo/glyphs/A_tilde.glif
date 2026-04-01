@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="2">
-  <advance width="761"/>
+  <advance width="681"/>
   <unicode hex="00C3"/>
-  <anchor x="669.773" y="10" name="ogonekUC"/>
-  <anchor x="366.25" y="-75" name="bottom"/>
-  <anchor x="323.171" y="722" name="tonos"/>
+  <anchor x="589.773" y="10" name="ogonekUC"/>
+  <anchor x="243.171" y="722" name="tonos"/>
+  <anchor x="455" y="682" name="t.ring"/>
+  <anchor x="286" y="-80" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="uni0303" xOffset="779.293" yOffset="197"/>
+    <component base="uni0303" xOffset="455.75" yOffset="217"/>
   </outline>
   <lib>
   <dict>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcaron" format="2">
-  <advance width="608"/>
+  <advance width="528"/>
   <unicode hex="01E8"/>
-  <anchor x="225" y="-50" name="b.commabelow"/>
+  <anchor x="205" y="-50" name="b.commabelow"/>
+  <anchor x="232.25" y="-80" name="bottom"/>
   <outline>
     <component base="K"/>
-    <component base="uni030C" xOffset="624.958" yOffset="197"/>
+    <component base="uni030C" xOffset="403" yOffset="217"/>
   </outline>
   <lib>
   <dict>

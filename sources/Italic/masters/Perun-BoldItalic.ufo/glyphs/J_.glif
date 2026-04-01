@@ -2,12 +2,9 @@
 <glyph name="J" format="2">
   <advance width="615"/>
   <unicode hex="004A"/>
-  <anchor x="542.653" y="797" name="top"/>
+  <anchor x="542" y="797" name="top"/>
   <outline>
     <contour>
-      <point x="17.8603" y="227" type="line"/>
-      <point x="12.9884" y="201.939"/>
-      <point x="10.542" y="178.738"/>
       <point x="10.542" y="157.441" type="curve" smooth="yes"/>
       <point x="10.542" y="45.3233"/>
       <point x="78.3481" y="-14"/>
@@ -27,6 +24,9 @@
       <point x="162.723" y="193.549"/>
       <point x="164.433" y="209.372"/>
       <point x="167.86" y="227" type="curve"/>
+      <point x="17.8603" y="227" type="line"/>
+      <point x="12.9884" y="201.939"/>
+      <point x="10.542" y="178.738"/>
     </contour>
   </outline>
   <lib>

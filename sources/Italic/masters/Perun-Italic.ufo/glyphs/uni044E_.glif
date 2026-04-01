@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044E" format="2">
   <advance width="761"/>
+  <unicode hex="044E"/>
   <outline>
-    <component base="dotlessi" xOffset="-30"/>
+    <contour>
+      <point x="10.4049" y="0" type="line"/>
+      <point x="100.405" y="0" type="line"/>
+      <point x="197.605" y="500" type="line"/>
+      <point x="107.605" y="500" type="line"/>
+    </contour>
     <contour>
       <point x="120.974" y="225" type="line"/>
       <point x="235.974" y="225" type="line"/>
@@ -24,6 +30,9 @@
       <point x="216.979" y="360.808"/>
     </contour>
     <contour>
+      <point x="310.53" y="181.757" type="curve" smooth="yes"/>
+      <point x="310.53" y="306.067"/>
+      <point x="369.683" y="447"/>
       <point x="514.402" y="447" type="curve" smooth="yes"/>
       <point x="593.176" y="447"/>
       <point x="637.148" y="405.243"/>
@@ -33,9 +42,6 @@
       <point x="433.276" y="53" type="curve" smooth="yes"/>
       <point x="354.502" y="53"/>
       <point x="310.53" y="95.032"/>
-      <point x="310.53" y="181.757" type="curve" smooth="yes"/>
-      <point x="310.53" y="306.067"/>
-      <point x="369.683" y="447"/>
     </contour>
   </outline>
   <lib>

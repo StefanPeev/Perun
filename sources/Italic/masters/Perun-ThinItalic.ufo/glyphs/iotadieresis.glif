@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresis" format="2">
-  <advance width="181"/>
+  <advance width="311"/>
   <unicode hex="03CA"/>
-  <anchor x="220.033" y="600" name="tonos.top"/>
   <outline>
     <component base="iota"/>
-    <component base="uni0308" xOffset="322.183"/>
+    <component base="uni0308" xOffset="231"/>
   </outline>
   <lib>
   <dict>
@@ -56,6 +55,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=100</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=100</string>
   <key>com.fontlab.recipe</key>
   <string>iota+uni0308</string>
   <key>public.markColor</key>

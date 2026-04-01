@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0430" format="2">
   <advance width="545"/>
-  <anchor x="333.672" y="600" name="top"/>
-  <anchor x="207.325" y="-50" name="bottom"/>
+  <unicode hex="0430"/>
+  <anchor x="334" y="600" name="top"/>
   <anchor x="354.988" y="10" name="ogonekLC"/>
+  <anchor x="364" y="580" name="t.ring"/>
+  <anchor x="207" y="-80" name="bottom"/>
   <outline>
     <component base="a"/>
   </outline>

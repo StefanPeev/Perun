@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E5C" format="2">
-  <advance width="726"/>
+  <advance width="696"/>
   <unicode hex="1E5C"/>
   <anchor x="285" y="-50" name="b.commabelow"/>
   <outline>
     <component base="uni1E5A"/>
-    <component base="macron" xOffset="103.932" yOffset="197"/>
+    <component base="uni0304" xOffset="412" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -63,7 +63,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>uni1E5A+macron</string>
+  <string>uni1E5A+uni0304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

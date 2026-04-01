@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="222"/>
+  <advance width="232"/>
   <unicode hex="006C"/>
   <anchor x="203.947" y="762" name="top"/>
-  <anchor x="261.171" y="722" name="lcaron"/>
-  <anchor x="17" y="-50" name="b.commabelow"/>
+  <anchor x="311" y="722" name="caron_TR"/>
+  <anchor x="7" y="-50" name="b.commabelow"/>
+  <anchor x="24" y="-80" name="bottom"/>
   <outline>
     <contour>
       <point x="10.8287" y="0" type="line"/>
@@ -46,7 +47,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n-60</string>
+  <string>=n-50</string>
   </dict>
   </lib>
 </glyph>

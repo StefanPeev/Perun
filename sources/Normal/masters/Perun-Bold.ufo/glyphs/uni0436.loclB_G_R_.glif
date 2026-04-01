@@ -2,9 +2,45 @@
 <glyph name="uni0436.loclBGR" format="2">
   <advance width="853"/>
   <outline>
-    <component base="k" xOffset="298.392"/>
-    <component base="uni043A.loclBGR" xScale="-1" xOffset="554"/>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="212.816" y="293.876" type="line"/>
+      <point x="213.682" y="274.781" type="line"/>
+      <point x="26" y="500" type="line"/>
+      <point x="188" y="500" type="line"/>
+      <point x="359.317" y="282.853" type="line"/>
+      <point x="174" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="494" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="722" type="line"/>
+      <point x="494" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="842.392" y="0" type="line"/>
+      <point x="678.392" y="0" type="line"/>
+      <point x="493.075" y="282.853" type="line"/>
+      <point x="664.392" y="500" type="line"/>
+      <point x="826.392" y="500" type="line"/>
+      <point x="638.71" y="274.781" type="line"/>
+      <point x="639.576" y="293.876" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="308.239" x="202" y="500"/>
+  <guideline angle="129.806" x="220" y="284"/>
+  <guideline angle="55.3889" x="24" y="0"/>
+  <guideline angle="236.827" x="373" y="283"/>
+  <guideline angle="90" x="359" y="0"/>
+  <guideline angle="90" x="494" y="0"/>
+  <guideline angle="90" x="426" y="0"/>
+  <guideline angle="231.761" x="600.392" y="500"/>
+  <guideline angle="50.1944" x="582.392" y="284"/>
+  <guideline angle="124.611" x="778.392" y="0"/>
+  <guideline angle="303.173" x="429.392" y="283"/>
+  <guideline angle="90" x="443.392" y="0"/>
+  <guideline angle="90" x="308.392" y="0"/>
+  <guideline angle="90" x="376.392" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

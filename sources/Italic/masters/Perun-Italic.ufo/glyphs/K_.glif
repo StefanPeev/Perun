@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="744"/>
+  <advance width="624"/>
   <unicode hex="004B"/>
-  <anchor x="389.75" y="797" name="top"/>
-  <anchor x="285" y="-50" name="b.commabelow"/>
+  <anchor x="440" y="797" name="top"/>
+  <anchor x="275" y="-50" name="b.commabelow"/>
+  <anchor x="269" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="290" y="722" type="line"/>
-      <point x="190" y="722" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="280" y="722" type="line"/>
+      <point x="180" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="202.07" y="429.32" type="line"/>
-      <point x="484.829" y="0" type="line"/>
-      <point x="619.829" y="0" type="line"/>
-      <point x="339.675" y="435.981" type="line"/>
-      <point x="330.978" y="390.054" type="line"/>
-      <point x="723.186" y="722" type="line"/>
-      <point x="599.186" y="722" type="line"/>
-      <point x="191.059" y="372.679" type="line"/>
+      <point x="211.798" y="398.988" type="line"/>
+      <point x="474.829" y="0" type="line"/>
+      <point x="609.829" y="0" type="line"/>
+      <point x="329.675" y="435.981" type="line"/>
+      <point x="320.978" y="390.054" type="line"/>
+      <point x="713.185" y="722" type="line"/>
+      <point x="589.185" y="722" type="line"/>
     </contour>
   </outline>
+  <guideline angle="220.543" x="589" y="722"/>
+  <guideline angle="303.412" x="192" y="429"/>
+  <guideline angle="79.0262" x="285.792" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

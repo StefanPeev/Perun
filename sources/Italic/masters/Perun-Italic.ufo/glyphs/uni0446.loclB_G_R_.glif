@@ -3,9 +3,6 @@
   <advance width="571"/>
   <outline>
     <contour>
-      <point x="16.2271" y="174" type="line" smooth="yes"/>
-      <point x="12.4236" y="154.433"/>
-      <point x="10.5211" y="136.301"/>
       <point x="10.5211" y="119.657" type="curve" smooth="yes"/>
       <point x="10.5211" y="34.2307"/>
       <point x="60.6398" y="-12"/>
@@ -27,16 +24,11 @@
       <point x="105.838" y="172" type="curve" smooth="yes"/>
       <point x="169.595" y="500" type="line"/>
       <point x="79.5951" y="500" type="line"/>
+      <point x="16.2271" y="174" type="line" smooth="yes"/>
+      <point x="12.4236" y="154.433"/>
+      <point x="10.5211" y="136.301"/>
     </contour>
     <contour>
-      <point x="355.63" y="134.915" type="line"/>
-      <point x="348.116" y="96.2608" type="line" smooth="yes"/>
-      <point x="346.794" y="89.4574"/>
-      <point x="346.158" y="82.7952"/>
-      <point x="346.155" y="76.3526" type="curve" smooth="yes"/>
-      <point x="346.131" y="33.2655"/>
-      <point x="374.372" y="0"/>
-      <point x="414.405" y="0" type="curve"/>
       <point x="383.304" y="-160" type="line"/>
       <point x="473.304" y="-160" type="line"/>
       <point x="515.679" y="58" type="line"/>
@@ -46,14 +38,23 @@
       <point x="438.918" y="117.126"/>
       <point x="439.797" y="125.489"/>
       <point x="441.646" y="135" type="curve"/>
+      <point x="355.63" y="134.915" type="line"/>
+      <point x="348.116" y="96.2609" type="line" smooth="yes"/>
+      <point x="346.794" y="89.4574"/>
+      <point x="346.158" y="82.7952"/>
+      <point x="346.155" y="76.3526" type="curve" smooth="yes"/>
+      <point x="346.131" y="33.2656"/>
+      <point x="374.372" y="0"/>
+      <point x="414.405" y="0" type="curve"/>
     </contour>
     <contour>
+      <point x="351.589" y="134.707" type="line"/>
       <point x="441.646" y="135" type="line"/>
       <point x="512.595" y="500" type="line"/>
       <point x="422.595" y="500" type="line"/>
-      <point x="351.589" y="134.707" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="156"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

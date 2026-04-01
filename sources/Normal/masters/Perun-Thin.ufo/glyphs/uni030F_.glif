@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030F" format="2">
   <unicode hex="030F"/>
-  <anchor x="0" y="580" name="_top"/>
+  <anchor x="20" y="580" name="_top"/>
   <outline>
-    <contour>
-      <point x="-55" y="580" type="line"/>
-      <point x="-155" y="720" type="line"/>
-      <point x="-185" y="720" type="line"/>
-      <point x="-75" y="580" type="line"/>
-    </contour>
-    <contour>
-      <point x="85" y="580" type="line"/>
-      <point x="-15" y="720" type="line"/>
-      <point x="-45" y="720" type="line"/>
-      <point x="65" y="580" type="line"/>
-    </contour>
+    <component base="grave" xOffset="-175"/>
+    <component base="grave" xOffset="-35"/>
   </outline>
   <lib>
   <dict>

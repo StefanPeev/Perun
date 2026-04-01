@@ -5,11 +5,9 @@
   <anchor x="242.391" y="711" name="top"/>
   <anchor x="108" y="0" name="b.cedilla"/>
   <anchor x="70" y="-50" name="b.commabelow"/>
+  <anchor x="94" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="71.5329" y="73.7953" type="line" smooth="yes"/>
-      <point x="69.3977" y="62.8118"/>
-      <point x="68.3274" y="52.9143"/>
       <point x="68.3274" y="44.0991" type="curve" smooth="yes"/>
       <point x="68.3274" y="7.94798"/>
       <point x="86.3288" y="-10"/>
@@ -29,6 +27,9 @@
       <point x="90.9606" y="70.7953" type="curve" smooth="yes"/>
       <point x="200.836" y="636" type="line"/>
       <point x="179.174" y="627.504" type="line"/>
+      <point x="71.5329" y="73.7953" type="line" smooth="yes"/>
+      <point x="69.3977" y="62.8118"/>
+      <point x="68.3274" y="52.9143"/>
     </contour>
     <contour>
       <point x="155.51" y="480" type="line"/>

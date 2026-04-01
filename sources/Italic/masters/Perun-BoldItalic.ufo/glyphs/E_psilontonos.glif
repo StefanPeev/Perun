@@ -2,11 +2,12 @@
 <glyph name="Epsilontonos" format="2">
   <advance width="576"/>
   <unicode hex="0388"/>
-  <anchor x="336.75" y="797" name="top"/>
+  <anchor x="387" y="797" name="top"/>
   <anchor x="221" y="0" name="b.cedilla"/>
+  <anchor x="437" y="0" name="ogonekUC"/>
   <outline>
     <component base="Epsilon"/>
-    <component base="tonos" xOffset="-203"/>
+    <component base="tonos" xOffset="-202.829"/>
   </outline>
   <lib>
   <dict>

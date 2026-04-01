@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044C" format="2">
   <advance width="502"/>
+  <unicode hex="044C"/>
   <outline>
-    <component base="dotlessi" xOffset="-10"/>
+    <contour>
+      <point x="20.4049" y="0" type="line"/>
+      <point x="156.405" y="0" type="line"/>
+      <point x="253.605" y="500" type="line"/>
+      <point x="117.605" y="500" type="line"/>
+    </contour>
     <contour>
       <point x="137.405" y="0" type="line"/>
-      <point x="179.405" y="0" type="line"/>
+      <point x="179.405" y="0" type="line" smooth="yes"/>
       <point x="324.146" y="0"/>
       <point x="462.556" y="41.7245"/>
       <point x="462.556" y="210.979" type="curve" smooth="yes"/>

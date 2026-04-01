@@ -2,13 +2,13 @@
 <glyph name="uni01E0" format="2">
   <advance width="710"/>
   <unicode hex="01E0"/>
-  <anchor x="355" y="-75" name="bottom"/>
   <anchor x="355" y="666" name="t.ring"/>
   <anchor x="152" y="722" name="tonos"/>
+  <anchor x="355" y="-75" name="bottom"/>
   <anchor x="700" y="0" name="ogonekUC"/>
   <outline>
     <component base="uni0226"/>
-    <component base="uni0304" xOffset="355" yOffset="417"/>
+    <component base="uni0304" xOffset="355" yOffset="222"/>
   </outline>
   <lib>
   <dict>

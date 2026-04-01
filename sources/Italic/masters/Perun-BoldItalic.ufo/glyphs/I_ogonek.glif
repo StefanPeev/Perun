@@ -2,11 +2,12 @@
 <glyph name="Iogonek" format="2">
   <advance width="330"/>
   <unicode hex="012E"/>
-  <anchor x="251.75" y="797" name="top"/>
+  <anchor x="248" y="797" name="top"/>
   <anchor x="84.1713" y="722" name="tonos"/>
+  <anchor x="77" y="-80" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="ogonek" xOffset="109.651"/>
+    <component base="uni0328" xOffset="110"/>
   </outline>
   <lib>
   <dict>
@@ -52,7 +53,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>I+ogonek</string>
+  <string>I+uni0328</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

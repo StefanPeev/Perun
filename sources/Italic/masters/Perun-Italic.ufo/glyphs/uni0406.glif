@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0406" format="2">
-  <advance width="340"/>
-  <anchor x="251.75" y="797" name="top"/>
+  <advance width="320"/>
+  <unicode hex="0406"/>
+  <anchor x="252" y="797" name="top"/>
   <anchor x="105.171" y="722" name="tonos"/>
+  <anchor x="150" y="0" name="ogonekUC"/>
+  <anchor x="82" y="-80" name="bottom"/>
   <outline>
     <component base="I"/>
   </outline>

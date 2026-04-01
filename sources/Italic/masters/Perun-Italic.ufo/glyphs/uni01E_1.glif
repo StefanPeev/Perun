@@ -3,11 +3,11 @@
   <advance width="522"/>
   <unicode hex="01E1"/>
   <anchor x="354.085" y="10" name="ogonekLC"/>
-  <anchor x="193.422" y="-50" name="bottom"/>
+  <anchor x="344" y="580" name="t.ring"/>
+  <anchor x="193" y="-80" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="dotaccent" xOffset="158.757"/>
-    <component base="uni0304" xOffset="520.287" yOffset="-20"/>
+    <component base="uni03070304" xOffset="316"/>
   </outline>
   <lib>
   <dict>
@@ -83,7 +83,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>a+dotaccent+uni0304</string>
+  <string>a+uni03070304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

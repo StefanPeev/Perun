@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="2">
-  <advance width="290"/>
+  <advance width="270"/>
   <unicode hex="0022"/>
   <outline>
     <component base="quotesingle" xOffset="130"/>
     <component base="quotesingle"/>
   </outline>
-  <guideline angle="90" x="60" y="0"/>
-  <guideline angle="90" x="100" y="0"/>
-  <guideline angle="90" x="190" y="0"/>
-  <guideline angle="90" x="230" y="0"/>
+  <guideline angle="90" x="50" y="0"/>
+  <guideline angle="90" x="90" y="0"/>
+  <guideline angle="90" x="180" y="0"/>
+  <guideline angle="90" x="220" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

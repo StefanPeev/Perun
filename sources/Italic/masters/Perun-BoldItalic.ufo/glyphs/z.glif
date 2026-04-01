@@ -2,9 +2,12 @@
 <glyph name="z" format="2">
   <advance width="473"/>
   <unicode hex="007A"/>
+  <anchor x="307" y="580" name="top"/>
   <anchor x="290" y="0" name="b.cedilla"/>
+  <anchor x="174" y="-80" name="bottom"/>
   <outline>
     <contour>
+      <point x="-9.59509" y="0" type="line"/>
       <point x="408.405" y="0" type="line"/>
       <point x="424.929" y="85" type="line"/>
       <point x="134.929" y="85" type="line"/>
@@ -16,7 +19,6 @@
       <point x="348.081" y="415" type="line"/>
       <point x="345.651" y="424.121" type="line"/>
       <point x="10.8169" y="105" type="line"/>
-      <point x="-9.59509" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="49.4431" x="39" y="105"/>

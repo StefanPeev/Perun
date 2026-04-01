@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
-  <advance width="1003"/>
+  <advance width="893"/>
   <unicode hex="0057"/>
-  <anchor x="525.75" y="797" name="top"/>
+  <anchor x="525" y="797" name="top"/>
+  <anchor x="359" y="-80" name="bottom"/>
   <outline>
     <contour>
+      <point x="113.829" y="0" type="line"/>
+      <point x="203.829" y="0" type="line"/>
+      <point x="493.313" y="613.563" type="line"/>
+      <point x="486.898" y="613.563" type="line"/>
+      <point x="537.829" y="0" type="line"/>
+      <point x="627.829" y="0" type="line"/>
       <point x="982.185" y="722" type="line"/>
       <point x="876.185" y="722" type="line"/>
       <point x="606.634" y="138.407" type="line"/>
@@ -15,12 +22,6 @@
       <point x="188.836" y="138.408" type="line"/>
       <point x="146.185" y="722" type="line"/>
       <point x="40.1855" y="722" type="line"/>
-      <point x="113.829" y="0" type="line"/>
-      <point x="203.829" y="0" type="line"/>
-      <point x="493.313" y="613.563" type="line"/>
-      <point x="486.898" y="613.563" type="line"/>
-      <point x="537.829" y="0" type="line"/>
-      <point x="627.829" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="106.51" x="184" y="0"/>

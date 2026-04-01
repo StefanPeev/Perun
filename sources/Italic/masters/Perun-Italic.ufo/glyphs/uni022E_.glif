@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni022E" format="2">
-  <advance width="779"/>
+  <advance width="719"/>
   <unicode hex="022E"/>
-  <anchor x="154.005" y="722" name="tonos"/>
-  <anchor x="290" y="0" name="b.cedilla"/>
+  <anchor x="134.005" y="722" name="tonos"/>
+  <anchor x="270" y="0" name="b.cedilla"/>
+  <anchor x="320" y="0" name="ogonekUC"/>
+  <anchor x="292" y="-80" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni0307" xOffset="603.584" yOffset="167"/>
+    <component base="uni0307" xOffset="462" yOffset="217"/>
   </outline>
   <lib>
   <dict>

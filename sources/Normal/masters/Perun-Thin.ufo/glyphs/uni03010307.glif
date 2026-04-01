@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03010307" format="2">
+  <anchor x="-64" y="580" name="_top"/>
+  <anchor x="-63" y="580" name="_t.mkmk"/>
+  <anchor x="0" y="720" name="t.mkmk"/>
+  <outline>
+    <component base="acute" xOffset="-114.5"/>
+    <component base="uni0307" xOffset="1.5" yOffset="152"/>
+  </outline>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="720"/>
+  <guideline angle="90" x="-74.5" y="0"/>
+  <guideline angle="90" x="74.5" y="0"/>
+  <guideline angle="90" x="-11" y="0"/>
+  <guideline angle="90" x="10.9803" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acutecomb_dotaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

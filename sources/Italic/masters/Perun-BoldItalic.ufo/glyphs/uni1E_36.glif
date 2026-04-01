@@ -2,11 +2,12 @@
 <glyph name="uni1E36" format="2">
   <advance width="520"/>
   <unicode hex="1E36"/>
-  <anchor x="172.75" y="797" name="top"/>
+  <anchor x="253" y="797" name="top"/>
   <anchor x="205" y="-50" name="b.commabelow"/>
+  <anchor x="431" y="722" name="caron_TR"/>
   <outline>
     <component base="L"/>
-    <component base="uni0323" xOffset="554.445"/>
+    <component base="uni0323" xOffset="199" yOffset="-30"/>
   </outline>
   <lib>
   <dict>

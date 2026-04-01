@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-  <advance width="495"/>
+  <advance width="561"/>
   <unicode hex="013D"/>
+  <anchor x="241" y="797" name="top"/>
+  <anchor x="215" y="-50" name="b.commabelow"/>
+  <anchor x="219" y="-80" name="bottom"/>
   <outline>
-    <component base="L" xOffset="19.1713"/>
-    <component base="quoteright" xOffset="245"/>
+    <component base="L"/>
+    <component base="quoteright" xOffset="260"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -35,8 +40,14 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L</string>
   <key>com.fontlab.recipe</key>
   <string>L_quoteright</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

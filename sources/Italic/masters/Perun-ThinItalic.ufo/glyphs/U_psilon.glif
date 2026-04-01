@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon" format="2">
-  <advance width="637"/>
+  <advance width="577"/>
   <unicode hex="03A5"/>
-  <anchor x="332.75" y="797" name="top"/>
+  <anchor x="342" y="797" name="top"/>
+  <anchor x="53" y="722" name="tonos"/>
+  <anchor x="165" y="-80" name="bottom"/>
   <outline>
     <component base="Y"/>
   </outline>

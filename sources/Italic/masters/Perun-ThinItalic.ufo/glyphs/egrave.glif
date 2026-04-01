@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="2">
-  <advance width="537"/>
+  <advance width="576"/>
   <unicode hex="00E8"/>
+  <anchor x="219.939" y="-89" name="bottom"/>
+  <anchor x="243" y="0" name="b.cedilla"/>
+  <anchor x="292" y="0" name="ogonekLC"/>
   <outline>
-    <component base="e" xOffset="-20"/>
-    <component base="uni0300" xOffset="515"/>
+    <component base="e"/>
+    <component base="uni0300" xOffset="349.979"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

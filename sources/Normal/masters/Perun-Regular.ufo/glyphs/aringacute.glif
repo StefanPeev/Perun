@@ -2,15 +2,17 @@
 <glyph name="aringacute" format="2">
   <advance width="566"/>
   <unicode hex="01FB"/>
+  <anchor x="283" y="580" name="top"/>
   <anchor x="283" y="-50" name="bottom"/>
-  <anchor x="432" y="10" name="ogonekLC"/>
-  <anchor x="283" y="870" name="t.mkmk"/>
+  <anchor x="506" y="0" name="ogonekLC"/>
   <outline>
     <component base="aring"/>
-    <component base="uni0301" xOffset="343" yOffset="290"/>
+    <component base="uni0301" xOffset="60" yOffset="-580"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -87,7 +89,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>aring</string>
+  <string>=aring+uni0301@aring:t.mkmk</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -4,11 +4,10 @@
   <unicode hex="1E01"/>
   <anchor x="275" y="580" name="top"/>
   <anchor x="275" y="580" name="t.ring"/>
-  <anchor x="275" y="-50" name="bottom"/>
   <anchor x="510" y="0" name="ogonekLC"/>
   <outline>
     <component base="a"/>
-    <component base="uni0325" xOffset="573"/>
+    <component base="uni0325" xOffset="275" yOffset="25"/>
   </outline>
   <lib>
   <dict>

@@ -1,41 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="578"/>
+  <advance width="538"/>
   <unicode hex="0045"/>
-  <anchor x="359.75" y="797" name="top"/>
-  <anchor x="30.1713" y="722" name="tonos"/>
-  <anchor x="236" y="0" name="b.cedilla"/>
+  <anchor x="380" y="797" name="top"/>
+  <anchor x="20.1713" y="722" name="tonos"/>
+  <anchor x="226" y="0" name="b.cedilla"/>
+  <anchor x="427" y="0" name="ogonekUC"/>
   <outline>
     <contour>
-      <point x="96.7415" y="87" type="line"/>
-      <point x="79.8287" y="0" type="line"/>
-      <point x="436.829" y="0" type="line"/>
-      <point x="453.742" y="87" type="line"/>
+      <point x="69.8287" y="0" type="line"/>
+      <point x="426.829" y="0" type="line"/>
+      <point x="443.742" y="87" type="line"/>
+      <point x="86.7415" y="87" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="290" y="722" type="line"/>
-      <point x="190" y="722" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="280" y="722" type="line"/>
+      <point x="180" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="160.116" y="413" type="line"/>
-      <point x="143.203" y="326" type="line"/>
-      <point x="480.203" y="326" type="line"/>
-      <point x="497.116" y="413" type="line"/>
+      <point x="133.203" y="326" type="line"/>
+      <point x="470.203" y="326" type="line"/>
+      <point x="487.116" y="413" type="line"/>
+      <point x="150.116" y="413" type="line"/>
     </contour>
     <contour>
-      <point x="220.186" y="722" type="line"/>
-      <point x="203.273" y="635" type="line"/>
-      <point x="550.273" y="635" type="line"/>
-      <point x="567.186" y="722" type="line"/>
+      <point x="193.273" y="635" type="line"/>
+      <point x="540.273" y="635" type="line"/>
+      <point x="557.186" y="722" type="line"/>
+      <point x="210.186" y="722" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="420" y="0"/>
-  <guideline angle="90" x="50" y="0"/>
-  <guideline angle="90" x="271" y="0"/>
-  <guideline angle="90" x="201" y="0"/>
-  <guideline angle="90" x="236" y="0"/>
+  <guideline angle="90" x="410" y="0"/>
+  <guideline angle="90" x="40" y="0"/>
+  <guideline angle="90" x="261" y="0"/>
+  <guideline angle="90" x="191" y="0"/>
+  <guideline angle="90" x="226" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -74,7 +75,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=10</string>
+  <string>=-20</string>
   </dict>
   </lib>
 </glyph>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="340"/>
+  <advance width="320"/>
   <unicode hex="0049"/>
-  <anchor x="251.75" y="797" name="top"/>
+  <anchor x="252" y="797" name="top"/>
   <anchor x="105.171" y="722" name="tonos"/>
+  <anchor x="150" y="0" name="ogonekUC"/>
+  <anchor x="82" y="-80" name="bottom"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
@@ -14,6 +16,7 @@
   </outline>
   <guideline angle="90" x="50" y="0"/>
   <guideline angle="90" x="290" y="0"/>
+  <guideline angle="79.0262" x="97.5789" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -46,7 +49,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=50</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=50</string>
+  <string>=30</string>
   </dict>
   </lib>
 </glyph>

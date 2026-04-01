@@ -2,12 +2,12 @@
 <glyph name="Etatonos" format="2">
   <advance width="767"/>
   <unicode hex="0389"/>
-  <anchor x="397.75" y="797" name="top"/>
-  <anchor x="228.25" y="-75" name="bottom"/>
+  <anchor x="467" y="797" name="top"/>
   <anchor x="78" y="0" name="b.cedilla"/>
+  <anchor x="298" y="-80" name="bottom"/>
   <outline>
     <component base="H"/>
-    <component base="tonos" xOffset="-198"/>
+    <component base="tonos" xOffset="-197.829"/>
   </outline>
   <lib>
   <dict>

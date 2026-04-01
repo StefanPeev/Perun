@@ -3,11 +3,12 @@
   <advance width="707"/>
   <unicode hex="1EAA"/>
   <anchor x="653.773" y="10" name="ogonekUC"/>
-  <anchor x="339.25" y="-75" name="bottom"/>
   <anchor x="333.171" y="722" name="tonos"/>
+  <anchor x="509" y="703" name="t.ring"/>
+  <anchor x="339" y="-80" name="bottom"/>
   <outline>
-    <component base="Acircumflex"/>
-    <component base="uni0303" xOffset="587.287" yOffset="222"/>
+    <component base="A"/>
+    <component base="uni03020303" xOffset="508.75" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -50,9 +51,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Acircumflex+uni0303</string>
+  <string>A+uni03020303</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

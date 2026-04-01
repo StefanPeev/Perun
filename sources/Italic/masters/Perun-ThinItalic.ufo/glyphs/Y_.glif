@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="2">
-  <advance width="637"/>
+  <advance width="577"/>
   <unicode hex="0059"/>
-  <anchor x="332.75" y="797" name="top"/>
+  <anchor x="342" y="797" name="top"/>
+  <anchor x="53" y="722" name="tonos"/>
+  <anchor x="165" y="-80" name="bottom"/>
   <outline>
     <contour>
+      <point x="247.442" y="255.692" type="line"/>
+      <point x="616.185" y="722" type="line"/>
       <point x="596.185" y="722" type="line"/>
-      <point x="576.185" y="722" type="line"/>
-      <point x="233.777" y="288.453" type="line"/>
-      <point x="60.4246" y="722" type="line"/>
-      <point x="40.1855" y="722" type="line"/>
-      <point x="227.442" y="255.692" type="line"/>
+      <point x="253.777" y="288.453" type="line"/>
+      <point x="80.4246" y="722" type="line"/>
+      <point x="60.1855" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="221.216" y="279.768" type="line"/>
-      <point x="166.829" y="0" type="line"/>
-      <point x="188.823" y="0" type="line"/>
-      <point x="243.21" y="279.768" type="line"/>
+      <point x="186.829" y="0" type="line"/>
+      <point x="208.823" y="0" type="line"/>
+      <point x="263.21" y="279.768" type="line"/>
+      <point x="241.216" y="279.768" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="248" y="0"/>
+  <guideline angle="90" x="268" y="0"/>
+  <guideline angle="259.084" x="252" y="280"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

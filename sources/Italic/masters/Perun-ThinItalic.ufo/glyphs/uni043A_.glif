@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A" format="2">
   <advance width="415"/>
-  <anchor x="352.174" y="580" name="top"/>
+  <unicode hex="043A"/>
+  <anchor x="282" y="580" name="top"/>
   <outline>
-    <component base="dotlessi" xOffset="-60"/>
     <contour>
       <point x="184.616" y="248" type="line"/>
       <point x="204.272" y="248.228"/>
@@ -25,6 +25,12 @@
       <point x="197.471" y="248" type="line"/>
       <point x="201.359" y="268" type="line"/>
       <point x="103.504" y="268" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.4049" y="0" type="line"/>
+      <point x="60.4049" y="0" type="line"/>
+      <point x="157.605" y="500" type="line"/>
+      <point x="137.605" y="500" type="line"/>
     </contour>
   </outline>
   <lib>

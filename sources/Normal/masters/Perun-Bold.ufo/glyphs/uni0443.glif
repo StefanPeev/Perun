@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0443" format="2">
-  <advance width="555"/>
+  <advance width="543"/>
   <unicode hex="0443"/>
+  <anchor x="269" y="580" name="top"/>
+  <anchor x="448" y="-92" name="center"/>
   <outline>
-    <contour>
-      <point x="115" y="-200" type="line"/>
-      <point x="237" y="-200" type="line"/>
-      <point x="545" y="500" type="line"/>
-      <point x="410" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="220.579" y="-53.4296" type="line"/>
-      <point x="294.345" y="109.393" type="line"/>
-      <point x="163" y="500" type="line"/>
-      <point x="10" y="500" type="line"/>
-    </contour>
+    <component base="y"/>
   </outline>
-  <guideline angle="66.2505" x="237" y="-200"/>
-  <guideline angle="290.885" x="10" y="500"/>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -42,6 +33,10 @@
   <string>=A</string>
   <key>com.fontlab.metricsRight</key>
   <string>=A</string>
+  <key>com.fontlab.recipe</key>
+  <string>y</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

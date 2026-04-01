@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C4" format="2">
-  <advance width="1249"/>
+  <advance width="1326"/>
   <unicode hex="01C4"/>
-  <anchor x="406.938" y="797" name="top"/>
+  <anchor x="390" y="797" name="top"/>
+  <anchor x="235" y="-80" name="b.commabelow"/>
+  <anchor x="942" y="-80" name="bottom"/>
+  <anchor x="958" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
-    <component base="Zcaron" xOffset="631"/>
+    <component base="Zcaron" xOffset="708"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -47,7 +52,9 @@
   <key>com.fontlab.metricsRight</key>
   <string>=Z</string>
   <key>com.fontlab.recipe</key>
-  <string>D+Zcaron</string>
+  <string>D_Zcaron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

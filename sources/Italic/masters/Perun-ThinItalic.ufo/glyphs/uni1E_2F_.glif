@@ -2,9 +2,11 @@
 <glyph name="uni1E2F" format="2">
   <advance width="318"/>
   <unicode hex="1E2F"/>
+  <anchor x="120" y="0" name="ogonekLC"/>
+  <anchor x="94" y="-80" name="bottom"/>
   <outline>
-    <component base="idieresis"/>
-    <component base="uni0301" xOffset="387.672"/>
+    <component base="dotlessi"/>
+    <component base="uni03080301" xOffset="223"/>
   </outline>
   <lib>
   <dict>
@@ -62,7 +64,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>idieresis+uni0301</string>
+  <string>dotlessi+uni03080301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -5,6 +5,11 @@
   <outline>
     <component base="l" xOffset="206"/>
     <contour>
+      <point x="49.3242" y="-83.1008" type="curve" smooth="yes"/>
+      <point x="49.3242" y="-161.991"/>
+      <point x="95.5212" y="-200"/>
+      <point x="191.953" y="-200" type="curve" smooth="yes"/>
+      <point x="278.953" y="-200" type="line"/>
       <point x="297.419" y="-105" type="line"/>
       <point x="255.419" y="-105" type="line" smooth="yes"/>
       <point x="207.746" y="-105"/>
@@ -18,11 +23,6 @@
       <point x="54.9974" y="-30" type="line" smooth="yes"/>
       <point x="51.2265" y="-49.3997"/>
       <point x="49.3242" y="-67.092"/>
-      <point x="49.3242" y="-83.1008" type="curve" smooth="yes"/>
-      <point x="49.3242" y="-161.991"/>
-      <point x="95.5212" y="-200"/>
-      <point x="191.953" y="-200" type="curve" smooth="yes"/>
-      <point x="278.953" y="-200" type="line"/>
     </contour>
   </outline>
 </glyph>

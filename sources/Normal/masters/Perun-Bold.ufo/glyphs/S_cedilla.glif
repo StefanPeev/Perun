@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scedilla" format="2">
-  <advance width="684"/>
+  <advance width="664"/>
   <unicode hex="015E"/>
-  <anchor x="342" y="797" name="top"/>
+  <anchor x="332" y="797" name="top"/>
+  <anchor x="345" y="-75" name="bottom"/>
   <outline>
     <component base="S"/>
-    <component base="uni0327" xOffset="357" yOffset="-10"/>
+    <component base="uni0327" xOffset="347" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

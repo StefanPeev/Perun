@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03030308" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="720" name="t.mkmk"/>
+  <outline>
+    <component base="tilde" xOffset="-146"/>
+    <component base="dieresis" xOffset="-181" yOffset="110"/>
+  </outline>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="600"/>
+  <guideline angle="90" x="-401" y="0"/>
+  <guideline angle="90" x="-179" y="0"/>
+  <guideline angle="90" x="-290" y="0"/>
+  <guideline angle="0" x="0" y="600"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>tildecomb_dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>

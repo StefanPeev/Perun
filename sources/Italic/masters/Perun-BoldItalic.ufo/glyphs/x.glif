@@ -2,24 +2,25 @@
 <glyph name="x" format="2">
   <advance width="558"/>
   <unicode hex="0078"/>
+  <anchor x="330" y="580" name="top"/>
   <outline>
     <contour>
-      <point x="487.405" y="0" type="line"/>
-      <point x="234.605" y="500" type="line"/>
       <point x="74.6049" y="500" type="line"/>
       <point x="327.405" y="0" type="line"/>
+      <point x="487.405" y="0" type="line"/>
+      <point x="234.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="201.232" y="280.495" type="line"/>
       <point x="-39.5951" y="0" type="line"/>
       <point x="110.405" y="0" type="line"/>
       <point x="260.307" y="191.938" type="line"/>
+      <point x="201.232" y="280.495" type="line"/>
     </contour>
     <contour>
+      <point x="293.995" y="340.015" type="line"/>
       <point x="353.651" y="255.602" type="line"/>
       <point x="567.605" y="500" type="line"/>
       <point x="417.605" y="500" type="line"/>
-      <point x="293.995" y="340.015" type="line"/>
     </contour>
   </outline>
   <guideline angle="124.992" x="536" y="0"/>

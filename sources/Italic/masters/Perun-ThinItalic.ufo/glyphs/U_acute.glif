@@ -2,10 +2,11 @@
 <glyph name="Uacute" format="2">
   <advance width="729"/>
   <unicode hex="00DA"/>
-  <anchor x="261.11" y="-50" name="bottom"/>
+  <anchor x="260" y="-80" name="bottom"/>
+  <anchor x="446" y="797" name="t.ring"/>
   <outline>
     <component base="U"/>
-    <component base="uni0301" xOffset="736.055" yOffset="197"/>
+    <component base="uni0301" xOffset="425" yOffset="217"/>
   </outline>
   <lib>
   <dict>

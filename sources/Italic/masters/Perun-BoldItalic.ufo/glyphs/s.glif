@@ -2,13 +2,12 @@
 <glyph name="s" format="2">
   <advance width="523"/>
   <unicode hex="0073"/>
+  <anchor x="334" y="580" name="top"/>
   <anchor x="200" y="0" name="b.cedilla"/>
   <anchor x="165" y="-50" name="b.commabelow"/>
+  <anchor x="220" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="20.9819" y="154" type="line"/>
-      <point x="18.2616" y="140.007"/>
-      <point x="16.9692" y="127.041"/>
       <point x="16.9692" y="115.049" type="curve" smooth="yes"/>
       <point x="16.9692" y="19.9115"/>
       <point x="98.3008" y="-14"/>
@@ -58,6 +57,9 @@
       <point x="152.824" y="133.833"/>
       <point x="153.908" y="143.334"/>
       <point x="155.982" y="154" type="curve"/>
+      <point x="20.9818" y="154" type="line"/>
+      <point x="18.2615" y="140.007"/>
+      <point x="16.9691" y="127.041"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="259"/>

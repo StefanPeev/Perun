@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0427" format="2">
   <advance width="733"/>
+  <unicode hex="0427"/>
   <outline>
     <contour>
-      <point x="567.185" y="722" type="line"/>
       <point x="426.829" y="0" type="line"/>
       <point x="571.829" y="0" type="line"/>
       <point x="712.185" y="722" type="line"/>
+      <point x="567.185" y="722" type="line"/>
     </contour>
     <contour>
+      <point x="62.8092" y="409.015" type="curve" smooth="yes"/>
+      <point x="62.8092" y="276.338"/>
+      <point x="144.231" y="215"/>
       <point x="316.632" y="215" type="curve" smooth="yes"/>
       <point x="383.426" y="215"/>
       <point x="443.577" y="230.806"/>
@@ -28,9 +32,6 @@
       <point x="71.9431" y="494.416" type="line" smooth="yes"/>
       <point x="65.8771" y="463.212"/>
       <point x="62.8092" y="434.77"/>
-      <point x="62.8092" y="409.015" type="curve" smooth="yes"/>
-      <point x="62.8092" y="276.338"/>
-      <point x="144.231" y="215"/>
     </contour>
   </outline>
   <lib>

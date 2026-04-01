@@ -2,11 +2,11 @@
 <glyph name="ugrave" format="2">
   <advance width="589"/>
   <unicode hex="00F9"/>
-  <anchor x="354.033" y="600" name="top"/>
   <anchor x="220.494" y="-87" name="bottom"/>
+  <anchor x="360" y="580" name="t.ring"/>
   <outline>
     <component base="u"/>
-    <component base="grave" xOffset="97.6859"/>
+    <component base="uni0300" xOffset="354.033" yOffset="20"/>
   </outline>
   <lib>
   <dict>
@@ -63,6 +63,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni0300</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

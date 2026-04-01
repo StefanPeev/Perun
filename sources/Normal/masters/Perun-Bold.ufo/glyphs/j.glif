@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
-  <advance width="286"/>
+  <advance width="276"/>
   <unicode hex="006A"/>
   <outline>
-    <contour>
-      <point x="30" y="-212" type="line"/>
-      <point x="53" y="-212" type="line" smooth="yes"/>
-      <point x="149" y="-212"/>
-      <point x="217" y="-180"/>
-      <point x="217" y="-80" type="curve" smooth="yes"/>
-      <point x="217" y="500" type="line"/>
-      <point x="82" y="500" type="line"/>
-      <point x="82" y="-50" type="line" smooth="yes"/>
-      <point x="82" y="-76"/>
-      <point x="73" y="-103"/>
-      <point x="42" y="-103" type="curve" smooth="yes"/>
-      <point x="30" y="-103" type="line"/>
-    </contour>
-    <contour>
-      <point x="72" y="592" type="line"/>
-      <point x="227" y="592" type="line"/>
-      <point x="227" y="722" type="line"/>
-      <point x="72" y="722" type="line"/>
-    </contour>
+    <component base="dotlessj"/>
+    <component base="uni0307" xOffset="150"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -67,6 +51,10 @@
   </dict>
   <key>com.fontlab.metricsRight</key>
   <string>=n</string>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -3,7 +3,6 @@
   <advance width="250"/>
   <unicode hex="0069"/>
   <anchor x="156" y="0" name="ogonekLC"/>
-  <anchor x="125" y="760" name="t.mkmk"/>
   <outline>
     <component base="dotlessi"/>
     <component base="uni0307" xOffset="125"/>
@@ -57,6 +56,8 @@
   <string>=|n</string>
   <key>com.fontlab.recipe</key>
   <string>dotlessi+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,11 +2,13 @@
 <glyph name="Omicrontonos" format="2">
   <advance width="767"/>
   <unicode hex="038C"/>
-  <anchor x="462.389" y="797" name="top"/>
+  <anchor x="462" y="797" name="top"/>
   <anchor x="290" y="0" name="b.cedilla"/>
+  <anchor x="350" y="0" name="ogonekUC"/>
+  <anchor x="298" y="-80" name="bottom"/>
   <outline>
     <component base="Omicron"/>
-    <component base="tonos" xOffset="-72.3607"/>
+    <component base="tonos" xOffset="-72.1894"/>
   </outline>
   <lib>
   <dict>

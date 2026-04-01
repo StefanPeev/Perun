@@ -4,9 +4,10 @@
   <unicode hex="1EBF"/>
   <anchor x="211.744" y="-89" name="bottom"/>
   <anchor x="220" y="0" name="b.cedilla"/>
+  <anchor x="280" y="0" name="ogonekLC"/>
   <outline>
-    <component base="ecircumflex"/>
-    <component base="uni0301" xOffset="451.172"/>
+    <component base="e"/>
+    <component base="uni03020301" xOffset="345.672" yOffset="20"/>
   </outline>
   <lib>
   <dict>
@@ -70,7 +71,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>ecircumflex+uni0301</string>
+  <string>e+uni03020301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

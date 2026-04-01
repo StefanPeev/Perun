@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="638"/>
+  <advance width="588"/>
   <unicode hex="005A"/>
-  <anchor x="388.75" y="797" name="top"/>
+  <anchor x="388" y="797" name="top"/>
   <anchor x="320" y="0" name="b.cedilla"/>
+  <anchor x="234" y="-80" name="bottom"/>
   <outline>
     <contour>
+      <point x="-29.1713" y="0" type="line"/>
       <point x="496.829" y="0" type="line"/>
       <point x="513.742" y="87" type="line"/>
       <point x="97.7415" y="87" type="line"/>
@@ -15,7 +17,6 @@
       <point x="114.273" y="635" type="line"/>
       <point x="500.273" y="635" type="line"/>
       <point x="-7.7873" y="110" type="line"/>
-      <point x="-29.1713" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="232.284" x="557" y="612"/>
@@ -44,7 +45,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=-30</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=10</string>
+  <string>=-40</string>
   </dict>
   </lib>
 </glyph>

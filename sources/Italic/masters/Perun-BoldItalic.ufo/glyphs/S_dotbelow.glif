@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sdotbelow" format="2">
-  <advance width="677"/>
+  <advance width="657"/>
   <unicode hex="1E62"/>
-  <anchor x="431.292" y="797" name="top"/>
-  <anchor x="278" y="0" name="b.cedilla"/>
-  <anchor x="252" y="-50" name="b.commabelow"/>
+  <anchor x="411" y="797" name="top"/>
+  <anchor x="258" y="0" name="b.cedilla"/>
+  <anchor x="232" y="-50" name="b.commabelow"/>
   <outline>
     <component base="S"/>
-    <component base="uni0323" xOffset="632.945"/>
+    <component base="uni0323" xOffset="278" yOffset="-30"/>
   </outline>
   <lib>
   <dict>

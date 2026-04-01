@@ -2,9 +2,11 @@
 <glyph name="idieresis" format="2">
   <advance width="294"/>
   <unicode hex="00EF"/>
+  <anchor x="166" y="0" name="ogonekLC"/>
+  <anchor x="87" y="-80" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0308" xOffset="439.349" yOffset="-20"/>
+    <component base="uni0308" xOffset="216"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03040301" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="600" name="_t.mkmk"/>
+  <outline>
+    <component base="macron" xOffset="-190"/>
+    <component base="acute" xOffset="-130.5" yOffset="150.566"/>
+  </outline>
+  <guideline angle="90" x="-110.5" y="0"/>
+  <guideline angle="90" x="111.5" y="0"/>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="720"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>macroncomb_acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -2,10 +2,12 @@
 <glyph name="Iotatonos" format="2">
   <advance width="330"/>
   <unicode hex="038A"/>
-  <anchor x="251.75" y="797" name="top"/>
+  <anchor x="248" y="797" name="top"/>
+  <anchor x="170" y="0" name="ogonekUC"/>
+  <anchor x="77" y="-80" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="tonos" xOffset="-136"/>
+    <component base="tonos" xOffset="-135.829"/>
   </outline>
   <lib>
   <dict>

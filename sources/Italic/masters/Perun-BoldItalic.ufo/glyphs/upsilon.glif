@@ -2,12 +2,9 @@
 <glyph name="upsilon" format="2">
   <advance width="589"/>
   <unicode hex="03C5"/>
-  <anchor x="334.033" y="600" name="tonos.top"/>
+  <anchor x="334" y="580" name="tonos.top"/>
   <outline>
     <contour>
-      <point x="24.1201" y="158" type="line" smooth="yes"/>
-      <point x="21.9437" y="146.805"/>
-      <point x="20.9153" y="136.219"/>
       <point x="20.9153" y="126.227" type="curve" smooth="yes"/>
       <point x="20.9153" y="29.0418"/>
       <point x="118.206" y="-12"/>
@@ -30,6 +27,9 @@
       <point x="164.369" y="185" type="curve" smooth="yes"/>
       <point x="225.605" y="500" type="line"/>
       <point x="90.605" y="500" type="line"/>
+      <point x="24.1201" y="158" type="line" smooth="yes"/>
+      <point x="21.9437" y="146.805"/>
+      <point x="20.9153" y="136.219"/>
     </contour>
   </outline>
   <lib>

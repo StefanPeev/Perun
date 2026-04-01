@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E7B" format="2">
-  <advance width="585"/>
+  <advance width="589"/>
   <unicode hex="1E7B"/>
-  <anchor x="319.269" y="600" name="top"/>
+  <anchor x="220.494" y="-87" name="bottom"/>
+  <anchor x="360" y="580" name="t.ring"/>
   <outline>
-    <component base="umacron"/>
-    <component base="uni0308" xOffset="606.764" yOffset="220"/>
+    <component base="u"/>
+    <component base="uni03040308" xOffset="354.033" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -79,7 +82,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>umacron+uni0308</string>
+  <string>u+uni03040308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

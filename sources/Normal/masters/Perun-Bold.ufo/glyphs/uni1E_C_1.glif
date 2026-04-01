@@ -7,8 +7,7 @@
   <anchor x="310" y="0" name="ogonekLC"/>
   <outline>
     <component base="e"/>
-    <component base="uni0302" xOffset="275"/>
-    <component base="uni0300" xOffset="270.5"/>
+    <component base="uni03020300" xOffset="275"/>
   </outline>
   <lib>
   <dict>
@@ -72,9 +71,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>e+circumflexcomb+uni0300</string>
+  <string>e+uni03020300</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

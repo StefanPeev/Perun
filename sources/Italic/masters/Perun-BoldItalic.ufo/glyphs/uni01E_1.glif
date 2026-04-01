@@ -2,12 +2,12 @@
 <glyph name="uni01E1" format="2">
   <advance width="545"/>
   <unicode hex="01E1"/>
-  <anchor x="207.325" y="-50" name="bottom"/>
   <anchor x="354.988" y="10" name="ogonekLC"/>
+  <anchor x="364" y="580" name="t.ring"/>
+  <anchor x="207" y="-80" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="dotaccent" xOffset="152.194"/>
-    <component base="uni0304" xOffset="544.699" yOffset="45"/>
+    <component base="uni03070304" xOffset="334" yOffset="20"/>
   </outline>
   <lib>
   <dict>
@@ -89,7 +89,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>a+dotaccent+uni0304</string>
+  <string>a+uni03070304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

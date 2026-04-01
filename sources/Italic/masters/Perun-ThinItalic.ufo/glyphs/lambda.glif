@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lambda" format="2">
-  <advance width="505"/>
+  <advance width="585"/>
   <unicode hex="03BB"/>
   <outline>
     <contour>
+      <point x="227.759" y="706.633" type="line"/>
+      <point x="237.407" y="709.071"/>
+      <point x="259.889" y="712.633"/>
+      <point x="279.242" y="712.633" type="curve" smooth="yes"/>
+      <point x="310.701" y="712.633"/>
+      <point x="321.034" y="703.22"/>
       <point x="333.994" y="635.267" type="curve" smooth="yes"/>
       <point x="447.974" y="37.6371" type="line" smooth="yes"/>
       <point x="452.82" y="11.7941"/>
-      <point x="469.735" y="0.0363903"/>
-      <point x="503.931" y="0.0363903" type="curve" smooth="yes"/>
-      <point x="517.25" y="0.0363903"/>
-      <point x="523.525" y="1.49009"/>
-      <point x="531.328" y="2.10879" type="curve"/>
+      <point x="469.735" y="0.0363815"/>
+      <point x="503.931" y="0.0363815" type="curve" smooth="yes"/>
+      <point x="517.25" y="0.0363815"/>
+      <point x="523.525" y="1.49008"/>
+      <point x="531.328" y="2.10878" type="curve"/>
       <point x="534.63" y="20.0364" type="line"/>
       <point x="480.746" y="20.0503"/>
       <point x="472.34" y="23.6455"/>
@@ -23,18 +29,12 @@
       <point x="267.934" y="731.072"/>
       <point x="256.319" y="729.978"/>
       <point x="231.339" y="725.049" type="curve"/>
-      <point x="227.759" y="706.633" type="line"/>
-      <point x="237.407" y="709.071"/>
-      <point x="259.889" y="712.633"/>
-      <point x="279.242" y="712.633" type="curve" smooth="yes"/>
-      <point x="310.701" y="712.633"/>
-      <point x="321.034" y="703.22"/>
     </contour>
     <contour>
-      <point x="363.428" y="526.435" type="line"/>
       <point x="40.6719" y="0" type="line"/>
       <point x="64.6528" y="0.1722" type="line"/>
       <point x="368.534" y="503.438" type="line"/>
+      <point x="363.428" y="526.435" type="line"/>
     </contour>
   </outline>
   <guideline angle="109.938" x="538" y="93"/>
@@ -67,7 +67,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=nu</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=nu</string>
+  <string>=nu+80</string>
   </dict>
   </lib>
 </glyph>

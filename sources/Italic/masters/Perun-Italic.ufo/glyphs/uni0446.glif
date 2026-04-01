@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0446" format="2">
   <advance width="536"/>
+  <unicode hex="0446"/>
   <outline>
     <contour>
       <point x="10.4049" y="0" type="line"/>
@@ -9,10 +10,10 @@
       <point x="107.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="104.04" y="65" type="line"/>
       <point x="91.4049" y="0" type="line"/>
       <point x="339.405" y="0" type="line"/>
       <point x="352.04" y="65" type="line"/>
+      <point x="104.04" y="65" type="line"/>
     </contour>
     <contour>
       <point x="328.405" y="0" type="line"/>
@@ -21,12 +22,12 @@
       <point x="425.605" y="500" type="line"/>
     </contour>
     <contour>
+      <point x="352.264" y="-160" type="line"/>
+      <point x="442.264" y="-160" type="line"/>
       <point x="486" y="65" type="line"/>
       <point x="392" y="65" type="line"/>
       <point x="379.365" y="0" type="line"/>
       <point x="383.365" y="0" type="line"/>
-      <point x="352.264" y="-160" type="line"/>
-      <point x="442.264" y="-160" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="418" y="0"/>

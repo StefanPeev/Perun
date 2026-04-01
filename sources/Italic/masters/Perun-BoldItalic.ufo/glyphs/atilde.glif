@@ -2,11 +2,12 @@
 <glyph name="atilde" format="2">
   <advance width="545"/>
   <unicode hex="00E3"/>
-  <anchor x="207.325" y="-50" name="bottom"/>
   <anchor x="354.988" y="10" name="ogonekLC"/>
+  <anchor x="364" y="580" name="t.ring"/>
+  <anchor x="207" y="-80" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="uni0303" xOffset="587.507"/>
+    <component base="uni0303" xOffset="334" yOffset="20"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecyr.case" format="2">
+  <advance width="491"/>
+  <anchor x="245" y="750" name="top"/>
+  <outline>
+    <contour>
+      <point x="245.006" y="848" type="curve" smooth="yes"/>
+      <point x="216.006" y="848"/>
+      <point x="186.006" y="870"/>
+      <point x="186.006" y="899" type="curve"/>
+      <point x="60.0065" y="899" type="line"/>
+      <point x="60.0065" y="817"/>
+      <point x="125.006" y="750"/>
+      <point x="245.006" y="750" type="curve" smooth="yes"/>
+      <point x="365.006" y="750"/>
+      <point x="430.006" y="818"/>
+      <point x="430.006" y="899" type="curve"/>
+      <point x="304.006" y="899" type="line"/>
+      <point x="304.006" y="869"/>
+      <point x="273.006" y="848"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  <key>com.fontlab.recipe</key>
+  <string>brevecyr</string>
+  </dict>
+  </lib>
+</glyph>

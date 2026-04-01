@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="2">
-  <advance width="779"/>
+  <advance width="729"/>
   <unicode hex="0056"/>
   <anchor x="413.75" y="797" name="top"/>
   <outline>
     <contour>
+      <point x="164.829" y="0" type="line"/>
+      <point x="342.829" y="0" type="line"/>
       <point x="758.185" y="722" type="line"/>
       <point x="598.185" y="722" type="line"/>
       <point x="285.047" y="155.704" type="line"/>
       <point x="293.148" y="155.704" type="line"/>
       <point x="200.185" y="722" type="line"/>
       <point x="40.1855" y="722" type="line"/>
-      <point x="164.829" y="0" type="line"/>
-      <point x="342.829" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="329" y="0"/>
@@ -43,7 +43,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=20</string>
+  <string>=-30</string>
   </dict>
   </lib>
 </glyph>

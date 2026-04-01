@@ -28,21 +28,21 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>t</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1142</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
     <string>t1</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>1182</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>t</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1142</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -180,7 +180,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.092</string>
+  <string>Version 1.095</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -303,6 +303,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <integer>110</integer>
     <integer>136</integer>
     <integer>150</integer>
+    <integer>156</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-279</integer>
@@ -323,7 +324,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>92</integer>
+  <integer>95</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

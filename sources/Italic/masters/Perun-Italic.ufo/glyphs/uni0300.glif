@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0300" format="2">
-  <advance width="1"/>
   <unicode hex="0300"/>
-  <anchor x="-138.305" y="600" name="_top"/>
+  <anchor x="0" y="580" name="_top"/>
   <outline>
-    <contour>
-      <point x="-104.294" y="600" type="line"/>
-      <point x="-171.051" y="771" type="line"/>
-      <point x="-272.051" y="771" type="line"/>
-      <point x="-165.294" y="600" type="line"/>
-    </contour>
+    <component base="grave" xOffset="-109.5"/>
   </outline>
   <lib>
   <dict>

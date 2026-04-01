@@ -2,10 +2,11 @@
 <glyph name="Umacron" format="2">
   <advance width="729"/>
   <unicode hex="016A"/>
-  <anchor x="261.11" y="-50" name="bottom"/>
+  <anchor x="260" y="-80" name="bottom"/>
+  <anchor x="446" y="797" name="t.ring"/>
   <outline>
     <component base="U"/>
-    <component base="uni0304" xOffset="627.725" yOffset="197"/>
+    <component base="uni0304" xOffset="425" yOffset="217"/>
   </outline>
   <lib>
   <dict>

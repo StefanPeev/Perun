@@ -3,9 +3,11 @@
   <advance width="330"/>
   <unicode hex="1E2E"/>
   <anchor x="84.1713" y="722" name="tonos"/>
+  <anchor x="170" y="0" name="ogonekUC"/>
+  <anchor x="77" y="-80" name="bottom"/>
   <outline>
-    <component base="Idieresis"/>
-    <component base="uni0301" xOffset="337.172" yOffset="222"/>
+    <component base="I"/>
+    <component base="uni03080301" xOffset="248" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -63,7 +65,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Idieresis+uni0301</string>
+  <string>I+uni03080301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

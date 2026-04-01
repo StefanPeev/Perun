@@ -2,12 +2,12 @@
 <glyph name="Hcaron" format="2">
   <advance width="767"/>
   <unicode hex="021E"/>
-  <anchor x="228.25" y="-75" name="bottom"/>
   <anchor x="22.1713" y="722" name="tonos"/>
   <anchor x="78" y="0" name="b.cedilla"/>
+  <anchor x="298" y="-80" name="bottom"/>
   <outline>
     <component base="H"/>
-    <component base="uni030C" xOffset="655.93" yOffset="197"/>
+    <component base="uni030C" xOffset="467" yOffset="217"/>
   </outline>
   <lib>
   <dict>

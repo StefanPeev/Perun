@@ -4,8 +4,9 @@
   <unicode hex="0041"/>
   <anchor x="508.75" y="797" name="top"/>
   <anchor x="653.773" y="10" name="ogonekUC"/>
-  <anchor x="339.25" y="-75" name="bottom"/>
   <anchor x="333.171" y="722" name="tonos"/>
+  <anchor x="509" y="703" name="t.ring"/>
+  <anchor x="339" y="-80" name="bottom"/>
   <outline>
     <contour>
       <point x="40.8287" y="0" type="line"/>
@@ -17,10 +18,10 @@
       <point x="484.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="600.04" y="248" type="line"/>
-      <point x="205.04" y="248" type="line"/>
       <point x="193.541" y="230" type="line"/>
       <point x="603.541" y="230" type="line"/>
+      <point x="600.04" y="248" type="line"/>
+      <point x="205.04" y="248" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="424" y="0"/>

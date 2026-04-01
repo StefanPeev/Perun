@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043E" format="2">
   <advance width="604"/>
-  <anchor x="368.672" y="600" name="top"/>
-  <anchor x="237.466" y="-75" name="bottom"/>
-  <anchor x="368.672" y="600" name="tonos.top"/>
+  <unicode hex="043E"/>
+  <anchor x="368" y="580" name="top"/>
+  <anchor x="368" y="580" name="tonos.top"/>
   <anchor x="220" y="0" name="b.cedilla"/>
+  <anchor x="290" y="0" name="ogonekLC"/>
+  <anchor x="239" y="-80" name="bottom"/>
   <outline>
     <component base="o"/>
   </outline>

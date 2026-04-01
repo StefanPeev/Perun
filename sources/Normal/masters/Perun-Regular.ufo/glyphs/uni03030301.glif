@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03030301" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <outline>
+    <component base="uni0303"/>
+    <component base="uni0301" xOffset="60" yOffset="180"/>
+  </outline>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="600"/>
+  <guideline angle="0" x="0" y="760"/>
+  <guideline angle="0" x="0" y="900"/>
+  <guideline angle="90" x="-40.5" y="0"/>
+  <guideline angle="90" x="161.5" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>tildecomb_acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0417" format="2">
   <advance width="567"/>
+  <unicode hex="0417"/>
   <anchor x="378" y="797" name="top"/>
   <outline>
     <contour>
-      <point x="13.404" y="190" type="line"/>
-      <point x="10.5685" y="181.414"/>
-      <point x="9.18505" y="161.414"/>
       <point x="9.18505" y="148.074" type="curve" smooth="yes"/>
       <point x="9.18505" y="51.8988"/>
       <point x="81.0897" y="-10"/>
@@ -52,6 +50,9 @@
       <point x="28.8182" y="160.822"/>
       <point x="30.3251" y="174.953"/>
       <point x="33.404" y="190" type="curve"/>
+      <point x="13.404" y="190" type="line"/>
+      <point x="10.5685" y="181.414"/>
+      <point x="9.18498" y="161.414"/>
     </contour>
   </outline>
   <lib>

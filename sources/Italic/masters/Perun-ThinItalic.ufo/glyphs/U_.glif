@@ -2,13 +2,11 @@
 <glyph name="U" format="2">
   <advance width="729"/>
   <unicode hex="0055"/>
-  <anchor x="425.75" y="797" name="top"/>
-  <anchor x="261.11" y="-50" name="bottom"/>
+  <anchor x="425" y="797" name="top"/>
+  <anchor x="260" y="-80" name="bottom"/>
+  <anchor x="446" y="797" name="t.ring"/>
   <outline>
     <contour>
-      <point x="76.4255" y="322" type="line" smooth="yes"/>
-      <point x="65.9698" y="268.216"/>
-      <point x="60.5568" y="221.771"/>
       <point x="60.5568" y="182.077" type="curve" smooth="yes"/>
       <point x="60.5568" y="44.4969"/>
       <point x="125.582" y="-12"/>
@@ -30,6 +28,9 @@
       <point x="96.4815" y="312" type="curve" smooth="yes"/>
       <point x="176.186" y="722" type="line"/>
       <point x="154.186" y="722" type="line"/>
+      <point x="76.4255" y="322" type="line" smooth="yes"/>
+      <point x="65.9698" y="268.216"/>
+      <point x="60.5568" y="221.771"/>
     </contour>
   </outline>
   <guideline angle="90" x="341" y="0"/>

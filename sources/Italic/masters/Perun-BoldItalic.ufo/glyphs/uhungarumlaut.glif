@@ -2,11 +2,11 @@
 <glyph name="uhungarumlaut" format="2">
   <advance width="589"/>
   <unicode hex="0171"/>
-  <anchor x="354.033" y="600" name="top"/>
   <anchor x="220.494" y="-87" name="bottom"/>
+  <anchor x="360" y="580" name="t.ring"/>
   <outline>
     <component base="u"/>
-    <component base="uni030B" xOffset="488.769"/>
+    <component base="uni030B" xOffset="354.033" yOffset="20"/>
   </outline>
   <lib>
   <dict>

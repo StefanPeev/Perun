@@ -5,10 +5,12 @@
   <anchor x="269" y="580" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="uni0323" xOffset="704.5"/>
+    <component base="uni0323" xOffset="439" yOffset="50"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -45,7 +47,7 @@
   <key>com.fontlab.recipe</key>
   <string>y+uni0323</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,10 +2,11 @@
 <glyph name="uni01D6" format="2">
   <advance width="574"/>
   <unicode hex="01D6"/>
-  <anchor x="212.494" y="-87" name="bottom"/>
+  <anchor x="212" y="-80" name="bottom"/>
+  <anchor x="354" y="580" name="t.ring"/>
   <outline>
-    <component base="udieresis"/>
-    <component base="uni0304" xOffset="481.257"/>
+    <component base="u"/>
+    <component base="uni03080304" xOffset="342.146"/>
   </outline>
   <lib>
   <dict>
@@ -75,7 +76,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>udieresis+uni0304</string>
+  <string>u+uni03080304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

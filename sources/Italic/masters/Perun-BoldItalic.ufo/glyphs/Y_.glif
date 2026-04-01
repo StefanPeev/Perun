@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="2">
-  <advance width="697"/>
+  <advance width="647"/>
   <unicode hex="0059"/>
-  <anchor x="372.75" y="797" name="top"/>
+  <anchor x="372" y="797" name="top"/>
+  <anchor x="22" y="722" name="tonos"/>
+  <anchor x="183" y="-80" name="bottom"/>
   <outline>
     <contour>
+      <point x="243.849" y="133.847" type="line"/>
       <point x="676.185" y="722" type="line"/>
       <point x="510.185" y="722" type="line"/>
       <point x="299.284" y="419" type="line"/>
       <point x="206.185" y="722" type="line"/>
       <point x="40.1855" y="722" type="line"/>
-      <point x="243.849" y="133.847" type="line"/>
     </contour>
     <contour>
-      <point x="197.816" y="288" type="line"/>
       <point x="141.829" y="0" type="line"/>
       <point x="291.829" y="0" type="line"/>
       <point x="347.816" y="288" type="line"/>
+      <point x="197.816" y="288" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="288" y="0"/>
   <guideline angle="298.405" x="-30" y="722"/>
   <guideline angle="61.5948" x="288" y="134"/>
+  <guideline angle="258.996" x="270.639" y="288"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

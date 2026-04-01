@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044D" format="2">
   <advance width="605"/>
-  <anchor x="352.174" y="580" name="top"/>
+  <unicode hex="044D"/>
+  <anchor x="352" y="580" name="top"/>
   <outline>
     <contour>
       <point x="50.8967" y="146.418" type="line"/>
@@ -32,10 +33,10 @@
       <point x="70.8977" y="146.418" type="curve"/>
     </contour>
     <contour>
-      <point x="542.701" y="258" type="line"/>
-      <point x="227.588" y="258" type="line"/>
       <point x="223.7" y="238" type="line"/>
       <point x="538.813" y="238" type="line"/>
+      <point x="542.701" y="258" type="line"/>
+      <point x="227.588" y="258" type="line"/>
     </contour>
   </outline>
   <lib>

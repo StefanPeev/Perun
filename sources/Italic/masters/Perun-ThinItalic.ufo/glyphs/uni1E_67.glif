@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E67" format="2">
-  <advance width="523"/>
+  <advance width="484"/>
   <unicode hex="1E67"/>
-  <anchor x="161.357" y="0" name="cedilla.bottom"/>
+  <anchor x="177" y="0" name="b.cedilla"/>
+  <anchor x="175" y="-50" name="b.commabelow"/>
+  <anchor x="190" y="-80" name="bottom"/>
   <outline>
-    <component base="scaron"/>
-    <component base="uni0307" xOffset="578.729" yOffset="140.029"/>
+    <component base="s"/>
+    <component base="uni030C0307" xOffset="296.979"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -73,7 +77,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>scaron+uni0307</string>
+  <string>s+uni030C0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

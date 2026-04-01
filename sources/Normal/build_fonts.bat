@@ -1,8 +1,8 @@
 @echo off
 
-fontmake -i -a -o ttf -m Perun.designspace
-fontmake -i -a -o otf -m Perun.designspace
-fontmake -a -o variable -m Perun.designspace
+python3 -m fontmake -i -a -o ttf -m Perun.designspace
+python3 -m fontmake -i -a -o otf -m Perun.designspace
+python3 -m fontmake -a -o variable -m Perun.designspace
 
 python fix-dsig.py .\autohinted\instance_ttf\Perun-Thin.ttf |
 python fix-dsig.py .\autohinted\instance_ttf\Perun-ExtraLight.ttf |
@@ -16,7 +16,7 @@ python fix-dsig.py .\instance_otf\Perun-ExtraLight.otf |
 python fix-dsig.py .\instance_otf\Perun-Light.otf |
 python fix-dsig.py .\instance_otf\Perun-Regular.otf |
 python fix-dsig.py .\instance_otf\Perun-Medium.otf |
-python fix-dsig.py .\instance_otf\Perun-SemiBold.otf
+python fix-dsig.py .\instance_otf\Perun-SemiBold.otf |
 python fix-dsig.py .\instance_otf\Perun-Bold.otf |
 
 python fix-dsig.py .\variable_ttf\Perun-VF.ttf |

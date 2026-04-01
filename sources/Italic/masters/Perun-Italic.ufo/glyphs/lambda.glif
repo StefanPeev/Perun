@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lambda" format="2">
-  <advance width="523"/>
+  <advance width="583"/>
   <unicode hex="03BB"/>
   <outline>
     <contour>
+      <point x="233.591" y="652" type="line"/>
+      <point x="253.527" y="654.921"/>
+      <point x="264.884" y="656.002"/>
+      <point x="283.822" y="656.002" type="curve" smooth="yes"/>
+      <point x="303.75" y="655.943"/>
+      <point x="315.055" y="642.417"/>
       <point x="317.731" y="627" type="curve" smooth="yes"/>
       <point x="413.016" y="78" type="line" smooth="yes"/>
       <point x="423.302" y="18.7366"/>
@@ -23,18 +29,12 @@
       <point x="297.788" y="732.053"/>
       <point x="273.124" y="730"/>
       <point x="247.975" y="726" type="curve"/>
-      <point x="233.591" y="652" type="line"/>
-      <point x="253.527" y="654.921"/>
-      <point x="264.884" y="656.002"/>
-      <point x="283.822" y="656.002" type="curve" smooth="yes"/>
-      <point x="303.75" y="655.943"/>
-      <point x="315.055" y="642.417"/>
     </contour>
     <contour>
-      <point x="370.332" y="555.08" type="line"/>
       <point x="40.2434" y="2" type="line"/>
       <point x="131.243" y="2" type="line"/>
       <point x="390.813" y="445.139" type="line"/>
+      <point x="370.332" y="555.08" type="line"/>
     </contour>
   </outline>
   <guideline angle="109.938" x="558" y="93"/>
@@ -67,7 +67,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=nu</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=nu</string>
+  <string>=nu+60</string>
   </dict>
   </lib>
 </glyph>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ECA" format="2">
-  <advance width="340"/>
+  <advance width="320"/>
   <unicode hex="1ECA"/>
-  <anchor x="251.75" y="797" name="top"/>
+  <anchor x="252" y="797" name="top"/>
   <anchor x="105.171" y="722" name="tonos"/>
+  <anchor x="150" y="0" name="ogonekUC"/>
   <outline>
     <component base="I"/>
-    <component base="uni0323" xOffset="436.447"/>
+    <component base="uni0323" xOffset="82" yOffset="-30"/>
   </outline>
   <lib>
   <dict>

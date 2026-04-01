@@ -3,10 +3,11 @@
   <advance width="504"/>
   <unicode hex="1EAF"/>
   <anchor x="371.182" y="10" name="ogonekLC"/>
-  <anchor x="190.52" y="-50" name="bottom"/>
+  <anchor x="334" y="580" name="t.ring"/>
+  <anchor x="190" y="-80" name="bottom"/>
   <outline>
-    <component base="abreve"/>
-    <component base="uni0301" xOffset="480.672"/>
+    <component base="a"/>
+    <component base="uni03060301" xOffset="321"/>
   </outline>
   <lib>
   <dict>
@@ -82,9 +83,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>abreve+uni0301</string>
+  <string>a+uni03060301</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

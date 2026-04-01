@@ -2,12 +2,9 @@
 <glyph name="omega" format="2">
   <advance width="719"/>
   <unicode hex="03C9"/>
-  <anchor x="418.033" y="600" name="tonos.top"/>
+  <anchor x="418" y="600" name="tonos.top"/>
   <outline>
     <contour>
-      <point x="194.605" y="498" type="line"/>
-      <point x="92.0898" y="392.551"/>
-      <point x="20.0163" y="300.813"/>
       <point x="20.0163" y="158.719" type="curve" smooth="yes"/>
       <point x="20.0163" y="67.0972"/>
       <point x="49.9821" y="-12"/>
@@ -49,6 +46,9 @@
       <point x="110.355" y="302.631"/>
       <point x="199.296" y="404.661"/>
       <point x="289.605" y="498" type="curve"/>
+      <point x="194.605" y="498" type="line"/>
+      <point x="92.0898" y="392.551"/>
+      <point x="20.0163" y="300.813"/>
     </contour>
   </outline>
   <lib>

@@ -3,11 +3,12 @@
   <advance width="587"/>
   <unicode hex="1E16"/>
   <anchor x="-20" y="722" name="tonos"/>
+  <anchor x="329" y="-75" name="bottom"/>
   <anchor x="324" y="0" name="b.cedilla"/>
   <anchor x="340" y="0" name="ogonekUC"/>
   <outline>
-    <component base="Emacron"/>
-    <component base="uni0301" xOffset="355" yOffset="217"/>
+    <component base="E"/>
+    <component base="uni03040301" xOffset="295" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -53,7 +54,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Emacron+uni0301</string>
+  <string>E+uni03040301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

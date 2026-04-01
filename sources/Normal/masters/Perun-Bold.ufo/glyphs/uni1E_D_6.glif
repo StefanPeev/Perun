@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ED6" format="2">
-  <advance width="796"/>
+  <advance width="776"/>
   <unicode hex="1ED6"/>
-  <anchor x="92" y="722" name="tonos"/>
-  <anchor x="430" y="0" name="ogonekUC"/>
-  <anchor x="398" y="1022" name="t.mkmk"/>
+  <anchor x="82" y="722" name="tonos"/>
+  <anchor x="388" y="-75" name="bottom"/>
+  <anchor x="420" y="0" name="ogonekUC"/>
+  <anchor x="382" y="1017" name="t.mkmk"/>
   <outline>
-    <component base="Ocircumflex"/>
-    <component base="uni0303" xOffset="398" yOffset="222"/>
+    <component base="O"/>
+    <component base="uni03020303" xOffset="382" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -65,9 +66,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Ocircumflex+uni0303</string>
+  <string>O+uni03020303</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

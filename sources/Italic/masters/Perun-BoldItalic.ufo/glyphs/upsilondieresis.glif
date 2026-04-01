@@ -2,10 +2,9 @@
 <glyph name="upsilondieresis" format="2">
   <advance width="589"/>
   <unicode hex="03CB"/>
-  <anchor x="334.033" y="600" name="tonos.top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="uni0308" xOffset="506.173"/>
+    <component base="uni0308" xOffset="334"/>
   </outline>
   <lib>
   <dict>

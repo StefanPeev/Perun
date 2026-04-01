@@ -2,7 +2,9 @@
 <glyph name="Lcommaaccent" format="2">
   <advance width="520"/>
   <unicode hex="013B"/>
-  <anchor x="172.75" y="797" name="top"/>
+  <anchor x="253" y="797" name="top"/>
+  <anchor x="431" y="722" name="caron_TR"/>
+  <anchor x="199" y="-80" name="bottom"/>
   <outline>
     <component base="L"/>
     <component base="uni0326" xOffset="205"/>

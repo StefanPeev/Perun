@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="340"/>
+  <advance width="290"/>
   <unicode hex="038A"/>
-  <anchor x="251.75" y="797" name="top"/>
+  <anchor x="252" y="797" name="top"/>
+  <anchor x="150" y="0" name="ogonekUC"/>
+  <anchor x="82" y="-80" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="tonos" xOffset="-115"/>
+    <component base="tonos" xOffset="-114.829"/>
   </outline>
   <lib>
   <dict>

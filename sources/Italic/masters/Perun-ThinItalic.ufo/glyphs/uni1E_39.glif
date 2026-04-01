@@ -6,7 +6,7 @@
   <anchor x="25" y="-50" name="b.commabelow"/>
   <outline>
     <component base="uni1E37"/>
-    <component base="macron" xOffset="-16.0783" yOffset="162"/>
+    <component base="uni0304" xOffset="178.947" yOffset="182"/>
   </outline>
   <lib>
   <dict>
@@ -52,7 +52,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>uni1E37+macron</string>
+  <string>uni1E37+uni0304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

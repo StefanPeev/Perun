@@ -2,10 +2,11 @@
 <glyph name="ucaron" format="2">
   <advance width="524"/>
   <unicode hex="01D4"/>
-  <anchor x="187.494" y="-87" name="bottom"/>
+  <anchor x="187" y="-80" name="bottom"/>
+  <anchor x="334" y="580" name="t.ring"/>
   <outline>
     <component base="u"/>
-    <component base="uni030C" xOffset="571.354" yOffset="-20"/>
+    <component base="uni030C" xOffset="317.146"/>
   </outline>
   <lib>
   <dict>

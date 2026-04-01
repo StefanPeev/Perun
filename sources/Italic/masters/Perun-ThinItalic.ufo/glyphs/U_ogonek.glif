@@ -2,8 +2,9 @@
 <glyph name="Uogonek" format="2">
   <advance width="729"/>
   <unicode hex="0172"/>
-  <anchor x="425.75" y="797" name="top"/>
-  <anchor x="261.11" y="-50" name="bottom"/>
+  <anchor x="425" y="797" name="top"/>
+  <anchor x="260" y="-80" name="bottom"/>
+  <anchor x="446" y="797" name="t.ring"/>
   <outline>
     <component base="U"/>
     <component base="ogonek" xOffset="334.048"/>

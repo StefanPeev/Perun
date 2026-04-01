@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Egrave" format="2">
-  <advance width="578"/>
+  <advance width="538"/>
   <unicode hex="00C8"/>
-  <anchor x="30.1713" y="722" name="tonos"/>
-  <anchor x="236" y="0" name="b.cedilla"/>
+  <anchor x="20.1713" y="722" name="tonos"/>
+  <anchor x="226" y="0" name="b.cedilla"/>
+  <anchor x="427" y="0" name="ogonekUC"/>
   <outline>
     <component base="E"/>
-    <component base="uni0300" xOffset="498.055" yOffset="197"/>
+    <component base="uni0300" xOffset="380" yOffset="217"/>
   </outline>
   <lib>
   <dict>

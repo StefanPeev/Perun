@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E4C" format="2">
-  <advance width="796"/>
+  <advance width="776"/>
   <unicode hex="1E4C"/>
-  <anchor x="92" y="722" name="tonos"/>
-  <anchor x="430" y="0" name="ogonekUC"/>
+  <anchor x="82" y="722" name="tonos"/>
+  <anchor x="388" y="-75" name="bottom"/>
+  <anchor x="420" y="0" name="ogonekUC"/>
   <outline>
-    <component base="Otilde"/>
-    <component base="uni0301" xOffset="432" yOffset="437"/>
+    <component base="O"/>
+    <component base="uni03030301" xOffset="382" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -64,9 +65,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Otilde+uni0301</string>
+  <string>O+uni03030301</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

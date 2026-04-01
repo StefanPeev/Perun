@@ -2,14 +2,14 @@
 <glyph name="uni1EAA" format="2">
   <advance width="760"/>
   <unicode hex="1EAA"/>
-  <anchor x="380" y="-75" name="bottom"/>
   <anchor x="380" y="666" name="t.ring"/>
   <anchor x="182" y="722" name="tonos"/>
+  <anchor x="380" y="-75" name="bottom"/>
   <anchor x="740" y="0" name="ogonekUC"/>
-  <anchor x="380" y="982" name="t.mkmk"/>
+  <anchor x="380" y="977" name="t.mkmk"/>
   <outline>
-    <component base="Acircumflex"/>
-    <component base="uni0303" xOffset="380" yOffset="222"/>
+    <component base="A"/>
+    <component base="uni03020303" xOffset="380" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -52,9 +52,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Acircumflex+uni0303</string>
+  <string>A+uni03020303</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

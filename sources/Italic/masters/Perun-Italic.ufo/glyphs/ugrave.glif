@@ -2,10 +2,11 @@
 <glyph name="ugrave" format="2">
   <advance width="574"/>
   <unicode hex="00F9"/>
-  <anchor x="212.494" y="-87" name="bottom"/>
+  <anchor x="212" y="-80" name="bottom"/>
+  <anchor x="354" y="580" name="t.ring"/>
   <outline>
     <component base="u"/>
-    <component base="uni0300" xOffset="480.451" yOffset="-20"/>
+    <component base="uni0300" xOffset="342.146"/>
   </outline>
   <lib>
   <dict>

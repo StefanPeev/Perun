@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0452" format="2">
   <advance width="586"/>
+  <unicode hex="0452"/>
   <outline>
     <contour>
       <point x="15.8287" y="0" type="line"/>
@@ -35,6 +36,13 @@
       <point x="210.569" y="405.083" type="line"/>
     </contour>
     <contour>
+      <point x="126.227" y="-142" type="line"/>
+      <point x="153.84" y="-180"/>
+      <point x="196.147" y="-199"/>
+      <point x="253.147" y="-199" type="curve" smooth="yes"/>
+      <point x="361.734" y="-199"/>
+      <point x="455.559" y="-140.291"/>
+      <point x="471.166" y="-60" type="curve" smooth="yes"/>
       <point x="508.876" y="134" type="line"/>
       <point x="372.876" y="134" type="line"/>
       <point x="342.747" y="-21" type="line" smooth="yes"/>
@@ -44,19 +52,12 @@
       <point x="239.529" y="-89"/>
       <point x="225.481" y="-78.279"/>
       <point x="216.668" y="-66.1515" type="curve"/>
-      <point x="126.227" y="-142" type="line"/>
-      <point x="153.84" y="-180"/>
-      <point x="196.147" y="-199"/>
-      <point x="253.147" y="-199" type="curve" smooth="yes"/>
-      <point x="361.734" y="-199"/>
-      <point x="455.559" y="-140.291"/>
-      <point x="471.166" y="-60" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="21.2883" y="630" type="line"/>
       <point x="4.76598" y="545" type="line"/>
       <point x="369.766" y="545" type="line"/>
       <point x="386.288" y="630" type="line"/>
+      <point x="21.2883" y="630" type="line"/>
     </contour>
   </outline>
   <lib>

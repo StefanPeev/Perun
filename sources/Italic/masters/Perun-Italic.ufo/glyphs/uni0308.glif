@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308" format="2">
-  <advance width="1"/>
   <unicode hex="0308"/>
-  <anchor x="-243.405" y="600" name="_top"/>
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="580" name="_tonos.top"/>
   <outline>
-    <contour>
-      <point x="-389.393" y="600" type="line"/>
-      <point x="-299.393" y="600" type="line"/>
-      <point x="-279.953" y="700" type="line"/>
-      <point x="-369.953" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="-188.393" y="600" type="line"/>
-      <point x="-98.3931" y="600" type="line"/>
-      <point x="-78.9531" y="700" type="line"/>
-      <point x="-168.953" y="700" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="-163.743"/>
   </outline>
   <guideline angle="90" x="-437" y="0"/>
   <guideline angle="90" x="-147" y="0"/>

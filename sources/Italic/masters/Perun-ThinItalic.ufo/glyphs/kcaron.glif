@@ -2,11 +2,11 @@
 <glyph name="kcaron" format="2">
   <advance width="371"/>
   <unicode hex="01E9"/>
-  <anchor x="180.25" y="-75" name="bottom"/>
-  <anchor x="155" y="-50" name="b.commabelow"/>
+  <anchor x="181" y="-50" name="b.commabelow"/>
+  <anchor x="175" y="-80" name="bottom"/>
   <outline>
     <component base="k"/>
-    <component base="uni030C" xOffset="598.155" yOffset="162"/>
+    <component base="uni030C" xOffset="343.947" yOffset="182"/>
   </outline>
   <lib>
   <dict>

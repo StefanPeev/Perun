@@ -2,9 +2,11 @@
 <glyph name="icaron" format="2">
   <advance width="278"/>
   <unicode hex="01D0"/>
+  <anchor x="130" y="0" name="ogonekLC"/>
+  <anchor x="70" y="-80" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni030C" xOffset="455.208" yOffset="-20"/>
+    <component base="uni030C" xOffset="199"/>
   </outline>
   <lib>
   <dict>

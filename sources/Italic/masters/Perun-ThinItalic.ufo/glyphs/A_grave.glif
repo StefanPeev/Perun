@@ -3,11 +3,12 @@
   <advance width="707"/>
   <unicode hex="00C0"/>
   <anchor x="653.773" y="10" name="ogonekUC"/>
-  <anchor x="339.25" y="-75" name="bottom"/>
   <anchor x="333.171" y="722" name="tonos"/>
+  <anchor x="509" y="703" name="t.ring"/>
+  <anchor x="339" y="-80" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="uni0300" xOffset="619.055" yOffset="197"/>
+    <component base="uni0300" xOffset="508.75" yOffset="217"/>
   </outline>
   <lib>
   <dict>

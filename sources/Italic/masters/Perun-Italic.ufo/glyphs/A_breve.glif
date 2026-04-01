@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="2">
-  <advance width="760"/>
+  <advance width="681"/>
   <unicode hex="0102"/>
-  <anchor x="580.112" y="10" name="ogonekUC"/>
-  <anchor x="276.59" y="-75" name="bottom"/>
-  <anchor x="233.511" y="722" name="tonos"/>
+  <anchor x="589.773" y="10" name="ogonekUC"/>
+  <anchor x="243.171" y="722" name="tonos"/>
+  <anchor x="455" y="682" name="t.ring"/>
+  <anchor x="286" y="-80" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="uni0306" xOffset="718.293" yOffset="197"/>
+    <component base="uni0306" xOffset="455.75" yOffset="217"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

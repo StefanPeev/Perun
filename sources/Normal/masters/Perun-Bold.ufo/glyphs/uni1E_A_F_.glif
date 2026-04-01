@@ -6,8 +6,8 @@
   <anchor x="275" y="-50" name="bottom"/>
   <anchor x="510" y="0" name="ogonekLC"/>
   <outline>
-    <component base="abreve"/>
-    <component base="uni0301" xOffset="272.5"/>
+    <component base="a"/>
+    <component base="uni03060301" xOffset="275"/>
   </outline>
   <lib>
   <dict>
@@ -83,9 +83,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>abreve+uni0301</string>
+  <string>a+uni03060301</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

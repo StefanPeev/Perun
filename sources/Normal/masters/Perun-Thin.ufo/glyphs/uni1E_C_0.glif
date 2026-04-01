@@ -3,11 +3,12 @@
   <advance width="510"/>
   <unicode hex="1EC0"/>
   <anchor x="-8" y="722" name="tonos"/>
+  <anchor x="258" y="-75" name="bottom"/>
   <anchor x="260" y="0" name="b.cedilla"/>
   <anchor x="310" y="0" name="ogonekUC"/>
   <outline>
-    <component base="Ecircumflex"/>
-    <component base="uni0300" xOffset="264.5" yOffset="222"/>
+    <component base="E"/>
+    <component base="uni03020300" xOffset="258" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -47,9 +48,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Ecircumflex+uni0300</string>
+  <string>E+uni03020300</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,16 +2,18 @@
 <glyph name="Aringacute" format="2">
   <advance width="710"/>
   <unicode hex="01FA"/>
-  <anchor x="355" y="-75" name="bottom"/>
-  <anchor x="585" y="10" name="ogonekUC"/>
+  <anchor x="355" y="797" name="top"/>
   <anchor x="152" y="722" name="tonos"/>
-  <anchor x="355" y="996" name="t.mkmk"/>
+  <anchor x="355" y="-75" name="bottom"/>
+  <anchor x="700" y="0" name="ogonekUC"/>
   <outline>
     <component base="Aring"/>
-    <component base="uni0301" xOffset="395" yOffset="416"/>
+    <component base="uni0301" xOffset="40" yOffset="-580"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -70,7 +72,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Aring+uni0301</string>
+  <string>=Aring+uni0301@Aring:t.mkmk</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -3,9 +3,10 @@
   <advance width="537"/>
   <unicode hex="1E1D"/>
   <anchor x="200.939" y="-89" name="bottom"/>
+  <anchor x="280" y="0" name="ogonekLC"/>
   <outline>
     <component base="uni0229"/>
-    <component base="uni0306" xOffset="584.036" yOffset="-20"/>
+    <component base="uni0306" xOffset="330.979"/>
   </outline>
   <lib>
   <dict>
@@ -95,7 +96,7 @@
   <key>com.fontlab.recipe</key>
   <string>uni0229+uni0306</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

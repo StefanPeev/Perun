@@ -4,20 +4,21 @@
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="100.301" y="630" type="line"/>
-      <point x="118.186" y="722" type="line"/>
-      <point x="28.1855" y="722" type="line"/>
-      <point x="10.3007" y="630" type="line"/>
+      <point x="10.3007" y="620" type="line"/>
+      <point x="100.301" y="620" type="line"/>
+      <point x="118.186" y="712" type="line"/>
+      <point x="28.1855" y="712" type="line"/>
     </contour>
     <contour>
-      <point x="300.301" y="630" type="line"/>
-      <point x="318.185" y="722" type="line"/>
-      <point x="228.185" y="722" type="line"/>
-      <point x="210.301" y="630" type="line"/>
+      <point x="210.301" y="620" type="line"/>
+      <point x="300.301" y="620" type="line"/>
+      <point x="318.185" y="712" type="line"/>
+      <point x="228.185" y="712" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-42" y="0"/>
-  <guideline angle="90" x="103" y="0"/>
+  <guideline angle="90" x="179.5" y="0"/>
+  <guideline angle="0" x="0" y="361"/>
+  <guideline angle="0" x="0" y="361"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

@@ -3,17 +3,20 @@
   <advance width="294"/>
   <unicode hex="0131"/>
   <anchor x="216" y="580" name="top"/>
+  <anchor x="166" y="0" name="ogonekLC"/>
+  <anchor x="87" y="-80" name="bottom"/>
   <outline>
     <contour>
       <point x="30.4049" y="0" type="line"/>
-      <point x="127.605" y="500" type="line"/>
-      <point x="263.605" y="500" type="line"/>
       <point x="166.405" y="0" type="line"/>
+      <point x="263.605" y="500" type="line"/>
+      <point x="127.605" y="500" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="147" y="0"/>
   <guideline angle="90" x="30" y="0"/>
   <guideline angle="90" x="264" y="0"/>
+  <guideline angle="78.9106" x="102.32" y="0"/>
   <guideline angle="78.9106" x="166" y="0"/>
   <lib>
   <dict>

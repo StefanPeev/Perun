@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="761"/>
+  <advance width="681"/>
   <unicode hex="0041"/>
-  <anchor x="535.75" y="797" name="top"/>
-  <anchor x="669.773" y="10" name="ogonekUC"/>
-  <anchor x="366.25" y="-75" name="bottom"/>
-  <anchor x="323.171" y="722" name="tonos"/>
+  <anchor x="455.75" y="797" name="top"/>
+  <anchor x="589.773" y="10" name="ogonekUC"/>
+  <anchor x="243.171" y="722" name="tonos"/>
+  <anchor x="455" y="682" name="t.ring"/>
+  <anchor x="286" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="20.8287" y="0" type="line"/>
-      <point x="123.829" y="0" type="line"/>
-      <point x="496.089" y="613.292" type="line"/>
-      <point x="634.829" y="0" type="line"/>
-      <point x="740.829" y="0" type="line"/>
-      <point x="574.185" y="722" type="line"/>
-      <point x="464.185" y="722" type="line"/>
+      <point x="-59.1713" y="0" type="line"/>
+      <point x="43.8287" y="0" type="line"/>
+      <point x="416.089" y="613.292" type="line"/>
+      <point x="554.829" y="0" type="line"/>
+      <point x="660.829" y="0" type="line"/>
+      <point x="494.185" y="722" type="line"/>
+      <point x="384.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="593.872" y="278" type="line"/>
-      <point x="270.872" y="278" type="line"/>
-      <point x="215.348" y="193" type="line"/>
-      <point x="619.348" y="193" type="line"/>
+      <point x="135.348" y="193" type="line"/>
+      <point x="539.348" y="193" type="line"/>
+      <point x="513.872" y="278" type="line"/>
+      <point x="190.872" y="278" type="line"/>
     </contour>
   </outline>
-  <guideline angle="292.813" x="448" y="611"/>
-  <guideline angle="67.5869" x="194" y="0"/>
-  <guideline angle="90" x="410" y="0"/>
+  <guideline angle="292.813" x="368" y="611"/>
+  <guideline angle="67.5869" x="114" y="0"/>
+  <guideline angle="90" x="330" y="0"/>
   <guideline angle="0" x="0" y="231"/>
   <guideline angle="0" x="0" y="255"/>
-  <guideline angle="292.825" x="447" y="613"/>
-  <guideline angle="67.5729" x="194" y="0"/>
+  <guideline angle="292.825" x="367" y="613"/>
+  <guideline angle="67.5729" x="114" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -57,7 +58,7 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=20</string>
+  <string>=-60</string>
   <key>com.fontlab.metricsRight</key>
   <string>=20</string>
   </dict>

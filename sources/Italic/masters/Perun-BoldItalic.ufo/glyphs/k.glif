@@ -2,8 +2,9 @@
 <glyph name="k" format="2">
   <advance width="546"/>
   <unicode hex="006B"/>
-  <anchor x="339.75" y="797" name="top"/>
+  <anchor x="460" y="797" name="top"/>
   <anchor x="245" y="-50" name="b.commabelow"/>
+  <anchor x="234" y="-80" name="bottom"/>
   <outline>
     <contour>
       <point x="20.8287" y="0" type="line"/>
@@ -12,13 +13,13 @@
       <point x="161.185" y="722" type="line"/>
     </contour>
     <contour>
+      <point x="209.498" y="282.853" type="line"/>
+      <point x="339.829" y="0" type="line"/>
       <point x="503.829" y="0" type="line"/>
       <point x="358.142" y="293.876" type="line"/>
       <point x="353.564" y="274.781" type="line"/>
       <point x="585.029" y="500" type="line"/>
       <point x="423.029" y="500" type="line"/>
-      <point x="209.498" y="282.853" type="line"/>
-      <point x="339.829" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="231.761" x="312" y="500"/>
@@ -27,6 +28,7 @@
   <guideline angle="303.173" x="141" y="283"/>
   <guideline angle="90" x="155" y="0"/>
   <guideline angle="90" x="20" y="0"/>
+  <guideline angle="79.0262" x="302.38" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

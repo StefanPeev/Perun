@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0300" format="2">
   <unicode hex="0300"/>
-  <anchor x="-110.305" y="600" name="_top"/>
+  <anchor x="0" y="580" name="_top"/>
   <outline>
-    <contour>
-      <point x="-104.294" y="600" type="line"/>
-      <point x="-181.051" y="771" type="line"/>
-      <point x="-210.809" y="771" type="line"/>
-      <point x="-114.051" y="600" type="line"/>
-    </contour>
+    <component base="grave" xOffset="-90"/>
   </outline>
-  <guideline angle="90" x="-80" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

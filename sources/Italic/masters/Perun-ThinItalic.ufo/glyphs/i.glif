@@ -2,9 +2,11 @@
 <glyph name="i" format="2">
   <advance width="228"/>
   <unicode hex="0069"/>
+  <anchor x="80" y="0" name="ogonekLC"/>
+  <anchor x="54" y="-80" name="bottom"/>
   <outline>
     <component base="dotlessi" xOffset="-40"/>
-    <component base="uni0307" xOffset="288" yOffset="-50"/>
+    <component base="uni0307" xOffset="183"/>
   </outline>
   <lib>
   <dict>

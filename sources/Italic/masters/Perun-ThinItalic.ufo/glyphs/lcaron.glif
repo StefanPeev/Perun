@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="432"/>
+  <advance width="370"/>
   <unicode hex="013E"/>
   <anchor x="178.947" y="762" name="top"/>
   <anchor x="25" y="-50" name="b.commabelow"/>
+  <anchor x="0" y="-80" name="bottom"/>
   <outline>
     <component base="l"/>
-    <component base="quoteright" xOffset="110"/>
+    <component base="quoteright" xOffset="110.171"/>
   </outline>
   <lib>
   <dict>
@@ -39,6 +40,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=quoteright</string>
   <key>com.fontlab.recipe</key>
   <string>l_quoteright</string>
   <key>public.markColor</key>

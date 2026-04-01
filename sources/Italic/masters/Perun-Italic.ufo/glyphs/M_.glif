@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="2">
-  <advance width="942"/>
+  <advance width="882"/>
   <unicode hex="004D"/>
+  <anchor x="550" y="797" name="top"/>
+  <anchor x="377" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="50.8287" y="0" type="line"/>
-      <point x="150.829" y="0" type="line"/>
-      <point x="291.185" y="722" type="line"/>
-      <point x="191.185" y="722" type="line"/>
+      <point x="40.8287" y="0" type="line"/>
+      <point x="140.829" y="0" type="line"/>
+      <point x="281.185" y="722" type="line"/>
+      <point x="181.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="650.829" y="0" type="line"/>
-      <point x="750.829" y="0" type="line"/>
-      <point x="891.185" y="722" type="line"/>
-      <point x="791.185" y="722" type="line"/>
+      <point x="640.829" y="0" type="line"/>
+      <point x="740.829" y="0" type="line"/>
+      <point x="881.185" y="722" type="line"/>
+      <point x="781.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="358.829" y="0" type="line"/>
-      <point x="438.829" y="0" type="line"/>
-      <point x="851.186" y="722" type="line"/>
-      <point x="758.186" y="722" type="line"/>
-      <point x="418.092" y="125.937" type="line"/>
-      <point x="428.484" y="125.922" type="line"/>
-      <point x="325.186" y="722" type="line"/>
-      <point x="230.186" y="722" type="line"/>
+      <point x="348.829" y="0" type="line"/>
+      <point x="428.829" y="0" type="line"/>
+      <point x="841.186" y="722" type="line"/>
+      <point x="748.186" y="722" type="line"/>
+      <point x="408.092" y="125.937" type="line"/>
+      <point x="418.484" y="125.922" type="line"/>
+      <point x="315.186" y="722" type="line"/>
+      <point x="220.186" y="722" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="469" y="0"/>
+  <guideline angle="90" x="459" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

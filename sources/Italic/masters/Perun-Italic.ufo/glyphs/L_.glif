@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="464"/>
+  <advance width="454"/>
   <unicode hex="004C"/>
-  <anchor x="160.75" y="797" name="top"/>
-  <anchor x="225" y="-50" name="b.commabelow"/>
+  <anchor x="241" y="797" name="top"/>
+  <anchor x="215" y="-50" name="b.commabelow"/>
+  <anchor x="401" y="722" name="caron_TR"/>
+  <anchor x="219" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="96.7415" y="87" type="line"/>
-      <point x="79.8287" y="0" type="line"/>
-      <point x="436.829" y="0" type="line"/>
-      <point x="453.742" y="87" type="line"/>
+      <point x="69.8287" y="0" type="line"/>
+      <point x="426.829" y="0" type="line"/>
+      <point x="443.742" y="87" type="line"/>
+      <point x="86.7415" y="87" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="290" y="722" type="line"/>
-      <point x="190" y="722" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="280" y="722" type="line"/>
+      <point x="180" y="722" type="line"/>
     </contour>
   </outline>
   <lib>

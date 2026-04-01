@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_t" format="2">
-  <advance width="648"/>
+  <advance width="578"/>
   <outline>
     <component base="f"/>
-    <component base="t" xOffset="353"/>
+    <component base="t" xOffset="283"/>
   </outline>
   <lib>
   <dict>
@@ -56,8 +56,6 @@
   <string>=f</string>
   <key>com.fontlab.metricsRight</key>
   <string>=t</string>
-  <key>com.fontlab.recipe</key>
-  <string>f_t</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

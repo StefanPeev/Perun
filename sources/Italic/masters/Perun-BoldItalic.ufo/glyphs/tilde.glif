@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="2">
-  <advance width="320"/>
+  <advance width="401"/>
   <unicode hex="02DC"/>
-  <anchor x="206.165" y="600" name="_top"/>
   <outline>
     <contour>
-      <point x="49.6763" y="618" type="curve"/>
-      <point x="101.676" y="618" type="line"/>
-      <point x="113.342" y="642"/>
-      <point x="132.092" y="651"/>
-      <point x="152.8" y="651" type="curve" smooth="yes"/>
-      <point x="172.481" y="651"/>
-      <point x="195.142" y="642.753"/>
-      <point x="211.775" y="629.537" type="curve"/>
-      <point x="227.289" y="706.78" type="line"/>
-      <point x="208.732" y="718.465"/>
-      <point x="186.791" y="725"/>
-      <point x="166.113" y="725" type="curve" smooth="yes"/>
-      <point x="108.477" y="725"/>
-      <point x="66.5627" y="674"/>
-    </contour>
-    <contour>
-      <point x="389.665" y="719" type="curve"/>
-      <point x="337.665" y="719" type="line"/>
-      <point x="326" y="695"/>
-      <point x="307.25" y="686"/>
-      <point x="286.542" y="686" type="curve" smooth="yes"/>
-      <point x="266.861" y="686"/>
-      <point x="244.199" y="694.247"/>
-      <point x="227.567" y="707.463" type="curve"/>
-      <point x="212.053" y="630.22" type="line"/>
-      <point x="230.61" y="618.535"/>
-      <point x="252.551" y="612"/>
-      <point x="273.228" y="612" type="curve" smooth="yes"/>
-      <point x="330.865" y="612"/>
-      <point x="372.779" y="663"/>
+      <point x="30.67" y="620" type="curve"/>
+      <point x="82.67" y="620" type="line"/>
+      <point x="87.3636" y="639.8"/>
+      <point x="107.816" y="653"/>
+      <point x="133.8" y="653" type="curve" smooth="yes"/>
+      <point x="183.306" y="653"/>
+      <point x="208.032" y="614"/>
+      <point x="263.271" y="614" type="curve" smooth="yes"/>
+      <point x="317.86" y="614"/>
+      <point x="360.816" y="656.8"/>
+      <point x="370.66" y="721" type="curve"/>
+      <point x="318.66" y="721" type="line"/>
+      <point x="313.99" y="701.2"/>
+      <point x="293.542" y="688"/>
+      <point x="267.54" y="688" type="curve" smooth="yes"/>
+      <point x="218.446" y="688"/>
+      <point x="193.11" y="727"/>
+      <point x="138.427" y="727" type="curve" smooth="yes"/>
+      <point x="83.6382" y="727"/>
+      <point x="40.5353" y="684.2"/>
     </contour>
   </outline>
-  <guideline angle="90" x="160" y="0"/>
+  <guideline angle="90" x="200.5" y="0"/>
   <guideline angle="0" x="0" y="680"/>
   <lib>
   <dict>
@@ -71,6 +60,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
   </dict>
   </lib>
 </glyph>

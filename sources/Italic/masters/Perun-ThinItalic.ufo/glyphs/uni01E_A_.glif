@@ -2,12 +2,13 @@
 <glyph name="uni01EA" format="2">
   <advance width="742"/>
   <unicode hex="01EA"/>
-  <anchor x="442.778" y="797" name="top"/>
-  <anchor x="135.199" y="722" name="tonos"/>
+  <anchor x="475" y="797" name="top"/>
+  <anchor x="135" y="722" name="tonos"/>
   <anchor x="290" y="0" name="b.cedilla"/>
+  <anchor x="290" y="-80" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni0328" xOffset="661.604"/>
+    <component base="uni0328" xOffset="251"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020303" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="800" name="t.mkmk"/>
+  <outline>
+    <component base="circumflex" xOffset="-169.5"/>
+    <component base="tilde" xOffset="-160" yOffset="180"/>
+  </outline>
+  <guideline angle="90" x="-296" y="0"/>
+  <guideline angle="0" x="0" y="580"/>
+  <guideline angle="0" x="0" y="600"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>circumflexcomb_tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

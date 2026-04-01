@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="2">
-  <advance width="754"/>
+  <advance width="756"/>
   <unicode hex="0150"/>
   <anchor x="72" y="722" name="tonos"/>
+  <anchor x="378" y="-75" name="bottom"/>
   <anchor x="390" y="0" name="ogonekUC"/>
   <outline>
     <component base="O"/>
-    <component base="uni030B" xOffset="659" yOffset="197"/>
+    <component base="uni030B" xOffset="365" yOffset="217"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

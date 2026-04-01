@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF5" format="2">
-  <advance width="545"/>
+  <advance width="508"/>
   <unicode hex="1EF5"/>
   <anchor x="269" y="580" name="top"/>
   <outline>
-    <component base="y" xOffset="-20"/>
-    <component base="uni0323" xOffset="704.5"/>
+    <component base="y"/>
+    <component base="uni0323" xOffset="423" yOffset="45"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -45,7 +47,7 @@
   <key>com.fontlab.recipe</key>
   <string>y+uni0323</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,11 +2,16 @@
 <glyph name="n" format="2">
   <advance width="588"/>
   <unicode hex="006E"/>
-  <anchor x="315.785" y="580" name="top"/>
-  <anchor x="194.466" y="-75" name="bottom"/>
-  <anchor x="232" y="-50" name="b.commabelow"/>
+  <anchor x="366" y="580" name="top"/>
+  <anchor x="238" y="-50" name="b.commabelow"/>
+  <anchor x="238" y="-80" name="bottom"/>
   <outline>
-    <component base="dotlessi" xOffset="-10"/>
+    <contour>
+      <point x="20.4049" y="0" type="line"/>
+      <point x="156.405" y="0" type="line"/>
+      <point x="253.605" y="500" type="line"/>
+      <point x="117.605" y="500" type="line"/>
+    </contour>
     <contour>
       <point x="190.351" y="279.357" type="line"/>
       <point x="210.282" y="279" type="line"/>
@@ -34,6 +39,7 @@
       <point x="214.792" y="405.083" type="line"/>
     </contour>
   </outline>
+  <guideline angle="78.9106" x="252.392" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

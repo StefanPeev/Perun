@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="294"/>
+  <advance width="227"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="219.82" y="580" type="line"/>
-      <point x="289.82" y="580" type="line"/>
-      <point x="233.808" y="760" type="line"/>
-      <point x="103.808" y="760" type="line"/>
+      <point x="20.8083" y="760" type="line"/>
+      <point x="136.82" y="580" type="line"/>
+      <point x="206.82" y="580" type="line"/>
+      <point x="150.808" y="760" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,6 +30,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
   </dict>
   </lib>
 </glyph>

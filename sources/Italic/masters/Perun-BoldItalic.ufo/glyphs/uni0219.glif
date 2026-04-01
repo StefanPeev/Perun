@@ -2,7 +2,9 @@
 <glyph name="uni0219" format="2">
   <advance width="523"/>
   <unicode hex="0219"/>
+  <anchor x="334" y="580" name="top"/>
   <anchor x="200" y="0" name="b.cedilla"/>
+  <anchor x="220" y="-80" name="bottom"/>
   <outline>
     <component base="s"/>
     <component base="uni0326" xOffset="165"/>

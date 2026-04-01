@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="2">
-  <advance width="779"/>
+  <advance width="719"/>
   <unicode hex="0150"/>
-  <anchor x="154.005" y="722" name="tonos"/>
-  <anchor x="290" y="0" name="b.cedilla"/>
+  <anchor x="134.005" y="722" name="tonos"/>
+  <anchor x="270" y="0" name="b.cedilla"/>
+  <anchor x="320" y="0" name="ogonekUC"/>
+  <anchor x="292" y="-80" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni030B" xOffset="709.889" yOffset="197"/>
+    <component base="uni030B" xOffset="462" yOffset="217"/>
   </outline>
   <lib>
   <dict>

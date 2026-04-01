@@ -2,7 +2,7 @@
 <glyph name="alpha" format="2">
   <advance width="608"/>
   <unicode hex="03B1"/>
-  <anchor x="337.061" y="600" name="tonos.top"/>
+  <anchor x="337" y="580" name="tonos.top"/>
   <outline>
     <contour>
       <point x="93.9422" y="194.695" type="curve" smooth="yes"/>
@@ -37,6 +37,9 @@
       <point x="72.5232" y="349.243"/>
     </contour>
     <contour>
+      <point x="483.714" y="27.1496" type="curve" smooth="yes"/>
+      <point x="484.077" y="3.33847"/>
+      <point x="498.459" y="-10"/>
       <point x="525.511" y="-10" type="curve" smooth="yes"/>
       <point x="537.46" y="-10"/>
       <point x="545.98" y="-7.0316"/>
@@ -56,9 +59,6 @@
       <point x="485.57" y="47" type="line" smooth="yes"/>
       <point x="484.658" y="42.3074"/>
       <point x="483.61" y="34.0039"/>
-      <point x="483.714" y="27.1496" type="curve" smooth="yes"/>
-      <point x="484.077" y="3.33847"/>
-      <point x="498.459" y="-10"/>
     </contour>
   </outline>
   <lib>

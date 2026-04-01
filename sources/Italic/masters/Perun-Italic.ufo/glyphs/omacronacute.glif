@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacronacute" format="2">
+  <advance width="575"/>
+  <unicode hex="1E53"/>
+  <anchor x="351" y="580" name="tonos.top"/>
+  <anchor x="290" y="0" name="b.cedilla"/>
+  <anchor x="280" y="0" name="ogonekLC"/>
+  <anchor x="210" y="-80" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni03040301" xOffset="351"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni03040301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

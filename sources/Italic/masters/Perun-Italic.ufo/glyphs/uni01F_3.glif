@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F3" format="2">
-  <advance width="1015"/>
+  <advance width="1025"/>
   <unicode hex="01F3"/>
-  <anchor x="856.146" y="580" name="top"/>
+  <anchor x="856" y="580" name="top"/>
   <anchor x="669.171" y="722" name="caron_TR"/>
   <anchor x="202" y="-50" name="b.commabelow"/>
-  <anchor x="869" y="0" name="b.cedilla"/>
+  <anchor x="879" y="0" name="b.cedilla"/>
+  <anchor x="723" y="-80" name="bottom"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="579"/>
+    <component base="z" xOffset="589"/>
   </outline>
   <lib>
   <dict>

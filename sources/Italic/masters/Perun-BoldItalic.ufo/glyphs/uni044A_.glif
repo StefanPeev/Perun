@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044A" format="2">
   <advance width="512"/>
+  <unicode hex="044A"/>
   <outline>
     <contour>
-      <point x="-19.2598" y="403" type="line"/>
-      <point x="135.74" y="403" type="line"/>
-      <point x="154.595" y="500" type="line"/>
-      <point x="-0.404909" y="500" type="line"/>
+      <point x="30.4049" y="0" type="line"/>
+      <point x="166.405" y="0" type="line"/>
+      <point x="263.605" y="500" type="line"/>
+      <point x="127.605" y="500" type="line"/>
     </contour>
     <contour>
       <point x="147.405" y="0" type="line"/>
-      <point x="189.405" y="0" type="line"/>
+      <point x="189.405" y="0" type="line" smooth="yes"/>
       <point x="334.146" y="0"/>
       <point x="472.556" y="41.7245"/>
       <point x="472.556" y="210.979" type="curve" smooth="yes"/>
@@ -29,10 +30,10 @@
       <point x="165.919" y="97" type="line"/>
     </contour>
     <contour>
-      <point x="166.405" y="0" type="line"/>
-      <point x="263.605" y="500" type="line"/>
-      <point x="127.605" y="500" type="line"/>
-      <point x="30.4049" y="0" type="line"/>
+      <point x="-19.2598" y="403" type="line"/>
+      <point x="135.74" y="403" type="line"/>
+      <point x="154.595" y="500" type="line"/>
+      <point x="-0.404909" y="500" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="289"/>
+  <advance width="384"/>
   <unicode hex="00AF"/>
-  <anchor x="192.595" y="600" name="_top"/>
-  <anchor x="227.612" y="775" name="_bottom"/>
   <outline>
     <contour>
-      <point x="343.439" y="630" type="line"/>
-      <point x="357.047" y="700" type="line"/>
-      <point x="68.0469" y="700" type="line"/>
-      <point x="54.4389" y="630" type="line"/>
+      <point x="40.4389" y="620" type="line"/>
+      <point x="329.439" y="620" type="line"/>
+      <point x="343.047" y="690" type="line"/>
+      <point x="54.0469" y="690" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="669"/>
-  <guideline angle="90" x="200" y="0"/>
-  <guideline angle="90" x="144" y="0"/>
+  <guideline angle="0" x="0" y="620"/>
+  <guideline angle="90" x="192" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -38,6 +35,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
   </dict>
   </lib>
 </glyph>

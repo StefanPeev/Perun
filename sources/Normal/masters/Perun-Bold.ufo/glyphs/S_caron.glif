@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-  <advance width="684"/>
+  <advance width="664"/>
   <unicode hex="0160"/>
-  <anchor x="357" y="0" name="b.cedilla"/>
+  <anchor x="345" y="-75" name="bottom"/>
+  <anchor x="347" y="0" name="b.cedilla"/>
   <outline>
     <component base="S"/>
-    <component base="uni030C" xOffset="342" yOffset="217"/>
+    <component base="uni030C" xOffset="332" yOffset="217"/>
   </outline>
   <lib>
   <dict>

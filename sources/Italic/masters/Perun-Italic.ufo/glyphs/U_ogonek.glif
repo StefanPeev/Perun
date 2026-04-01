@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="2">
-  <advance width="770"/>
+  <advance width="710"/>
   <unicode hex="0172"/>
-  <anchor x="445.75" y="797" name="top"/>
-  <anchor x="281.11" y="-50" name="bottom"/>
+  <anchor x="435" y="797" name="top"/>
+  <anchor x="270" y="-80" name="bottom"/>
+  <anchor x="436" y="797" name="t.ring"/>
   <outline>
     <component base="U"/>
-    <component base="ogonek" xOffset="334.46"/>
+    <component base="ogonek" xOffset="304.46"/>
   </outline>
   <lib>
   <dict>

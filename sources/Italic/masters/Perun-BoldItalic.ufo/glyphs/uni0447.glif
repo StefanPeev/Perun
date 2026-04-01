@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0447" format="2">
   <advance width="552"/>
+  <unicode hex="0447"/>
   <outline>
     <contour>
-      <point x="396.605" y="500" type="line"/>
       <point x="299.405" y="0" type="line"/>
       <point x="434.405" y="0" type="line"/>
       <point x="531.605" y="500" type="line"/>
+      <point x="396.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="42.8353" y="316" type="line" smooth="yes"/>
-      <point x="38.7578" y="295.025"/>
-      <point x="36.7151" y="275.816"/>
       <point x="36.7151" y="258.363" type="curve" smooth="yes"/>
       <point x="36.7151" y="170.36"/>
       <point x="88.6514" y="127"/>
@@ -31,6 +29,9 @@
       <point x="177.447" y="314" type="curve" smooth="yes"/>
       <point x="213.605" y="500" type="line"/>
       <point x="78.605" y="500" type="line"/>
+      <point x="42.8353" y="316" type="line" smooth="yes"/>
+      <point x="38.7578" y="295.025"/>
+      <point x="36.7151" y="275.816"/>
     </contour>
   </outline>
   <lib>

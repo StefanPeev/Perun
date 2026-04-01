@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0404" format="2">
   <advance width="715"/>
+  <unicode hex="0404"/>
   <outline>
     <contour>
-      <point x="34.6393" y="361" type="curve" smooth="yes"/>
-      <point x="27.5099" y="324.322"/>
-      <point x="23.8865" y="289.372"/>
       <point x="23.8865" y="256.605" type="curve" smooth="yes"/>
       <point x="23.8865" y="94.615"/>
       <point x="112.443" y="-14"/>
@@ -23,6 +21,9 @@
       <point x="449.532" y="736" type="line"/>
       <point x="219.532" y="736"/>
       <point x="77.0142" y="579"/>
+      <point x="34.6393" y="361" type="curve" smooth="yes"/>
+      <point x="27.5099" y="324.322"/>
+      <point x="23.8865" y="289.372"/>
     </contour>
     <contour>
       <point x="101.337" y="308" type="line"/>
@@ -31,7 +32,6 @@
       <point x="124.663" y="428" type="line"/>
     </contour>
     <contour>
-      <point x="446.338" y="735" type="curve"/>
       <point x="430.373" y="622" type="line"/>
       <point x="504.914" y="622"/>
       <point x="545.727" y="575.087"/>
@@ -45,9 +45,9 @@
       <point x="693.108" y="540.978" type="curve" smooth="yes"/>
       <point x="693.108" y="657.01"/>
       <point x="602.649" y="735"/>
+      <point x="446.338" y="735" type="curve"/>
     </contour>
     <contour>
-      <point x="319.906" y="100" type="curve"/>
       <point x="303.941" y="-13" type="line"/>
       <point x="485.941" y="-13"/>
       <point x="616.072" y="106"/>
@@ -55,6 +55,7 @@
       <point x="491.897" y="244" type="line"/>
       <point x="475.375" y="159"/>
       <point x="415.906" y="100"/>
+      <point x="319.906" y="100" type="curve"/>
     </contour>
   </outline>
   <lib>

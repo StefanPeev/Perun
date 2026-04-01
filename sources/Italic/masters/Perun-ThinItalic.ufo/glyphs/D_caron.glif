@@ -2,10 +2,11 @@
 <glyph name="Dcaron" format="2">
   <advance width="708"/>
   <unicode hex="010E"/>
-  <anchor x="235" y="-50" name="b.commabelow"/>
+  <anchor x="235" y="-80" name="b.commabelow"/>
+  <anchor x="254" y="-80" name="bottom"/>
   <outline>
     <component base="D"/>
-    <component base="uni030C" xOffset="639.958" yOffset="197"/>
+    <component base="uni030C" xOffset="390" yOffset="217"/>
   </outline>
   <lib>
   <dict>

@@ -2,8 +2,8 @@
 <glyph name="uni043A.loclBGR" format="2">
   <advance width="391"/>
   <anchor x="363.947" y="762" name="top"/>
-  <anchor x="200.25" y="-75" name="bottom"/>
-  <anchor x="175" y="-50" name="b.commabelow"/>
+  <anchor x="201" y="-50" name="b.commabelow"/>
+  <anchor x="195" y="-80" name="bottom"/>
   <outline>
     <component base="k" xOffset="20"/>
   </outline>
@@ -50,6 +50,8 @@
   <string>=k</string>
   <key>com.fontlab.recipe</key>
   <string>k</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

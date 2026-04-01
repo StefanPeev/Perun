@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="751"/>
+  <advance width="701"/>
   <unicode hex="004B"/>
-  <anchor x="359.75" y="797" name="top"/>
-  <anchor x="274" y="-50" name="b.commabelow"/>
+  <anchor x="470" y="797" name="top"/>
+  <anchor x="304" y="-50" name="b.commabelow"/>
+  <anchor x="299" y="-80" name="bottom"/>
   <outline>
     <contour>
       <point x="20" y="0" type="line"/>
@@ -12,16 +13,18 @@
       <point x="160" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="214.183" y="430.76" type="line"/>
+      <point x="236.303" y="388.467" type="line"/>
       <point x="439.829" y="0" type="line"/>
-      <point x="619.829" y="0" type="line"/>
-      <point x="398.21" y="428.906" type="line"/>
+      <point x="608.829" y="0" type="line"/>
+      <point x="377.21" y="428.906" type="line"/>
       <point x="387.203" y="372.295" type="line"/>
       <point x="730.185" y="722" type="line"/>
       <point x="560.185" y="722" type="line"/>
-      <point x="198.301" y="349.06" type="line"/>
     </contour>
   </outline>
+  <guideline angle="225.857" x="560" y="722"/>
+  <guideline angle="297.671" x="214" y="431"/>
+  <guideline angle="79.0262" x="315.139" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

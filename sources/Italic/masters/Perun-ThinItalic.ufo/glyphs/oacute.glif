@@ -2,12 +2,13 @@
 <glyph name="oacute" format="2">
   <advance width="576"/>
   <unicode hex="00F3"/>
-  <anchor x="224.854" y="-75" name="bottom"/>
-  <anchor x="352.174" y="580" name="tonos.top"/>
+  <anchor x="352" y="580" name="tonos.top"/>
   <anchor x="240" y="0" name="b.cedilla"/>
+  <anchor x="260" y="0" name="ogonekLC"/>
+  <anchor x="210" y="-80" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="uni0301" xOffset="662.479" yOffset="-20"/>
+    <component base="uni0301" xOffset="352"/>
   </outline>
   <lib>
   <dict>

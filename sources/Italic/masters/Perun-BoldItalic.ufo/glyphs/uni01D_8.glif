@@ -3,9 +3,10 @@
   <advance width="589"/>
   <unicode hex="01D8"/>
   <anchor x="220.494" y="-87" name="bottom"/>
+  <anchor x="360" y="580" name="t.ring"/>
   <outline>
-    <component base="udieresis"/>
-    <component base="uni0301" xOffset="466.672"/>
+    <component base="u"/>
+    <component base="uni03080301" xOffset="354.033" yOffset="20"/>
   </outline>
   <lib>
   <dict>
@@ -81,7 +82,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>udieresis+uni0301</string>
+  <string>u+uni03080301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

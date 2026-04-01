@@ -3,8 +3,11 @@
   <advance width="522"/>
   <unicode hex="026C"/>
   <outline>
-    <component base="l" xOffset="190.086"/>
+    <component base="l" xOffset="191.357"/>
     <contour>
+      <point x="118.49" y="399.577" type="curve" smooth="yes"/>
+      <point x="118.49" y="322.96"/>
+      <point x="197.999" y="288.058"/>
       <point x="305.344" y="281.178" type="curve"/>
       <point x="315.771" y="331.823" type="line"/>
       <point x="231.863" y="341.285"/>
@@ -22,9 +25,6 @@
       <point x="255.804" y="517" type="curve" smooth="yes"/>
       <point x="183.73" y="517"/>
       <point x="118.49" y="468.98"/>
-      <point x="118.49" y="399.577" type="curve" smooth="yes"/>
-      <point x="118.49" y="322.96"/>
-      <point x="197.999" y="288.058"/>
     </contour>
     <contour>
       <point x="347.523" y="281.874" type="line"/>

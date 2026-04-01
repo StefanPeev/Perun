@@ -2,11 +2,13 @@
 <glyph name="uni020C" format="2">
   <advance width="742"/>
   <unicode hex="020C"/>
-  <anchor x="135.199" y="722" name="tonos"/>
+  <anchor x="135" y="722" name="tonos"/>
   <anchor x="290" y="0" name="b.cedilla"/>
+  <anchor x="310" y="0" name="ogonekUC"/>
+  <anchor x="290" y="-80" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni030F" xOffset="671.083" yOffset="197"/>
+    <component base="uni030F" xOffset="475" yOffset="217"/>
   </outline>
   <lib>
   <dict>

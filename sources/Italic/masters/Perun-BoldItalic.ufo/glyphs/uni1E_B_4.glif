@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EB4" format="2">
-  <advance width="710"/>
+  <advance width="731"/>
   <unicode hex="1EB4"/>
-  <anchor x="494.905" y="10" name="ogonekUC"/>
-  <anchor x="200.304" y="722" name="tonos"/>
+  <anchor x="586.967" y="10" name="ogonekUC"/>
+  <anchor x="292.366" y="722" name="tonos"/>
+  <anchor x="511" y="663" name="t.ring"/>
+  <anchor x="340" y="-80" name="bottom"/>
   <outline>
-    <component base="Abreve"/>
-    <component base="uni0303" xOffset="464.341" yOffset="-875"/>
+    <component base="A"/>
+    <component base="uni03060303" xOffset="509.944" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -61,9 +63,9 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>Abreve+uni0303</string>
+  <string>A+uni03060303</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
-  <advance width="597"/>
+  <advance width="577"/>
   <unicode hex="0071"/>
-  <anchor x="335.882" y="580" name="top"/>
-  <anchor x="194.687" y="-275" name="bottom"/>
+  <anchor x="335" y="580" name="top"/>
   <outline>
     <contour>
       <point x="30.199" y="187.86" type="curve" smooth="yes"/>
@@ -35,10 +34,10 @@
       <point x="120.199" y="122.674"/>
     </contour>
     <contour>
-      <point x="466.251" y="499.587" type="line"/>
       <point x="330.265" y="-200" type="line"/>
       <point x="420.265" y="-200" type="line"/>
       <point x="556.251" y="499.587" type="line"/>
+      <point x="466.251" y="499.587" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -85,7 +84,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=o</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
+  <string>=n-20</string>
   </dict>
   </lib>
 </glyph>

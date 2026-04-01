@@ -2,13 +2,16 @@
 <glyph name="r" format="2">
   <advance width="405"/>
   <unicode hex="0072"/>
-  <anchor x="236.785" y="580" name="top"/>
+  <anchor x="277" y="580" name="top"/>
   <anchor x="45" y="-50" name="b.commabelow"/>
   <outline>
-    <component base="dotlessi" xOffset="-10"/>
     <contour>
-      <point x="237.122" y="422.209" type="curve" smooth="yes"/>
-      <point x="209.929" y="385.21" type="line"/>
+      <point x="20.4049" y="0" type="line"/>
+      <point x="156.405" y="0" type="line"/>
+      <point x="253.605" y="500" type="line"/>
+      <point x="117.605" y="500" type="line"/>
+    </contour>
+    <contour>
       <point x="184.611" y="254.974" type="line"/>
       <point x="204.616" y="255" type="line"/>
       <point x="223.667" y="353"/>
@@ -17,6 +20,8 @@
       <point x="425.966" y="514" type="line"/>
       <point x="343.375" y="514"/>
       <point x="282.739" y="484.413"/>
+      <point x="237.122" y="422.209" type="curve" smooth="yes"/>
+      <point x="209.929" y="385.21" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="155" y="0"/>

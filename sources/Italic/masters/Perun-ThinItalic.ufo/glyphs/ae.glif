@@ -2,6 +2,7 @@
 <glyph name="ae" format="2">
   <advance width="905"/>
   <unicode hex="00E6"/>
+  <anchor x="494" y="580" name="top"/>
   <outline>
     <contour>
       <point x="31.5669" y="113.306" type="curve" smooth="yes"/>
@@ -76,7 +77,6 @@
       <point x="52.3497" y="47.6773"/>
     </contour>
     <contour>
-      <point x="798.254" y="283" type="curve"/>
       <point x="452.254" y="283" type="line"/>
       <point x="497.137" y="423.031"/>
       <point x="577.403" y="492"/>
@@ -86,6 +86,7 @@
       <point x="805.444" y="350.036" type="curve" smooth="yes"/>
       <point x="805.444" y="329.99"/>
       <point x="803.116" y="307.675"/>
+      <point x="798.254" y="283" type="curve"/>
     </contour>
   </outline>
   <lib>
