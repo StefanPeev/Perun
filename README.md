@@ -10,6 +10,11 @@ Acknowledgements
   
 If you make modifications be sure to add <code>your name</code> (N), <code>email</code> (if you have one) (E), <code>web-address</code> (if you have one) (W), <code>twitter handle</code> (if you have one) (T) and <code>description</code> (D).
 
++ N: Nicolas Greenwood
++ E: nicolas.greenwood@outlook.com
++ W: https://nicolasgreenwood.github.io
++ D: Contributor
+
 Project Manager  
 -------------------
 
