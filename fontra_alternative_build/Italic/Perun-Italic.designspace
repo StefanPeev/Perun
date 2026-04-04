@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="700" default="400">
+      <labels>
+        <label uservalue="100" name="Thin Italic"/>
+        <label uservalue="200" name="ExtraLight Italic"/>
+        <label uservalue="300" name="Light Italic"/>
+        <label uservalue="400" name="Italic"/>
+        <label uservalue="500" name="Medium Italic"/>
+        <label uservalue="600" name="SemiBold Italic"/>
+        <label uservalue="700" name="Bold Italic"/>
+      </labels>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="masters/Perun-ThinItalic.ufo" name="ThinItalic" familyname="Perun" stylename="Thin Italic">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="masters/Perun-Italic.ufo" name="Italic" familyname="Perun" stylename="Italic">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="masters/Perun-BoldItalic.ufo" name="BoldItalic" familyname="Perun" stylename="Bold Italic">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

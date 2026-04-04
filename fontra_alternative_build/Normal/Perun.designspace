@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="700" default="400">
+      <labels>
+        <label uservalue="100" name="Thin"/>
+        <label uservalue="200" name="ExtraLight"/>
+        <label uservalue="300" name="Light"/>
+        <label uservalue="400" name="Regular"/>
+        <label uservalue="500" name="Medium"/>
+        <label uservalue="600" name="SemiBold"/>
+        <label uservalue="700" name="Bold"/>
+      </labels>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="masters/Perun-Thin.ufo" name="Thin" familyname="Perun" stylename="Thin">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="masters/Perun-Regular.ufo" name="Regular" familyname="Perun" stylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="masters/Perun-Bold.ufo" name="Bold" familyname="Perun" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
