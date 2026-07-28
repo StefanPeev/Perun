@@ -4,12 +4,6 @@
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="651" y="0" type="line"/>
-      <point x="651" y="55" type="line"/>
-      <point x="51" y="55" type="line"/>
-      <point x="51" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="50.7452" y="307.764" type="line"/>
       <point x="650.745" y="77.7639" type="line"/>
       <point x="650.745" y="139.764" type="line"/>
@@ -18,6 +12,12 @@
       <point x="650.745" y="537.764" type="line"/>
       <point x="650.745" y="599.764" type="line"/>
       <point x="50.7452" y="369.764" type="line"/>
+    </contour>
+    <contour>
+      <point x="651" y="0" type="line"/>
+      <point x="651" y="55" type="line"/>
+      <point x="51" y="55" type="line"/>
+      <point x="51" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="196.469" x="651" y="497"/>

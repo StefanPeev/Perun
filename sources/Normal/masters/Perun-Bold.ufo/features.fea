@@ -409,7 +409,6 @@ feature liga {
     sub f i by uniFB01;
     sub f l by uniFB02;
     sub longs t by uniFB05;
-    sub s t by uniFB06;
 #< feature
 } liga;
 feature dlig {
@@ -419,6 +418,7 @@ feature dlig {
   sub f j by f_j.dlig;
   sub f f j by f_f_j.dlig;
   sub u a e a e d by aed.dlig;
+  sub s t by uniFB06;
 #< feature
 } dlig;
 feature hist {
@@ -2102,6 +2102,10 @@ feature mark {
           <anchor 287 720> mark @t.mkmk;
       pos base otilde
           <anchor 310 720> mark @t.mkmk;
+      pos base uni1E2E
+          <anchor 91 937> mark @t.mkmk;
+      pos base uni1E2F
+          <anchor 110 720> mark @t.mkmk;
       pos base uni1E4E
           <anchor 365 937> mark @t.mkmk;
       pos base uni1E4F

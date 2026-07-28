@@ -5,7 +5,12 @@
   <anchor x="0" y="800" name="t.mkmk"/>
   <outline>
     <component base="acute" xOffset="-130.5"/>
-    <component base="uni0307" yOffset="184.453"/>
+    <contour>
+      <point x="-75" y="784.453" type="line"/>
+      <point x="75" y="784.453" type="line"/>
+      <point x="75" y="914.453" type="line"/>
+      <point x="-75" y="914.453" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-110.5" y="0"/>
   <guideline angle="90" x="111.5" y="0"/>

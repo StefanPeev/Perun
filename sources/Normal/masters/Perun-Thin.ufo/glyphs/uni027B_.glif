@@ -3,7 +3,20 @@
   <advance width="409"/>
   <unicode hex="027B"/>
   <outline>
-    <component base="uni0279"/>
+    <contour>
+      <point x="202" y="500" type="line"/>
+      <point x="202" y="160" type="line" smooth="yes"/>
+      <point x="202" y="67"/>
+      <point x="141" y="20"/>
+      <point x="20" y="20" type="curve"/>
+      <point x="20" y="0" type="line"/>
+      <point x="140" y="0"/>
+      <point x="174" y="19"/>
+      <point x="202" y="68" type="curve"/>
+      <point x="202" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="222" y="500" type="line"/>
+    </contour>
     <contour>
       <point x="337" y="-181.843" type="line"/>
       <point x="287.492" y="-181.843" type="line" smooth="yes"/>

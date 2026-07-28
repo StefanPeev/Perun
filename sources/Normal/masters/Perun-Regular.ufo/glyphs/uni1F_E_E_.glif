@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FEE" format="2">
+  <advance width="450"/>
+  <unicode hex="1FEE"/>
+  <outline>
+    <component base="dieresis"/>
+    <component base="uni0301" xOffset="285.5" yOffset="100"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresis+uni0301</string>
+  </dict>
+  </lib>
+</glyph>

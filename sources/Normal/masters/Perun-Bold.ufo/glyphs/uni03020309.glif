@@ -2,8 +2,40 @@
 <glyph name="uni03020309" format="2">
   <anchor x="0" y="580" name="_top"/>
   <outline>
-    <component base="circumflex" xOffset="-169.5"/>
-    <component base="uni0309" xOffset="159.571" yOffset="163.39"/>
+    <contour>
+      <point x="-169.5" y="580" type="line"/>
+      <point x="-49.5" y="580" type="line"/>
+      <point x="32.5" y="680" type="line"/>
+      <point x="-31.5" y="680" type="line"/>
+      <point x="50.5" y="580" type="line"/>
+      <point x="170.5" y="580" type="line"/>
+      <point x="70.5" y="730" type="line"/>
+      <point x="-69.5" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="280.922" y="820.03" type="curve" smooth="yes"/>
+      <point x="280.922" y="881.93"/>
+      <point x="232.53" y="923.197"/>
+      <point x="159.942" y="923.197" type="curve" smooth="yes"/>
+      <point x="96.3148" y="923.197"/>
+      <point x="47.9231" y="893.884"/>
+      <point x="38.2207" y="827.584" type="curve"/>
+      <point x="128.408" y="827.584" type="line"/>
+      <point x="130.161" y="849.467"/>
+      <point x="141.993" y="864.056"/>
+      <point x="157.986" y="864.056" type="curve" smooth="yes"/>
+      <point x="177.389" y="864.056"/>
+      <point x="190.728" y="850.238"/>
+      <point x="190.728" y="826.057" type="curve" smooth="yes"/>
+      <point x="190.728" y="797.04"/>
+      <point x="165.459" y="778.386"/>
+      <point x="114.922" y="774.24" type="curve"/>
+      <point x="114.922" y="693.39" type="line"/>
+      <point x="204.922" y="693.39" type="line"/>
+      <point x="204.922" y="733.197" type="line"/>
+      <point x="256.444" y="748.934"/>
+      <point x="280.922" y="776.9"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-296" y="0"/>
   <lib>

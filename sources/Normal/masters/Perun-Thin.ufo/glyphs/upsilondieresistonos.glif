@@ -5,7 +5,7 @@
   <anchor x="269" y="600" name="tonos.top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresisacute"/>
+    <component base="uni1FEE" xOffset="83.5"/>
   </outline>
   <lib>
   <dict>
@@ -63,7 +63,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>upsilon+dieresisacute</string>
+  <string>upsilon+uni1FEE</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

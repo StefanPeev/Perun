@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="2">
-  <advance width="890"/>
+  <advance width="657"/>
   <unicode hex="0024"/>
   <outline>
-    <component base="S" xOffset="645"/>
+    <component base="S"/>
     <contour>
-      <point x="165.308" y="720" type="line"/>
-      <point x="285.143" y="720" type="line"/>
-      <point x="300.694" y="800" type="line"/>
-      <point x="180.858" y="800" type="line"/>
+      <point x="330.308" y="720" type="line"/>
+      <point x="450.143" y="720" type="line"/>
+      <point x="465.694" y="800" type="line"/>
+      <point x="345.858" y="800" type="line"/>
     </contour>
     <contour>
-      <point x="105.05" y="410" type="line"/>
-      <point x="224.885" y="410" type="line"/>
-      <point x="269.787" y="641" type="line"/>
-      <point x="149.952" y="641" type="line"/>
+      <point x="270.05" y="410" type="line"/>
+      <point x="389.885" y="410" type="line"/>
+      <point x="434.787" y="641" type="line"/>
+      <point x="314.952" y="641" type="line"/>
     </contour>
     <contour>
-      <point x="42.8484" y="90" type="line"/>
-      <point x="162.684" y="90" type="line"/>
-      <point x="209.335" y="330" type="line"/>
-      <point x="89.4997" y="330" type="line"/>
+      <point x="207.848" y="90" type="line"/>
+      <point x="327.684" y="90" type="line"/>
+      <point x="374.335" y="330" type="line"/>
+      <point x="254.5" y="330" type="line"/>
     </contour>
     <contour>
-      <point x="10.5813" y="-76" type="line"/>
-      <point x="130.416" y="-76" type="line"/>
-      <point x="147.133" y="10" type="line"/>
-      <point x="27.298" y="10" type="line"/>
+      <point x="175.581" y="-76" type="line"/>
+      <point x="295.416" y="-76" type="line"/>
+      <point x="312.133" y="10" type="line"/>
+      <point x="192.298" y="10" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="143" y="0"/>
+  <guideline angle="90" x="-502" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

@@ -4,8 +4,22 @@
   <anchor x="0" y="580" name="_t.mkmk"/>
   <anchor x="1" y="760" name="t.mkmk"/>
   <outline>
-    <component base="circumflex" xScale="-1" yScale="-1" xOffset="145.5" yOffset="1310"/>
-    <component base="uni0307" xOffset="1" yOffset="160"/>
+    <contour>
+      <point x="145.5" y="730" type="line"/>
+      <point x="75.5" y="730" type="line"/>
+      <point x="-10.423" y="639.72" type="line"/>
+      <point x="11.423" y="639.72" type="line"/>
+      <point x="-74.5" y="730" type="line"/>
+      <point x="-144.5" y="730" type="line"/>
+      <point x="-44.5" y="580" type="line"/>
+      <point x="45.5" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="-54" y="760" type="line"/>
+      <point x="56" y="760" type="line"/>
+      <point x="56" y="870" type="line"/>
+      <point x="-54" y="870" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-54" y="0"/>
   <guideline angle="90" x="56" y="0"/>

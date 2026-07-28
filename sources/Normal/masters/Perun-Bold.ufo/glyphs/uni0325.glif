@@ -3,7 +3,34 @@
   <unicode hex="0325"/>
   <anchor x="0" y="-75" name="_bottom"/>
   <outline>
-    <component base="ring" xOffset="-169.5" yOffset="-935"/>
+    <contour>
+      <point x="0.5" y="-75" type="curve" smooth="yes"/>
+      <point x="-81.6412" y="-75"/>
+      <point x="-139.5" y="-132.859"/>
+      <point x="-139.5" y="-215" type="curve" smooth="yes"/>
+      <point x="-139.5" y="-295.975"/>
+      <point x="-81.5477" y="-355"/>
+      <point x="0.5" y="-355" type="curve" smooth="yes"/>
+      <point x="81.4745" y="-355"/>
+      <point x="140.5" y="-295.975"/>
+      <point x="140.5" y="-215" type="curve" smooth="yes"/>
+      <point x="140.5" y="-132.952"/>
+      <point x="81.4745" y="-75"/>
+    </contour>
+    <contour>
+      <point x="0.5" y="-261" type="curve" smooth="yes"/>
+      <point x="-25.8792" y="-261"/>
+      <point x="-45.5" y="-241.379"/>
+      <point x="-45.5" y="-215" type="curve" smooth="yes"/>
+      <point x="-45.5" y="-189.387"/>
+      <point x="-25.1125" y="-169"/>
+      <point x="0.5" y="-169" type="curve" smooth="yes"/>
+      <point x="26.8792" y="-169"/>
+      <point x="46.5" y="-188.621"/>
+      <point x="46.5" y="-215" type="curve" smooth="yes"/>
+      <point x="46.5" y="-240.613"/>
+      <point x="26.1125" y="-261"/>
+    </contour>
   </outline>
   <guideline angle="0" x="0" y="-75"/>
 </glyph>

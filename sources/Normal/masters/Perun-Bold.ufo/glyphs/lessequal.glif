@@ -4,12 +4,6 @@
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="690" y="0" type="line"/>
-      <point x="690" y="115" type="line"/>
-      <point x="30" y="115" type="line"/>
-      <point x="30" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="30" y="347" type="line"/>
       <point x="690" y="117" type="line"/>
       <point x="690" y="239" type="line"/>
@@ -18,6 +12,12 @@
       <point x="690" y="637" type="line"/>
       <point x="690" y="759" type="line"/>
       <point x="30" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="690" y="0" type="line"/>
+      <point x="690" y="115" type="line"/>
+      <point x="30" y="115" type="line"/>
+      <point x="30" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="197.551" x="690" y="597"/>

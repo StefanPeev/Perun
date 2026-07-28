@@ -4,12 +4,10 @@
   <unicode hex="1FED"/>
   <outline>
     <component base="dieresis"/>
-    <component base="uni0300" xOffset="225"/>
+    <component base="uni0300" xOffset="165" yOffset="100"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -39,8 +37,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>dieresis+uni0300</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

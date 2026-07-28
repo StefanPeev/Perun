@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045E" format="2">
-  <advance width="541"/>
+  <advance width="507"/>
   <unicode hex="045E"/>
   <outline>
     <component base="uni0443"/>
     <contour>
-      <point x="186.373" y="713.188" type="curve" smooth="yes"/>
-      <point x="186.373" y="642.761"/>
-      <point x="228.815" y="603.928"/>
-      <point x="304.14" y="603.928" type="curve" smooth="yes"/>
-      <point x="389.536" y="603.928"/>
-      <point x="451.32" y="653.84"/>
-      <point x="473.447" y="741.928" type="curve"/>
-      <point x="404.447" y="741.928" type="line"/>
-      <point x="384.437" y="682.415"/>
-      <point x="357.041" y="657.849"/>
-      <point x="314.631" y="657.849" type="curve" smooth="yes"/>
-      <point x="275.782" y="657.849"/>
-      <point x="255.168" y="678.463"/>
-      <point x="255.168" y="720.664" type="curve" smooth="yes"/>
-      <point x="255.168" y="727.228"/>
-      <point x="255.558" y="734.315"/>
-      <point x="257.447" y="741.928" type="curve"/>
-      <point x="189.447" y="741.928" type="line"/>
-      <point x="187.059" y="731.835"/>
-      <point x="186.373" y="722.25"/>
+      <point x="216.373" y="713.188" type="curve" smooth="yes"/>
+      <point x="216.373" y="642.761"/>
+      <point x="258.815" y="603.928"/>
+      <point x="334.14" y="603.928" type="curve" smooth="yes"/>
+      <point x="419.536" y="603.928"/>
+      <point x="481.32" y="653.84"/>
+      <point x="503.447" y="741.928" type="curve"/>
+      <point x="434.447" y="741.928" type="line"/>
+      <point x="414.437" y="682.415"/>
+      <point x="387.041" y="657.849"/>
+      <point x="344.631" y="657.849" type="curve" smooth="yes"/>
+      <point x="305.782" y="657.849"/>
+      <point x="285.168" y="678.463"/>
+      <point x="285.168" y="720.664" type="curve" smooth="yes"/>
+      <point x="285.168" y="727.228"/>
+      <point x="285.558" y="734.315"/>
+      <point x="287.447" y="741.928" type="curve"/>
+      <point x="219.447" y="741.928" type="line"/>
+      <point x="217.059" y="731.835"/>
+      <point x="216.373" y="722.25"/>
     </contour>
   </outline>
   <lib>
@@ -68,6 +68,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0443</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0443</string>
   <key>com.fontlab.recipe</key>
   <string>uni0443+uni0306</string>
   </dict>

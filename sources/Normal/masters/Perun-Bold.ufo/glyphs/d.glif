@@ -6,12 +6,6 @@
   <anchor x="610" y="722" name="caron_TR"/>
   <outline>
     <contour>
-      <point x="411" y="0" type="line"/>
-      <point x="546" y="0" type="line"/>
-      <point x="546" y="722" type="line"/>
-      <point x="411" y="722" type="line"/>
-    </contour>
-    <contour>
       <point x="44" y="252" type="curve" smooth="yes"/>
       <point x="44" y="104"/>
       <point x="118.552" y="-14"/>
@@ -39,6 +33,12 @@
       <point x="291.483" y="76" type="curve" smooth="yes"/>
       <point x="208.125" y="76"/>
       <point x="179" y="167"/>
+    </contour>
+    <contour>
+      <point x="411" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="722" type="line"/>
+      <point x="411" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
