@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="2">
-  <advance width="545"/>
+  <advance width="540"/>
   <unicode hex="0079"/>
-  <anchor x="269" y="580" name="top"/>
-  <anchor x="439" y="-80" name="center"/>
+  <anchor x="264" y="580" name="top"/>
+  <anchor x="434" y="-80" name="center"/>
   <outline>
     <contour>
-      <point x="161" y="-200" type="line"/>
-      <point x="253" y="-200" type="line"/>
-      <point x="525" y="500" type="line"/>
-      <point x="428" y="500" type="line"/>
+      <point x="151" y="-200" type="line"/>
+      <point x="248" y="-200" type="line"/>
+      <point x="520" y="500" type="line"/>
+      <point x="422" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="287.78" y="110.158" type="line"/>
-      <point x="125" y="500" type="line"/>
+      <point x="282.78" y="110.158" type="line"/>
+      <point x="120" y="500" type="line"/>
       <point x="20" y="500" type="line"/>
-      <point x="239.912" y="-12.7858" type="line"/>
+      <point x="236.912" y="-12.7858" type="line"/>
     </contour>
   </outline>
-  <guideline angle="249.122" x="428" y="500"/>
-  <guideline angle="68.7653" x="253" y="-200"/>
-  <guideline angle="112.682" x="288" y="110"/>
-  <guideline angle="293.212" x="20" y="500"/>
-  <guideline angle="68.6821" x="240" y="-13"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

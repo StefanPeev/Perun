@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03080304" format="2">
   <anchor x="0" y="580" name="_top"/>
-  <anchor x="0" y="760" name="t.mkmk"/>
   <outline>
-    <component base="uni0308"/>
-    <component base="uni0304" yOffset="160"/>
+    <contour>
+      <point x="-54.5" y="600" type="line"/>
+      <point x="-54.5" y="692" type="line"/>
+      <point x="-144.5" y="692" type="line"/>
+      <point x="-144.5" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="145.5" y="600" type="line"/>
+      <point x="145.5" y="692" type="line"/>
+      <point x="55.5" y="692" type="line"/>
+      <point x="55.5" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="770" type="line"/>
+      <point x="145" y="840" type="line"/>
+      <point x="-145" y="840" type="line"/>
+      <point x="-145" y="770" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

@@ -4,11 +4,11 @@
   <unicode hex="01E0"/>
   <anchor x="353" y="706" name="t.ring"/>
   <anchor x="192" y="722" name="tonos"/>
-  <anchor x="353" y="-75" name="bottom"/>
+  <anchor x="353" y="-80" name="bottom"/>
   <anchor x="666" y="0" name="ogonekUC"/>
   <outline>
-    <component base="uni0226"/>
-    <component base="uni0304" xOffset="353" yOffset="222"/>
+    <component base="A"/>
+    <component base="uni03070304" xOffset="353" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -60,7 +60,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>uni0226+uni0304</string>
+  <string>A+uni03070304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

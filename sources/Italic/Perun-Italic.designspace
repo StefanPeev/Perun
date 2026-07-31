@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis name="weight" maximum="700" minimum="100" tag="wght" default="400">
+  <axis default="400" name="weight" maximum="700" minimum="100" tag="wght">
    <labelname xml:lang="en">Weight</labelname>
-   <map output="100" input="100"/>
-   <map output="400" input="400"/>
-   <map output="700" input="700"/>
+   <map input="100" output="100"/>
+   <map input="400" output="400"/>
+   <map input="700" output="700"/>
   </axis>
  </axes>
  <sources>
-  <source filename="masters/Perun-BoldItalic.ufo" name="Bold Italic" familyname="Perun" stylename="Bold Italic">
+  <source name="Bold Italic" stylename="Bold Italic" filename="masters/Perun-BoldItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </source>
-  <source filename="masters/Perun-Italic.ufo" name="Italic" familyname="Perun" stylename="Italic">
+  <source name="Italic" stylename="Italic" filename="masters/Perun-Italic.ufo" familyname="Perun">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -23,44 +23,44 @@
     <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source filename="masters/Perun-ThinItalic.ufo" name="Thin Italic" familyname="Perun" stylename="Thin Italic">
+  <source name="Thin Italic" stylename="Thin Italic" filename="masters/Perun-ThinItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance filename="instances/Perun-ThinItalic.ufo" name="ThinItalic" familyname="Perun" stylename="Thin Italic">
+  <instance name="ThinItalic" stylename="Thin Italic" filename="instances/Perun-ThinItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance filename="instances/Perun-ExtraLightItalic.ufo" name="ExtraLightItalic" familyname="Perun" stylename="ExtraLight Italic">
+  <instance name="ExtraLightItalic" stylename="ExtraLight Italic" filename="instances/Perun-ExtraLightItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance filename="instances/Perun-LightItalic.ufo" name="LightItalic" familyname="Perun" stylename="Light Italic">
+  <instance name="LightItalic" stylename="Light Italic" filename="instances/Perun-LightItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance filename="instances/Perun-Italic.ufo" name="Italic" familyname="Perun" stylename="Italic">
+  <instance name="Italic" stylename="Italic" filename="instances/Perun-Italic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/Perun-MediumItalic.ufo" name="MediumItalic" familyname="Perun" stylename="Medium Italic">
+  <instance name="MediumItalic" stylename="Medium Italic" filename="instances/Perun-MediumItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance filename="instances/Perun-SemiBoldItalic.ufo" name="SemiBoldItalic" familyname="Perun" stylename="SemiBold Italic">
+  <instance name="SemiBoldItalic" stylename="SemiBold Italic" filename="instances/Perun-SemiBoldItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance filename="instances/Perun-BoldItalic.ufo" name="BoldItalic" familyname="Perun" stylename="Bold Italic">
+  <instance name="BoldItalic" stylename="Bold Italic" filename="instances/Perun-BoldItalic.ufo" familyname="Perun">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>

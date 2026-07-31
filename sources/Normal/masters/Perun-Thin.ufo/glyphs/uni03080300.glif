@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080300" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-81" y="600" type="line"/>
+      <point x="-59" y="600" type="line"/>
+      <point x="-59" y="692" type="line"/>
+      <point x="-81" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="600" type="line"/>
+      <point x="81" y="600" type="line"/>
+      <point x="81" y="692" type="line"/>
+      <point x="59" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="720" type="line"/>
+      <point x="-85" y="860" type="line"/>
+      <point x="-115" y="860" type="line"/>
+      <point x="-5" y="720" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="720"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0308+uni0300</string>
+  </dict>
+  </lib>
+</glyph>

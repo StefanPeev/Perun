@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="2">
-  <advance width="260"/>
+  <advance width="214"/>
   <unicode hex="2019"/>
-  <anchor x="141" y="722" name="_caron_TR"/>
   <outline>
     <contour>
-      <point x="92.0852" y="472" type="line"/>
-      <point x="112.085" y="472" type="line"/>
-      <point x="265.685" y="722" type="line"/>
-      <point x="235.685" y="722" type="line"/>
+      <point x="40.0852" y="472" type="line"/>
+      <point x="60.0852" y="472" type="line"/>
+      <point x="213.685" y="722" type="line"/>
+      <point x="183.685" y="722" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="71" y="0"/>
+  <guideline angle="90" x="19" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

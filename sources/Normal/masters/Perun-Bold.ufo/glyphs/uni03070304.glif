@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03070304" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-75" y="600" type="line"/>
+      <point x="75" y="600" type="line"/>
+      <point x="75" y="730" type="line"/>
+      <point x="-75" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="790" type="line"/>
+      <point x="190" y="890" type="line"/>
+      <point x="-190" y="890" type="line"/>
+      <point x="-190" y="790" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0307+uni0304</string>
+  </dict>
+  </lib>
+</glyph>

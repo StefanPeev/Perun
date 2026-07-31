@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E7D" format="2">
-  <advance width="556"/>
+  <advance width="543"/>
   <unicode hex="1E7D"/>
-  <anchor x="278" y="760" name="t.mkmk"/>
+  <anchor x="273" y="-80" name="bottom"/>
+  <anchor x="272" y="760" name="t.mkmk"/>
   <outline>
     <component base="v"/>
-    <component base="uni0303" xOffset="278"/>
+    <component base="uni0303" xOffset="272"/>
   </outline>
   <lib>
   <dict>

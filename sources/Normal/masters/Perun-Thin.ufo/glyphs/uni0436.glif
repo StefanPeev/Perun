@@ -3,8 +3,56 @@
   <advance width="698"/>
   <unicode hex="0436"/>
   <outline>
-    <component base="uni043A" xOffset="239"/>
-    <component base="uni043A" xScale="-1" xOffset="459"/>
+    <contour>
+      <point x="464" y="268" type="line"/>
+      <point x="464" y="248" type="line"/>
+      <point x="483.612" y="248.228"/>
+      <point x="498.405" y="241.491"/>
+      <point x="511.037" y="219.518" type="curve" smooth="yes"/>
+      <point x="637.238" y="0" type="line"/>
+      <point x="658" y="0" type="line"/>
+      <point x="528.084" y="230.928" type="line" smooth="yes"/>
+      <point x="516.108" y="252.215"/>
+      <point x="498.426" y="260.86"/>
+      <point x="480" y="261" type="curve"/>
+      <point x="480" y="256" type="line"/>
+      <point x="645" y="500" type="line"/>
+      <point x="623.555" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="268" type="line"/>
+      <point x="349" y="248" type="line"/>
+      <point x="476.855" y="248" type="line"/>
+      <point x="476.855" y="268" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="359" y="500" type="line"/>
+      <point x="339" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="60.7618" y="0" type="line"/>
+      <point x="186.963" y="219.518" type="line" smooth="yes"/>
+      <point x="199.595" y="241.491"/>
+      <point x="214.388" y="248.228"/>
+      <point x="234" y="248" type="curve"/>
+      <point x="234" y="268" type="line"/>
+      <point x="74.4455" y="500" type="line"/>
+      <point x="53" y="500" type="line"/>
+      <point x="218" y="256" type="line"/>
+      <point x="218" y="261" type="line"/>
+      <point x="199.574" y="260.86"/>
+      <point x="181.892" y="252.215"/>
+      <point x="169.916" y="230.928" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="221.145" y="248" type="line"/>
+      <point x="349" y="248" type="line"/>
+      <point x="349" y="268" type="line"/>
+      <point x="221.145" y="268" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

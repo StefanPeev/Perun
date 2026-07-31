@@ -3,12 +3,11 @@
   <advance width="550"/>
   <unicode hex="1E19"/>
   <anchor x="275" y="580" name="top"/>
-  <anchor x="275" y="-89" name="bottom"/>
   <anchor x="249" y="0" name="b.cedilla"/>
   <anchor x="310" y="0" name="ogonekLC"/>
   <outline>
     <component base="e"/>
-    <component base="uni032D" xOffset="245.391"/>
+    <component base="uni032D" xOffset="275" yOffset="-39"/>
   </outline>
   <lib>
   <dict>

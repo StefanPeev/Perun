@@ -4,12 +4,11 @@
   <unicode hex="1E18"/>
   <anchor x="258" y="797" name="top"/>
   <anchor x="-8" y="722" name="tonos"/>
-  <anchor x="258" y="-75" name="bottom"/>
   <anchor x="260" y="0" name="b.cedilla"/>
   <anchor x="310" y="0" name="ogonekUC"/>
   <outline>
     <component base="E"/>
-    <component base="uni032D" xOffset="242.594"/>
+    <component base="uni032D" xOffset="258" yOffset="-30"/>
   </outline>
   <lib>
   <dict>

@@ -194,7 +194,7 @@
     <string>Ograve</string>
     <string>Ohungarumlaut</string>
     <string>Omacron</string>
-    <string>Omega</string>
+    <string>uni03A9</string>
     <string>Omicron</string>
     <string>Omicrontonos</string>
     <string>Oslash</string>
@@ -220,7 +220,7 @@
     <string>Tau</string>
     <string>Tbar</string>
     <string>Tcaron</string>
-    <string>Tcedilla</string>
+    <string>uni0162</string>
     <string>Theta</string>
     <string>Thorn</string>
     <string>U</string>
@@ -416,7 +416,7 @@
     <string>m</string>
     <string>macron</string>
     <string>minus</string>
-    <string>mu</string>
+    <string>uni03BC</string>
     <string>multiply</string>
     <string>n</string>
     <string>nacute</string>
@@ -505,7 +505,7 @@
     <string>tau</string>
     <string>tbar</string>
     <string>tcaron</string>
-    <string>tcedilla</string>
+    <string>uni0163</string>
     <string>theta</string>
     <string>theta1</string>
     <string>thorn</string>
@@ -1119,17 +1119,17 @@
     <string>uni032C</string>
     <string>commaturnedmod</string>
     <string>uni0312</string>
-    <string>Djecyr</string>
-    <string>Ljecyr</string>
-    <string>Njecyr</string>
-    <string>Tshecyr</string>
-    <string>Dzhecyr</string>
+    <string>uni0402</string>
+    <string>uni0409</string>
+    <string>uni040A</string>
+    <string>uni040B</string>
+    <string>uni040F</string>
     <string>uni0431.loclSRB</string>
-    <string>djecyr</string>
-    <string>ljecyr</string>
-    <string>njecyr</string>
-    <string>tshecyr</string>
-    <string>dzhecyr</string>
+    <string>uni0452</string>
+    <string>uni0459</string>
+    <string>uni045A</string>
+    <string>uni045B</string>
+    <string>uni045F</string>
     <string>minussignmod</string>
     <string>uni0342</string>
     <string>Ncircumflexbelow</string>
@@ -1160,13 +1160,13 @@
     <string>Lcommaaccent</string>
     <string>Ncommaaccent</string>
     <string>Rcommaaccent</string>
-    <string>uni0162</string>
+    <string>uni0162.1</string>
     <string>gcommaaccent</string>
     <string>kcommaaccent</string>
     <string>lcommaaccent</string>
     <string>ncommaaccent</string>
     <string>rcommaaccent</string>
-    <string>uni0163</string>
+    <string>uni0163.1</string>
     <string>uniFB02</string>
     <string>grave.cap</string>
     <string>acute.cap</string>
@@ -1187,8 +1187,8 @@
     <string>Delta</string>
     <string>afii61289</string>
     <string>uniF8FF</string>
-    <string>uni03A9</string>
-    <string>uni03BC</string>
+    <string>uni03A9.1</string>
+    <string>uni03BC.1</string>
     <string>zero.denominator</string>
     <string>one.denominator</string>
     <string>two.denominator</string>
@@ -1231,16 +1231,15 @@
     <string>published</string>
     <string>uni0490</string>
     <string>uni0491</string>
-    <string>uni040F</string>
-    <string>uni045F</string>
-    <string>uni0409</string>
-    <string>uni0459</string>
-    <string>uni040A</string>
-    <string>uni045A</string>
-    <string>uni040B</string>
-    <string>uni0402</string>
-    <string>uni045B</string>
-    <string>uni0452</string>
+    <string>uni040F.1</string>
+    <string>uni045F.1</string>
+    <string>uni0409.1</string>
+    <string>uni0459.1</string>
+    <string>uni040A.1</string>
+    <string>uni045A.1</string>
+    <string>uni040B.1</string>
+    <string>uni045B.1</string>
+    <string>uni0452.1</string>
     <string>dieresistonos</string>
     <string>anoteleia</string>
     <string>Upsilontonos</string>
@@ -1522,6 +1521,9 @@
     <string>uni04EA</string>
     <string>brevecyr</string>
     <string>brevecyr.case</string>
+    <string>uni03070304</string>
+    <string>uni03080300</string>
+    <string>uni0308030C</string>
   </array>
 </dict>
 </plist>

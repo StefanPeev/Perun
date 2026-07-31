@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="2">
-  <advance width="461"/>
+  <advance width="411"/>
   <unicode hex="0140"/>
   <anchor x="128" y="797" name="top"/>
   <anchor x="128" y="-57" name="bottom"/>
-  <anchor x="260" y="722" name="caron_TR"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered" xOffset="255"/>
+    <component base="periodcentered" xOffset="225"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -52,6 +49,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
   <key>com.fontlab.recipe</key>
   <string>l_periodcentered</string>
   <key>public.markColor</key>

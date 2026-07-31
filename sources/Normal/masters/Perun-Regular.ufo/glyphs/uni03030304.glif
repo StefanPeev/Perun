@@ -2,8 +2,34 @@
 <glyph name="uni03030304" format="2">
   <anchor x="0" y="580" name="_top"/>
   <outline>
-    <component base="uni0303"/>
-    <component base="uni0304" yOffset="160"/>
+    <contour>
+      <point x="-146" y="600" type="curve"/>
+      <point x="-91" y="600" type="line"/>
+      <point x="-88" y="627"/>
+      <point x="-75" y="638"/>
+      <point x="-53" y="638" type="curve" smooth="yes"/>
+      <point x="-19" y="638"/>
+      <point x="15" y="606"/>
+      <point x="58" y="606" type="curve" smooth="yes"/>
+      <point x="107" y="606"/>
+      <point x="140" y="652"/>
+      <point x="146" y="714" type="curve"/>
+      <point x="91" y="714" type="line"/>
+      <point x="88" y="686"/>
+      <point x="76" y="676"/>
+      <point x="55" y="676" type="curve" smooth="yes"/>
+      <point x="20" y="676"/>
+      <point x="-11" y="708"/>
+      <point x="-54" y="708" type="curve" smooth="yes"/>
+      <point x="-105" y="708"/>
+      <point x="-140" y="662"/>
+    </contour>
+    <contour>
+      <point x="145" y="770" type="line"/>
+      <point x="145" y="840" type="line"/>
+      <point x="-145" y="840" type="line"/>
+      <point x="-145" y="770" type="line"/>
+    </contour>
   </outline>
   <guideline angle="0" x="0" y="580"/>
   <guideline angle="0" x="0" y="600"/>

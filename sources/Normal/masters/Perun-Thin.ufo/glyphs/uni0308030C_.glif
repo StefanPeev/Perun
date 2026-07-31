@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308030C" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-81" y="600" type="line"/>
+      <point x="-59" y="600" type="line"/>
+      <point x="-59" y="692" type="line"/>
+      <point x="-81" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="600" type="line"/>
+      <point x="81" y="600" type="line"/>
+      <point x="81" y="692" type="line"/>
+      <point x="59" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="860" type="line"/>
+      <point x="96" y="860" type="line"/>
+      <point x="-8" y="729" type="line"/>
+      <point x="8" y="729" type="line"/>
+      <point x="-96" y="860" type="line"/>
+      <point x="-116" y="860" type="line"/>
+      <point x="-14" y="720" type="line"/>
+      <point x="14" y="720" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="720"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0308+uni030C</string>
+  </dict>
+  </lib>
+</glyph>

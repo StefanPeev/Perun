@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03080301" format="2">
-  <advance width="500"/>
   <anchor x="0" y="580" name="_top"/>
   <anchor x="0" y="720" name="t.mkmk"/>
   <outline>
-    <component base="uni0308"/>
-    <component base="uni0301" xOffset="63" yOffset="140"/>
+    <contour>
+      <point x="-81" y="600" type="line"/>
+      <point x="-59" y="600" type="line"/>
+      <point x="-59" y="692" type="line"/>
+      <point x="-81" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="600" type="line"/>
+      <point x="81" y="600" type="line"/>
+      <point x="81" y="692" type="line"/>
+      <point x="59" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11.5" y="720" type="line"/>
+      <point x="8.5" y="720" type="line"/>
+      <point x="118.5" y="860" type="line"/>
+      <point x="88.5" y="860" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-401" y="0"/>
   <guideline angle="90" x="-179" y="0"/>
@@ -15,6 +30,7 @@
   <guideline angle="0" x="0" y="720"/>
   <guideline angle="90" x="-74.5" y="0"/>
   <guideline angle="90" x="74.5" y="0"/>
+  <guideline angle="0" x="0" y="720"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
