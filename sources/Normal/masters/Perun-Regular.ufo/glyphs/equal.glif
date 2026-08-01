@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="2">
-  <advance width="700"/>
+  <advance width="620"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="50" y="178" type="line"/>
-      <point x="650" y="178" type="line"/>
-      <point x="650" y="240" type="line"/>
-      <point x="50" y="240" type="line"/>
+      <point x="50" y="360" type="line"/>
+      <point x="570" y="360" type="line"/>
+      <point x="570" y="422" type="line"/>
+      <point x="50" y="422" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="360" type="line"/>
-      <point x="650" y="360" type="line"/>
-      <point x="650" y="422" type="line"/>
-      <point x="50" y="422" type="line"/>
+      <point x="50" y="178" type="line"/>
+      <point x="570" y="178" type="line"/>
+      <point x="570" y="240" type="line"/>
+      <point x="50" y="240" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,6 +36,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=50</string>
   </dict>
   </lib>
 </glyph>

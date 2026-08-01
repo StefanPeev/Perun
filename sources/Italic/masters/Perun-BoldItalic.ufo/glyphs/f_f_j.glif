@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_j" format="2">
   <advance width="1004"/>
-  <anchor x="623.013" y="810" name="top"/>
-  <anchor x="452.987" y="-75" name="bottom"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="354"/>
@@ -10,8 +8,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>f_f_j</string>
   <key>public.markColor</key>

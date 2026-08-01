@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-  <advance width="669"/>
+  <advance width="731"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="H" xOffset="118"/>
+    <component base="H"/>
     <contour>
-      <point x="165.129" y="516" type="line"/>
-      <point x="804.129" y="516" type="line"/>
-      <point x="816.764" y="581" type="line"/>
-      <point x="177.764" y="581" type="line"/>
+      <point x="97.129" y="516" type="line"/>
+      <point x="736.129" y="516" type="line"/>
+      <point x="748.764" y="581" type="line"/>
+      <point x="109.764" y="581" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -58,6 +58,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   </dict>
   </lib>
 </glyph>
