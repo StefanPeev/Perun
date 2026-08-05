@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-  <advance width="779"/>
+  <advance width="682"/>
   <unicode hex="010F"/>
   <anchor x="307" y="797" name="top"/>
+  <anchor x="306" y="-80" name="bottom"/>
   <outline>
     <component base="d"/>
-    <component base="quoteright" xOffset="579.5"/>
+    <component base="caron.alt" xOffset="571" yOffset="4.54747e-13"/>
   </outline>
   <lib>
   <dict>
@@ -56,8 +57,8 @@
   </dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=d</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=quoteright</string>
+  <key>com.fontlab.recipe</key>
+  <string>d_caron.alt</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

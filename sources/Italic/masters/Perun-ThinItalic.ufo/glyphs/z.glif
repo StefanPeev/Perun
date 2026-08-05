@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-  <advance width="568"/>
+  <advance width="468"/>
   <unicode hex="007A"/>
-  <anchor x="360" y="580" name="top"/>
-  <anchor x="220" y="0" name="b.cedilla"/>
-  <anchor x="234" y="-80" name="bottom"/>
+  <anchor x="310" y="580" name="top"/>
+  <anchor x="170" y="0" name="b.cedilla"/>
+  <anchor x="184" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="50.4049" y="0" type="line"/>
-      <point x="420.405" y="0" type="line"/>
-      <point x="424.293" y="20" type="line"/>
-      <point x="61.4901" y="20" type="line"/>
-      <point x="64.0951" y="7.04761" type="line"/>
-      <point x="513.694" y="479.884" type="line"/>
-      <point x="517.605" y="500" type="line"/>
-      <point x="169.605" y="500" type="line"/>
-      <point x="165.717" y="480" type="line"/>
-      <point x="506.596" y="480" type="line"/>
-      <point x="501.97" y="491.191" type="line"/>
-      <point x="54.375" y="20.4217" type="line"/>
+      <point x="0.404945" y="0" type="line"/>
+      <point x="370.405" y="0" type="line"/>
+      <point x="374.293" y="20" type="line"/>
+      <point x="11.4901" y="20" type="line"/>
+      <point x="14.0951" y="7.04761" type="line"/>
+      <point x="463.694" y="479.884" type="line"/>
+      <point x="467.605" y="500" type="line"/>
+      <point x="119.605" y="500" type="line"/>
+      <point x="115.717" y="480" type="line"/>
+      <point x="456.596" y="480" type="line"/>
+      <point x="451.97" y="491.191" type="line"/>
+      <point x="4.37496" y="20.4217" type="line"/>
     </contour>
   </outline>
-  <guideline angle="53.2275" x="121" y="20"/>
+  <guideline angle="53.2275" x="71" y="20"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -43,9 +43,9 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=o</string>
+  <string>=0</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=o</string>
+  <string>=0</string>
   </dict>
   </lib>
 </glyph>

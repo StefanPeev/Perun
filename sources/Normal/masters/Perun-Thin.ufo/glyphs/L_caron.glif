@@ -2,9 +2,11 @@
 <glyph name="Lcaron" format="2">
   <advance width="495"/>
   <unicode hex="013D"/>
+  <anchor x="106" y="797" name="top"/>
+  <anchor x="270" y="-80" name="bottom"/>
   <outline>
     <component base="L"/>
-    <component base="quoteright" xOffset="275"/>
+    <component base="caron.alt" xOffset="275" yOffset="4.54747e-13"/>
   </outline>
   <lib>
   <dict>
@@ -35,8 +37,12 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L</string>
   <key>com.fontlab.recipe</key>
-  <string>L_quoteright</string>
+  <string>L_caron.alt</string>
   </dict>
   </lib>
 </glyph>

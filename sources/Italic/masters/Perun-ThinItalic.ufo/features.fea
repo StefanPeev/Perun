@@ -1,4 +1,4 @@
-#> classes
+#/> classes
 #/> otclasses
 @aalt = [Scedilla scedilla uni0162 uni0163];
 @aalt2 = [uni0218 uni0219 uni0162 uni0163];
@@ -11,7 +11,37 @@
 @cyrlDFLT = [uni0414 uni041A uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
 @loclBGR = [uni0414.loclBGR uni041A.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
 #/< otclasses
-#< classes
+#/< classes
+
+#/> classes
+#/> otclasses
+@aalt = [Scedilla scedilla uni0162 uni0163];
+@aalt2 = [uni0218 uni0219 uni0162 uni0163];
+@locl = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@ss01 = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@ss012 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@cyrl_oblique = [uni0432 uni0433 uni0434 uni0438 uni0439 uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C];
+@cyrl_italic = [uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0438.loclBGR uni0439.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR];
+@cyrlDFLT = [uni0414 uni041A uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@loclBGR = [uni0414.loclBGR uni041A.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@aalt = [Scedilla scedilla uni0162 uni0163];
+@aalt2 = [uni0218 uni0219 uni0162 uni0163];
+@locl = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@ss01 = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@ss012 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@cyrl_oblique = [uni0432 uni0433 uni0434 uni0438 uni0439 uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C];
+@cyrl_italic = [uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0438.loclBGR uni0439.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR];
+@cyrlDFLT = [uni0414 uni041A uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@loclBGR = [uni0414.loclBGR uni041A.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+#/< otclasses
+#/< classes
 
 #/> classes
 #/> otclasses
@@ -483,7 +513,6 @@ feature mark {
     markClass uni0330 <anchor 0 -50> @bottom;
     markClass uni032C <anchor 0 -50> @bottom;
     markClass uni0312 <anchor 0 470> @t.cedilla;
-    markClass uni0306_gravecomb <anchor -273 600> @top;
     markClass dieresistonos <anchor 243 500> @tonos.top;
     markClass brevecyr <anchor 177 580> @top;
     markClass brevecyr.case <anchor 190 750> @top;
@@ -1108,6 +1137,7 @@ feature mark {
           <anchor 383 748> mark @top;
       pos base dcaron
           <anchor 252 -50> mark @b.commabelow
+          <anchor 234 -57> mark @bottom
           <anchor 383 748> mark @top;
       pos base dotlessi
           <anchor 87 -80> mark @bottom
@@ -1358,14 +1388,14 @@ feature mark {
           <anchor 930 -80> mark @bottom
           <anchor 390 797> mark @top;
       pos base uni01C5
-          <anchor 1023 0> mark @b.cedilla
+          <anchor 1033 0> mark @b.cedilla
           <anchor 251 -80> mark @b.commabelow
-          <anchor 907 -80> mark @bottom
+          <anchor 917 -80> mark @bottom
           <anchor 390 797> mark @top;
       pos base uni01C6
-          <anchor 908 0> mark @b.cedilla
+          <anchor 918 0> mark @b.cedilla
           <anchor 252 -50> mark @b.commabelow
-          <anchor 792 -80> mark @bottom
+          <anchor 802 -80> mark @bottom
           <anchor 383 748> mark @top;
       pos base uni01C7
           <anchor 205 -50> mark @b.commabelow
@@ -1456,15 +1486,15 @@ feature mark {
           <anchor 930 -80> mark @bottom
           <anchor 1096 797> mark @top;
       pos base uni01F2
-          <anchor 1023 0> mark @b.cedilla
+          <anchor 1033 0> mark @b.cedilla
           <anchor 251 -80> mark @b.commabelow
-          <anchor 907 -80> mark @bottom
-          <anchor 1040 580> mark @top;
+          <anchor 917 -80> mark @bottom
+          <anchor 1050 580> mark @top;
       pos base uni01F3
-          <anchor 908 0> mark @b.cedilla
+          <anchor 918 0> mark @b.cedilla
           <anchor 252 -50> mark @b.commabelow
-          <anchor 792 -80> mark @bottom
-          <anchor 925 580> mark @top;
+          <anchor 802 -80> mark @bottom
+          <anchor 935 580> mark @top;
       pos base uni01F8
           <anchor 295 -50> mark @b.commabelow
           <anchor 317 -80> mark @bottom;
@@ -2167,20 +2197,20 @@ feature mark {
           <anchor 253 0> mark @b.cedilla
           <anchor 197 -80> mark @bottom;
       pos base uni1E91
-          <anchor 290 0> mark @b.cedilla
-          <anchor 174 -80> mark @bottom;
+          <anchor 300 0> mark @b.cedilla
+          <anchor 184 -80> mark @bottom;
       pos base uni1E92
           <anchor 253 0> mark @b.cedilla
           <anchor 363 797> mark @top;
       pos base uni1E93
-          <anchor 290 0> mark @b.cedilla
-          <anchor 307 580> mark @top;
+          <anchor 300 0> mark @b.cedilla
+          <anchor 317 580> mark @top;
       pos base uni1E94
           <anchor 253 0> mark @b.cedilla
           <anchor 363 797> mark @top;
       pos base uni1E95
-          <anchor 290 0> mark @b.cedilla
-          <anchor 307 580> mark @top;
+          <anchor 300 0> mark @b.cedilla
+          <anchor 317 580> mark @top;
       pos base uni1E96
           <anchor 72 0> mark @b.cedilla
           <anchor 399 796> mark @top;
@@ -2375,18 +2405,18 @@ feature mark {
       pos base y
           <anchor 290 580> mark @top;
       pos base z
-          <anchor 290 0> mark @b.cedilla
-          <anchor 174 -80> mark @bottom
-          <anchor 307 580> mark @top;
+          <anchor 300 0> mark @b.cedilla
+          <anchor 184 -80> mark @bottom
+          <anchor 317 580> mark @top;
       pos base zacute
-          <anchor 290 0> mark @b.cedilla
-          <anchor 174 -80> mark @bottom;
+          <anchor 300 0> mark @b.cedilla
+          <anchor 184 -80> mark @bottom;
       pos base zcaron
-          <anchor 290 0> mark @b.cedilla
-          <anchor 174 -80> mark @bottom;
+          <anchor 300 0> mark @b.cedilla
+          <anchor 184 -80> mark @bottom;
       pos base zdotaccent
-          <anchor 290 0> mark @b.cedilla
-          <anchor 174 -80> mark @bottom;
+          <anchor 300 0> mark @b.cedilla
+          <anchor 184 -80> mark @bottom;
       pos base uni04E9
           <anchor 368 600> mark @top;
       pos base uni0443.loclBGR
