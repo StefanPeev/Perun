@@ -22,18 +22,18 @@
       <point x="60" y="411"/>
     </contour>
     <contour>
-      <point x="154" y="250.5" type="curve" smooth="yes"/>
-      <point x="154" y="383.838"/>
+      <point x="154" y="250" type="curve" smooth="yes"/>
+      <point x="154" y="383.675"/>
       <point x="210" y="448"/>
       <point x="310" y="448" type="curve" smooth="yes"/>
       <point x="410" y="448"/>
-      <point x="466" y="383.838"/>
-      <point x="466" y="250.5" type="curve" smooth="yes"/>
-      <point x="466" y="117.162"/>
-      <point x="410" y="53"/>
-      <point x="310" y="53" type="curve" smooth="yes"/>
-      <point x="210" y="53"/>
-      <point x="154" y="117.162"/>
+      <point x="466" y="383.675"/>
+      <point x="466" y="250" type="curve" smooth="yes"/>
+      <point x="466" y="116.325"/>
+      <point x="410" y="52"/>
+      <point x="310" y="52" type="curve" smooth="yes"/>
+      <point x="210" y="52"/>
+      <point x="154" y="116.325"/>
     </contour>
   </outline>
   <guideline angle="90" x="310" y="0"/>
@@ -73,6 +73,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
   </dict>
   </lib>
 </glyph>

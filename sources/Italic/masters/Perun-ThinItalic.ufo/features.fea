@@ -317,6 +317,36 @@
 #/> otclasses
 @aalt = [Scedilla scedilla uni0162 uni0163];
 @aalt2 = [uni0218 uni0219 uni0162 uni0163];
+@locl = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@ss01 = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@ss012 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@cyrl_oblique = [uni0432 uni0433 uni0434 uni0438 uni0439 uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C];
+@cyrl_italic = [uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0438.loclBGR uni0439.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR];
+@cyrlDFLT = [uni0414 uni041A uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@loclBGR = [uni0414.loclBGR uni041A.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@aalt = [Scedilla scedilla uni0162 uni0163];
+@aalt2 = [uni0218 uni0219 uni0162 uni0163];
+@locl = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@ss01 = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@ss012 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@cyrl_oblique = [uni0432 uni0433 uni0434 uni0438 uni0439 uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C];
+@cyrl_italic = [uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0438.loclBGR uni0439.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR];
+@cyrlDFLT = [uni0414 uni041A uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@loclBGR = [uni0414.loclBGR uni041A.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@aalt = [Scedilla scedilla uni0162 uni0163];
+@aalt2 = [uni0218 uni0219 uni0162 uni0163];
 @locl = [uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
 @locl2 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0443.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
 @ss01 = [uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0443 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
@@ -336,8 +366,11 @@
 #> languagesystem
 languagesystem DFLT dflt;
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
 languagesystem latn MOL;
 languagesystem latn ROM;
+languagesystem latn TRK;
 languagesystem cyrl dflt;
 languagesystem cyrl BGR;
 languagesystem cyrl SRB;
@@ -361,6 +394,7 @@ lookup cyrlDFLT_loclBGR {
 #
 # Feature definitions
 #
+
 feature aalt {
 # Access All Alternates
 
@@ -376,6 +410,32 @@ feature locl {
 # Localized Forms
 
 #> feature
+  script latn; # Latin
+    language AZE ; # Azerbaijani
+
+    lookup locl_latn {
+    # GSUB lookup 7, type 11 (Single)
+      sub i by i.loclTRK;
+    } locl_latn;
+
+    language TRK ; # Turkish
+    lookup locl_latn;
+
+    language CRT ; # Crimean Tatar
+    lookup locl_latn;
+
+    language MOL; # Moldavian
+      sub Scedilla by uni0218;
+      sub scedilla by uni0219;
+      sub uni0162 by uni021A;
+      sub uni0163 by uni021B;
+
+    language ROM; # Romanian
+      sub Scedilla by uni0218;
+      sub scedilla by uni0219;
+      sub uni0162 by uni021A;
+      sub uni0163 by uni021B;
+
   script cyrl; # Cyrillic
   language BGR; # Bulgarian
   sub uni0414 by uni0414.loclBGR;
@@ -407,20 +467,9 @@ feature locl {
   language SRB; # Serbian
   sub uni0431 by uni0431.loclSRB;
 
-  script latn; # Latin
-  language MOL; # Moldavian
-  sub Scedilla by uni0218;
-  sub scedilla by uni0219;
-  sub uni0162 by uni021A;
-  sub uni0163 by uni021B;
-
-  language ROM; # Romanian
-  sub Scedilla by uni0218;
-  sub scedilla by uni0219;
-  sub uni0162 by uni021A;
-  sub uni0163 by uni021B;
 #< feature
 } locl;
+
 feature ordn {
 # Ordinals
 
@@ -430,6 +479,7 @@ feature ordn {
   sub N o period by uni2116;
 #< feature
 } ordn;
+
 feature ss01 {
 # Stylistic Set 01–20
 
@@ -441,6 +491,7 @@ feature ss01 {
   lookup cyrlDFLT_loclBGR;
 #< feature
 } ss01;
+
 feature ss02 {
 # Stylistic Set 01–20
 
@@ -452,6 +503,7 @@ feature ss02 {
     lookup cyrillic_italic;
 #< feature
 } ss02;
+
 feature cv01 {
 # Character Variant 01—99
 
@@ -460,6 +512,7 @@ feature cv01 {
   sub uni0430 by uni0430.cv01;
 #< feature
 } cv01;
+
 feature liga {
 # Standard Ligatures
 
@@ -472,6 +525,7 @@ feature liga {
 
 #< feature
 } liga;
+
 feature hist {
 # Historical Forms
 
@@ -479,6 +533,7 @@ feature hist {
   sub s by longs;
 #< feature
 } hist;
+
 feature mark {
 # GPOS feature : Mark Positioning
     markClass uni0301 <anchor 0 580> @top;
@@ -2474,6 +2529,8 @@ feature mark {
       pos base ocircumflextilde
           <anchor 220 0> mark @b.cedilla
           <anchor 239 -80> mark @bottom;
+      pos base i.loclTRK
+          <anchor 77 -80> mark @bottom;
   } markLTR1;
 
   lookup markLTR2 {
@@ -2691,6 +2748,8 @@ feature mark {
           <anchor 290 0> mark @ogonekLC;
       pos base ocircumflextilde
           <anchor 290 0> mark @ogonekLC;
+      pos base i.loclTRK
+          <anchor 156 0> mark @ogonekLC;
   } markLTR2;
 
   lookup markLTR3 {

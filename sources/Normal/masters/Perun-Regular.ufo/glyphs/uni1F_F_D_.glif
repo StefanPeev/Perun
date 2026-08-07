@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFD" format="2">
-  <advance width="229"/>
+  <advance width="240"/>
   <unicode hex="1FFD"/>
   <outline>
-    <contour>
-      <point x="255" y="771" type="line"/>
-      <point x="154" y="771" type="line"/>
-      <point x="54" y="600" type="line"/>
-      <point x="115" y="600" type="line"/>
-    </contour>
+    <component base="acute"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -33,8 +30,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.recipe</key>
+  <string>acute</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

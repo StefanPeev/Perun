@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni201F" format="2">
-  <advance width="435"/>
+  <advance width="383"/>
   <unicode hex="201F"/>
   <outline>
     <contour>
-      <point x="330" y="472" type="line"/>
-      <point x="400" y="472" type="line"/>
-      <point x="340" y="722" type="line"/>
-      <point x="220" y="722" type="line"/>
+      <point x="145" y="472" type="line"/>
+      <point x="165" y="472" type="line"/>
+      <point x="70" y="722" type="line"/>
+      <point x="40" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="147" y="472" type="line"/>
-      <point x="220" y="472" type="line"/>
-      <point x="157" y="722" type="line"/>
-      <point x="37" y="722" type="line"/>
+      <point x="328.217" y="472" type="line"/>
+      <point x="348.217" y="472" type="line"/>
+      <point x="253.217" y="722" type="line"/>
+      <point x="223.217" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,6 +30,12 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=quotedblright</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=quotedblright</string>
+  <key>com.fontlab.recipe</key>
+  <string>=quotedblright@~,</string>
   </dict>
   </lib>
 </glyph>

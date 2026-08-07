@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2109" format="2">
+  <advance width="863"/>
+  <unicode hex="2109"/>
+  <anchor x="622" y="797" name="top"/>
+  <anchor x="650" y="-75" name="bottom"/>
+  <outline>
+    <component base="degree"/>
+    <component base="F" xOffset="280"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=degree</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=F</string>
+  <key>com.fontlab.recipe</key>
+  <string>degree_F%</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB05" format="2">
-  <advance width="777"/>
+  <advance width="727"/>
   <unicode hex="FB05"/>
   <outline>
-    <component base="t" xOffset="354"/>
+    <component base="t" xOffset="304"/>
     <contour>
       <point x="100" y="0" type="line"/>
       <point x="235" y="0" type="line"/>
@@ -29,6 +29,8 @@
       <point x="10" y="500" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="235" y="0"/>
+  <guideline angle="90" x="434" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

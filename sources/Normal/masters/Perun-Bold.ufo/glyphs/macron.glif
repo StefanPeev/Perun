@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="380"/>
+  <advance width="340"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="380" y="600" type="line"/>
-      <point x="380" y="700" type="line"/>
+      <point x="340" y="600" type="line"/>
+      <point x="340" y="700" type="line"/>
       <point x="0" y="700" type="line"/>
       <point x="0" y="600" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="669"/>
-  <guideline angle="90" x="190" y="0"/>
+  <guideline angle="90" x="170" y="0"/>
   <guideline angle="0" x="0" y="580"/>
   <guideline angle="0" x="0" y="600"/>
   <lib>
@@ -28,6 +28,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
   </dict>
   </lib>
 </glyph>

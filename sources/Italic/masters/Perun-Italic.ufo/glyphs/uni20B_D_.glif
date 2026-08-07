@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20BD" format="2">
+  <advance width="580"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="35.3151" y="306" type="line"/>
+      <point x="274.315" y="306" type="line" smooth="yes"/>
+      <point x="487.971" y="306"/>
+      <point x="599.5" y="396.08"/>
+      <point x="599.5" y="568.649" type="curve" smooth="yes"/>
+      <point x="599.5" y="674.352"/>
+      <point x="523.588" y="722"/>
+      <point x="355.185" y="722" type="curve" smooth="yes"/>
+      <point x="181.185" y="722" type="line"/>
+      <point x="178.649" y="708.8" type="line"/>
+      <point x="249.273" y="634" type="line"/>
+      <point x="341.273" y="634" type="line" smooth="yes"/>
+      <point x="452.582" y="634"/>
+      <point x="499.86" y="607.096"/>
+      <point x="499.86" y="543.754" type="curve" smooth="yes"/>
+      <point x="499.86" y="441.645"/>
+      <point x="434.498" y="394"/>
+      <point x="294.422" y="394" type="curve" smooth="yes"/>
+      <point x="52.4223" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.8287" y="0" type="line"/>
+      <point x="140.829" y="0" type="line"/>
+      <point x="267.189" y="650" type="line"/>
+      <point x="198.427" y="722" type="line"/>
+      <point x="181.186" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="5.3151" y="136" type="line"/>
+      <point x="304.315" y="136" type="line"/>
+      <point x="321.422" y="224" type="line"/>
+      <point x="22.4223" y="224" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=P</string>
+  <key>com.fontlab.recipe</key>
+  <string>P</string>
+  </dict>
+  </lib>
+</glyph>
