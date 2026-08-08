@@ -6,13 +6,55 @@
   <anchor x="229" y="0" name="b.cedilla"/>
   <anchor x="419" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="uni0303" xOffset="371" yOffset="217"/>
+    <contour>
+      <point x="60.8287" y="0" type="line"/>
+      <point x="418.829" y="0" type="line"/>
+      <point x="422.328" y="18" type="line"/>
+      <point x="64.3279" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="222" y="722" type="line"/>
+      <point x="200" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="130.427" y="358.018" type="line"/>
+      <point x="468.427" y="358.018" type="line"/>
+      <point x="472.29" y="377.889" type="line"/>
+      <point x="134.29" y="377.889" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.686" y="704" type="line"/>
+      <point x="545.686" y="704" type="line"/>
+      <point x="549.185" y="722" type="line"/>
+      <point x="201.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.43" y="837" type="curve"/>
+      <point x="238.43" y="837" type="line"/>
+      <point x="249.523" y="863.4"/>
+      <point x="277.461" y="881"/>
+      <point x="308.275" y="881" type="curve" smooth="yes"/>
+      <point x="353.924" y="881"/>
+      <point x="377.734" y="839"/>
+      <point x="432.921" y="839" type="curve" smooth="yes"/>
+      <point x="471.724" y="839"/>
+      <point x="507.984" y="864.68"/>
+      <point x="523.57" y="903.2" type="curve"/>
+      <point x="503.57" y="903.2" type="line"/>
+      <point x="492.477" y="876.8"/>
+      <point x="465.285" y="859.2"/>
+      <point x="435.59" y="859.2" type="curve" smooth="yes"/>
+      <point x="384.361" y="859.2"/>
+      <point x="361.366" y="901.2"/>
+      <point x="309.191" y="901.2" type="curve" smooth="yes"/>
+      <point x="270.32" y="901.2"/>
+      <point x="234.016" y="875.52"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

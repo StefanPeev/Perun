@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF5" format="2">
-  <advance width="563"/>
+  <advance width="515"/>
   <unicode hex="1EF5"/>
-  <anchor x="350.033" y="600" name="top"/>
   <outline>
-    <component base="y" xOffset="454"/>
-    <component base="uni0323" xOffset="713.135"/>
+    <contour>
+      <point x="20.5249" y="-200" type="line"/>
+      <point x="168.525" y="-200" type="line"/>
+      <point x="554.605" y="500" type="line"/>
+      <point x="411.605" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="31.6049" y="500" type="line"/>
+      <point x="137.268" y="-13.9271" type="line"/>
+      <point x="241.809" y="165.912" type="line"/>
+      <point x="184.605" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="329.554" y="-180" type="line"/>
+      <point x="484.554" y="-180" type="line"/>
+      <point x="510.826" y="-50" type="line"/>
+      <point x="355.826" y="-50" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -27,6 +42,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=y</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=y</string>
   <key>com.fontlab.recipe</key>
   <string>y+uni0323</string>
   <key>public.markColor</key>

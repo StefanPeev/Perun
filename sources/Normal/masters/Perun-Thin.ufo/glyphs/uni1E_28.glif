@@ -6,13 +6,59 @@
   <anchor x="310" y="-80" name="bottom"/>
   <anchor x="-8" y="722" name="tonos"/>
   <outline>
-    <component base="H"/>
-    <component base="uni0327" xOffset="87"/>
+    <contour>
+      <point x="82" y="381" type="line"/>
+      <point x="82" y="361" type="line"/>
+      <point x="539" y="361" type="line"/>
+      <point x="539" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="92" y="722" type="line"/>
+      <point x="70" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="528" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="722" type="line"/>
+      <point x="528" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="38.4007" y="-86" type="line"/>
+      <point x="55.9053" y="-89.5027" type="line"/>
+      <point x="71.9135" y="-78.1782"/>
+      <point x="90.6045" y="-72"/>
+      <point x="108.857" y="-72" type="curve" smooth="yes"/>
+      <point x="144.072" y="-72"/>
+      <point x="169.76" y="-94.7331"/>
+      <point x="169.76" y="-129.898" type="curve" smooth="yes"/>
+      <point x="169.76" y="-167.159"/>
+      <point x="140.16" y="-192"/>
+      <point x="95.7601" y="-192" type="curve" smooth="yes"/>
+      <point x="67.1473" y="-192"/>
+      <point x="32.7973" y="-183.2"/>
+      <point x="9.88506" y="-170" type="curve"/>
+      <point x="3.64274" y="-187.503" type="line"/>
+      <point x="27.0041" y="-201.001"/>
+      <point x="64.6511" y="-210"/>
+      <point x="97.7601" y="-210" type="curve" smooth="yes"/>
+      <point x="152.96" y="-210"/>
+      <point x="189.76" y="-177.2"/>
+      <point x="189.76" y="-128" type="curve" smooth="yes"/>
+      <point x="189.76" y="-82.4"/>
+      <point x="157.671" y="-54"/>
+      <point x="109.537" y="-54" type="curve" smooth="yes"/>
+      <point x="87.5208" y="-54"/>
+      <point x="67.503" y="-60.2937"/>
+      <point x="56.6805" y="-69.7343" type="curve"/>
+      <point x="64.1409" y="-73.2001" type="line"/>
+      <point x="91.7601" y="10" type="line"/>
+      <point x="71.7601" y="10" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -78,8 +124,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>H+uni0327</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

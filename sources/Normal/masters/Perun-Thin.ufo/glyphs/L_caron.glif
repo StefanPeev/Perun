@@ -5,8 +5,24 @@
   <anchor x="106" y="797" name="top"/>
   <anchor x="270" y="-80" name="bottom"/>
   <outline>
-    <component base="L"/>
-    <component base="caron.alt" xOffset="275"/>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="102" y="722" type="line"/>
+      <point x="80" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="18" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="390.5" y="722" type="line"/>
+      <point x="360.5" y="722" type="line"/>
+      <point x="315.5" y="500" type="line"/>
+      <point x="335.5" y="500" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

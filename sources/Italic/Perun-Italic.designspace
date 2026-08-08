@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" tag="wght" name="weight" maximum="700" minimum="100">
+  <axis minimum="100" tag="wght" name="weight" maximum="700" default="400">
    <labelname xml:lang="en">Weight</labelname>
    <map output="100" input="100"/>
    <map output="400" input="400"/>
@@ -9,60 +9,60 @@
   </axis>
  </axes>
  <sources>
-  <source stylename="Bold Italic" familyname="Perun" filename="masters/Perun-BoldItalic.ufo" name="Bold Italic">
+  <source familyname="Perun" stylename="Bold Italic" filename="masters/Perun-BoldItalic.ufo" name="Bold Italic">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension xvalue="700" name="weight"/>
    </location>
   </source>
-  <source stylename="Italic" familyname="Perun" filename="masters/Perun-Italic.ufo" name="Italic">
+  <source familyname="Perun" stylename="Italic" filename="masters/Perun-Italic.ufo" name="Italic">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </source>
-  <source stylename="Thin Italic" familyname="Perun" filename="masters/Perun-ThinItalic.ufo" name="Thin Italic">
+  <source familyname="Perun" stylename="Thin Italic" filename="masters/Perun-ThinItalic.ufo" name="Thin Italic">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance stylename="Thin Italic" familyname="Perun" filename="instances/Perun-ThinItalic.ufo" name="ThinItalic">
+  <instance familyname="Perun" stylename="Thin Italic" filename="instances/Perun-ThinItalic.ufo" name="ThinItalic">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraLight Italic" familyname="Perun" filename="instances/Perun-ExtraLightItalic.ufo" name="ExtraLightItalic">
+  <instance familyname="Perun" stylename="ExtraLight Italic" filename="instances/Perun-ExtraLightItalic.ufo" name="ExtraLightItalic">
    <location>
-    <dimension name="weight" xvalue="200"/>
+    <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Light Italic" familyname="Perun" filename="instances/Perun-LightItalic.ufo" name="LightItalic">
+  <instance familyname="Perun" stylename="Light Italic" filename="instances/Perun-LightItalic.ufo" name="LightItalic">
    <location>
-    <dimension name="weight" xvalue="300"/>
+    <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Italic" familyname="Perun" filename="instances/Perun-Italic.ufo" name="Italic">
+  <instance familyname="Perun" stylename="Italic" filename="instances/Perun-Italic.ufo" name="Italic">
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Medium Italic" familyname="Perun" filename="instances/Perun-MediumItalic.ufo" name="MediumItalic">
+  <instance familyname="Perun" stylename="Medium Italic" filename="instances/Perun-MediumItalic.ufo" name="MediumItalic">
    <location>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiBold Italic" familyname="Perun" filename="instances/Perun-SemiBoldItalic.ufo" name="SemiBoldItalic">
+  <instance familyname="Perun" stylename="SemiBold Italic" filename="instances/Perun-SemiBoldItalic.ufo" name="SemiBoldItalic">
    <location>
-    <dimension name="weight" xvalue="600"/>
+    <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Bold Italic" familyname="Perun" filename="instances/Perun-BoldItalic.ufo" name="BoldItalic">
+  <instance familyname="Perun" stylename="Bold Italic" filename="instances/Perun-BoldItalic.ufo" name="BoldItalic">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
  </instances>

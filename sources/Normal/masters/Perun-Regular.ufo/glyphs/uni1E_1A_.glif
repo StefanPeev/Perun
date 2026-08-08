@@ -7,13 +7,55 @@
   <anchor x="324" y="0" name="b.cedilla"/>
   <anchor x="340" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="uni0330" xOffset="329"/>
+    <contour>
+      <point x="150" y="87" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="722" type="line"/>
+      <point x="70" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="413" type="line"/>
+      <point x="150" y="326" type="line"/>
+      <point x="507" y="326" type="line"/>
+      <point x="507" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="722" type="line"/>
+      <point x="150" y="635" type="line"/>
+      <point x="517" y="635" type="line"/>
+      <point x="517" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="182.865" y="-189" type="curve"/>
+      <point x="237.865" y="-189" type="line"/>
+      <point x="240.865" y="-162"/>
+      <point x="253.865" y="-151"/>
+      <point x="275.865" y="-151" type="curve" smooth="yes"/>
+      <point x="309.865" y="-151"/>
+      <point x="343.865" y="-183"/>
+      <point x="386.865" y="-183" type="curve" smooth="yes"/>
+      <point x="435.865" y="-183"/>
+      <point x="468.865" y="-137"/>
+      <point x="474.865" y="-75" type="curve"/>
+      <point x="419.865" y="-75" type="line"/>
+      <point x="416.865" y="-103"/>
+      <point x="404.865" y="-113"/>
+      <point x="383.865" y="-113" type="curve" smooth="yes"/>
+      <point x="348.865" y="-113"/>
+      <point x="317.865" y="-81"/>
+      <point x="274.865" y="-81" type="curve" smooth="yes"/>
+      <point x="223.865" y="-81"/>
+      <point x="188.865" y="-127"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -61,8 +103,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>E+uni0330</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

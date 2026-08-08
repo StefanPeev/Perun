@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-  <advance width="474"/>
+  <advance width="558"/>
   <unicode hex="013D"/>
   <anchor x="220" y="797" name="top"/>
   <anchor x="235" y="-50" name="b.commabelow"/>
   <anchor x="219" y="-80" name="bottom"/>
   <outline>
-    <component base="L"/>
-    <component base="caron.alt" xOffset="294"/>
+    <contour>
+      <point x="61.8287" y="0" type="line"/>
+      <point x="419.829" y="0" type="line"/>
+      <point x="423.328" y="18" type="line"/>
+      <point x="65.3279" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="222" y="722" type="line"/>
+      <point x="200" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="334.085" y="500" type="line"/>
+      <point x="354.085" y="500" type="line"/>
+      <point x="507.685" y="722" type="line"/>
+      <point x="477.685" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -44,8 +60,6 @@
   <string>=L</string>
   <key>com.fontlab.recipe</key>
   <string>L_caron.alt</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -3,13 +3,75 @@
   <advance width="580"/>
   <unicode hex="1E09"/>
   <outline>
-    <component base="ccedilla"/>
-    <component base="uni0301" xOffset="296"/>
+    <contour>
+      <point x="300.911" y="-12" type="curve" smooth="yes"/>
+      <point x="421.689" y="-12"/>
+      <point x="510.089" y="60.4"/>
+      <point x="520" y="169" type="curve"/>
+      <point x="425" y="169" type="line"/>
+      <point x="418.009" y="99.4"/>
+      <point x="366.609" y="53"/>
+      <point x="298" y="53" type="curve" smooth="yes"/>
+      <point x="210.795" y="53"/>
+      <point x="154" y="126.014"/>
+      <point x="154" y="249.805" type="curve" smooth="yes"/>
+      <point x="154" y="372.062"/>
+      <point x="209.881" y="447"/>
+      <point x="298.647" y="447" type="curve" smooth="yes"/>
+      <point x="365.417" y="447"/>
+      <point x="413.398" y="404.6"/>
+      <point x="421" y="341" type="curve"/>
+      <point x="516" y="341" type="line"/>
+      <point x="506.842" y="443.6"/>
+      <point x="421.409" y="512"/>
+      <point x="302.417" y="512" type="curve" smooth="yes"/>
+      <point x="156.967" y="512"/>
+      <point x="60" y="407.2"/>
+      <point x="60" y="250" type="curve" smooth="yes"/>
+      <point x="60" y="92.8"/>
+      <point x="155.6" y="-12"/>
+    </contour>
+    <contour>
+      <point x="214.26" y="-104" type="line"/>
+      <point x="241.482" y="-113.998" type="line"/>
+      <point x="251.885" y="-105.54"/>
+      <point x="268.353" y="-100.496"/>
+      <point x="285.568" y="-100.496" type="curve" smooth="yes"/>
+      <point x="306.854" y="-100.496"/>
+      <point x="328.26" y="-117.563"/>
+      <point x="328.26" y="-138.313" type="curve" smooth="yes"/>
+      <point x="328.26" y="-161.656"/>
+      <point x="304.101" y="-177"/>
+      <point x="272.727" y="-177" type="curve" smooth="yes"/>
+      <point x="251.46" y="-177"/>
+      <point x="220.857" y="-169.448"/>
+      <point x="196.22" y="-158.121" type="curve"/>
+      <point x="186.319" y="-187.823" type="line"/>
+      <point x="213.716" y="-199.565"/>
+      <point x="254.601" y="-210"/>
+      <point x="285.26" y="-210" type="curve" smooth="yes"/>
+      <point x="350.06" y="-210"/>
+      <point x="393.26" y="-176"/>
+      <point x="393.26" y="-125" type="curve" smooth="yes"/>
+      <point x="393.26" y="-82.4"/>
+      <point x="360.511" y="-54"/>
+      <point x="312.387" y="-54" type="curve" smooth="yes"/>
+      <point x="288.598" y="-54"/>
+      <point x="270.361" y="-60.98"/>
+      <point x="256.929" y="-70.0439" type="curve"/>
+      <point x="262.28" y="-73.9752" type="line"/>
+      <point x="291.26" y="10" type="line"/>
+      <point x="252.26" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="205.5" y="580" type="line"/>
+      <point x="275.5" y="580" type="line"/>
+      <point x="385.5" y="730" type="line"/>
+      <point x="285.5" y="730" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -69,8 +131,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>ccedilla+uni0301</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

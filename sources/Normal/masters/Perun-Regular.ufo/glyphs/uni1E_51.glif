@@ -6,13 +6,49 @@
   <anchor x="310" y="580" name="tonos.top"/>
   <anchor x="346" y="0" name="ogonekLC"/>
   <outline>
-    <component base="o"/>
-    <component base="uni03040300" xOffset="310"/>
+    <contour>
+      <point x="60" y="250" type="curve" smooth="yes"/>
+      <point x="60" y="89"/>
+      <point x="157" y="-12"/>
+      <point x="311" y="-12" type="curve" smooth="yes"/>
+      <point x="465" y="-12"/>
+      <point x="560" y="89"/>
+      <point x="560" y="250" type="curve" smooth="yes"/>
+      <point x="560" y="411"/>
+      <point x="465" y="512"/>
+      <point x="311" y="512" type="curve" smooth="yes"/>
+      <point x="157" y="512"/>
+      <point x="60" y="411"/>
+    </contour>
+    <contour>
+      <point x="154" y="250" type="curve" smooth="yes"/>
+      <point x="154" y="383.675"/>
+      <point x="210" y="448"/>
+      <point x="310" y="448" type="curve" smooth="yes"/>
+      <point x="410" y="448"/>
+      <point x="466" y="383.675"/>
+      <point x="466" y="250" type="curve" smooth="yes"/>
+      <point x="466" y="116.325"/>
+      <point x="410" y="52"/>
+      <point x="310" y="52" type="curve" smooth="yes"/>
+      <point x="210" y="52"/>
+      <point x="154" y="116.325"/>
+    </contour>
+    <contour>
+      <point x="455" y="600" type="line"/>
+      <point x="455" y="670" type="line"/>
+      <point x="165" y="670" type="line"/>
+      <point x="165" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="700" type="line"/>
+      <point x="310" y="850" type="line"/>
+      <point x="210" y="850" type="line"/>
+      <point x="320" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -54,8 +90,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>o+uni03040300</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

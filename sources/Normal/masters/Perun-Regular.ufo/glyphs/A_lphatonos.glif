@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alphatonos" format="2">
-  <advance width="760"/>
+  <advance width="680"/>
   <unicode hex="0386"/>
-  <anchor x="380" y="797" name="top"/>
-  <anchor x="380" y="666" name="t.ring"/>
-  <anchor x="380" y="-75" name="bottom"/>
-  <anchor x="740" y="0" name="ogonekUC"/>
+  <anchor x="339" y="797" name="top"/>
+  <anchor x="339" y="666" name="t.ring"/>
+  <anchor x="339" y="-75" name="bottom"/>
+  <anchor x="699" y="0" name="ogonekUC"/>
   <outline>
-    <component base="Alpha"/>
-    <component base="tonos" xOffset="32"/>
+    <contour>
+      <point x="-21" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="340.723" y="626.865" type="line"/>
+      <point x="329.181" y="626.825" type="line"/>
+      <point x="593" y="0" type="line"/>
+      <point x="699" y="0" type="line"/>
+      <point x="392" y="722" type="line"/>
+      <point x="282" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="278" type="line"/>
+      <point x="175" y="278" type="line"/>
+      <point x="136" y="193" type="line"/>
+      <point x="540" y="193" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="722" type="line"/>
+      <point x="91" y="722" type="line"/>
+      <point x="31" y="512" type="line"/>
+      <point x="101" y="512" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

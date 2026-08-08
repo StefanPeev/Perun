@@ -7,17 +7,59 @@
   <anchor x="317" y="0" name="b.cedilla"/>
   <anchor x="370" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="uni0309" xOffset="292" yOffset="267"/>
+    <contour>
+      <point x="190" y="116" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="547" y="116" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="722" type="line"/>
+      <point x="60" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="431" type="line"/>
+      <point x="190" y="315" type="line"/>
+      <point x="517" y="315" type="line"/>
+      <point x="517" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="722" type="line"/>
+      <point x="190" y="606" type="line"/>
+      <point x="537" y="606" type="line"/>
+      <point x="537" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="413.35" y="923.64" type="curve" smooth="yes"/>
+      <point x="413.35" y="985.541"/>
+      <point x="364.959" y="1026.81"/>
+      <point x="292.371" y="1026.81" type="curve" smooth="yes"/>
+      <point x="228.744" y="1026.81"/>
+      <point x="180.352" y="997.494"/>
+      <point x="170.65" y="931.194" type="curve"/>
+      <point x="260.837" y="931.194" type="line"/>
+      <point x="262.59" y="953.077"/>
+      <point x="274.421" y="967.666"/>
+      <point x="290.415" y="967.666" type="curve" smooth="yes"/>
+      <point x="309.818" y="967.666"/>
+      <point x="323.157" y="953.848"/>
+      <point x="323.157" y="929.667" type="curve" smooth="yes"/>
+      <point x="323.157" y="900.65"/>
+      <point x="297.888" y="881.996"/>
+      <point x="247.35" y="877.85" type="curve"/>
+      <point x="247.35" y="797" type="line"/>
+      <point x="337.35" y="797" type="line"/>
+      <point x="337.35" y="836.807" type="line"/>
+      <point x="388.873" y="852.544"/>
+      <point x="413.35" y="880.51"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>E+uni0309</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -7,13 +7,65 @@
   <anchor x="329" y="-75" name="bottom"/>
   <anchor x="340" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="uni0327" xOffset="324"/>
+    <contour>
+      <point x="150" y="87" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="722" type="line"/>
+      <point x="70" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="413" type="line"/>
+      <point x="150" y="326" type="line"/>
+      <point x="507" y="326" type="line"/>
+      <point x="507" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="722" type="line"/>
+      <point x="150" y="635" type="line"/>
+      <point x="517" y="635" type="line"/>
+      <point x="517" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="253.26" y="-104" type="line"/>
+      <point x="280.482" y="-113.998" type="line"/>
+      <point x="290.885" y="-105.54"/>
+      <point x="307.353" y="-100.496"/>
+      <point x="324.568" y="-100.496" type="curve" smooth="yes"/>
+      <point x="345.854" y="-100.496"/>
+      <point x="367.26" y="-117.563"/>
+      <point x="367.26" y="-138.313" type="curve" smooth="yes"/>
+      <point x="367.26" y="-161.656"/>
+      <point x="343.101" y="-177"/>
+      <point x="311.727" y="-177" type="curve" smooth="yes"/>
+      <point x="290.46" y="-177"/>
+      <point x="259.857" y="-169.448"/>
+      <point x="235.22" y="-158.121" type="curve"/>
+      <point x="225.319" y="-187.823" type="line"/>
+      <point x="252.716" y="-199.565"/>
+      <point x="293.601" y="-210"/>
+      <point x="324.26" y="-210" type="curve" smooth="yes"/>
+      <point x="389.06" y="-210"/>
+      <point x="432.26" y="-176"/>
+      <point x="432.26" y="-125" type="curve" smooth="yes"/>
+      <point x="432.26" y="-82.4"/>
+      <point x="399.511" y="-54"/>
+      <point x="351.387" y="-54" type="curve" smooth="yes"/>
+      <point x="327.598" y="-54"/>
+      <point x="309.361" y="-60.98"/>
+      <point x="295.929" y="-70.0439" type="curve"/>
+      <point x="301.28" y="-73.9752" type="line"/>
+      <point x="330.26" y="10" type="line"/>
+      <point x="291.26" y="10" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -73,8 +125,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>E+uni0327</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

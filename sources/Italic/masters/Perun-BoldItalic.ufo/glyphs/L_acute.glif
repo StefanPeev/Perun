@@ -5,13 +5,27 @@
   <anchor x="205" y="-50" name="b.commabelow"/>
   <anchor x="199" y="-80" name="bottom"/>
   <outline>
-    <component base="L"/>
-    <component base="uni0301" xOffset="253" yOffset="217"/>
+    <contour>
+      <point x="99.8287" y="0" type="line"/>
+      <point x="436.829" y="0" type="line"/>
+      <point x="459.185" y="115" type="line"/>
+      <point x="122.185" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="310" y="722" type="line"/>
+      <point x="160" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="125.506" y="797" type="line"/>
+      <point x="195.506" y="797" type="line"/>
+      <point x="381.494" y="977" type="line"/>
+      <point x="251.494" y="977" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -47,8 +61,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>L+uni0301</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

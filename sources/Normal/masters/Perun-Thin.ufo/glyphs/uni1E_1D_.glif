@@ -5,13 +5,94 @@
   <anchor x="288" y="-80" name="bottom"/>
   <anchor x="329" y="0" name="ogonekLC"/>
   <outline>
-    <component base="uni0229"/>
-    <component base="uni0306" xOffset="308"/>
+    <contour>
+      <point x="80" y="249.226" type="curve" smooth="yes"/>
+      <point x="80" y="407"/>
+      <point x="176" y="512"/>
+      <point x="314.928" y="512" type="curve" smooth="yes"/>
+      <point x="450.078" y="512"/>
+      <point x="536" y="412.634"/>
+      <point x="536" y="270" type="curve" smooth="yes"/>
+      <point x="536" y="246" type="line"/>
+      <point x="527.2" y="246" type="line"/>
+      <point x="514" y="256.756" type="line"/>
+      <point x="514" y="397.903"/>
+      <point x="435.619" y="492"/>
+      <point x="313.322" y="492" type="curve" smooth="yes"/>
+      <point x="189.154" y="492"/>
+      <point x="102" y="395"/>
+      <point x="102" y="248.788" type="curve" smooth="yes"/>
+      <point x="102" y="106"/>
+      <point x="185.119" y="10"/>
+      <point x="312.628" y="10" type="curve" smooth="yes"/>
+      <point x="413.432" y="10"/>
+      <point x="492.172" y="70"/>
+      <point x="509.093" y="160" type="curve"/>
+      <point x="531" y="160" type="line"/>
+      <point x="512" y="58"/>
+      <point x="425.007" y="-10"/>
+      <point x="312.304" y="-10" type="curve" smooth="yes"/>
+      <point x="172.924" y="-10"/>
+      <point x="80" y="94"/>
+    </contour>
+    <contour>
+      <point x="91" y="246" type="line"/>
+      <point x="91" y="266" type="line"/>
+      <point x="531" y="266" type="line"/>
+      <point x="536" y="261" type="line"/>
+      <point x="536" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="296.76" y="10" type="line"/>
+      <point x="316.76" y="10" type="line"/>
+      <point x="289.141" y="-73.2001" type="line"/>
+      <point x="281.681" y="-69.7343" type="line"/>
+      <point x="292.503" y="-60.2937"/>
+      <point x="312.521" y="-54"/>
+      <point x="334.537" y="-54" type="curve" smooth="yes"/>
+      <point x="382.671" y="-54"/>
+      <point x="414.76" y="-82.4"/>
+      <point x="414.76" y="-128" type="curve" smooth="yes"/>
+      <point x="414.76" y="-177.2"/>
+      <point x="377.96" y="-210"/>
+      <point x="322.76" y="-210" type="curve" smooth="yes"/>
+      <point x="289.651" y="-210"/>
+      <point x="252.004" y="-201.001"/>
+      <point x="228.643" y="-187.503" type="curve"/>
+      <point x="234.885" y="-170" type="line"/>
+      <point x="257.797" y="-183.2"/>
+      <point x="292.147" y="-192"/>
+      <point x="320.76" y="-192" type="curve" smooth="yes"/>
+      <point x="365.16" y="-192"/>
+      <point x="394.76" y="-167.159"/>
+      <point x="394.76" y="-129.898" type="curve" smooth="yes"/>
+      <point x="394.76" y="-94.7331"/>
+      <point x="369.072" y="-72"/>
+      <point x="333.857" y="-72" type="curve" smooth="yes"/>
+      <point x="315.604" y="-72"/>
+      <point x="296.914" y="-78.1782"/>
+      <point x="280.905" y="-89.5027" type="curve"/>
+      <point x="263.401" y="-86" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="580" type="curve" smooth="yes"/>
+      <point x="233.78" y="580"/>
+      <point x="180.939" y="624.16"/>
+      <point x="168" y="697" type="curve"/>
+      <point x="188" y="696.992" type="line"/>
+      <point x="204.424" y="632.897"/>
+      <point x="245.132" y="599.992"/>
+      <point x="308" y="599.992" type="curve" smooth="yes"/>
+      <point x="371.216" y="599.992"/>
+      <point x="412.179" y="633.104"/>
+      <point x="428" y="696.992" type="curve"/>
+      <point x="448" y="697" type="line"/>
+      <point x="431.881" y="622.756"/>
+      <point x="381.72" y="580"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -95,8 +176,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>uni0229+uni0306</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

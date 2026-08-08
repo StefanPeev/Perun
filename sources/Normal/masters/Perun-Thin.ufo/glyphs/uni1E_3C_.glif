@@ -4,13 +4,31 @@
   <unicode hex="1E3C"/>
   <anchor x="106" y="797" name="top"/>
   <outline>
-    <component base="L"/>
-    <component base="uni032D" xOffset="270" yOffset="-30"/>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="102" y="722" type="line"/>
+      <point x="80" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="18" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="153.406" y="-220.469" type="line"/>
+      <point x="173.406" y="-220.469" type="line"/>
+      <point x="277.406" y="-89.4692" type="line"/>
+      <point x="261.406" y="-89.4692" type="line"/>
+      <point x="365.406" y="-220.469" type="line"/>
+      <point x="385.406" y="-220.469" type="line"/>
+      <point x="283.406" y="-80.4692" type="line"/>
+      <point x="255.406" y="-80.4692" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -40,8 +58,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>L+uni032D</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

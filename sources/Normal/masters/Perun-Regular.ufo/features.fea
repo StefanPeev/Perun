@@ -48,7 +48,6 @@ lookup loclcyr_loclBGR {
 #
 # Feature definitions
 #
-
 feature aalt {
 # Access All Alternates
 
@@ -71,7 +70,6 @@ feature locl {
     # GSUB lookup 7, type 11 (Single)
       sub i by i.loclTRK;
     } locl_latn;
-
 
     language TRK ; # Turkish
     lookup locl_latn;
@@ -125,7 +123,6 @@ feature locl {
 
 #< feature
 } locl;
-
 feature sups {
 # Superscript
 
@@ -146,7 +143,6 @@ feature sups {
   sub zero by zero.superior;
 #< feature
 } sups;
-
 feature frac {
 # Fractions
 
@@ -230,7 +226,6 @@ lookup frac_dnom {
 
 #< feature
 } frac;
-
 feature ordn {
 # Ordinals
 
@@ -240,7 +235,6 @@ feature ordn {
   sub N o period by uni2116;
 #< feature
 } ordn;
-
 feature salt {
 # Stylistic Alternates
 
@@ -250,7 +244,6 @@ feature salt {
   sub uni0443 from [uni0443.ss01];
 #< feature
 } salt;
-
 feature ss01 {
 # Stylistic Set 01–20
 
@@ -262,7 +255,6 @@ feature ss01 {
      lookup loclcyr_loclBGR;
 #< feature
 } ss01;
-
 feature liga {
 # Standard Ligatures
 
@@ -275,7 +267,6 @@ feature liga {
     sub longs t by uniFB05;
 #< feature
 } liga;
-
 feature dlig {
 # Discretionary Ligatures
 
@@ -286,7 +277,6 @@ feature dlig {
   sub s t by uniFB06;
 #< feature
 } dlig;
-
 feature hist {
 # Historical Forms
 
@@ -294,7 +284,6 @@ feature hist {
   sub s by longs;
 #< feature
 } hist;
-
 feature mark {
 # GPOS feature : Mark Positioning
     markClass uni0301 <anchor 0 580> @top;
@@ -397,10 +386,10 @@ feature mark {
           <anchor 192 722> mark @tonos
           <anchor 353 797> mark @top;
       pos base Alphatonos
-          <anchor 353 -80> mark @bottom
-          <anchor 666 0> mark @ogonekUC
-          <anchor 353 706> mark @t.ring
-          <anchor 353 797> mark @top;
+          <anchor 297 -80> mark @bottom
+          <anchor 610 0> mark @ogonekUC
+          <anchor 297 706> mark @t.ring
+          <anchor 297 797> mark @top;
       pos base Amacron
           <anchor 353 -80> mark @bottom
           <anchor 666 0> mark @ogonekUC
@@ -519,19 +508,19 @@ feature mark {
           <anchor -8 722> mark @tonos
           <anchor 258 797> mark @top;
       pos base Epsilontonos
-          <anchor 260 0> mark @b.cedilla
-          <anchor 258 -80> mark @bottom
-          <anchor 310 0> mark @ogonekUC
-          <anchor 258 797> mark @top;
+          <anchor 349 0> mark @b.cedilla
+          <anchor 347 -80> mark @bottom
+          <anchor 399 0> mark @ogonekUC
+          <anchor 347 797> mark @top;
       pos base Eta
           <anchor 87 0> mark @b.cedilla
           <anchor 310 -80> mark @bottom
           <anchor -8 722> mark @tonos
           <anchor 310 797> mark @top;
       pos base Etatonos
-          <anchor 87 0> mark @b.cedilla
-          <anchor 310 -80> mark @bottom
-          <anchor 310 797> mark @top;
+          <anchor 171 0> mark @b.cedilla
+          <anchor 394 -80> mark @bottom
+          <anchor 394 797> mark @top;
       pos base F
           <anchor 323 -80> mark @bottom
           <anchor 275 797> mark @top;
@@ -618,9 +607,9 @@ feature mark {
           <anchor 102 0> mark @ogonekUC
           <anchor -8 722> mark @tonos;
       pos base Iotatonos
-          <anchor 90 -80> mark @bottom
-          <anchor 102 0> mark @ogonekUC
-          <anchor 91 797> mark @top;
+          <anchor 171 -80> mark @bottom
+          <anchor 183 0> mark @ogonekUC
+          <anchor 172 797> mark @top;
       pos base Itilde
           <anchor 90 -80> mark @bottom
           <anchor 102 0> mark @ogonekUC
@@ -708,9 +697,9 @@ feature mark {
           <anchor 72 722> mark @tonos
           <anchor 365 797> mark @top;
       pos base Omicrontonos
-          <anchor 378 -80> mark @bottom
-          <anchor 390 0> mark @ogonekUC
-          <anchor 365 797> mark @top;
+          <anchor 414 -80> mark @bottom
+          <anchor 426 0> mark @ogonekUC
+          <anchor 401 797> mark @top;
       pos base Otilde
           <anchor 378 -80> mark @bottom
           <anchor 390 0> mark @ogonekUC
@@ -2584,4 +2573,3 @@ feature mark {
   lookup markLTR3;
   lookup markLTR4;
 } mark;
-

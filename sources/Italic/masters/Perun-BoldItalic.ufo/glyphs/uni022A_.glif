@@ -7,13 +7,55 @@
   <anchor x="350" y="0" name="ogonekUC"/>
   <anchor x="298" y="-80" name="bottom"/>
   <outline>
-    <component base="O"/>
-    <component base="uni03080304" xOffset="462" yOffset="217"/>
+    <contour>
+      <point x="30.89" y="256.58" type="curve" smooth="yes"/>
+      <point x="30.89" y="83.6423"/>
+      <point x="130.645" y="-14"/>
+      <point x="307.325" y="-14" type="curve" smooth="yes"/>
+      <point x="555.672" y="-14"/>
+      <point x="736.4" y="187.925"/>
+      <point x="736.4" y="465.4" type="curve" smooth="yes"/>
+      <point x="736.4" y="638.285"/>
+      <point x="636.716" y="736"/>
+      <point x="460.348" y="736" type="curve" smooth="yes"/>
+      <point x="212.183" y="736"/>
+      <point x="30.89" y="533.616"/>
+    </contour>
+    <contour>
+      <point x="180.86" y="256.755" type="curve" smooth="yes"/>
+      <point x="180.86" y="475.615"/>
+      <point x="285.06" y="622"/>
+      <point x="440.848" y="622" type="curve" smooth="yes"/>
+      <point x="539.005" y="622"/>
+      <point x="586.41" y="571.598"/>
+      <point x="586.41" y="467.235" type="curve" smooth="yes"/>
+      <point x="586.41" y="248.373"/>
+      <point x="482.219" y="102"/>
+      <point x="326.427" y="102" type="curve" smooth="yes"/>
+      <point x="228.268" y="102"/>
+      <point x="180.86" y="152.4"/>
+    </contour>
+    <contour>
+      <point x="290.336" y="797" type="line"/>
+      <point x="400.336" y="797" type="line"/>
+      <point x="423.664" y="917" type="line"/>
+      <point x="313.664" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="500.336" y="797" type="line"/>
+      <point x="610.336" y="797" type="line"/>
+      <point x="633.664" y="917" type="line"/>
+      <point x="523.664" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="282.28" y="947" type="line"/>
+      <point x="662.28" y="947" type="line"/>
+      <point x="681.72" y="1047" type="line"/>
+      <point x="301.72" y="1047" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -73,8 +115,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>O+uni03080304</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

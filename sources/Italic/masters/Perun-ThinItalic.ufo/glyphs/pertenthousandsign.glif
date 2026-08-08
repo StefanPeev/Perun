@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pertenthousandsign" format="2">
-  <advance width="1544"/>
+  <advance width="1811"/>
   <unicode hex="2031"/>
   <outline>
     <component base="perthousand"/>
@@ -34,4 +34,12 @@
     </contour>
   </outline>
   <guideline angle="0" x="0" y="192"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=percent</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=percent</string>
+  </dict>
+  </lib>
 </glyph>

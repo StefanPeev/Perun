@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="576"/>
+  <advance width="658"/>
   <unicode hex="0388"/>
-  <anchor x="387" y="797" name="top"/>
-  <anchor x="221" y="0" name="b.cedilla"/>
-  <anchor x="437" y="0" name="ogonekUC"/>
+  <anchor x="469" y="797" name="top"/>
+  <anchor x="303" y="0" name="b.cedilla"/>
+  <anchor x="519" y="0" name="ogonekUC"/>
   <outline>
-    <component base="Epsilon"/>
-    <component base="tonos" xOffset="-202.829"/>
+    <contour>
+      <point x="181.829" y="0" type="line"/>
+      <point x="518.829" y="0" type="line"/>
+      <point x="541.185" y="115" type="line"/>
+      <point x="204.185" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="392" y="722" type="line"/>
+      <point x="242" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.454" y="317" type="line"/>
+      <point x="550.454" y="317" type="line"/>
+      <point x="572.226" y="429" type="line"/>
+      <point x="265.226" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="299.83" y="607" type="line"/>
+      <point x="626.83" y="607" type="line"/>
+      <point x="649.186" y="722" type="line"/>
+      <point x="322.186" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11.5678" y="511.476" type="line"/>
+      <point x="58.4322" y="511.476" type="line"/>
+      <point x="189.093" y="722" type="line"/>
+      <point x="59.0929" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=E</string>
   <key>com.fontlab.recipe</key>
   <string>Epsilon+tonos</string>
   <key>public.markColor</key>

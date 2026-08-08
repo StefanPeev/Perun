@@ -1,19 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicrontonos" format="2">
-  <advance width="719"/>
+  <advance width="788"/>
   <unicode hex="038C"/>
-  <anchor x="462" y="797" name="top"/>
-  <anchor x="270" y="0" name="b.cedilla"/>
-  <anchor x="320" y="0" name="ogonekUC"/>
-  <anchor x="292" y="-80" name="bottom"/>
+  <anchor x="531" y="797" name="top"/>
+  <anchor x="339" y="0" name="b.cedilla"/>
+  <anchor x="389" y="0" name="ogonekUC"/>
+  <anchor x="361" y="-80" name="bottom"/>
   <outline>
-    <component base="Omicron"/>
-    <component base="tonos" xOffset="-85.995"/>
+    <contour>
+      <point x="99.9" y="254.9" type="curve" smooth="yes"/>
+      <point x="99.9" y="84.6267"/>
+      <point x="195.366" y="-12"/>
+      <point x="363.593" y="-12" type="curve" smooth="yes"/>
+      <point x="600.815" y="-12"/>
+      <point x="777.77" y="192.689"/>
+      <point x="777.77" y="467.09" type="curve" smooth="yes"/>
+      <point x="777.77" y="637.422"/>
+      <point x="682.245" y="734"/>
+      <point x="513.771" y="734" type="curve" smooth="yes"/>
+      <point x="276.41" y="734"/>
+      <point x="99.9" y="529.67"/>
+    </contour>
+    <contour>
+      <point x="202.65" y="257.83" type="curve" smooth="yes"/>
+      <point x="202.909" y="489.898"/>
+      <point x="322.161" y="646"/>
+      <point x="499.185" y="646" type="curve" smooth="yes"/>
+      <point x="616.149" y="646"/>
+      <point x="675.033" y="585.105"/>
+      <point x="675.02" y="464.16" type="curve" smooth="yes"/>
+      <point x="674.994" y="232.473"/>
+      <point x="555.41" y="76"/>
+      <point x="378.369" y="76" type="curve" smooth="yes"/>
+      <point x="261.439" y="76"/>
+      <point x="202.515" y="136.973"/>
+    </contour>
+    <contour>
+      <point x="-7.63349" y="512" type="line"/>
+      <point x="62.3665" y="512" type="line"/>
+      <point x="193.191" y="722" type="line"/>
+      <point x="93.1905" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

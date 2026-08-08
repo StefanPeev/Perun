@@ -6,13 +6,33 @@
   <anchor x="64" y="0" name="b.cedilla"/>
   <anchor x="289" y="-80" name="bottom"/>
   <outline>
-    <component base="H"/>
-    <component base="tonos" xOffset="-132.829"/>
+    <contour>
+      <point x="143.007" y="361" type="line"/>
+      <point x="600.007" y="361" type="line"/>
+      <point x="603.506" y="379" type="line"/>
+      <point x="146.506" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="222" y="722" type="line"/>
+      <point x="200" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="682" y="722" type="line"/>
+      <point x="660" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12.4672" y="512" type="line"/>
+      <point x="-2.46721" y="512" type="line"/>
+      <point x="128.357" y="722" type="line"/>
+      <point x="108.357" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

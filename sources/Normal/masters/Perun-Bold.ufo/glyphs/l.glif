@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="255"/>
+  <advance width="256"/>
   <unicode hex="006C"/>
   <anchor x="128" y="797" name="top"/>
   <anchor x="128" y="-57" name="bottom"/>
@@ -43,9 +43,9 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=n</string>
+  <string>=60</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
+  <string>=60</string>
   </dict>
   </lib>
 </glyph>

@@ -7,13 +7,43 @@
   <anchor x="221" y="0" name="b.cedilla"/>
   <anchor x="437" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="uni032D" xOffset="317.282"/>
+    <contour>
+      <point x="99.8287" y="0" type="line"/>
+      <point x="436.829" y="0" type="line"/>
+      <point x="459.185" y="115" type="line"/>
+      <point x="122.185" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="310" y="722" type="line"/>
+      <point x="160" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="161.454" y="317" type="line"/>
+      <point x="468.454" y="317" type="line"/>
+      <point x="490.226" y="429" type="line"/>
+      <point x="183.226" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="217.83" y="607" type="line"/>
+      <point x="544.83" y="607" type="line"/>
+      <point x="567.186" y="722" type="line"/>
+      <point x="240.186" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="-230.283" type="line"/>
+      <point x="128" y="-230.283" type="line"/>
+      <point x="250" y="-109.283" type="line"/>
+      <point x="231" y="-107.283" type="line"/>
+      <point x="308" y="-230.283" type="line"/>
+      <point x="378" y="-230.283" type="line"/>
+      <point x="323" y="-50.2833" type="line"/>
+      <point x="183" y="-50.2833" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

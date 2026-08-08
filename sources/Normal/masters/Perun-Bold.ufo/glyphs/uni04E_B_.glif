@@ -4,17 +4,57 @@
   <unicode hex="04EB"/>
   <anchor x="302" y="-75" name="bottom"/>
   <outline>
-    <component base="uni04E9"/>
-    <component base="uni0308" xOffset="302"/>
+    <contour>
+      <point x="482" y="303" type="line"/>
+      <point x="112" y="303" type="line"/>
+      <point x="112" y="203" type="line"/>
+      <point x="482" y="203" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="250" type="curve" smooth="yes"/>
+      <point x="45" y="54"/>
+      <point x="146.891" y="-14"/>
+      <point x="293.961" y="-14" type="curve" smooth="yes"/>
+      <point x="440.07" y="-14"/>
+      <point x="541" y="54"/>
+      <point x="541" y="250" type="curve" smooth="yes"/>
+      <point x="541" y="446"/>
+      <point x="441.031" y="514"/>
+      <point x="293.961" y="514" type="curve" smooth="yes"/>
+      <point x="146.891" y="514"/>
+      <point x="45" y="446"/>
+    </contour>
+    <contour>
+      <point x="181" y="250" type="curve" smooth="yes"/>
+      <point x="181" y="372.848"/>
+      <point x="216.074" y="428"/>
+      <point x="293" y="428" type="curve" smooth="yes"/>
+      <point x="369.926" y="428"/>
+      <point x="405" y="372.848"/>
+      <point x="405" y="250" type="curve" smooth="yes"/>
+      <point x="405" y="127.152"/>
+      <point x="369.926" y="72"/>
+      <point x="293" y="72" type="curve" smooth="yes"/>
+      <point x="216.074" y="72"/>
+      <point x="181" y="127.152"/>
+    </contour>
+    <contour>
+      <point x="142" y="600" type="line"/>
+      <point x="252" y="600" type="line"/>
+      <point x="252" y="720" type="line"/>
+      <point x="142" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="600" type="line"/>
+      <point x="462" y="600" type="line"/>
+      <point x="462" y="720" type="line"/>
+      <point x="352" y="720" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni04E9+uni0308</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

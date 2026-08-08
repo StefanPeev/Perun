@@ -7,13 +7,30 @@
   <anchor x="509" y="703" name="t.ring"/>
   <anchor x="339" y="-80" name="bottom"/>
   <outline>
-    <component base="Alpha"/>
-    <component base="tonos" xOffset="147.171"/>
+    <contour>
+      <point x="40.8287" y="0" type="line"/>
+      <point x="63.8287" y="0" type="line"/>
+      <point x="489.969" y="702.23" type="line"/>
+      <point x="643.829" y="0" type="line"/>
+      <point x="666.829" y="0" type="line"/>
+      <point x="504.185" y="722" type="line"/>
+      <point x="484.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="193.541" y="230" type="line"/>
+      <point x="603.541" y="230" type="line"/>
+      <point x="600.04" y="248" type="line"/>
+      <point x="205.04" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="227.533" y="512" type="line"/>
+      <point x="237.533" y="512" type="line"/>
+      <point x="368.357" y="722" type="line"/>
+      <point x="348.357" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -44,6 +61,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
   <key>com.fontlab.recipe</key>
   <string>Alpha+tonos</string>
   <key>public.markColor</key>

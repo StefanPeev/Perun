@@ -6,13 +6,58 @@
   <anchor x="312" y="0" name="b.cedilla"/>
   <anchor x="329" y="0" name="ogonekLC"/>
   <outline>
-    <component base="e"/>
-    <component base="uni03040300" xOffset="308"/>
+    <contour>
+      <point x="80" y="249.226" type="curve" smooth="yes"/>
+      <point x="80" y="407"/>
+      <point x="176" y="512"/>
+      <point x="314.928" y="512" type="curve" smooth="yes"/>
+      <point x="450.078" y="512"/>
+      <point x="536" y="412.634"/>
+      <point x="536" y="270" type="curve" smooth="yes"/>
+      <point x="536" y="246" type="line"/>
+      <point x="527.2" y="246" type="line"/>
+      <point x="514" y="256.756" type="line"/>
+      <point x="514" y="397.903"/>
+      <point x="435.619" y="492"/>
+      <point x="313.322" y="492" type="curve" smooth="yes"/>
+      <point x="189.154" y="492"/>
+      <point x="102" y="395"/>
+      <point x="102" y="248.788" type="curve" smooth="yes"/>
+      <point x="102" y="106"/>
+      <point x="185.119" y="10"/>
+      <point x="312.628" y="10" type="curve" smooth="yes"/>
+      <point x="413.432" y="10"/>
+      <point x="492.172" y="70"/>
+      <point x="509.093" y="160" type="curve"/>
+      <point x="531" y="160" type="line"/>
+      <point x="512" y="58"/>
+      <point x="425.007" y="-10"/>
+      <point x="312.304" y="-10" type="curve" smooth="yes"/>
+      <point x="172.924" y="-10"/>
+      <point x="80" y="94"/>
+    </contour>
+    <contour>
+      <point x="91" y="246" type="line"/>
+      <point x="91" y="266" type="line"/>
+      <point x="531" y="266" type="line"/>
+      <point x="536" y="261" type="line"/>
+      <point x="536" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="630" type="line"/>
+      <point x="163" y="650" type="line"/>
+      <point x="453" y="650" type="line"/>
+      <point x="453" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="343.5" y="680" type="line"/>
+      <point x="233.5" y="820" type="line"/>
+      <point x="263.5" y="820" type="line"/>
+      <point x="363.5" y="680" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -60,8 +105,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>e+uni03040300</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

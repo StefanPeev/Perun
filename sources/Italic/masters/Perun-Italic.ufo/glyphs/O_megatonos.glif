@@ -1,15 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegatonos" format="2">
-  <advance width="801"/>
+  <advance width="868"/>
   <unicode hex="038F"/>
   <outline>
-    <component base="Omega"/>
-    <component base="tonos" xOffset="-66"/>
+    <contour>
+      <point x="33.2175" y="0" type="line"/>
+      <point x="328.567" y="0" type="line"/>
+      <point x="372.549" y="158.644" type="line"/>
+      <point x="295.393" y="194.294"/>
+      <point x="229.894" y="253.129"/>
+      <point x="229.894" y="367.701" type="curve" smooth="yes"/>
+      <point x="229.894" y="525.292"/>
+      <point x="353.814" y="631"/>
+      <point x="519.545" y="631" type="curve" smooth="yes"/>
+      <point x="652.584" y="631"/>
+      <point x="723.438" y="561.203"/>
+      <point x="723.438" y="462.693" type="curve" smooth="yes"/>
+      <point x="723.438" y="314.102"/>
+      <point x="612.702" y="209.843"/>
+      <point x="481.878" y="158.644" type="curve"/>
+      <point x="433.052" y="0" type="line"/>
+      <point x="762.31" y="0" type="line"/>
+      <point x="780.776" y="95" type="line"/>
+      <point x="555.143" y="95" type="line"/>
+      <point x="568.891" y="134.777" type="line"/>
+      <point x="722.453" y="184.469"/>
+      <point x="828.12" y="317.606"/>
+      <point x="828.12" y="479.324" type="curve" smooth="yes"/>
+      <point x="828.12" y="618.273"/>
+      <point x="725.343" y="718"/>
+      <point x="544.845" y="718" type="curve" smooth="yes"/>
+      <point x="320.017" y="718"/>
+      <point x="126.894" y="565.186"/>
+      <point x="126.894" y="349.034" type="curve" smooth="yes"/>
+      <point x="126.894" y="240.198"/>
+      <point x="175.441" y="171.104"/>
+      <point x="274.215" y="134.777" type="curve"/>
+      <point x="261.418" y="95" type="line"/>
+      <point x="51.6836" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="10.3615" y="512" type="line"/>
+      <point x="80.3615" y="512" type="line"/>
+      <point x="211.186" y="722" type="line"/>
+      <point x="111.186" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni03A9+tonos</string>
   <key>public.markColor</key>

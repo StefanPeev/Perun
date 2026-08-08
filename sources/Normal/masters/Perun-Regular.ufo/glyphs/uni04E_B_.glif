@@ -4,13 +4,55 @@
   <unicode hex="04EB"/>
   <anchor x="296" y="-75" name="bottom"/>
   <outline>
-    <component base="uni04E9"/>
-    <component base="uni0308" xOffset="296"/>
+    <contour>
+      <point x="482" y="283" type="line"/>
+      <point x="112" y="283" type="line"/>
+      <point x="112" y="223" type="line"/>
+      <point x="482" y="223" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="250" type="curve" smooth="yes"/>
+      <point x="40" y="89"/>
+      <point x="137" y="-12"/>
+      <point x="291" y="-12" type="curve" smooth="yes"/>
+      <point x="445" y="-12"/>
+      <point x="540" y="89"/>
+      <point x="540" y="250" type="curve" smooth="yes"/>
+      <point x="540" y="411"/>
+      <point x="445" y="512"/>
+      <point x="291" y="512" type="curve" smooth="yes"/>
+      <point x="137" y="512"/>
+      <point x="40" y="411"/>
+    </contour>
+    <contour>
+      <point x="134" y="250" type="curve" smooth="yes"/>
+      <point x="134" y="383.675"/>
+      <point x="190" y="448"/>
+      <point x="290" y="448" type="curve" smooth="yes"/>
+      <point x="390" y="448"/>
+      <point x="446" y="383.675"/>
+      <point x="446" y="250" type="curve" smooth="yes"/>
+      <point x="446" y="116.325"/>
+      <point x="390" y="52"/>
+      <point x="290" y="52" type="curve" smooth="yes"/>
+      <point x="190" y="52"/>
+      <point x="134" y="116.325"/>
+    </contour>
+    <contour>
+      <point x="151.5" y="600" type="line"/>
+      <point x="241.5" y="600" type="line"/>
+      <point x="241.5" y="692" type="line"/>
+      <point x="151.5" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="351.5" y="600" type="line"/>
+      <point x="441.5" y="600" type="line"/>
+      <point x="441.5" y="692" type="line"/>
+      <point x="351.5" y="692" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -70,8 +112,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>uni04E9+uni0308</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

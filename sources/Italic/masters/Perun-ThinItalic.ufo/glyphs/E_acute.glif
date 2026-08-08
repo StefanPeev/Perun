@@ -6,13 +6,39 @@
   <anchor x="229" y="0" name="b.cedilla"/>
   <anchor x="419" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="uni0301" xOffset="371" yOffset="217"/>
+    <contour>
+      <point x="60.8287" y="0" type="line"/>
+      <point x="418.829" y="0" type="line"/>
+      <point x="422.328" y="18" type="line"/>
+      <point x="64.3279" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="222" y="722" type="line"/>
+      <point x="200" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="130.427" y="358.018" type="line"/>
+      <point x="468.427" y="358.018" type="line"/>
+      <point x="472.29" y="377.889" type="line"/>
+      <point x="134.29" y="377.889" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.686" y="704" type="line"/>
+      <point x="545.686" y="704" type="line"/>
+      <point x="549.185" y="722" type="line"/>
+      <point x="201.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="797" type="line"/>
+      <point x="311" y="797" type="line"/>
+      <point x="441" y="967" type="line"/>
+      <point x="411" y="967" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -48,8 +74,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>E+uni0301</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

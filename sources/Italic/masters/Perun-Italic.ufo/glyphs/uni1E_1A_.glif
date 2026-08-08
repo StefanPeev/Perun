@@ -7,13 +7,55 @@
   <anchor x="226" y="0" name="b.cedilla"/>
   <anchor x="427" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="uni0330" xOffset="269.129"/>
+    <contour>
+      <point x="69.8287" y="0" type="line"/>
+      <point x="426.829" y="0" type="line"/>
+      <point x="443.742" y="87" type="line"/>
+      <point x="86.7415" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="280" y="722" type="line"/>
+      <point x="180" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="133.203" y="326" type="line"/>
+      <point x="470.203" y="326" type="line"/>
+      <point x="487.116" y="413" type="line"/>
+      <point x="150.116" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="193.273" y="635" type="line"/>
+      <point x="540.273" y="635" type="line"/>
+      <point x="557.186" y="722" type="line"/>
+      <point x="210.186" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="62.755" y="-153.656" type="curve"/>
+      <point x="117.755" y="-153.656" type="line"/>
+      <point x="121.292" y="-129.056"/>
+      <point x="143.492" y="-112.656"/>
+      <point x="163.305" y="-112.656" type="curve" smooth="yes"/>
+      <point x="200.816" y="-112.656"/>
+      <point x="220.44" y="-147.656"/>
+      <point x="268.145" y="-147.656" type="curve" smooth="yes"/>
+      <point x="321.301" y="-147.656"/>
+      <point x="364.141" y="-108.456"/>
+      <point x="375.245" y="-49.6559" type="curve"/>
+      <point x="320.245" y="-49.6559" type="line"/>
+      <point x="316.725" y="-74.2559"/>
+      <point x="294.512" y="-90.6559"/>
+      <point x="274.705" y="-90.6559" type="curve" smooth="yes"/>
+      <point x="236.81" y="-90.6559"/>
+      <point x="217.77" y="-55.6559"/>
+      <point x="169.865" y="-55.6559" type="curve" smooth="yes"/>
+      <point x="116.731" y="-55.6559"/>
+      <point x="73.8867" y="-94.8559"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

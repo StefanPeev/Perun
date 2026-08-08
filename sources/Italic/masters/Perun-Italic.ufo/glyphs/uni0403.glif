@@ -3,13 +3,27 @@
   <advance width="501"/>
   <unicode hex="0403"/>
   <outline>
-    <component base="uni0413"/>
-    <component base="uni0301" xOffset="378" yOffset="217"/>
+    <contour>
+      <point x="40.8287" y="0" type="line"/>
+      <point x="140.829" y="0" type="line"/>
+      <point x="281.185" y="722" type="line"/>
+      <point x="181.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="224.273" y="635" type="line"/>
+      <point x="583.273" y="635" type="line"/>
+      <point x="600.186" y="722" type="line"/>
+      <point x="241.231" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="288.5" y="797" type="line"/>
+      <point x="358.5" y="797" type="line"/>
+      <point x="468.5" y="977" type="line"/>
+      <point x="368.5" y="977" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

@@ -6,13 +6,21 @@
   <anchor x="82" y="0" name="ogonekUC"/>
   <anchor x="55" y="-80" name="bottom"/>
   <outline>
-    <component base="I"/>
-    <component base="tonos" xOffset="-73.8287"/>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="222" y="722" type="line"/>
+      <point x="200" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="-33.4672" y="512" type="line"/>
+      <point x="-23.4672" y="512" type="line"/>
+      <point x="107.357" y="722" type="line"/>
+      <point x="87.3568" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

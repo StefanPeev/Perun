@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="587"/>
+  <advance width="830"/>
   <unicode hex="038E"/>
-  <anchor x="372" y="797" name="top"/>
-  <anchor x="187" y="-80" name="bottom"/>
+  <anchor x="545" y="797" name="top"/>
+  <anchor x="360" y="-80" name="bottom"/>
   <outline>
-    <component base="Upsilon"/>
-    <component base="tonos" xOffset="-188"/>
+    <contour>
+      <point x="430.722" y="205.692" type="line"/>
+      <point x="849.186" y="722" type="line"/>
+      <point x="735.186" y="722" type="line"/>
+      <point x="463.536" y="375" type="line"/>
+      <point x="336.186" y="722" type="line"/>
+      <point x="213.186" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="339.829" y="0" type="line"/>
+      <point x="439.829" y="0" type="line"/>
+      <point x="498.538" y="302" type="line"/>
+      <point x="398.538" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="-5.6385" y="512" type="line"/>
+      <point x="64.3615" y="512" type="line"/>
+      <point x="195.186" y="722" type="line"/>
+      <point x="95.1855" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Upsilon+tonos</string>
   <key>public.markColor</key>

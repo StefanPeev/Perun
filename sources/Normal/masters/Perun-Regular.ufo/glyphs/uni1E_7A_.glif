@@ -5,13 +5,47 @@
   <anchor x="358" y="-75" name="bottom"/>
   <anchor x="400" y="0" name="ogonekUC"/>
   <outline>
-    <component base="U"/>
-    <component base="uni03040308" xOffset="358" yOffset="217"/>
+    <contour>
+      <point x="70" y="293.651" type="line" smooth="yes"/>
+      <point x="70" y="92.0512"/>
+      <point x="185.2" y="-14"/>
+      <point x="358" y="-14" type="curve" smooth="yes"/>
+      <point x="530.8" y="-14"/>
+      <point x="646" y="92.0513"/>
+      <point x="646" y="293.651" type="curve" smooth="yes"/>
+      <point x="646" y="722" type="line"/>
+      <point x="546" y="722" type="line"/>
+      <point x="546" y="293.651" type="line" smooth="yes"/>
+      <point x="546" y="144.851"/>
+      <point x="470.4" y="74"/>
+      <point x="357" y="74" type="curve" smooth="yes"/>
+      <point x="244.8" y="74"/>
+      <point x="170" y="144.851"/>
+      <point x="170" y="293.651" type="curve" smooth="yes"/>
+      <point x="170" y="722" type="line"/>
+      <point x="70" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="817" type="line"/>
+      <point x="503" y="887" type="line"/>
+      <point x="213" y="887" type="line"/>
+      <point x="213" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="213.5" y="957" type="line"/>
+      <point x="303.5" y="957" type="line"/>
+      <point x="303.5" y="1049" type="line"/>
+      <point x="213.5" y="1049" type="line"/>
+    </contour>
+    <contour>
+      <point x="413.5" y="957" type="line"/>
+      <point x="503.5" y="957" type="line"/>
+      <point x="503.5" y="1049" type="line"/>
+      <point x="413.5" y="1049" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -71,8 +105,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>U+uni03040308</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

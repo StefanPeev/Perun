@@ -4,13 +4,44 @@
   <unicode hex="012F"/>
   <anchor x="77" y="-80" name="bottom"/>
   <outline>
-    <component base="i"/>
-    <component base="uni0328" xOffset="96"/>
+    <contour>
+      <point x="20.4049" y="0" type="line"/>
+      <point x="156.405" y="0" type="line"/>
+      <point x="253.605" y="500" type="line"/>
+      <point x="117.605" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="128.364" y="620" type="line"/>
+      <point x="283.364" y="620" type="line"/>
+      <point x="309.636" y="750" type="line"/>
+      <point x="154.636" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1.7263" y="-162.746" type="curve" smooth="yes"/>
+      <point x="-1.7263" y="-200.933"/>
+      <point x="23.0812" y="-230"/>
+      <point x="71.4262" y="-230" type="curve" smooth="yes"/>
+      <point x="83.4262" y="-230"/>
+      <point x="109.426" y="-230"/>
+      <point x="151.204" y="-226" type="curve"/>
+      <point x="168.7" y="-136" type="line"/>
+      <point x="155.903" y="-139.32"/>
+      <point x="142.786" y="-140"/>
+      <point x="134.09" y="-140" type="curve" smooth="yes"/>
+      <point x="101.947" y="-140"/>
+      <point x="87.6789" y="-130.709"/>
+      <point x="87.6789" y="-108.51" type="curve" smooth="yes"/>
+      <point x="87.6789" y="-72.0326"/>
+      <point x="126.341" y="-20.6291"/>
+      <point x="156.138" y="0" type="curve"/>
+      <point x="108.138" y="0" type="line"/>
+      <point x="85.2502" y="-20" type="line" smooth="yes"/>
+      <point x="47.2568" y="-53.1995"/>
+      <point x="-1.7263" y="-109.295"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -58,8 +89,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>i+uni0328</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

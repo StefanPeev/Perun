@@ -5,13 +5,63 @@
   <anchor x="260" y="-80" name="bottom"/>
   <anchor x="446" y="797" name="t.ring"/>
   <outline>
-    <component base="U"/>
-    <component base="uni03030301" xOffset="425" yOffset="217"/>
+    <contour>
+      <point x="60.5568" y="182.077" type="curve" smooth="yes"/>
+      <point x="60.5568" y="44.4969"/>
+      <point x="125.582" y="-12"/>
+      <point x="271.052" y="-12" type="curve" smooth="yes"/>
+      <point x="451.125" y="-12"/>
+      <point x="542.326" y="74.5723"/>
+      <point x="590.426" y="322" type="curve" smooth="yes"/>
+      <point x="668.186" y="722" type="line"/>
+      <point x="646.186" y="722" type="line"/>
+      <point x="566.482" y="312" type="line" smooth="yes"/>
+      <point x="522.199" y="84.2099"/>
+      <point x="435.358" y="7.63905"/>
+      <point x="276.577" y="7.63905" type="curve" smooth="yes"/>
+      <point x="147.765" y="7.63905"/>
+      <point x="82.8436" y="58.0337"/>
+      <point x="82.8436" y="189.813" type="curve" smooth="yes"/>
+      <point x="82.8436" y="224.66"/>
+      <point x="87.3832" y="265.198"/>
+      <point x="96.4815" y="312" type="curve" smooth="yes"/>
+      <point x="176.186" y="722" type="line"/>
+      <point x="154.186" y="722" type="line"/>
+      <point x="76.4255" y="322" type="line" smooth="yes"/>
+      <point x="65.9698" y="268.216"/>
+      <point x="60.5568" y="221.771"/>
+    </contour>
+    <contour>
+      <point x="272.43" y="837" type="curve"/>
+      <point x="292.43" y="837" type="line"/>
+      <point x="303.523" y="863.4"/>
+      <point x="331.461" y="881"/>
+      <point x="362.275" y="881" type="curve" smooth="yes"/>
+      <point x="407.924" y="881"/>
+      <point x="431.734" y="839"/>
+      <point x="486.921" y="839" type="curve" smooth="yes"/>
+      <point x="525.724" y="839"/>
+      <point x="561.984" y="864.68"/>
+      <point x="577.57" y="903.2" type="curve"/>
+      <point x="557.57" y="903.2" type="line"/>
+      <point x="546.477" y="876.8"/>
+      <point x="519.285" y="859.2"/>
+      <point x="489.59" y="859.2" type="curve" smooth="yes"/>
+      <point x="438.361" y="859.2"/>
+      <point x="415.366" y="901.2"/>
+      <point x="363.191" y="901.2" type="curve" smooth="yes"/>
+      <point x="324.32" y="901.2"/>
+      <point x="288.016" y="875.52"/>
+    </contour>
+    <contour>
+      <point x="375" y="927" type="line"/>
+      <point x="385" y="927" type="line"/>
+      <point x="515" y="1097" type="line"/>
+      <point x="485" y="1097" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

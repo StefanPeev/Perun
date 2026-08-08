@@ -3,13 +3,27 @@
   <advance width="534"/>
   <unicode hex="0403"/>
   <outline>
-    <component base="uni0413"/>
-    <component base="uni0301" xOffset="267.5" yOffset="222"/>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="722" type="line"/>
+      <point x="60" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="524" y="607" type="line"/>
+      <point x="524" y="722" type="line"/>
+      <point x="210" y="722" type="line"/>
+      <point x="210" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="802" type="line"/>
+      <point x="262" y="802" type="line"/>
+      <point x="372" y="952" type="line"/>
+      <point x="242" y="952" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -43,10 +57,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
   <key>com.fontlab.recipe</key>
   <string>uni0413+uni0301</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

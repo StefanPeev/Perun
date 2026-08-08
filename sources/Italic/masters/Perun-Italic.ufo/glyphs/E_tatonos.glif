@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="731"/>
+  <advance width="805"/>
   <unicode hex="0389"/>
-  <anchor x="459" y="797" name="top"/>
-  <anchor x="79" y="0" name="b.cedilla"/>
-  <anchor x="290" y="-80" name="bottom"/>
+  <anchor x="533" y="797" name="top"/>
+  <anchor x="153" y="0" name="b.cedilla"/>
+  <anchor x="364" y="-80" name="bottom"/>
   <outline>
-    <component base="H"/>
-    <component base="tonos" xOffset="-187.829"/>
+    <contour>
+      <point x="257.203" y="326" type="line"/>
+      <point x="646.203" y="326" type="line"/>
+      <point x="663.31" y="414" type="line"/>
+      <point x="274.31" y="414" type="line"/>
+    </contour>
+    <contour>
+      <point x="114.829" y="0" type="line"/>
+      <point x="214.829" y="0" type="line"/>
+      <point x="355.185" y="722" type="line"/>
+      <point x="255.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="563.829" y="0" type="line"/>
+      <point x="663.829" y="0" type="line"/>
+      <point x="804.185" y="722" type="line"/>
+      <point x="704.185" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="-4.46721" y="512" type="line"/>
+      <point x="65.5328" y="512" type="line"/>
+      <point x="196.357" y="722" type="line"/>
+      <point x="96.3568" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

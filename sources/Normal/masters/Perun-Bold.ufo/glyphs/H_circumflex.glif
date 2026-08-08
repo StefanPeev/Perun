@@ -6,13 +6,37 @@
   <anchor x="353" y="-75" name="bottom"/>
   <anchor x="137" y="0" name="b.cedilla"/>
   <outline>
-    <component base="H"/>
-    <component base="uni0302" xOffset="353" yOffset="217"/>
+    <contour>
+      <point x="180" y="436" type="line"/>
+      <point x="180" y="320" type="line"/>
+      <point x="525" y="320" type="line"/>
+      <point x="525" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="722" type="line"/>
+      <point x="60" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="645" y="722" type="line"/>
+      <point x="495" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="183.5" y="797" type="line"/>
+      <point x="303.5" y="797" type="line"/>
+      <point x="385.5" y="897" type="line"/>
+      <point x="321.5" y="897" type="line"/>
+      <point x="403.5" y="797" type="line"/>
+      <point x="523.5" y="797" type="line"/>
+      <point x="423.5" y="947" type="line"/>
+      <point x="283.5" y="947" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -60,8 +84,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>H+uni0302</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="290"/>
+  <advance width="334"/>
   <unicode hex="038A"/>
-  <anchor x="252" y="797" name="top"/>
-  <anchor x="150" y="0" name="ogonekUC"/>
-  <anchor x="82" y="-80" name="bottom"/>
+  <anchor x="296" y="797" name="top"/>
+  <anchor x="194" y="0" name="ogonekUC"/>
+  <anchor x="126" y="-80" name="bottom"/>
   <outline>
-    <component base="I"/>
-    <component base="tonos" xOffset="-114.829"/>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="334" y="722" type="line"/>
+      <point x="234" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11.4672" y="512" type="line"/>
+      <point x="58.5328" y="512" type="line"/>
+      <point x="189.357" y="722" type="line"/>
+      <point x="89.3568" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

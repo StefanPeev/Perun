@@ -7,13 +7,49 @@
   <anchor x="280" y="0" name="ogonekLC"/>
   <anchor x="210" y="-80" name="bottom"/>
   <outline>
-    <component base="o"/>
-    <component base="uni03040301" xOffset="351"/>
+    <contour>
+      <point x="30.9787" y="192.708" type="curve" smooth="yes"/>
+      <point x="30.9787" y="61.4526"/>
+      <point x="106.576" y="-12"/>
+      <point x="236.519" y="-12" type="curve" smooth="yes"/>
+      <point x="424.147" y="-12"/>
+      <point x="544.818" y="141.143"/>
+      <point x="544.818" y="309.032" type="curve" smooth="yes"/>
+      <point x="544.818" y="439.021"/>
+      <point x="470.724" y="512"/>
+      <point x="341.057" y="512" type="curve" smooth="yes"/>
+      <point x="154.138" y="512"/>
+      <point x="30.9787" y="360.808"/>
+    </contour>
+    <contour>
+      <point x="124.53" y="181.757" type="curve" smooth="yes"/>
+      <point x="124.53" y="306.067"/>
+      <point x="183.683" y="447"/>
+      <point x="328.402" y="447" type="curve" smooth="yes"/>
+      <point x="407.176" y="447"/>
+      <point x="451.148" y="405.243"/>
+      <point x="451.148" y="319.084" type="curve" smooth="yes"/>
+      <point x="451.148" y="194.86"/>
+      <point x="391.994" y="53"/>
+      <point x="247.276" y="53" type="curve" smooth="yes"/>
+      <point x="168.502" y="53"/>
+      <point x="124.53" y="95.032"/>
+    </contour>
+    <contour>
+      <point x="199.696" y="620" type="line"/>
+      <point x="488.696" y="620" type="line"/>
+      <point x="502.304" y="690" type="line"/>
+      <point x="213.304" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="301.5" y="730" type="line"/>
+      <point x="371.5" y="730" type="line"/>
+      <point x="481.5" y="910" type="line"/>
+      <point x="381.5" y="910" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>o+uni03040301</string>
   <key>public.markColor</key>

@@ -8,13 +8,39 @@
   <anchor x="317" y="0" name="b.cedilla"/>
   <anchor x="370" y="0" name="ogonekUC"/>
   <outline>
-    <component base="E"/>
-    <component base="macron" xOffset="138" yOffset="222"/>
+    <contour>
+      <point x="190" y="116" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="547" y="116" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="722" type="line"/>
+      <point x="60" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="431" type="line"/>
+      <point x="190" y="315" type="line"/>
+      <point x="517" y="315" type="line"/>
+      <point x="517" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="722" type="line"/>
+      <point x="190" y="606" type="line"/>
+      <point x="537" y="606" type="line"/>
+      <point x="537" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="822" type="line"/>
+      <point x="478" y="922" type="line"/>
+      <point x="138" y="922" type="line"/>
+      <point x="138" y="822" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -56,8 +82,6 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>E+macron</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

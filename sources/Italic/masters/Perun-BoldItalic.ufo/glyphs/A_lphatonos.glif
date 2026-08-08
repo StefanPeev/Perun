@@ -7,13 +7,34 @@
   <anchor x="511" y="663" name="t.ring"/>
   <anchor x="340" y="-80" name="bottom"/>
   <outline>
-    <component base="Alpha"/>
-    <component base="tonos" xOffset="72.3657"/>
+    <contour>
+      <point x="10.0231" y="0" type="line"/>
+      <point x="155.023" y="0" type="line"/>
+      <point x="464.575" y="563.554" type="line"/>
+      <point x="555.023" y="0" type="line"/>
+      <point x="700.023" y="0" type="line"/>
+      <point x="569.991" y="720" type="line"/>
+      <point x="420.991" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="214.961" y="154" type="line"/>
+      <point x="559.961" y="154" type="line"/>
+      <point x="540.317" y="269" type="line"/>
+      <point x="279.317" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="111.627" y="511.476" type="line"/>
+      <point x="181.627" y="511.476" type="line"/>
+      <point x="312.287" y="722" type="line"/>
+      <point x="182.287" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
   <key>com.fontlab.recipe</key>
   <string>Alpha+tonos</string>
   <key>public.markColor</key>
