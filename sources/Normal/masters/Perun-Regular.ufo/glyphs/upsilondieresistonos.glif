@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresistonos" format="2">
-  <advance width="578"/>
+  <advance width="588"/>
   <unicode hex="03B0"/>
   <anchor x="284" y="600" name="tonos.top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="uni1FEE" xOffset="61.5"/>
+    <component base="dieresistonos" xOffset="9"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -63,9 +61,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>upsilon+uni1FEE</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>upsilon+dieresistonos</string>
   </dict>
   </lib>
 </glyph>

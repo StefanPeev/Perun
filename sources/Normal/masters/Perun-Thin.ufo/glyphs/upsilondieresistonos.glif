@@ -5,12 +5,10 @@
   <anchor x="269" y="600" name="tonos.top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="uni1FEE" xOffset="78.5"/>
+    <component base="dieresistonos" xOffset="109"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -63,9 +61,7 @@
     </array>
   </dict>
   <key>com.fontlab.recipe</key>
-  <string>upsilon+uni1FEE</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>upsilon+dieresistonos</string>
   </dict>
   </lib>
 </glyph>

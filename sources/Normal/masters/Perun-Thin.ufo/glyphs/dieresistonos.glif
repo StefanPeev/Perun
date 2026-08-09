@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresistonos" format="2">
-  <advance width="377"/>
+  <advance width="342"/>
   <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="60" y="600" type="line"/>
+      <point x="82" y="600" type="line"/>
+      <point x="82" y="692" type="line"/>
+      <point x="60" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="600" type="line"/>
+      <point x="282" y="600" type="line"/>
+      <point x="282" y="692" type="line"/>
+      <point x="260" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="580" type="line"/>
+      <point x="155" y="580" type="line"/>
+      <point x="205" y="720" type="line"/>
+      <point x="185" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
 </glyph>

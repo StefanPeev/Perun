@@ -2,13 +2,12 @@
 <glyph name="dieresistonos" format="2">
   <advance width="459"/>
   <unicode hex="0385"/>
-  <anchor x="229" y="500" name="_tonos.top"/>
   <outline>
     <contour>
-      <point x="189.361" y="562" type="line"/>
-      <point x="259.361" y="562" type="line"/>
-      <point x="390.186" y="772" type="line"/>
-      <point x="290.186" y="772" type="line"/>
+      <point x="154.361" y="480" type="line"/>
+      <point x="224.361" y="480" type="line"/>
+      <point x="315.186" y="620" type="line"/>
+      <point x="215.186" y="620" type="line"/>
     </contour>
     <contour>
       <point x="50.3007" y="500" type="line"/>
@@ -23,4 +22,12 @@
       <point x="318.185" y="592" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=50</string>
+  </dict>
+  </lib>
 </glyph>

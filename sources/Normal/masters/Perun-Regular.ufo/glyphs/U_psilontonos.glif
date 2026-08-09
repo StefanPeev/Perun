@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="635"/>
+  <advance width="820"/>
   <unicode hex="038E"/>
+  <outline>
+    <contour>
+      <point x="143" y="722" type="line"/>
+      <point x="43" y="722" type="line"/>
+      <point x="-17" y="512" type="line"/>
+      <point x="53" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="722" type="line"/>
+      <point x="686" y="722" type="line"/>
+      <point x="481.807" y="375" type="line"/>
+      <point x="287" y="722" type="line"/>
+      <point x="164" y="722" type="line"/>
+      <point x="481.907" y="205.692" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="302" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="302" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>tonos_Upsilon</string>
+  </dict>
+  </lib>
 </glyph>

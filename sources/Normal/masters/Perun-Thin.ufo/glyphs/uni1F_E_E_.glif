@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FEE" format="2">
-  <advance width="352"/>
+  <advance width="342"/>
   <unicode hex="1FEE"/>
   <outline>
-    <component base="dieresis"/>
-    <component base="uni0301" xOffset="225.5" yOffset="90"/>
+    <contour>
+      <point x="60" y="600" type="line"/>
+      <point x="82" y="600" type="line"/>
+      <point x="82" y="692" type="line"/>
+      <point x="60" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="600" type="line"/>
+      <point x="282" y="600" type="line"/>
+      <point x="282" y="692" type="line"/>
+      <point x="260" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="580" type="line"/>
+      <point x="155" y="580" type="line"/>
+      <point x="205" y="720" type="line"/>
+      <point x="185" y="720" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
   <key>com.fontlab.recipe</key>
   <string>dieresis+uni0301</string>
   </dict>

@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FED" format="2">
-  <advance width="394"/>
+  <advance width="505"/>
   <unicode hex="1FED"/>
   <outline>
-    <component base="dieresis"/>
-    <component base="uni0300" xOffset="197"/>
+    <contour>
+      <point x="40.5794" y="500" type="line"/>
+      <point x="150.579" y="500" type="line"/>
+      <point x="173.907" y="620" type="line"/>
+      <point x="63.9074" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="331.579" y="500" type="line"/>
+      <point x="441.579" y="500" type="line"/>
+      <point x="464.907" y="620" type="line"/>
+      <point x="354.907" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="183.994" y="630" type="line"/>
+      <point x="250.006" y="480" type="line"/>
+      <point x="320.006" y="480" type="line"/>
+      <point x="313.994" y="630" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -43,6 +57,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
   <key>com.fontlab.recipe</key>
   <string>dieresis+uni0300</string>
   <key>public.markColor</key>
