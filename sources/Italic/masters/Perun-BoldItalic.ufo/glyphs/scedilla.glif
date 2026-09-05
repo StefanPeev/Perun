@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="2">
-  <advance width="523"/>
+  <advance width="517"/>
   <unicode hex="015F"/>
-  <anchor x="334" y="580" name="top"/>
-  <anchor x="165" y="-50" name="b.commabelow"/>
-  <anchor x="220" y="-80" name="bottom"/>
+  <anchor x="387" y="580" name="top"/>
+  <anchor x="218" y="-50" name="b.commabelow"/>
+  <anchor x="273" y="-80" name="bottom"/>
   <outline>
     <component base="s"/>
-    <component base="uni0327" xOffset="200"/>
+    <component base="uni0327" xOffset="253"/>
   </outline>
   <lib>
   <dict>

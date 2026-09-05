@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="2">
-  <advance width="508"/>
+  <advance width="527"/>
   <unicode hex="03BA"/>
   <outline>
     <contour>
-      <point x="10.4049" y="0" type="line"/>
-      <point x="100.405" y="0" type="line"/>
-      <point x="197.595" y="500" type="line"/>
-      <point x="107.595" y="500" type="line"/>
+      <point x="80.4049" y="0" type="line"/>
+      <point x="170.405" y="0" type="line"/>
+      <point x="267.595" y="500" type="line"/>
+      <point x="177.595" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="218.767" y="271.429" type="line"/>
-      <point x="349.405" y="0" type="line"/>
-      <point x="456.405" y="0" type="line"/>
-      <point x="296.202" y="330.408" type="line"/>
+      <point x="288.767" y="271.429" type="line"/>
+      <point x="419.405" y="0" type="line"/>
+      <point x="526.405" y="0" type="line"/>
+      <point x="366.202" y="330.408" type="line"/>
     </contour>
     <contour>
-      <point x="124.785" y="183.016" type="line"/>
-      <point x="537.595" y="500" type="line"/>
-      <point x="417.595" y="500" type="line"/>
-      <point x="145.484" y="288.882" type="line"/>
+      <point x="194.785" y="183.016" type="line"/>
+      <point x="607.595" y="500" type="line"/>
+      <point x="487.595" y="500" type="line"/>
+      <point x="215.484" y="288.882" type="line"/>
     </contour>
   </outline>
-  <guideline angle="222.409" x="369" y="500"/>
-  <guideline angle="42.0863" x="138" y="183"/>
-  <guideline angle="304.03" x="215" y="271"/>
-  <guideline angle="124.168" x="505" y="0"/>
+  <guideline angle="222.409" x="439" y="500"/>
+  <guideline angle="42.0863" x="208" y="183"/>
+  <guideline angle="304.03" x="285" y="271"/>
+  <guideline angle="124.168" x="575" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -57,8 +57,6 @@
   </dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=k</string>
   </dict>
   </lib>
 </glyph>

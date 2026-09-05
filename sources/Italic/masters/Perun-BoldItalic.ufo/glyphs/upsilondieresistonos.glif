@@ -2,10 +2,9 @@
 <glyph name="upsilondieresistonos" format="2">
   <advance width="589"/>
   <unicode hex="03B0"/>
-  <anchor x="334" y="580" name="tonos.top"/>
   <outline>
-    <component base="upsilon"/>
-    <component base="dieresistonos" xOffset="96.7566" yOffset="120"/>
+    <component base="upsilon" xOffset="-2.98745"/>
+    <component base="dieresistonos" xOffset="61.7566" yOffset="120"/>
   </outline>
   <guideline angle="0" x="0" y="620"/>
   <lib>

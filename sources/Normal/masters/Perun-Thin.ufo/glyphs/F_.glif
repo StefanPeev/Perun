@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="2">
-  <advance width="540"/>
+  <advance width="472"/>
   <unicode hex="0046"/>
-  <anchor x="275" y="797" name="top"/>
-  <anchor x="323" y="-80" name="bottom"/>
+  <anchor x="207" y="797" name="top"/>
+  <anchor x="255" y="-80" name="bottom"/>
   <outline>
-    <component base="I" xOffset="58"/>
+    <component base="I" xOffset="-10"/>
     <contour>
-      <point x="149" y="378" type="line"/>
-      <point x="149" y="358" type="line"/>
-      <point x="497" y="358" type="line"/>
-      <point x="497" y="378" type="line"/>
+      <point x="81" y="378" type="line"/>
+      <point x="81" y="358" type="line"/>
+      <point x="429" y="358" type="line"/>
+      <point x="429" y="378" type="line"/>
     </contour>
     <contour>
-      <point x="150" y="722" type="line"/>
-      <point x="150" y="704" type="line"/>
-      <point x="508" y="704" type="line"/>
-      <point x="508" y="722" type="line"/>
+      <point x="82" y="722" type="line"/>
+      <point x="82" y="704" type="line"/>
+      <point x="440" y="704" type="line"/>
+      <point x="440" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -54,6 +54,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
   </dict>
   </lib>
 </glyph>

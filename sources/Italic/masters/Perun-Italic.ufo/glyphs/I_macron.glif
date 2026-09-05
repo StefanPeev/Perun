@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="2">
-  <advance width="320"/>
+  <advance width="281"/>
   <unicode hex="012A"/>
-  <anchor x="105.171" y="722" name="tonos"/>
-  <anchor x="150" y="0" name="ogonekUC"/>
-  <anchor x="82" y="-80" name="bottom"/>
+  <anchor x="191" y="0" name="ogonekUC"/>
+  <anchor x="123" y="-80" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="uni0304" xOffset="252" yOffset="217"/>
+    <component base="uni0304" xOffset="293" yOffset="217"/>
   </outline>
   <lib>
   <dict>

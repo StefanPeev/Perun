@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="676"/>
+  <advance width="669"/>
   <unicode hex="038E"/>
-  <anchor x="422" y="797" name="top"/>
-  <anchor x="245" y="-80" name="bottom"/>
+  <anchor x="535" y="797" name="top"/>
+  <anchor x="358" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="327.442" y="255.692" type="line"/>
-      <point x="696.185" y="722" type="line"/>
-      <point x="676.185" y="722" type="line"/>
-      <point x="333.777" y="288.453" type="line"/>
-      <point x="160.425" y="722" type="line"/>
-      <point x="140.185" y="722" type="line"/>
+      <point x="440.442" y="255.692" type="line"/>
+      <point x="809.185" y="722" type="line"/>
+      <point x="789.185" y="722" type="line"/>
+      <point x="446.777" y="288.453" type="line"/>
+      <point x="273.425" y="722" type="line"/>
+      <point x="253.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="266.829" y="0" type="line"/>
-      <point x="288.823" y="0" type="line"/>
-      <point x="343.21" y="279.768" type="line"/>
-      <point x="321.216" y="279.768" type="line"/>
+      <point x="379.829" y="0" type="line"/>
+      <point x="401.823" y="0" type="line"/>
+      <point x="456.21" y="279.768" type="line"/>
+      <point x="434.216" y="279.768" type="line"/>
     </contour>
     <contour>
-      <point x="-12.6385" y="512" type="line"/>
-      <point x="-2.6385" y="512" type="line"/>
-      <point x="128.186" y="722" type="line"/>
-      <point x="108.186" y="722" type="line"/>
+      <point x="100.362" y="512" type="line"/>
+      <point x="110.362" y="512" type="line"/>
+      <point x="241.186" y="722" type="line"/>
+      <point x="221.186" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Upsilon</string>
   <key>com.fontlab.recipe</key>
   <string>Upsilon+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

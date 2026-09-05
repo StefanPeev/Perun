@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="495"/>
+  <advance width="485"/>
   <unicode hex="004C"/>
-  <anchor x="106" y="797" name="top"/>
-  <anchor x="270" y="-80" name="bottom"/>
+  <anchor x="96" y="797" name="top"/>
+  <anchor x="260" y="-80" name="bottom"/>
   <outline>
-    <component base="I"/>
+    <component base="I" xOffset="-10"/>
     <contour>
-      <point x="102" y="18" type="line"/>
-      <point x="102" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="460" y="18" type="line"/>
+      <point x="92" y="18" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="18" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,6 +42,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
   </dict>
   </lib>
 </glyph>

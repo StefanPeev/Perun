@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="2">
-  <advance width="551"/>
+  <advance width="466"/>
   <unicode hex="03AD"/>
   <outline>
     <component base="epsilon"/>
-    <component base="tonos" xOffset="281.649" yOffset="68"/>
+    <component base="tonos" xOffset="228.727" yOffset="67"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -61,10 +59,12 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=epsilon</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=epsilon</string>
   <key>com.fontlab.recipe</key>
   <string>epsilon+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

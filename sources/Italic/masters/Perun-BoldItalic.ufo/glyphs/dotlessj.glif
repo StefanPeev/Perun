@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessj" format="2">
-  <advance width="296"/>
+  <advance width="248"/>
   <unicode hex="0237"/>
-  <anchor x="219" y="580" name="top"/>
+  <anchor x="248" y="580" name="top"/>
   <outline>
     <contour>
-      <point x="-59.8079" y="-212" type="line"/>
-      <point x="-36.8079" y="-212" type="line" smooth="yes"/>
-      <point x="59.1921" y="-212"/>
-      <point x="133.413" y="-180"/>
-      <point x="152.853" y="-80" type="curve" smooth="yes"/>
-      <point x="265.605" y="500" type="line"/>
-      <point x="130.605" y="500" type="line"/>
-      <point x="23.6849" y="-50" type="line" smooth="yes"/>
-      <point x="18.6305" y="-76"/>
-      <point x="4.38173" y="-103"/>
-      <point x="-26.6183" y="-103" type="curve" smooth="yes"/>
-      <point x="-38.6183" y="-103" type="line"/>
+      <point x="-30.8079" y="-212" type="line"/>
+      <point x="-7.80788" y="-212" type="line" smooth="yes"/>
+      <point x="88.1921" y="-212"/>
+      <point x="162.413" y="-180"/>
+      <point x="181.853" y="-80" type="curve" smooth="yes"/>
+      <point x="294.605" y="500" type="line"/>
+      <point x="159.605" y="500" type="line"/>
+      <point x="52.6849" y="-50" type="line" smooth="yes"/>
+      <point x="47.6305" y="-76"/>
+      <point x="33.3817" y="-103"/>
+      <point x="2.38173" y="-103" type="curve" smooth="yes"/>
+      <point x="-9.61827" y="-103" type="line"/>
     </contour>
   </outline>
-  <guideline angle="258.991" x="131" y="500"/>
-  <guideline angle="78.9753" x="153" y="-80"/>
+  <guideline angle="258.991" x="160" y="500"/>
+  <guideline angle="78.9753" x="182" y="-80"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

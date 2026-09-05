@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="604"/>
+  <advance width="608"/>
   <unicode hex="03CC"/>
-  <anchor x="368" y="580" name="top"/>
-  <anchor x="220" y="0" name="b.cedilla"/>
-  <anchor x="290" y="0" name="ogonekLC"/>
-  <anchor x="239" y="-80" name="bottom"/>
   <outline>
     <component base="omicron"/>
-    <component base="tonos" xOffset="327" yOffset="69"/>
+    <component base="tonos" xOffset="222" yOffset="67"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=omicron</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=omicron</string>
   <key>com.fontlab.recipe</key>
   <string>omicron+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

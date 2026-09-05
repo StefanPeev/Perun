@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="2">
-  <advance width="620"/>
+  <advance width="572"/>
   <unicode hex="03BF"/>
-  <anchor x="310" y="580" name="top"/>
-  <anchor x="310" y="-80" name="bottom"/>
-  <anchor x="310" y="580" name="tonos.top"/>
-  <anchor x="329" y="0" name="ogonekLC"/>
+  <anchor x="286" y="580" name="top"/>
+  <anchor x="286" y="-80" name="bottom"/>
+  <anchor x="305" y="0" name="ogonekLC"/>
   <outline>
     <component base="o"/>
   </outline>
@@ -52,6 +51,8 @@
   <string>=o</string>
   <key>com.fontlab.recipe</key>
   <string>o</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

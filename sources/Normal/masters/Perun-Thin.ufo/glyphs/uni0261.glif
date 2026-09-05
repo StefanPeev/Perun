@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0261" format="2">
-  <advance width="613"/>
+  <advance width="579"/>
   <unicode hex="0261"/>
-  <anchor x="307" y="580" name="top"/>
-  <anchor x="317" y="-273" name="bottom"/>
+  <anchor x="283" y="580" name="top"/>
+  <anchor x="293" y="-273" name="bottom"/>
   <outline>
     <component base="g"/>
   </outline>
@@ -64,6 +64,8 @@
   </dict>
   <key>com.fontlab.recipe</key>
   <string>g</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

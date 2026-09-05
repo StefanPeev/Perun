@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="2">
-  <advance width="513"/>
+  <advance width="556"/>
   <unicode hex="0164"/>
-  <anchor x="131" y="0" name="b.cedilla"/>
-  <anchor x="106" y="-50" name="b.commabelow"/>
-  <anchor x="134" y="-80" name="bottom"/>
+  <anchor x="275" y="0" name="b.cedilla"/>
+  <anchor x="250" y="-50" name="b.commabelow"/>
+  <anchor x="278" y="-80" name="bottom"/>
   <outline>
     <component base="T"/>
-    <component base="uni030C" xOffset="296" yOffset="217"/>
+    <component base="uni030C" xOffset="440" yOffset="217"/>
   </outline>
   <lib>
   <dict>

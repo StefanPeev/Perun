@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="617"/>
+  <advance width="573"/>
   <unicode hex="0054"/>
-  <anchor x="344" y="797" name="top"/>
-  <anchor x="182" y="0" name="b.cedilla"/>
-  <anchor x="153" y="-50" name="b.commabelow"/>
-  <anchor x="174" y="-80" name="bottom"/>
+  <anchor x="441" y="797" name="top"/>
+  <anchor x="279" y="0" name="b.cedilla"/>
+  <anchor x="250" y="-50" name="b.commabelow"/>
+  <anchor x="271" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="178.829" y="0" type="line"/>
-      <point x="200.822" y="0" type="line"/>
-      <point x="337.29" y="702" type="line"/>
-      <point x="612.297" y="702" type="line"/>
-      <point x="616.185" y="722" type="line"/>
-      <point x="44.1855" y="722" type="line"/>
-      <point x="40.2975" y="702" type="line"/>
-      <point x="315.297" y="702" type="line"/>
+      <point x="275.829" y="0" type="line"/>
+      <point x="297.822" y="0" type="line"/>
+      <point x="434.29" y="702" type="line"/>
+      <point x="709.297" y="702" type="line"/>
+      <point x="713.185" y="722" type="line"/>
+      <point x="141.185" y="722" type="line"/>
+      <point x="137.297" y="702" type="line"/>
+      <point x="412.297" y="702" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="260" y="0"/>
+  <guideline angle="90" x="357" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -48,10 +48,6 @@
       </dict>
     </array>
   </dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=A</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=A-40</string>
   </dict>
   </lib>
 </glyph>

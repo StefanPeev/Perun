@@ -7,7 +7,7 @@
   <anchor x="70" y="-50" name="b.commabelow"/>
   <anchor x="94" y="-80" name="bottom"/>
   <outline>
-    <component base="t"/>
+    <component base="t" xOffset="30"/>
     <component base="caron.alt" xOffset="265"/>
   </outline>
   <lib>

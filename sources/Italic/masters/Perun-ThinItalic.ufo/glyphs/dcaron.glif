@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-  <advance width="765"/>
+  <advance width="812"/>
   <unicode hex="010F"/>
-  <anchor x="462.225" y="748" name="top"/>
-  <anchor x="212" y="-50" name="b.commabelow"/>
-  <anchor x="234" y="-57" name="bottom"/>
+  <anchor x="509.225" y="748" name="top"/>
+  <anchor x="259" y="-50" name="b.commabelow"/>
+  <anchor x="281" y="-57" name="bottom"/>
   <outline>
-    <component base="d"/>
-    <component base="caron.alt" xOffset="582"/>
+    <component base="d" xOffset="-0.220541"/>
+    <component base="caron.alt" xOffset="629"/>
   </outline>
   <lib>
   <dict>

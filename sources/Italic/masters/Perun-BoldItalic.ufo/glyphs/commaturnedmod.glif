@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaturnedmod" format="2">
-  <advance width="280"/>
+  <advance width="243"/>
   <unicode hex="02BB"/>
   <outline>
     <contour>
-      <point x="20.1967" y="470" type="line"/>
-      <point x="170.197" y="470" type="line"/>
-      <point x="259.186" y="660" type="line"/>
-      <point x="169.186" y="660" type="line"/>
+      <point x="112.197" y="470" type="line"/>
+      <point x="262.197" y="470" type="line"/>
+      <point x="351.186" y="660" type="line"/>
+      <point x="261.186" y="660" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="472"/>
@@ -17,8 +17,6 @@
   <string>=20</string>
   <key>com.fontlab.metricsRight</key>
   <string>=20</string>
-  <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

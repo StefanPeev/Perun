@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0446" format="2">
-  <advance width="568"/>
+  <advance width="544"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
-      <point x="40.4049" y="0" type="line"/>
       <point x="60.4049" y="0" type="line"/>
+      <point x="80.4049" y="0" type="line"/>
+      <point x="177.605" y="500" type="line"/>
       <point x="157.605" y="500" type="line"/>
-      <point x="137.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="51.4049" y="0" type="line"/>
-      <point x="409.506" y="0.3799" type="line"/>
-      <point x="413.388" y="20" type="line"/>
-      <point x="55.2752" y="20" type="line"/>
+      <point x="71.4048" y="0" type="line"/>
+      <point x="429.506" y="0.3799" type="line"/>
+      <point x="433.388" y="20" type="line"/>
+      <point x="75.2751" y="20" type="line"/>
     </contour>
     <contour>
-      <point x="399.405" y="0" type="line"/>
       <point x="419.405" y="0" type="line"/>
+      <point x="439.405" y="0" type="line"/>
+      <point x="536.605" y="500" type="line"/>
       <point x="516.605" y="500" type="line"/>
-      <point x="496.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="409.154" y="0.2691" type="line"/>
-      <point x="503.432" y="0" type="line"/>
-      <point x="472.331" y="-160" type="line"/>
-      <point x="492.304" y="-160" type="line"/>
-      <point x="527.293" y="20" type="line"/>
-      <point x="413.293" y="20" type="line"/>
+      <point x="429.153" y="0.2691" type="line"/>
+      <point x="523.431" y="0" type="line"/>
+      <point x="492.33" y="-160" type="line"/>
+      <point x="512.303" y="-160" type="line"/>
+      <point x="547.29" y="20" type="line"/>
+      <point x="433.292" y="20" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="419" y="0"/>
-  <guideline angle="90" x="527" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

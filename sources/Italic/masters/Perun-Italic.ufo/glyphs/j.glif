@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
-  <advance width="263"/>
+  <advance width="227"/>
   <unicode hex="006A"/>
   <outline>
-    <component base="dotlessj" xOffset="-32"/>
-    <component base="uni0307" xOffset="177"/>
+    <component base="dotlessj" xOffset="19"/>
+    <component base="uni0307" xOffset="228"/>
   </outline>
   <lib>
   <dict>
@@ -50,9 +50,9 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=-80</string>
+  <string>=10</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n+20</string>
+  <string>=n</string>
   <key>com.fontlab.recipe</key>
   <string>dotlessj+uni0307</string>
   </dict>

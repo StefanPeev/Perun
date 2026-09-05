@@ -1,46 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0401" format="2">
-  <advance width="549"/>
+  <advance width="470"/>
   <unicode hex="0401"/>
-  <anchor x="101.171" y="722" name="tonos"/>
-  <anchor x="229" y="0" name="b.cedilla"/>
-  <anchor x="419" y="0" name="ogonekUC"/>
+  <anchor x="240" y="0" name="b.cedilla"/>
+  <anchor x="430" y="0" name="ogonekUC"/>
   <outline>
     <contour>
-      <point x="60.8287" y="0" type="line"/>
-      <point x="418.829" y="0" type="line"/>
-      <point x="422.328" y="18" type="line"/>
-      <point x="64.3279" y="18" type="line"/>
+      <point x="71.8287" y="0" type="line"/>
+      <point x="429.829" y="0" type="line"/>
+      <point x="433.328" y="18" type="line"/>
+      <point x="75.3279" y="18" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="82" y="0" type="line"/>
-      <point x="222" y="722" type="line"/>
-      <point x="200" y="722" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="233" y="722" type="line"/>
+      <point x="211" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="130.427" y="358.018" type="line"/>
-      <point x="468.427" y="358.018" type="line"/>
-      <point x="472.29" y="377.889" type="line"/>
-      <point x="134.29" y="377.889" type="line"/>
+      <point x="141.427" y="358.018" type="line"/>
+      <point x="479.427" y="358.018" type="line"/>
+      <point x="483.29" y="377.889" type="line"/>
+      <point x="145.29" y="377.889" type="line"/>
     </contour>
     <contour>
-      <point x="197.686" y="704" type="line"/>
-      <point x="545.686" y="704" type="line"/>
-      <point x="549.185" y="722" type="line"/>
-      <point x="201.185" y="722" type="line"/>
+      <point x="208.686" y="704" type="line"/>
+      <point x="556.686" y="704" type="line"/>
+      <point x="560.185" y="722" type="line"/>
+      <point x="212.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="281.058" y="837" type="line"/>
-      <point x="303.058" y="837" type="line"/>
-      <point x="320.942" y="929" type="line"/>
-      <point x="298.942" y="929" type="line"/>
+      <point x="292.058" y="837" type="line"/>
+      <point x="314.058" y="837" type="line"/>
+      <point x="331.942" y="929" type="line"/>
+      <point x="309.942" y="929" type="line"/>
     </contour>
     <contour>
-      <point x="421.058" y="837" type="line"/>
-      <point x="443.058" y="837" type="line"/>
-      <point x="460.942" y="929" type="line"/>
-      <point x="438.942" y="929" type="line"/>
+      <point x="432.058" y="837" type="line"/>
+      <point x="454.058" y="837" type="line"/>
+      <point x="471.942" y="929" type="line"/>
+      <point x="449.942" y="929" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -96,6 +95,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=E</string>
   <key>com.fontlab.recipe</key>
   <string>uni0415+uni0308</string>
   <key>public.markColor</key>

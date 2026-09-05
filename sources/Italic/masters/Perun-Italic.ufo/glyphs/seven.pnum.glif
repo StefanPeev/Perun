@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.pnum" format="2">
+  <advance width="464"/>
+  <outline>
+    <contour>
+      <point x="106.829" y="0" type="line"/>
+      <point x="216.829" y="0" type="line"/>
+      <point x="572.733" y="622" type="line"/>
+      <point x="592.171" y="722" type="line"/>
+      <point x="147.171" y="722" type="line"/>
+      <point x="131.621" y="642" type="line"/>
+      <point x="498.621" y="642" type="line"/>
+      <point x="493.218" y="653.152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>642</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

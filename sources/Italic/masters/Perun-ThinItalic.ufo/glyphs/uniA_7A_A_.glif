@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7AA" format="2">
+  <advance width="613"/>
+  <unicode hex="A7AA"/>
+  <outline>
+    <component base="H" xOffset="-10"/>
+    <contour>
+      <point x="208" y="722" type="line"/>
+      <point x="152.128" y="722" type="line" smooth="yes"/>
+      <point x="99.2838" y="722"/>
+      <point x="67.9898" y="696.068"/>
+      <point x="58" y="644" type="curve" smooth="yes"/>
+      <point x="25" y="472" type="line"/>
+      <point x="45" y="472" type="line"/>
+      <point x="78" y="642.517" type="line" smooth="yes"/>
+      <point x="85.5461" y="681.509"/>
+      <point x="112.071" y="702"/>
+      <point x="155" y="702" type="curve" smooth="yes"/>
+      <point x="204" y="702" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>com.fontlab.recipe</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

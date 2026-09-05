@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresis" format="2">
-  <advance width="283"/>
+  <advance width="294"/>
   <unicode hex="03CA"/>
   <outline>
     <component base="iota"/>
-    <component base="uni0308" xOffset="213"/>
+    <component base="uni0308" xOffset="238"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -37,10 +35,6 @@
       </dict>
     </array>
   </dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=30</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=30</string>
   <key>com.fontlab.recipe</key>
   <string>iota+uni0308</string>
   <key>public.markColor</key>

@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>800</integer>
+  <integer>1220</integer>
   <key>capHeight</key>
   <integer>722</integer>
   <key>copyright</key>
   <string>Copyright 2016-2025 by Stefan Peev. All rights reserved.</string>
   <key>descender</key>
-  <integer>-200</integer>
+  <integer>-360</integer>
   <key>familyName</key>
   <string>Perun</string>
   <key>guidelines</key>
@@ -28,25 +28,25 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>t_580</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>580</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
     <string>t_750</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>750</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>t_580</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>580</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
-  <integer>0</integer>
+  <integer>-11</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -67,15 +67,13 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>800</integer>
+  <integer>1220</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-200</integer>
+  <integer>-360</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>90</integer>
-  <key>openTypeNameDescription</key>
-  <string>Copyright 2016-2025 by Stefan Peev. All rights reserved.</string>
+  <integer>-0</integer>
   <key>openTypeNameLicense</key>
   <string>Copyright 2016-2025 by Stefan Peev. All rights reserved (localfonts.eu | localfonts.eu.gmail.com).
 
@@ -179,7 +177,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.102</string>
+  <string>Version 1.104</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -229,11 +227,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>800</integer>
+  <integer>1220</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-200</integer>
+  <integer>-360</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>90</integer>
+  <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -261,9 +259,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1040</integer>
+  <integer>1220</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>258</integer>
+  <integer>360</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -322,7 +320,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>102</integer>
+  <integer>104</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

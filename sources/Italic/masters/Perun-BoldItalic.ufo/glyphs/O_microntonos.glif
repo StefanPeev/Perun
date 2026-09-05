@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicrontonos" format="2">
-  <advance width="824"/>
+  <advance width="835"/>
   <unicode hex="038C"/>
-  <anchor x="519" y="797" name="top"/>
-  <anchor x="347" y="0" name="b.cedilla"/>
-  <anchor x="407" y="0" name="ogonekUC"/>
-  <anchor x="355" y="-80" name="bottom"/>
+  <anchor x="595" y="797" name="top"/>
+  <anchor x="423" y="0" name="b.cedilla"/>
+  <anchor x="483" y="0" name="ogonekUC"/>
+  <anchor x="431" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="87.89" y="256.58" type="curve" smooth="yes"/>
-      <point x="87.89" y="83.6423"/>
-      <point x="187.645" y="-14"/>
-      <point x="364.325" y="-14" type="curve" smooth="yes"/>
-      <point x="612.672" y="-14"/>
-      <point x="793.4" y="187.925"/>
-      <point x="793.4" y="465.4" type="curve" smooth="yes"/>
-      <point x="793.4" y="638.285"/>
-      <point x="693.716" y="736"/>
-      <point x="517.348" y="736" type="curve" smooth="yes"/>
-      <point x="269.183" y="736"/>
-      <point x="87.89" y="533.616"/>
+      <point x="163.89" y="256.58" type="curve" smooth="yes"/>
+      <point x="163.89" y="83.6423"/>
+      <point x="263.645" y="-14"/>
+      <point x="437.975" y="-14" type="curve" smooth="yes"/>
+      <point x="688.672" y="-14"/>
+      <point x="869.4" y="187.925"/>
+      <point x="869.4" y="465.4" type="curve" smooth="yes"/>
+      <point x="869.4" y="638.285"/>
+      <point x="769.716" y="736"/>
+      <point x="595.666" y="736" type="curve" smooth="yes"/>
+      <point x="345.183" y="736"/>
+      <point x="163.89" y="533.616"/>
     </contour>
     <contour>
-      <point x="237.86" y="256.755" type="curve" smooth="yes"/>
-      <point x="237.86" y="475.615"/>
-      <point x="342.06" y="622"/>
-      <point x="497.848" y="622" type="curve" smooth="yes"/>
-      <point x="596.005" y="622"/>
-      <point x="643.41" y="571.598"/>
-      <point x="643.41" y="467.235" type="curve" smooth="yes"/>
-      <point x="643.41" y="248.373"/>
-      <point x="539.219" y="102"/>
-      <point x="383.427" y="102" type="curve" smooth="yes"/>
-      <point x="285.268" y="102"/>
-      <point x="237.86" y="152.4"/>
+      <point x="313.86" y="256.755" type="curve" smooth="yes"/>
+      <point x="313.86" y="475.615"/>
+      <point x="418.06" y="622"/>
+      <point x="578.098" y="622" type="curve" smooth="yes"/>
+      <point x="672.005" y="622"/>
+      <point x="719.41" y="571.598"/>
+      <point x="719.41" y="467.235" type="curve" smooth="yes"/>
+      <point x="719.41" y="248.373"/>
+      <point x="615.219" y="102"/>
+      <point x="455.178" y="102" type="curve" smooth="yes"/>
+      <point x="361.268" y="102"/>
+      <point x="313.86" y="152.4"/>
     </contour>
     <contour>
-      <point x="-5.92844" y="511.476" type="line"/>
-      <point x="64.0716" y="511.476" type="line"/>
-      <point x="194.732" y="722" type="line"/>
-      <point x="64.7323" y="722" type="line"/>
+      <point x="100.072" y="511.476" type="line"/>
+      <point x="170.072" y="511.476" type="line"/>
+      <point x="300.732" y="722" type="line"/>
+      <point x="170.732" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,8 +48,6 @@
   <string>=Omicron</string>
   <key>com.fontlab.recipe</key>
   <string>Omicron+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

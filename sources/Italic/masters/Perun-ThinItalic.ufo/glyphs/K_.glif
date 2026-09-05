@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="528"/>
+  <advance width="464"/>
   <unicode hex="004B"/>
-  <anchor x="403" y="797" name="top"/>
-  <anchor x="205" y="-50" name="b.commabelow"/>
-  <anchor x="232.25" y="-80" name="bottom"/>
+  <anchor x="414" y="797" name="top"/>
+  <anchor x="216" y="-50" name="b.commabelow"/>
+  <anchor x="243.25" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="82" y="0" type="line"/>
-      <point x="222" y="722" type="line"/>
-      <point x="200" y="722" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="233" y="722" type="line"/>
+      <point x="211" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="159.397" y="398.266" type="line"/>
-      <point x="423.829" y="0" type="line"/>
-      <point x="452.829" y="0" type="line"/>
-      <point x="182.615" y="407.866" type="line"/>
-      <point x="183.554" y="393.725" type="line"/>
-      <point x="567.185" y="722" type="line"/>
-      <point x="536.185" y="722" type="line"/>
+      <point x="170.397" y="398.266" type="line"/>
+      <point x="434.829" y="0" type="line"/>
+      <point x="463.829" y="0" type="line"/>
+      <point x="193.615" y="407.866" type="line"/>
+      <point x="194.554" y="393.725" type="line"/>
+      <point x="578.185" y="722" type="line"/>
+      <point x="547.185" y="722" type="line"/>
     </contour>
   </outline>
-  <guideline angle="220.663" x="536" y="722"/>
-  <guideline angle="303.527" x="155" y="406"/>
-  <guideline angle="79.0262" x="246" y="0"/>
+  <guideline angle="220.663" x="547" y="722"/>
+  <guideline angle="303.527" x="166" y="406"/>
+  <guideline angle="79.0262" x="257" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -56,8 +56,6 @@
   </dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=V</string>
   </dict>
   </lib>
 </glyph>

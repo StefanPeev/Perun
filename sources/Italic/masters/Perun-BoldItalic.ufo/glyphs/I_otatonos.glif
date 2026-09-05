@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="408"/>
+  <advance width="406"/>
   <unicode hex="038A"/>
-  <anchor x="326" y="797" name="top"/>
-  <anchor x="248" y="0" name="ogonekUC"/>
-  <anchor x="155" y="-80" name="bottom"/>
+  <anchor x="424" y="797" name="top"/>
+  <anchor x="346" y="0" name="ogonekUC"/>
+  <anchor x="253" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="98" y="0" type="line"/>
-      <point x="248" y="0" type="line"/>
-      <point x="388" y="722" type="line"/>
-      <point x="238" y="722" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="486" y="722" type="line"/>
+      <point x="336" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="-8.56776" y="511.476" type="line"/>
-      <point x="61.4322" y="511.476" type="line"/>
-      <point x="192.093" y="722" type="line"/>
-      <point x="62.0929" y="722" type="line"/>
+      <point x="109.432" y="511.476" type="line"/>
+      <point x="179.432" y="511.476" type="line"/>
+      <point x="310.093" y="722" type="line"/>
+      <point x="180.093" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,8 +25,6 @@
   <string>=H</string>
   <key>com.fontlab.recipe</key>
   <string>I+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotadieresis" format="2">
-  <advance width="320"/>
+  <advance width="241"/>
   <unicode hex="03AA"/>
-  <anchor x="105.171" y="722" name="tonos"/>
-  <anchor x="150" y="0" name="ogonekUC"/>
-  <anchor x="82" y="-80" name="bottom"/>
+  <anchor x="171" y="0" name="ogonekUC"/>
+  <anchor x="103" y="-80" name="bottom"/>
   <outline>
     <component base="Iota"/>
-    <component base="uni0308" xOffset="252" yOffset="217"/>
+    <component base="uni0308" xOffset="273" yOffset="217"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

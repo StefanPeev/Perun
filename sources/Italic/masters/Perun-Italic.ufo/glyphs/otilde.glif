@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="2">
-  <advance width="575"/>
+  <advance width="605"/>
   <unicode hex="00F5"/>
-  <anchor x="351" y="580" name="tonos.top"/>
-  <anchor x="290" y="0" name="b.cedilla"/>
-  <anchor x="280" y="0" name="ogonekLC"/>
-  <anchor x="210" y="-80" name="bottom"/>
+  <anchor x="353" y="0" name="b.cedilla"/>
+  <anchor x="343" y="0" name="ogonekLC"/>
+  <anchor x="273" y="-80" name="bottom"/>
   <outline>
     <component base="o"/>
-    <component base="uni0303" xOffset="351"/>
+    <component base="uni0303" xOffset="414"/>
   </outline>
   <lib>
   <dict>

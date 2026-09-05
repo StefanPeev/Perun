@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045B" format="2">
-  <advance width="593"/>
+  <advance width="535"/>
   <unicode hex="045B"/>
   <outline>
-    <component base="h" xOffset="49"/>
-    <component base="macron" xOffset="-1.8841" yOffset="-62.2623"/>
+    <component base="h" xOffset="5.72205e-06"/>
+    <component base="macron" xOffset="-65.0527" yOffset="-32.2623"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=h</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

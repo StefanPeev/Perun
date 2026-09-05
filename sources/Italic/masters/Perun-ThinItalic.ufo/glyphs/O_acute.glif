@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oacute" format="2">
-  <advance width="742"/>
+  <advance width="714"/>
   <unicode hex="00D3"/>
-  <anchor x="135" y="722" name="tonos"/>
-  <anchor x="290" y="0" name="b.cedilla"/>
-  <anchor x="310" y="0" name="ogonekUC"/>
-  <anchor x="290" y="-80" name="bottom"/>
+  <anchor x="346" y="0" name="b.cedilla"/>
+  <anchor x="366" y="0" name="ogonekUC"/>
+  <anchor x="346" y="-80" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni0301" xOffset="475" yOffset="217"/>
+    <component base="uni0301" xOffset="421" yOffset="217"/>
   </outline>
   <lib>
   <dict>

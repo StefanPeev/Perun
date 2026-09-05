@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0443" format="2">
-  <advance width="547"/>
+  <advance width="559"/>
   <unicode hex="0443"/>
-  <anchor x="346" y="600" name="top"/>
+  <anchor x="382" y="600" name="top"/>
   <outline>
     <contour>
-      <point x="20.5249" y="-200" type="line"/>
-      <point x="142.525" y="-200" type="line"/>
-      <point x="586.605" y="500" type="line"/>
-      <point x="451.605" y="500" type="line"/>
+      <point x="43.5249" y="-200" type="line"/>
+      <point x="198.525" y="-200" type="line"/>
+      <point x="642.605" y="500" type="line"/>
+      <point x="487.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="51.6049" y="500" type="line"/>
-      <point x="154.597" y="-53.4296" type="line"/>
-      <point x="260.016" y="109.393" type="line"/>
-      <point x="204.605" y="500" type="line"/>
+      <point x="87.6049" y="500" type="line"/>
+      <point x="190.597" y="-53.4296" type="line"/>
+      <point x="286.016" y="109.393" type="line"/>
+      <point x="230.605" y="500" type="line"/>
     </contour>
   </outline>
-  <guideline angle="66.2505" x="230" y="-200"/>
-  <guideline angle="290.885" x="3" y="500"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -42,7 +40,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=y</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=y</string>
+  <string>=y+33</string>
   </dict>
   </lib>
 </glyph>

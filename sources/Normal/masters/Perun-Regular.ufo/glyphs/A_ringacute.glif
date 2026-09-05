@@ -3,11 +3,10 @@
   <advance width="760"/>
   <unicode hex="01FA"/>
   <anchor x="380" y="666" name="t.ring"/>
-  <anchor x="182" y="722" name="tonos"/>
   <anchor x="380" y="-75" name="bottom"/>
   <anchor x="740" y="0" name="ogonekUC"/>
   <outline>
-    <component base="A"/>
+    <component base="A" xOffset="10"/>
     <component base="uni030A0301" xOffset="380" yOffset="72"/>
   </outline>
   <lib>

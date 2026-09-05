@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-  <advance width="503"/>
+  <advance width="439"/>
   <unicode hex="007A"/>
-  <anchor x="317" y="580" name="top"/>
-  <anchor x="300" y="0" name="b.cedilla"/>
-  <anchor x="184" y="-80" name="bottom"/>
+  <anchor x="327" y="580" name="top"/>
+  <anchor x="310" y="0" name="b.cedilla"/>
+  <anchor x="194" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="0.404907" y="0" type="line"/>
-      <point x="418.405" y="0" type="line"/>
-      <point x="434.929" y="85" type="line"/>
-      <point x="144.929" y="85" type="line"/>
-      <point x="147.358" y="75.8785" type="line"/>
-      <point x="482.193" y="395" type="line"/>
-      <point x="502.605" y="500" type="line"/>
-      <point x="102.605" y="500" type="line"/>
-      <point x="86.0809" y="415" type="line"/>
-      <point x="358.081" y="415" type="line"/>
-      <point x="355.651" y="424.121" type="line"/>
-      <point x="20.8169" y="105" type="line"/>
+      <point x="10.4049" y="0" type="line"/>
+      <point x="428.405" y="0" type="line"/>
+      <point x="444.929" y="85" type="line"/>
+      <point x="154.929" y="85" type="line"/>
+      <point x="157.358" y="75.8785" type="line"/>
+      <point x="492.193" y="395" type="line"/>
+      <point x="512.605" y="500" type="line"/>
+      <point x="112.605" y="500" type="line"/>
+      <point x="96.0809" y="415" type="line"/>
+      <point x="368.081" y="415" type="line"/>
+      <point x="365.651" y="424.121" type="line"/>
+      <point x="30.8169" y="105" type="line"/>
     </contour>
   </outline>
-  <guideline angle="49.4431" x="49" y="105"/>
-  <guideline angle="229.443" x="454" y="395"/>
-  <guideline angle="49.4431" x="49" y="105"/>
+  <guideline angle="49.4431" x="59" y="105"/>
+  <guideline angle="229.443" x="464" y="395"/>
+  <guideline angle="49.4431" x="59" y="105"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -45,9 +45,9 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=0</string>
+  <string>=10</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=0</string>
+  <string>=10</string>
   </dict>
   </lib>
 </glyph>

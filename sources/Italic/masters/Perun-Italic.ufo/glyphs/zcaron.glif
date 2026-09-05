@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="2">
-  <advance width="466"/>
+  <advance width="399"/>
   <unicode hex="017E"/>
-  <anchor x="330" y="0" name="b.cedilla"/>
-  <anchor x="174" y="-80" name="bottom"/>
+  <anchor x="350" y="0" name="b.cedilla"/>
+  <anchor x="194" y="-80" name="bottom"/>
   <outline>
     <component base="z"/>
-    <component base="uni030C" xOffset="307"/>
+    <component base="uni030C" xOffset="327"/>
   </outline>
   <lib>
   <dict>

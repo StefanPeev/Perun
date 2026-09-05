@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="2">
-  <advance width="732"/>
+  <advance width="611"/>
   <unicode hex="03A0"/>
   <outline>
     <component base="uni041F"/>
@@ -42,6 +42,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>com.fontlab.recipe</key>
   <string>uni041F</string>
   <key>public.markColor</key>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0193" format="2">
+  <advance width="735"/>
+  <unicode hex="0193"/>
+  <outline>
+    <component base="G" xOffset="4"/>
+    <contour>
+      <point x="612.935" y="524.879" type="line"/>
+      <point x="632.926" y="524.879" type="line"/>
+      <point x="632.926" y="711.896" type="line" smooth="yes"/>
+      <point x="632.926" y="787.344"/>
+      <point x="656.635" y="802.024"/>
+      <point x="695.47" y="802.024" type="curve" smooth="yes"/>
+      <point x="715.741" y="802.024"/>
+      <point x="737.665" y="798.024"/>
+      <point x="752.665" y="789.024" type="curve"/>
+      <point x="752.665" y="807.671" type="line"/>
+      <point x="736.875" y="815.279"/>
+      <point x="719.809" y="820.459"/>
+      <point x="694.829" y="820.459" type="curve" smooth="yes"/>
+      <point x="643.566" y="820.459"/>
+      <point x="612.935" y="798.646"/>
+      <point x="612.935" y="710.669" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G</string>
+  </dict>
+  </lib>
+</glyph>

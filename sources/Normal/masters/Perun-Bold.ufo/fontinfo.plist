@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>800</integer>
+  <integer>1220</integer>
   <key>capHeight</key>
   <integer>722</integer>
   <key>copyright</key>
   <string>Copyright Stefan Peev, 2016. All rights reserved.</string>
   <key>descender</key>
-  <integer>-200</integer>
+  <integer>-360</integer>
   <key>familyName</key>
   <string>Perun</string>
   <key>guidelines</key>
@@ -67,18 +67,17 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>723</integer>
+  <integer>1220</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-199</integer>
+  <integer>-360</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>60</integer>
-  <key>openTypeNameDescription</key>
-  <string>Copyright 2016 by Stefan Peev, 2016. All rights reserved.</string>
+  <integer>-0</integer>
+  <key>openTypeNameDesigner</key>
+  <string>Stefan Peev</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright 2016, Context (&lt;URL|email&gt;),
-with Reserved Font Name Perun.
+  <string>Copyright 2016, Stefan Peev (&lt;URL|email&gt;)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -180,7 +179,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.102</string>
+  <string>Version 1.104</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -207,7 +206,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <array>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
-  <integer>250</integer>
+  <integer>258</integer>
   <key>openTypeOS2StrikeoutSize</key>
   <integer>50</integer>
   <key>openTypeOS2SubscriptXOffset</key>
@@ -230,11 +229,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>800</integer>
+  <integer>1220</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-200</integer>
+  <integer>-360</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>90</integer>
+  <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -262,9 +261,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1040</integer>
+  <integer>1220</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>258</integer>
+  <integer>360</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -277,6 +276,8 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <integer>0</integer>
     <integer>500</integer>
     <integer>514</integer>
+    <integer>722</integer>
+    <integer>736</integer>
     <integer>722</integer>
     <integer>736</integer>
   </array>
@@ -324,7 +325,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>102</integer>
+  <integer>104</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

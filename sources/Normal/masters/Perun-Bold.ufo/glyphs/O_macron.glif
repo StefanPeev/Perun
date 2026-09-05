@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omacron" format="2">
-  <advance width="776"/>
+  <advance width="772"/>
   <unicode hex="014C"/>
-  <anchor x="382" y="797" name="top"/>
-  <anchor x="122" y="722" name="tonos"/>
-  <anchor x="388" y="-75" name="bottom"/>
-  <anchor x="420" y="0" name="ogonekUC"/>
+  <anchor x="380" y="797" name="top"/>
+  <anchor x="386" y="-75" name="bottom"/>
+  <anchor x="418" y="0" name="ogonekUC"/>
   <outline>
     <component base="O"/>
-    <component base="macron" xOffset="218" yOffset="222"/>
+    <component base="macron" xOffset="216" yOffset="222"/>
   </outline>
   <lib>
   <dict>

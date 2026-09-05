@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acaron" format="2">
-  <advance width="545"/>
+  <advance width="551"/>
   <unicode hex="01CE"/>
-  <anchor x="354.988" y="10" name="ogonekLC"/>
-  <anchor x="364" y="580" name="t.ring"/>
-  <anchor x="207" y="-80" name="bottom"/>
+  <anchor x="410.988" y="10" name="ogonekLC"/>
+  <anchor x="420" y="580" name="t.ring"/>
+  <anchor x="263" y="-80" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="uni030C" xOffset="334" yOffset="20"/>
+    <component base="uni030C" xOffset="390" yOffset="20"/>
   </outline>
   <lib>
   <dict>

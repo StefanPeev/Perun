@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="248"/>
+  <advance width="211"/>
   <unicode hex="0069"/>
-  <anchor x="110" y="0" name="ogonekLC"/>
-  <anchor x="50" y="-80" name="bottom"/>
+  <anchor x="150" y="0" name="ogonekLC"/>
+  <anchor x="90" y="-80" name="bottom"/>
   <outline>
-    <component base="dotlessi" xOffset="-20"/>
-    <component base="uni0307" xOffset="179"/>
+    <component base="dotlessi" xOffset="20"/>
+    <component base="uni0307" xOffset="219"/>
   </outline>
   <lib>
   <dict>
@@ -52,9 +52,9 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=n+10</string>
+  <string>=l</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
+  <string>=l</string>
   <key>com.fontlab.recipe</key>
   <string>dotlessi+uni0307</string>
   <key>public.markColor</key>

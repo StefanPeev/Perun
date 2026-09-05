@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alphatonos" format="2">
-  <advance width="681"/>
+  <advance width="721"/>
   <unicode hex="0386"/>
-  <anchor x="455.75" y="797" name="top"/>
-  <anchor x="589.773" y="10" name="ogonekUC"/>
-  <anchor x="455" y="682" name="t.ring"/>
-  <anchor x="286" y="-80" name="bottom"/>
+  <anchor x="515.75" y="797" name="top"/>
+  <anchor x="649.773" y="10" name="ogonekUC"/>
+  <anchor x="515" y="682" name="t.ring"/>
+  <anchor x="346" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="-59.1713" y="0" type="line"/>
-      <point x="43.8287" y="0" type="line"/>
-      <point x="416.089" y="613.292" type="line"/>
-      <point x="554.829" y="0" type="line"/>
-      <point x="660.829" y="0" type="line"/>
-      <point x="494.185" y="722" type="line"/>
-      <point x="384.185" y="722" type="line"/>
+      <point x="0.8287" y="0" type="line"/>
+      <point x="103.829" y="0" type="line"/>
+      <point x="476.089" y="613.292" type="line"/>
+      <point x="614.829" y="0" type="line"/>
+      <point x="720.829" y="0" type="line"/>
+      <point x="554.185" y="722" type="line"/>
+      <point x="444.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="135.348" y="193" type="line"/>
-      <point x="539.348" y="193" type="line"/>
-      <point x="513.872" y="278" type="line"/>
-      <point x="190.872" y="278" type="line"/>
+      <point x="195.348" y="193" type="line"/>
+      <point x="599.348" y="193" type="line"/>
+      <point x="573.872" y="278" type="line"/>
+      <point x="250.872" y="278" type="line"/>
     </contour>
     <contour>
-      <point x="72.5328" y="512" type="line"/>
-      <point x="142.533" y="512" type="line"/>
-      <point x="273.357" y="722" type="line"/>
-      <point x="173.357" y="722" type="line"/>
+      <point x="132.533" y="512" type="line"/>
+      <point x="202.533" y="512" type="line"/>
+      <point x="333.357" y="722" type="line"/>
+      <point x="233.357" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -67,8 +67,6 @@
   <string>=A</string>
   <key>com.fontlab.recipe</key>
   <string>Alpha+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="2">
-  <advance width="767"/>
+  <advance width="781"/>
   <unicode hex="00D6"/>
-  <anchor x="147.811" y="722" name="tonos"/>
-  <anchor x="290" y="0" name="b.cedilla"/>
-  <anchor x="350" y="0" name="ogonekUC"/>
-  <anchor x="298" y="-80" name="bottom"/>
+  <anchor x="367" y="0" name="b.cedilla"/>
+  <anchor x="427" y="0" name="ogonekUC"/>
+  <anchor x="375" y="-80" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni0308" xOffset="462" yOffset="217"/>
+    <component base="uni0308" xOffset="539" yOffset="217"/>
   </outline>
   <lib>
   <dict>

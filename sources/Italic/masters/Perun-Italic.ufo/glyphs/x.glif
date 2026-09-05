@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x" format="2">
-  <advance width="502"/>
+  <advance width="522"/>
   <unicode hex="0078"/>
-  <anchor x="300" y="580" name="top"/>
+  <anchor x="377" y="580" name="top"/>
   <outline>
     <contour>
-      <point x="35.6049" y="500" type="line"/>
-      <point x="323.405" y="0" type="line"/>
-      <point x="437.405" y="0" type="line"/>
-      <point x="149.605" y="500" type="line"/>
+      <point x="118.605" y="500" type="line"/>
+      <point x="406.405" y="0" type="line"/>
+      <point x="508.405" y="0" type="line"/>
+      <point x="220.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="-69.5951" y="0" type="line"/>
-      <point x="35.4049" y="0" type="line"/>
-      <point x="226.838" y="209.168" type="line"/>
-      <point x="191.206" y="270.894" type="line"/>
+      <point x="5.40488" y="0" type="line"/>
+      <point x="112.405" y="0" type="line"/>
+      <point x="303.838" y="209.168" type="line"/>
+      <point x="266.206" y="270.894" type="line"/>
     </contour>
     <contour>
-      <point x="242.71" y="308.799" type="line"/>
-      <point x="277.281" y="247.125" type="line"/>
-      <point x="521.605" y="500" type="line"/>
-      <point x="416.605" y="500" type="line"/>
+      <point x="319.71" y="308.799" type="line"/>
+      <point x="356.281" y="247.125" type="line"/>
+      <point x="600.605" y="500" type="line"/>
+      <point x="493.605" y="500" type="line"/>
     </contour>
   </outline>
-  <guideline angle="127.596" x="486" y="0"/>
-  <guideline angle="127.596" x="413" y="0"/>
-  <guideline angle="54.1523" x="84" y="0"/>
-  <guideline angle="232.493" x="187" y="271"/>
-  <guideline angle="52.3767" x="278" y="247"/>
-  <guideline angle="234.349" x="368" y="500"/>
-  <guideline angle="90" x="183" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -50,10 +43,6 @@
       </dict>
     </array>
   </dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=-70</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=-20</string>
   </dict>
   </lib>
 </glyph>

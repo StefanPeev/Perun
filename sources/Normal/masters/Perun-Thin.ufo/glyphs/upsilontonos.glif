@@ -3,13 +3,11 @@
   <advance width="548"/>
   <unicode hex="03CD"/>
   <outline>
-    <component base="upsilon"/>
+    <component base="upsilon" xOffset="10"/>
     <component base="tonos" xOffset="253" yOffset="88"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="2">
-  <advance width="724"/>
+  <advance width="700"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="60.0562" y="290" type="line"/>
-      <point x="350.109" y="290" type="line"/>
-      <point x="293.739" y="0" type="line"/>
-      <point x="313.686" y="0" type="line"/>
-      <point x="370.056" y="290" type="line"/>
-      <point x="660.056" y="290" type="line"/>
-      <point x="663.944" y="310" type="line"/>
-      <point x="373.944" y="310" type="line"/>
-      <point x="430.314" y="600" type="line"/>
-      <point x="410.367" y="600" type="line"/>
-      <point x="353.997" y="310" type="line"/>
-      <point x="63.9438" y="310" type="line"/>
+      <point x="107.056" y="290" type="line"/>
+      <point x="397.109" y="290" type="line"/>
+      <point x="340.739" y="0" type="line"/>
+      <point x="360.686" y="0" type="line"/>
+      <point x="417.056" y="290" type="line"/>
+      <point x="707.056" y="290" type="line"/>
+      <point x="710.944" y="310" type="line"/>
+      <point x="420.944" y="310" type="line"/>
+      <point x="477.314" y="600" type="line"/>
+      <point x="457.367" y="600" type="line"/>
+      <point x="400.997" y="310" type="line"/>
+      <point x="110.944" y="310" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="300"/>
-  <guideline angle="90" x="362" y="0"/>
+  <guideline angle="90" x="409" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -49,10 +49,6 @@
       </dict>
     </array>
   </dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=H</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=H</string>
   </dict>
   </lib>
 </glyph>

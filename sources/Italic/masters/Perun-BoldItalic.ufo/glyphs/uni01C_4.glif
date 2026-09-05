@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C4" format="2">
-  <advance width="1324"/>
+  <advance width="1280"/>
   <unicode hex="01C4"/>
-  <anchor x="390" y="797" name="top"/>
-  <anchor x="251" y="-80" name="b.commabelow"/>
-  <anchor x="930" y="-80" name="bottom"/>
-  <anchor x="986" y="0" name="b.cedilla"/>
+  <anchor x="431" y="797" name="top"/>
+  <anchor x="292" y="-80" name="b.commabelow"/>
+  <anchor x="986" y="-80" name="bottom"/>
+  <anchor x="1042" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
-    <component base="Zcaron" xOffset="733"/>
+    <component base="Zcaron" xOffset="716"/>
   </outline>
   <lib>
   <dict>

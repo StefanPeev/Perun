@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcaron" format="2">
-  <advance width="589"/>
+  <advance width="578"/>
   <unicode hex="021F"/>
-  <anchor x="72" y="0" name="b.cedilla"/>
-  <anchor x="233" y="-80" name="bottom"/>
+  <anchor x="112" y="0" name="b.cedilla"/>
+  <anchor x="273" y="-80" name="bottom"/>
   <outline>
     <component base="h"/>
-    <component base="uni030C" xOffset="399" yOffset="216"/>
+    <component base="uni030C" xOffset="439" yOffset="216"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni019F" format="2">
+  <advance width="719"/>
+  <unicode hex="019F"/>
+  <anchor x="462" y="797" name="top"/>
+  <anchor x="292" y="-80" name="bottom"/>
+  <outline>
+    <component base="O" xOffset="-20"/>
+    <contour>
+      <point x="91.1967" y="332" type="line"/>
+      <point x="641.197" y="332" type="line"/>
+      <point x="657.136" y="414" type="line"/>
+      <point x="107.136" y="414" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

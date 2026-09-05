@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="2">
-  <advance width="586"/>
+  <advance width="606"/>
   <unicode hex="03AC"/>
   <outline>
-    <component base="alpha" xOffset="-22"/>
-    <component base="tonos" xOffset="269.649" yOffset="68"/>
+    <component base="alpha" xOffset="-2"/>
+    <component base="tonos" xOffset="271.227" yOffset="67"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -59,8 +57,6 @@
   <string>=o</string>
   <key>com.fontlab.recipe</key>
   <string>alpha+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B.loclBGR" format="2">
-  <advance width="738"/>
-  <anchor x="678.595" y="580" name="top"/>
-  <anchor x="609.595" y="0" name="ogonekLC"/>
-  <anchor x="549.595" y="-80" name="bottom"/>
+  <advance width="701"/>
+  <anchor x="718.595" y="580" name="top"/>
+  <anchor x="649.595" y="0" name="ogonekLC"/>
+  <anchor x="589.595" y="-80" name="bottom"/>
   <outline>
     <component base="uni044C.loclBGR"/>
-    <component base="dotlessi" xOffset="479.595"/>
+    <component base="dotlessi" xOffset="519.595"/>
   </outline>
   <lib>
   <dict>
@@ -68,7 +68,7 @@
   <key>com.fontlab.metricsRight</key>
   <string>=uni043D</string>
   <key>com.fontlab.recipe</key>
-  <string>=uni044C.loclBGR+dotlessi@520,0</string>
+  <string>=uni044C.loclBGR+dotlessi@560,0</string>
   </dict>
   </lib>
 </glyph>

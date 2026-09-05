@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FC1" format="2">
+  <advance width="400"/>
   <unicode hex="1FC1"/>
   <outline>
-    <component base="dieresis" xOffset="-220"/>
-    <component base="uni0342" xOffset="-30.3951" yOffset="210"/>
+    <component base="dieresis" xOffset="-20"/>
+    <component base="uni0342" xOffset="169.605" yOffset="210"/>
   </outline>
   <lib>
   <dict>
@@ -52,6 +53,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
   <key>com.fontlab.recipe</key>
   <string>dieresis+uni0342</string>
   <key>public.markColor</key>

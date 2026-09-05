@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcommaaccent" format="2">
-  <advance width="172"/>
+  <advance width="161"/>
   <unicode hex="013C"/>
-  <anchor x="178.947" y="762" name="top"/>
-  <anchor x="0" y="-57" name="bottom"/>
+  <anchor x="228.947" y="762" name="top"/>
+  <anchor x="50" y="-57" name="bottom"/>
   <outline>
     <component base="l"/>
-    <component base="uni0326" xOffset="25"/>
+    <component base="uni0326" xOffset="75"/>
   </outline>
   <lib>
   <dict>

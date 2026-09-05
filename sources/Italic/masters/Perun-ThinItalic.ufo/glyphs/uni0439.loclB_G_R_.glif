@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0439.loclBGR" format="2">
-  <advance width="524"/>
+  <advance width="495"/>
+  <anchor x="225" y="-80" name="bottom"/>
+  <anchor x="372" y="580" name="t.ring"/>
   <outline>
-    <component base="uni0306" xOffset="350.332"/>
-    <component base="u"/>
+    <component base="uni0438.loclBGR"/>
+    <component base="brevecyr" xOffset="355.146"/>
   </outline>
-  <guideline angle="90" x="287" y="0"/>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -69,6 +72,10 @@
   <string>=uni0438.loclBGR</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni0438.loclBGR</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni0438.loclBGR+brevecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

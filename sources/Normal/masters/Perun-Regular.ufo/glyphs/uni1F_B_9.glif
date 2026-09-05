@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FB9" format="2">
-  <advance width="760"/>
+  <advance width="740"/>
   <unicode hex="1FB9"/>
-  <anchor x="380" y="797" name="top"/>
-  <anchor x="380" y="666" name="t.ring"/>
-  <anchor x="242" y="722" name="tonos"/>
-  <anchor x="380" y="-75" name="bottom"/>
-  <anchor x="740" y="0" name="ogonekUC"/>
+  <anchor x="370" y="797" name="top"/>
+  <anchor x="370" y="666" name="t.ring"/>
+  <anchor x="370" y="-75" name="bottom"/>
+  <anchor x="730" y="0" name="ogonekUC"/>
   <outline>
     <component base="Alpha"/>
-    <component base="macron" xOffset="235" yOffset="222"/>
+    <component base="macron" xOffset="225" yOffset="222"/>
   </outline>
   <lib>
   <dict>

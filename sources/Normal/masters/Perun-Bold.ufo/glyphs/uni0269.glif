@@ -2,7 +2,6 @@
 <glyph name="uni0269" format="2">
   <advance width="297"/>
   <unicode hex="0269"/>
-  <anchor x="115" y="600" name="tonos.top"/>
   <outline>
     <component base="iota"/>
   </outline>
@@ -16,6 +15,8 @@
   <string>=iota</string>
   <key>com.fontlab.recipe</key>
   <string>iota</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

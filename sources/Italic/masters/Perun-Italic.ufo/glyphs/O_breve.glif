@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="2">
-  <advance width="719"/>
+  <advance width="768"/>
   <unicode hex="014E"/>
-  <anchor x="134.005" y="722" name="tonos"/>
-  <anchor x="270" y="0" name="b.cedilla"/>
-  <anchor x="320" y="0" name="ogonekUC"/>
-  <anchor x="292" y="-80" name="bottom"/>
+  <anchor x="354" y="0" name="b.cedilla"/>
+  <anchor x="404" y="0" name="ogonekUC"/>
+  <anchor x="376" y="-80" name="bottom"/>
   <outline>
     <component base="O"/>
-    <component base="uni0306" xOffset="462" yOffset="217"/>
+    <component base="uni0306" xOffset="546" yOffset="217"/>
   </outline>
   <lib>
   <dict>

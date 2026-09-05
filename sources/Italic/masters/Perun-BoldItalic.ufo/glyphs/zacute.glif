@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="2">
-  <advance width="503"/>
+  <advance width="439"/>
   <unicode hex="017A"/>
-  <anchor x="300" y="0" name="b.cedilla"/>
-  <anchor x="184" y="-80" name="bottom"/>
+  <anchor x="310" y="0" name="b.cedilla"/>
+  <anchor x="194" y="-80" name="bottom"/>
   <outline>
     <component base="z"/>
-    <component base="uni0301" xOffset="317"/>
+    <component base="uni0301" xOffset="217"/>
   </outline>
   <lib>
   <dict>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0413" format="2">
-  <advance width="504"/>
+  <advance width="433"/>
   <unicode hex="0413"/>
-  <anchor x="379" y="797" name="top"/>
+  <anchor x="389" y="797" name="top"/>
   <outline>
     <contour>
-      <point x="60.8287" y="0" type="line"/>
-      <point x="82.8287" y="0" type="line"/>
-      <point x="223.185" y="722" type="line"/>
-      <point x="201.185" y="722" type="line"/>
+      <point x="70.8287" y="0" type="line"/>
+      <point x="92.8287" y="0" type="line"/>
+      <point x="233.185" y="722" type="line"/>
+      <point x="211.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="209.297" y="702" type="line"/>
-      <point x="559.297" y="702" type="line"/>
-      <point x="563.185" y="722" type="line"/>
-      <point x="213.206" y="722" type="line"/>
+      <point x="219.297" y="702" type="line"/>
+      <point x="569.297" y="702" type="line"/>
+      <point x="573.185" y="722" type="line"/>
+      <point x="223.206" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,8 +48,6 @@
   </dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=-60</string>
   </dict>
   </lib>
 </glyph>

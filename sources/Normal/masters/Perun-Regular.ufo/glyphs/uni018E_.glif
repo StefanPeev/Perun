@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni018E" format="2">
+  <advance width="587"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="437" y="635" type="line"/>
+      <point x="437" y="722" type="line"/>
+      <point x="60" y="722" type="line"/>
+      <point x="60" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="722" type="line"/>
+      <point x="417" y="722" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="309" type="line"/>
+      <point x="437" y="396" type="line"/>
+      <point x="80" y="396" type="line"/>
+      <point x="80" y="309" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="0" type="line"/>
+      <point x="437" y="87" type="line"/>
+      <point x="70" y="87" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|E</string>
+  <key>com.fontlab.recipe</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

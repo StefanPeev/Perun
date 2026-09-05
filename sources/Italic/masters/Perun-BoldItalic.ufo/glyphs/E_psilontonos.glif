@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="658"/>
+  <advance width="630"/>
   <unicode hex="0388"/>
-  <anchor x="469" y="797" name="top"/>
-  <anchor x="303" y="0" name="b.cedilla"/>
-  <anchor x="519" y="0" name="ogonekUC"/>
+  <anchor x="570" y="797" name="top"/>
+  <anchor x="404" y="0" name="b.cedilla"/>
+  <anchor x="620" y="0" name="ogonekUC"/>
   <outline>
     <contour>
-      <point x="181.829" y="0" type="line"/>
-      <point x="518.829" y="0" type="line"/>
-      <point x="541.185" y="115" type="line"/>
-      <point x="204.185" y="115" type="line"/>
+      <point x="282.829" y="0" type="line"/>
+      <point x="619.829" y="0" type="line"/>
+      <point x="642.185" y="115" type="line"/>
+      <point x="305.185" y="115" type="line"/>
     </contour>
     <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="252" y="0" type="line"/>
-      <point x="392" y="722" type="line"/>
-      <point x="242" y="722" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="493" y="722" type="line"/>
+      <point x="343" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="243.454" y="317" type="line"/>
-      <point x="550.454" y="317" type="line"/>
-      <point x="572.226" y="429" type="line"/>
-      <point x="265.226" y="429" type="line"/>
+      <point x="344.453" y="317" type="line"/>
+      <point x="651.453" y="317" type="line"/>
+      <point x="673.226" y="429" type="line"/>
+      <point x="366.226" y="429" type="line"/>
     </contour>
     <contour>
-      <point x="299.83" y="607" type="line"/>
-      <point x="626.83" y="607" type="line"/>
-      <point x="649.186" y="722" type="line"/>
-      <point x="322.186" y="722" type="line"/>
+      <point x="400.83" y="607" type="line"/>
+      <point x="727.83" y="607" type="line"/>
+      <point x="750.186" y="722" type="line"/>
+      <point x="423.186" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="-11.5678" y="511.476" type="line"/>
-      <point x="58.4322" y="511.476" type="line"/>
-      <point x="189.093" y="722" type="line"/>
-      <point x="59.0929" y="722" type="line"/>
+      <point x="109.432" y="511.476" type="line"/>
+      <point x="179.432" y="511.476" type="line"/>
+      <point x="310.093" y="722" type="line"/>
+      <point x="180.093" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,8 +43,6 @@
   <string>=E</string>
   <key>com.fontlab.recipe</key>
   <string>Epsilon+tonos</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="330"/>
+  <advance width="291"/>
   <unicode hex="0049"/>
-  <anchor x="248" y="797" name="top"/>
-  <anchor x="84.1713" y="722" name="tonos"/>
-  <anchor x="170" y="0" name="ogonekUC"/>
-  <anchor x="77" y="-80" name="bottom"/>
+  <anchor x="299" y="797" name="top"/>
+  <anchor x="221" y="0" name="ogonekUC"/>
+  <anchor x="128" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="310" y="722" type="line"/>
-      <point x="160" y="722" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="361" y="722" type="line"/>
+      <point x="211" y="722" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="20" y="0"/>
-  <guideline angle="90" x="310" y="0"/>
-  <guideline angle="79.0262" x="93.0554" y="0"/>
+  <guideline angle="90" x="71" y="0"/>
+  <guideline angle="90" x="361" y="0"/>
+  <guideline angle="79.0262" x="144.055" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -47,9 +46,9 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=20</string>
+  <string>=H+10</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=20</string>
+  <string>=H+10</string>
   </dict>
   </lib>
 </glyph>

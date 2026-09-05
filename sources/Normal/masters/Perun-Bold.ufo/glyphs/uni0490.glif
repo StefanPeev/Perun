@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0490" format="2">
-  <advance width="536"/>
+  <advance width="534"/>
   <unicode hex="0490"/>
+  <outline>
+    <component base="uni0413"/>
+    <contour>
+      <point x="388" y="607" type="line"/>
+      <point x="524" y="607" type="line"/>
+      <point x="524" y="887" type="line"/>
+      <point x="388.047" y="887" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0413</string>
+  </dict>
+  </lib>
 </glyph>

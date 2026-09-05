@@ -3,12 +3,12 @@
   <advance width="583"/>
   <unicode hex="042A"/>
   <outline>
-    <component base="uni042C" xOffset="-40"/>
+    <component base="uni042C" xOffset="0.17128"/>
     <contour>
-      <point x="47.2837" y="702" type="line"/>
-      <point x="176.355" y="702" type="line"/>
-      <point x="180.171" y="722" type="line"/>
-      <point x="51.1713" y="722" type="line"/>
+      <point x="97.2837" y="702" type="line"/>
+      <point x="226.355" y="702" type="line"/>
+      <point x="230.171" y="722" type="line"/>
+      <point x="101.171" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=20</string>
+  <string>=H</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni042C</string>
   </dict>

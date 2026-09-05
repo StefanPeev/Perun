@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="2">
-  <advance width="691"/>
+  <advance width="655"/>
   <unicode hex="0058"/>
-  <anchor x="432.75" y="797" name="top"/>
-  <anchor x="289" y="-80" name="bottom"/>
+  <anchor x="482.75" y="797" name="top"/>
+  <anchor x="339" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="125.186" y="722" type="line"/>
-      <point x="476.829" y="0" type="line"/>
-      <point x="604.829" y="0" type="line"/>
-      <point x="253.186" y="722" type="line"/>
+      <point x="175.186" y="722" type="line"/>
+      <point x="526.829" y="0" type="line"/>
+      <point x="654.829" y="0" type="line"/>
+      <point x="303.186" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="-49.1713" y="0" type="line"/>
-      <point x="68.8287" y="0" type="line"/>
-      <point x="342.438" y="326.615" type="line"/>
-      <point x="301.579" y="397.356" type="line"/>
+      <point x="0.828705" y="0" type="line"/>
+      <point x="118.829" y="0" type="line"/>
+      <point x="392.438" y="326.615" type="line"/>
+      <point x="351.579" y="397.356" type="line"/>
     </contour>
     <contour>
-      <point x="363.03" y="443.296" type="line"/>
-      <point x="402.787" y="372.628" type="line"/>
-      <point x="710.186" y="722" type="line"/>
-      <point x="592.186" y="722" type="line"/>
+      <point x="413.03" y="443.296" type="line"/>
+      <point x="452.787" y="372.628" type="line"/>
+      <point x="760.186" y="722" type="line"/>
+      <point x="642.186" y="722" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="348" y="0"/>
+  <guideline angle="90" x="398" y="0"/>
   <guideline angle="0" x="0" y="353"/>
   <lib>
   <dict>
@@ -46,10 +46,6 @@
       </dict>
     </array>
   </dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=-50</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=-20</string>
   </dict>
   </lib>
 </glyph>

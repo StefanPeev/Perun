@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nu" format="2">
-  <advance width="515"/>
+  <advance width="529"/>
   <unicode hex="03BD"/>
   <outline>
-    <component base="v"/>
+    <component base="v" xOffset="-6"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=v</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=v</string>
-  </dict>
-  </lib>
 </glyph>

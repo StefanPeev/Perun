@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043D" format="2">
-  <advance width="548"/>
+  <advance width="501"/>
   <unicode hex="043D"/>
   <outline>
     <contour>
-      <point x="40.4049" y="0" type="line"/>
-      <point x="60.4009" y="0" type="line"/>
-      <point x="109.973" y="255" type="line"/>
-      <point x="449.977" y="255" type="line"/>
-      <point x="400.405" y="0" type="line"/>
       <point x="420.405" y="0" type="line"/>
+      <point x="440.405" y="0" type="line"/>
+      <point x="537.605" y="500" type="line"/>
       <point x="517.605" y="500" type="line"/>
-      <point x="497.605" y="500" type="line"/>
-      <point x="453.865" y="275" type="line"/>
-      <point x="113.861" y="275" type="line"/>
-      <point x="157.601" y="500" type="line"/>
-      <point x="137.605" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="60.4049" y="0" type="line"/>
+      <point x="80.4009" y="0" type="line"/>
+      <point x="177.601" y="500" type="line"/>
+      <point x="157.605" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="114.973" y="255" type="line"/>
+      <point x="484.977" y="255" type="line"/>
+      <point x="488.865" y="275" type="line"/>
+      <point x="118.861" y="275" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -59,10 +63,6 @@
       </dict>
     </array>
   </dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=n</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=30</string>
   </dict>
   </lib>
 </glyph>

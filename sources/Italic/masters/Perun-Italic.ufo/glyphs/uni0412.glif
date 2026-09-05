@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0412" format="2">
-  <advance width="660"/>
+  <advance width="587"/>
   <unicode hex="0412"/>
-  <anchor x="380" y="797" name="top"/>
-  <anchor x="238" y="-80" name="bottom"/>
+  <anchor x="411" y="797" name="top"/>
+  <anchor x="269" y="-80" name="bottom"/>
   <outline>
     <component base="B"/>
   </outline>
@@ -56,6 +56,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=B</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=B</string>
   <key>com.fontlab.recipe</key>
   <string>B</string>
   <key>public.markColor</key>

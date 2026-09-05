@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="460"/>
+  <advance width="441"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="30.4818" y="620" type="line"/>
-      <point x="410.482" y="620" type="line"/>
-      <point x="429.922" y="720" type="line"/>
-      <point x="49.9218" y="720" type="line"/>
+      <point x="151.482" y="620" type="line"/>
+      <point x="531.482" y="620" type="line"/>
+      <point x="550.922" y="720" type="line"/>
+      <point x="170.922" y="720" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="620"/>
-  <guideline angle="90" x="230" y="0"/>
+  <guideline angle="90" x="220.5" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
