@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040F" format="2">
-  <advance width="689"/>
+  <advance width="691"/>
   <unicode hex="040F"/>
   <outline>
-    <component base="uni041F" yxScale="-0.3888" yScale="-1" xOffset="140.339" yOffset="722"/>
+    <contour>
+      <point x="70.8097" y="0" type="line"/>
+      <point x="170.81" y="0" type="line"/>
+      <point x="311.166" y="722" type="line"/>
+      <point x="211.166" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="519.807" y="-0.0128" type="line"/>
+      <point x="620.81" y="0" type="line"/>
+      <point x="761.167" y="722" type="line"/>
+      <point x="660.167" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="140.81" y="0" type="line"/>
+      <point x="547.766" y="0" type="line"/>
+      <point x="564.367" y="87" type="line"/>
+      <point x="157.609" y="87" type="line"/>
+    </contour>
     <contour>
       <point x="272.728" y="-160" type="line"/>
       <point x="372.728" y="-160" type="line"/>

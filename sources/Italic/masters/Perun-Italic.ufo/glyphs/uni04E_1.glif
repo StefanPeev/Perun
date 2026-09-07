@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04E1" format="2">
-  <advance width="511"/>
+  <advance width="435"/>
   <unicode hex="04E1"/>
   <anchor x="308" y="600" name="top"/>
   <outline>
@@ -43,6 +43,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0292</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0292</string>
   <key>com.fontlab.recipe</key>
   <string>uni0292</string>
   <key>public.markColor</key>

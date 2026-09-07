@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0429" format="2">
-  <advance width="923"/>
+  <advance width="964"/>
   <unicode hex="0429"/>
   <outline>
     <component base="uni0428" xOffset="-2.28882e-05"/>
     <contour>
-      <point x="752.079" y="0" type="line"/>
-      <point x="821.829" y="0" type="line"/>
-      <point x="790.728" y="-160" type="line"/>
-      <point x="891.728" y="-160" type="line"/>
-      <point x="939.74" y="87" type="line"/>
-      <point x="768.79" y="87" type="line"/>
+      <point x="802.079" y="0" type="line"/>
+      <point x="871.829" y="0" type="line"/>
+      <point x="840.728" y="-160" type="line"/>
+      <point x="941.728" y="-160" type="line"/>
+      <point x="989.74" y="87" type="line"/>
+      <point x="818.79" y="87" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -63,7 +63,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=uni041D</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=A</string>
+  <string>=uni041D</string>
   </dict>
   </lib>
 </glyph>

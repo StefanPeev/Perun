@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="690"/>
+  <advance width="691"/>
   <unicode hex="0048"/>
   <anchor x="489" y="797" name="top"/>
   <anchor x="109" y="0" name="b.cedilla"/>
@@ -8,8 +8,8 @@
   <outline>
     <contour>
       <point x="213.203" y="326" type="line"/>
-      <point x="602.203" y="326" type="line"/>
-      <point x="619.31" y="414" type="line"/>
+      <point x="603.203" y="326" type="line"/>
+      <point x="620.31" y="414" type="line"/>
       <point x="230.31" y="414" type="line"/>
     </contour>
     <contour>
@@ -19,18 +19,12 @@
       <point x="211.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="519.829" y="0" type="line"/>
-      <point x="619.829" y="0" type="line"/>
-      <point x="760.185" y="722" type="line"/>
-      <point x="660.185" y="722" type="line"/>
+      <point x="520.829" y="0" type="line"/>
+      <point x="620.829" y="0" type="line"/>
+      <point x="761.185" y="722" type="line"/>
+      <point x="661.185" y="722" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="70" y="0"/>
-  <guideline angle="90" x="550" y="0"/>
-  <guideline angle="90" x="273" y="0"/>
-  <guideline angle="90" x="234" y="0"/>
-  <guideline angle="90" x="313" y="0"/>
-  <guideline angle="259.026" x="477.648" y="722"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -72,6 +66,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=70</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=70</string>
   </dict>
   </lib>
 </glyph>

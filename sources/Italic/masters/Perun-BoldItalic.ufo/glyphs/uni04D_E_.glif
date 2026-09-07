@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04DE" format="2">
-  <advance width="542"/>
+  <advance width="583"/>
   <unicode hex="04DE"/>
   <outline>
     <component base="uni0417"/>
-    <component base="uni0308" xOffset="433" yOffset="217"/>
+    <component base="uni0308" xOffset="453" yOffset="217"/>
   </outline>
   <lib>
   <dict>
@@ -73,6 +73,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0417</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0417</string>
   <key>com.fontlab.recipe</key>
   <string>uni0417+uni0308</string>
   <key>public.markColor</key>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni042A" format="2">
-  <advance width="626"/>
+  <advance width="659"/>
   <unicode hex="042A"/>
   <outline>
-    <component base="uni042C"/>
+    <component base="uni042C" xOffset="30"/>
     <contour>
-      <point x="54.4569" y="600" type="line"/>
-      <point x="236.449" y="600" type="line"/>
-      <point x="260.164" y="722" type="line"/>
-      <point x="78.1713" y="722" type="line"/>
+      <point x="84.8176" y="607" type="line"/>
+      <point x="266.81" y="607" type="line"/>
+      <point x="290.164" y="722" type="line"/>
+      <point x="108.171" y="722" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=H</string>
+  <string>=H+30</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni042C</string>
   </dict>
