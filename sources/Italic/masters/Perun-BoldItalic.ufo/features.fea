@@ -190,7 +190,7 @@ feature hist {
 } hist;
 feature mark {
 # GPOS feature : Mark Positioning
-    markClass uni0301 <anchor 110 580> @top;
+    markClass uni0301 <anchor 112 580> @top;
     markClass uni0323 <anchor 0 -50> @bottom;
     markClass uni0300 <anchor 113 580> @top;
     markClass uni0309 <anchor 0 580> @top;
@@ -227,8 +227,8 @@ feature mark {
     markClass uni035C <anchor -10 -50> @bottom;
     markClass uni0361 <anchor 0 580> @top;
     markClass uni0304 <anchor 0 580> @top;
-    markClass uni0328 <anchor 60 0> @ogonekLC;
-    markClass uni0328 <anchor 60 0> @ogonekUC;
+    markClass uni0328 <anchor 59 0> @ogonekLC;
+    markClass uni0328 <anchor 59 0> @ogonekUC;
     markClass uni0331 <anchor 0 -50> @bottom;
     markClass uni032D <anchor 0 -50> @bottom;
     markClass uni032E <anchor 0 -50> @bottom;
@@ -265,439 +265,439 @@ feature mark {
 
   lookup markLTR1 {
       pos base A
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring
-          <anchor 499 797> mark @top;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring
+          <anchor 515 797> mark @top;
       pos base AE
-          <anchor 670 797> mark @top;
+          <anchor 620 797> mark @top;
       pos base Aacute
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base Abreve
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base Acaron
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base Acircumflex
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base Adieresis
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base Agrave
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base Alpha
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring
-          <anchor 499 797> mark @top;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring
+          <anchor 515 797> mark @top;
       pos base Alphatonos
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring
-          <anchor 499 797> mark @top;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring
+          <anchor 515 797> mark @top;
       pos base Amacron
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base Aogonek
-          <anchor 330 -80> mark @bottom
-          <anchor 501 663> mark @t.ring
-          <anchor 499 797> mark @top;
+          <anchor 346 -80> mark @bottom
+          <anchor 515 682> mark @t.ring
+          <anchor 515 797> mark @top;
       pos base Aring
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 499 797> mark @top;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 797> mark @top;
       pos base Aringacute
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 499 797> mark @top;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 797> mark @top;
       pos base Atilde
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base B
-          <anchor 259 -80> mark @bottom
-          <anchor 441 797> mark @top;
+          <anchor 269 -80> mark @bottom
+          <anchor 411 797> mark @top;
       pos base Beta
-          <anchor 259 -80> mark @bottom
-          <anchor 441 797> mark @top;
+          <anchor 269 -80> mark @bottom
+          <anchor 411 797> mark @top;
       pos base C
-          <anchor 365 0> mark @b.cedilla
-          <anchor 387 10> mark @bottom
-          <anchor 525 797> mark @top;
+          <anchor 361 0> mark @b.cedilla
+          <anchor 380 10> mark @bottom
+          <anchor 511 797> mark @top;
       pos base Cacute
-          <anchor 365 0> mark @b.cedilla
-          <anchor 387 10> mark @bottom;
+          <anchor 361 0> mark @b.cedilla
+          <anchor 380 10> mark @bottom;
       pos base Ccaron
-          <anchor 365 0> mark @b.cedilla
-          <anchor 387 10> mark @bottom;
+          <anchor 361 0> mark @b.cedilla
+          <anchor 380 10> mark @bottom;
       pos base Ccedilla
-          <anchor 387 10> mark @bottom
-          <anchor 525 797> mark @top;
+          <anchor 380 10> mark @bottom
+          <anchor 511 797> mark @top;
       pos base Ccircumflex
-          <anchor 365 0> mark @b.cedilla
-          <anchor 387 10> mark @bottom;
+          <anchor 361 0> mark @b.cedilla
+          <anchor 380 10> mark @bottom;
       pos base Cdotaccent
-          <anchor 365 0> mark @b.cedilla
-          <anchor 387 10> mark @bottom;
+          <anchor 361 0> mark @b.cedilla
+          <anchor 380 10> mark @bottom;
       pos base Chi
-          <anchor 350 -80> mark @bottom
-          <anchor 491 797> mark @top;
+          <anchor 339 -80> mark @bottom
+          <anchor 482 797> mark @top;
       pos base D
-          <anchor 292 -80> mark @b.commabelow
+          <anchor 282 -80> mark @b.commabelow
           <anchor 282 -80> mark @bottom
           <anchor 431 797> mark @top;
       pos base Dcaron
-          <anchor 292 -80> mark @b.commabelow
+          <anchor 282 -80> mark @b.commabelow
           <anchor 282 -80> mark @bottom;
       pos base E
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC
-          <anchor 428 797> mark @top;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC
+          <anchor 411 797> mark @top;
       pos base Eacute
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base Ebreve
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
       pos base Ecaron
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base Ecircumflex
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base Edieresis
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base Edotaccent
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
       pos base Egrave
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
       pos base Emacron
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
       pos base Eogonek
-          <anchor 221 0> mark @b.cedilla
-          <anchor 387 797> mark @top;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 380 797> mark @top;
       pos base Epsilon
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC
-          <anchor 428 797> mark @top;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC
+          <anchor 411 797> mark @top;
       pos base Epsilontonos
-          <anchor 404 0> mark @b.cedilla
-          <anchor 620 0> mark @ogonekUC
-          <anchor 570 797> mark @top;
+          <anchor 376 0> mark @b.cedilla
+          <anchor 577 0> mark @ogonekUC
+          <anchor 530 797> mark @top;
       pos base Eta
-          <anchor 118 0> mark @b.cedilla
-          <anchor 338 -80> mark @bottom
-          <anchor 507 797> mark @top;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 320 -80> mark @bottom
+          <anchor 489 797> mark @top;
       pos base Etatonos
-          <anchor 246 0> mark @b.cedilla
-          <anchor 466 -80> mark @bottom
-          <anchor 635 797> mark @top;
+          <anchor 227 0> mark @b.cedilla
+          <anchor 438 -80> mark @bottom
+          <anchor 607 797> mark @top;
       pos base F
-          <anchor 401 797> mark @top;
+          <anchor 391 797> mark @top;
       pos base G
-          <anchor 387 -50> mark @b.commabelow
-          <anchor 543 797> mark @top;
+          <anchor 365 -50> mark @b.commabelow
+          <anchor 534 797> mark @top;
       pos base Gacute
-          <anchor 387 -50> mark @b.commabelow;
+          <anchor 365 -50> mark @b.commabelow;
       pos base Gamma
-          <anchor 445 797> mark @top;
+          <anchor 408 797> mark @top;
       pos base Gbreve
-          <anchor 387 -50> mark @b.commabelow;
+          <anchor 365 -50> mark @b.commabelow;
       pos base Gcaron
-          <anchor 387 -50> mark @b.commabelow;
+          <anchor 365 -50> mark @b.commabelow;
       pos base Gcommaaccent
-          <anchor 543 797> mark @top;
+          <anchor 534 797> mark @top;
       pos base Gcircumflex
-          <anchor 387 -50> mark @b.commabelow;
+          <anchor 365 -50> mark @b.commabelow;
       pos base Gdotaccent
-          <anchor 387 -50> mark @b.commabelow;
+          <anchor 365 -50> mark @b.commabelow;
       pos base H
-          <anchor 118 0> mark @b.cedilla
-          <anchor 338 -80> mark @bottom
-          <anchor 507 797> mark @top;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 320 -80> mark @bottom
+          <anchor 489 797> mark @top;
       pos base Hcaron
-          <anchor 118 0> mark @b.cedilla
-          <anchor 338 -80> mark @bottom;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 320 -80> mark @bottom;
       pos base Hcircumflex
-          <anchor 118 0> mark @b.cedilla
-          <anchor 338 -80> mark @bottom;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 320 -80> mark @bottom;
       pos base I
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC
-          <anchor 299 797> mark @top;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC
+          <anchor 293 797> mark @top;
       pos base IJ
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC
-          <anchor 860 797> mark @top;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC
+          <anchor 810 797> mark @top;
       pos base Iacute
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Ibreve
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Icaron
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Icircumflex
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Idieresis
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Idotaccent
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Igrave
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Imacron
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base Iogonek
-          <anchor 128 -80> mark @bottom
-          <anchor 299 797> mark @top;
+          <anchor 123 -80> mark @bottom
+          <anchor 293 797> mark @top;
       pos base Iota
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC
-          <anchor 299 797> mark @top;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC
+          <anchor 293 797> mark @top;
       pos base Iotadieresis
-          <anchor 108 -80> mark @bottom
-          <anchor 201 0> mark @ogonekUC;
+          <anchor 103 -80> mark @bottom
+          <anchor 171 0> mark @ogonekUC;
       pos base Iotatonos
-          <anchor 253 -80> mark @bottom
-          <anchor 346 0> mark @ogonekUC
-          <anchor 424 797> mark @top;
+          <anchor 217 -80> mark @bottom
+          <anchor 285 0> mark @ogonekUC
+          <anchor 387 797> mark @top;
       pos base Itilde
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base J
-          <anchor 569 797> mark @top;
+          <anchor 529 797> mark @top;
       pos base K
-          <anchor 345 -50> mark @b.commabelow
-          <anchor 340 -80> mark @bottom
-          <anchor 511 797> mark @top;
+          <anchor 306 -50> mark @b.commabelow
+          <anchor 300 -80> mark @bottom
+          <anchor 471 797> mark @top;
       pos base Kappa
-          <anchor 345 -50> mark @b.commabelow
-          <anchor 340 -80> mark @bottom
-          <anchor 511 797> mark @top;
+          <anchor 306 -50> mark @b.commabelow
+          <anchor 300 -80> mark @bottom
+          <anchor 471 797> mark @top;
       pos base Kcaron
-          <anchor 345 -50> mark @b.commabelow
-          <anchor 340 -80> mark @bottom;
+          <anchor 306 -50> mark @b.commabelow
+          <anchor 300 -80> mark @bottom;
       pos base Kcommaaccent
-          <anchor 340 -80> mark @bottom
-          <anchor 511 797> mark @top;
+          <anchor 300 -80> mark @bottom
+          <anchor 471 797> mark @top;
       pos base L
           <anchor 246 -50> mark @b.commabelow
-          <anchor 240 -80> mark @bottom
-          <anchor 294 797> mark @top;
+          <anchor 250 -80> mark @bottom
+          <anchor 272 797> mark @top;
       pos base Lacute
-          <anchor 205 -50> mark @b.commabelow
-          <anchor 199 -80> mark @bottom;
+          <anchor 215 -50> mark @b.commabelow
+          <anchor 219 -80> mark @bottom;
       pos base Lcaron
           <anchor 246 -50> mark @b.commabelow
-          <anchor 240 -80> mark @bottom
-          <anchor 294 797> mark @top;
+          <anchor 250 -80> mark @bottom
+          <anchor 272 797> mark @top;
       pos base Lcommaaccent
-          <anchor 199 -80> mark @bottom
-          <anchor 253 797> mark @top;
+          <anchor 219 -80> mark @bottom
+          <anchor 241 797> mark @top;
       pos base M
-          <anchor 443 -80> mark @bottom
-          <anchor 616 797> mark @top;
+          <anchor 407 -80> mark @bottom
+          <anchor 580 797> mark @top;
       pos base Mu
-          <anchor 443 -80> mark @bottom
-          <anchor 616 797> mark @top;
+          <anchor 407 -80> mark @bottom
+          <anchor 580 797> mark @top;
       pos base N
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom
-          <anchor 530 797> mark @top;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom
+          <anchor 510 797> mark @top;
       pos base Nacute
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom;
       pos base Ncaron
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom;
       pos base Ncommaaccent
-          <anchor 357 -80> mark @bottom
-          <anchor 530 797> mark @top;
+          <anchor 339 -80> mark @bottom
+          <anchor 510 797> mark @top;
       pos base Ntilde
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom;
       pos base Nu
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom
-          <anchor 530 797> mark @top;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom
+          <anchor 510 797> mark @top;
       pos base O
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC
-          <anchor 539 797> mark @top;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC
+          <anchor 546 797> mark @top;
       pos base Oacute
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Obreve
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Ocaron
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Ocircumflex
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Odieresis
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Ograve
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Ohungarumlaut
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Omacron
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base Omicron
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC
-          <anchor 539 797> mark @top;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC
+          <anchor 546 797> mark @top;
       pos base Omicrontonos
-          <anchor 423 0> mark @b.cedilla
-          <anchor 431 -80> mark @bottom
-          <anchor 483 0> mark @ogonekUC
-          <anchor 595 797> mark @top;
+          <anchor 417 0> mark @b.cedilla
+          <anchor 439 -80> mark @bottom
+          <anchor 467 0> mark @ogonekUC
+          <anchor 609 797> mark @top;
       pos base Otilde
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base P
-          <anchor 439 797> mark @top;
+          <anchor 400 797> mark @top;
       pos base Q
-          <anchor 476 807> mark @top;
+          <anchor 471 797> mark @top;
       pos base R
-          <anchor 326 -50> mark @b.commabelow
+          <anchor 306 -50> mark @b.commabelow
           <anchor 453 797> mark @top;
       pos base Racute
-          <anchor 326 -50> mark @b.commabelow;
+          <anchor 306 -50> mark @b.commabelow;
       pos base Rcaron
-          <anchor 326 -50> mark @b.commabelow;
+          <anchor 306 -50> mark @b.commabelow;
       pos base Rcommaaccent
           <anchor 453 797> mark @top;
       pos base Rho
-          <anchor 439 797> mark @top;
+          <anchor 400 797> mark @top;
       pos base S
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom
-          <anchor 461 797> mark @top;
+          <anchor 349 -80> mark @bottom
+          <anchor 421 797> mark @top;
       pos base Sacute
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom;
+          <anchor 349 -80> mark @bottom;
       pos base Scaron
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom;
+          <anchor 349 -80> mark @bottom;
       pos base Scedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom
-          <anchor 461 797> mark @top;
+          <anchor 349 -80> mark @bottom
+          <anchor 421 797> mark @top;
       pos base Scircumflex
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom;
+          <anchor 349 -80> mark @bottom;
       pos base uni0218
-          <anchor 308 0> mark @b.cedilla
-          <anchor 328 -80> mark @bottom
-          <anchor 461 797> mark @top;
+          <anchor 305 0> mark @b.cedilla
+          <anchor 349 -80> mark @bottom
+          <anchor 421 797> mark @top;
       pos base T
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 267 -80> mark @bottom
-          <anchor 453 797> mark @top;
+          <anchor 278 -80> mark @bottom
+          <anchor 440 797> mark @top;
       pos base Tau
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 267 -80> mark @bottom
-          <anchor 453 797> mark @top;
+          <anchor 278 -80> mark @bottom
+          <anchor 440 797> mark @top;
       pos base Tcaron
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 267 -80> mark @bottom;
+          <anchor 278 -80> mark @bottom;
       pos base uni0162
           <anchor 250 -50> mark @b.commabelow
-          <anchor 267 -80> mark @bottom
-          <anchor 453 797> mark @top;
+          <anchor 278 -80> mark @bottom
+          <anchor 440 797> mark @top;
       pos base U
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring
-          <anchor 522 797> mark @top;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring
+          <anchor 513 797> mark @top;
       pos base Uacute
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Ubreve
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Ucaron
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Ucircumflex
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Udieresis
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Ugrave
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Uhungarumlaut
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Umacron
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base Uogonek
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring
-          <anchor 522 797> mark @top;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring
+          <anchor 513 797> mark @top;
       pos base Upsilon
-          <anchor 284 -80> mark @bottom
+          <anchor 288 -80> mark @bottom
           <anchor 473 797> mark @top;
       pos base Upsilondieresis
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base Uring
-          <anchor 349 -88> mark @bottom
-          <anchor 522 797> mark @top;
+          <anchor 348 -80> mark @bottom
+          <anchor 513 797> mark @top;
       pos base Utilde
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base V
-          <anchor 514 797> mark @top;
+          <anchor 467 797> mark @top;
       pos base W
           <anchor 460 -80> mark @bottom
-          <anchor 645 797> mark @top;
+          <anchor 626 797> mark @top;
       pos base Wacute
           <anchor 460 -80> mark @bottom;
       pos base Wcircumflex
@@ -707,1629 +707,1637 @@ feature mark {
       pos base Wgrave
           <anchor 460 -80> mark @bottom;
       pos base X
-          <anchor 350 -80> mark @bottom
-          <anchor 491 797> mark @top;
+          <anchor 339 -80> mark @bottom
+          <anchor 482 797> mark @top;
       pos base Y
-          <anchor 284 -80> mark @bottom
+          <anchor 288 -80> mark @bottom
           <anchor 473 797> mark @top;
       pos base Yacute
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base Ycircumflex
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base Ydieresis
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base Ygrave
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base Z
-          <anchor 326 0> mark @b.cedilla
-          <anchor 270 -80> mark @bottom
-          <anchor 436 797> mark @top;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 278 -80> mark @bottom
+          <anchor 432 797> mark @top;
       pos base Zacute
-          <anchor 326 0> mark @b.cedilla
-          <anchor 270 -80> mark @bottom;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 278 -80> mark @bottom;
       pos base Zcaron
-          <anchor 326 0> mark @b.cedilla
-          <anchor 270 -80> mark @bottom;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 278 -80> mark @bottom;
       pos base Zdotaccent
-          <anchor 326 0> mark @b.cedilla
-          <anchor 270 -80> mark @bottom;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 278 -80> mark @bottom;
       pos base Zeta
-          <anchor 326 0> mark @b.cedilla
-          <anchor 270 -80> mark @bottom
-          <anchor 436 797> mark @top;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 278 -80> mark @bottom
+          <anchor 432 797> mark @top;
       pos base a
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring
-          <anchor 390 580> mark @top;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring
+          <anchor 387 580> mark @top;
       pos base aacute
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base abreve
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base acaron
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base acircumflex
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base adieresis
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base ae
-          <anchor 564 580> mark @top;
+          <anchor 546 580> mark @top;
       pos base agrave
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base amacron
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base aogonek
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring
-          <anchor 390 580> mark @top;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring
+          <anchor 387 580> mark @top;
       pos base aring
-          <anchor 263 -80> mark @bottom
-          <anchor 390 580> mark @top;
+          <anchor 264 -80> mark @bottom
+          <anchor 387 580> mark @top;
       pos base aringacute
-          <anchor 263 -80> mark @bottom
-          <anchor 390 580> mark @top;
+          <anchor 264 -80> mark @bottom
+          <anchor 387 580> mark @top;
       pos base atilde
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base b
-          <anchor 261 -80> mark @bottom
-          <anchor 468 797> mark @top;
+          <anchor 281 -80> mark @bottom
+          <anchor 438 797> mark @top;
       pos base c
-          <anchor 254 0> mark @b.cedilla
-          <anchor 384 580> mark @top;
+          <anchor 272 0> mark @b.cedilla
+          <anchor 383 580> mark @top;
       pos base cacute
-          <anchor 254 0> mark @b.cedilla;
+          <anchor 272 0> mark @b.cedilla;
       pos base ccaron
-          <anchor 254 0> mark @b.cedilla;
+          <anchor 272 0> mark @b.cedilla;
       pos base ccedilla
-          <anchor 384 580> mark @top;
+          <anchor 383 580> mark @top;
       pos base ccircumflex
-          <anchor 254 0> mark @b.cedilla;
+          <anchor 272 0> mark @b.cedilla;
       pos base cdotaccent
-          <anchor 254 0> mark @b.cedilla;
+          <anchor 272 0> mark @b.cedilla;
       pos base d
-          <anchor 303 -50> mark @b.commabelow
-          <anchor 285 -57> mark @bottom
-          <anchor 434 797> mark @top;
+          <anchor 258 -50> mark @b.commabelow
+          <anchor 290 -57> mark @bottom
+          <anchor 437 797> mark @top;
       pos base dcaron
-          <anchor 305 -50> mark @b.commabelow
-          <anchor 287 -57> mark @bottom
-          <anchor 436 748> mark @top;
+          <anchor 262 -50> mark @b.commabelow
+          <anchor 294 -57> mark @bottom
+          <anchor 441 748> mark @top;
       pos base dotlessi
-          <anchor 87 -80> mark @bottom
-          <anchor 216 580> mark @top;
+          <anchor 70 -80> mark @bottom
+          <anchor 199 580> mark @top;
       pos base e
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom
           <anchor 394 580> mark @top;
       pos base eacute
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base ebreve
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base ecaron
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base ecircumflex
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base edieresis
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base edotaccent
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base egrave
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base emacron
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base eogonek
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom
           <anchor 394 580> mark @top;
       pos base f
-          <anchor 180 -75> mark @bottom
-          <anchor 351 797> mark @top;
+          <anchor 167 -75> mark @bottom
+          <anchor 350 797> mark @top;
       pos base g
-          <anchor 382 580> mark @top;
+          <anchor 357 580> mark @top;
       pos base gcommaaccent
-          <anchor 382 580> mark @top;
+          <anchor 357 580> mark @top;
       pos base h
-          <anchor 112 0> mark @b.cedilla
-          <anchor 273 -80> mark @bottom
-          <anchor 439 797> mark @top;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 267 -80> mark @bottom
+          <anchor 434 797> mark @top;
       pos base hcaron
-          <anchor 112 0> mark @b.cedilla
-          <anchor 273 -80> mark @bottom;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 267 -80> mark @bottom;
       pos base hcircumflex
-          <anchor 112 0> mark @b.cedilla
-          <anchor 273 -80> mark @bottom;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 267 -80> mark @bottom;
       pos base i
-          <anchor 117 -80> mark @bottom;
+          <anchor 100 -80> mark @bottom;
       pos base iacute
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base ibreve
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base icaron
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base icircumflex
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base idieresis
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base igrave
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base ij
-          <anchor 117 -80> mark @bottom;
+          <anchor 100 -80> mark @bottom;
       pos base imacron
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base iogonek
-          <anchor 77 -80> mark @bottom;
+          <anchor 50 -80> mark @bottom;
       pos base iota
-          <anchor 238 580> mark @top;
+          <anchor 241 580> mark @top;
       pos base itilde
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base dotlessj
-          <anchor 248 580> mark @top;
+          <anchor 209 580> mark @top;
       pos base k
-          <anchor 285 -50> mark @b.commabelow
-          <anchor 274 -80> mark @bottom
-          <anchor 480 797> mark @top;
+          <anchor 291 -50> mark @b.commabelow
+          <anchor 253 -80> mark @bottom
+          <anchor 454 797> mark @top;
       pos base kcaron
-          <anchor 285 -50> mark @b.commabelow
-          <anchor 274 -80> mark @bottom;
+          <anchor 291 -50> mark @b.commabelow
+          <anchor 253 -80> mark @bottom;
       pos base kcommaaccent
-          <anchor 274 -80> mark @bottom
-          <anchor 480 797> mark @top;
+          <anchor 253 -80> mark @bottom
+          <anchor 454 797> mark @top;
       pos base l
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 94 -57> mark @bottom
-          <anchor 284 797> mark @top;
+          <anchor 67 -50> mark @b.commabelow
+          <anchor 84 -57> mark @bottom
+          <anchor 264 797> mark @top;
       pos base lacute
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 94 -57> mark @bottom;
+          <anchor 67 -50> mark @b.commabelow
+          <anchor 84 -57> mark @bottom;
       pos base lcaron
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 94 -57> mark @bottom
-          <anchor 283 797> mark @top;
+          <anchor 66 -50> mark @b.commabelow
+          <anchor 83 -57> mark @bottom
+          <anchor 262 762> mark @top;
       pos base lcommaaccent
-          <anchor 94 -57> mark @bottom
-          <anchor 284 797> mark @top;
+          <anchor 84 -57> mark @bottom
+          <anchor 264 797> mark @top;
       pos base ldot
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 94 -80> mark @bottom
-          <anchor 283 797> mark @top;
+          <anchor 66 -50> mark @b.commabelow
+          <anchor 83 -80> mark @bottom
+          <anchor 262 762> mark @top;
       pos base m
           <anchor 432 -80> mark @bottom
           <anchor 561 580> mark @top;
       pos base n
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom
-          <anchor 406 580> mark @top;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom
+          <anchor 405 580> mark @top;
       pos base nacute
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom
-          <anchor 406 580> mark @top;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom
+          <anchor 405 580> mark @top;
       pos base ncaron
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom;
       pos base ncommaaccent
-          <anchor 278 -80> mark @bottom
-          <anchor 406 580> mark @top;
+          <anchor 268 -80> mark @bottom
+          <anchor 405 580> mark @top;
       pos base ntilde
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom;
       pos base o
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom
-          <anchor 420 580> mark @top;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom
+          <anchor 397 580> mark @top;
       pos base oacute
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base obreve
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base ocaron
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base ocircumflex
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base odieresis
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base ograve
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base ohungarumlaut
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base omacron
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base omicron
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom
-          <anchor 420 580> mark @top;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom
+          <anchor 397 580> mark @top;
       pos base otilde
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base p
-          <anchor 443 580> mark @top;
+          <anchor 428 580> mark @top;
       pos base q
-          <anchor 391 580> mark @top;
+          <anchor 388 580> mark @top;
       pos base r
-          <anchor 85 -50> mark @b.commabelow
-          <anchor 317 580> mark @top;
+          <anchor 75 -50> mark @b.commabelow
+          <anchor 308 580> mark @top;
       pos base racute
-          <anchor 85 -50> mark @b.commabelow;
+          <anchor 75 -50> mark @b.commabelow;
       pos base rcaron
-          <anchor 85 -50> mark @b.commabelow;
+          <anchor 75 -50> mark @b.commabelow;
       pos base rcommaaccent
-          <anchor 317 580> mark @top;
+          <anchor 308 580> mark @top;
       pos base s
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom
-          <anchor 387 580> mark @top;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom
+          <anchor 342 580> mark @top;
       pos base sacute
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom;
       pos base scaron
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom;
       pos base scedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom
-          <anchor 387 580> mark @top;
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom
+          <anchor 342 580> mark @top;
       pos base scircumflex
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom;
       pos base uni0219
-          <anchor 253 0> mark @b.cedilla
-          <anchor 273 -80> mark @bottom
-          <anchor 387 580> mark @top;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 245 -80> mark @bottom
+          <anchor 342 580> mark @top;
       pos base t
-          <anchor 210 0> mark @b.cedilla
-          <anchor 172 -50> mark @b.commabelow
-          <anchor 214 -80> mark @bottom
-          <anchor 322 722> mark @top;
+          <anchor 185 0> mark @b.cedilla
+          <anchor 169 -50> mark @b.commabelow
+          <anchor 198 -80> mark @bottom
+          <anchor 296 711> mark @top;
       pos base tcaron
-          <anchor 130 0> mark @b.cedilla
-          <anchor 92 -50> mark @b.commabelow
-          <anchor 134 -80> mark @bottom
-          <anchor 242 722> mark @top;
+          <anchor 101 0> mark @b.cedilla
+          <anchor 85 -50> mark @b.commabelow
+          <anchor 114 -80> mark @bottom
+          <anchor 211 711> mark @top;
       pos base uni0163
-          <anchor 172 -50> mark @b.commabelow
-          <anchor 214 -80> mark @bottom
-          <anchor 322 722> mark @top;
+          <anchor 169 -50> mark @b.commabelow
+          <anchor 198 -80> mark @bottom
+          <anchor 296 711> mark @top;
       pos base u
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring
           <anchor 400 580> mark @top;
       pos base uacute
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base ubreve
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base ucaron
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base ucircumflex
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base udieresis
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base ugrave
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base uhungarumlaut
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base umacron
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base uni01C4
-          <anchor 1042 0> mark @b.cedilla
-          <anchor 292 -80> mark @b.commabelow
-          <anchor 986 -80> mark @bottom
+          <anchor 1071 0> mark @b.cedilla
+          <anchor 282 -80> mark @b.commabelow
+          <anchor 985 -80> mark @bottom
           <anchor 431 797> mark @top;
       pos base uni01C5
-          <anchor 1026 0> mark @b.cedilla
-          <anchor 292 -80> mark @b.commabelow
-          <anchor 910 -80> mark @bottom
+          <anchor 1057 0> mark @b.cedilla
+          <anchor 282 -80> mark @b.commabelow
+          <anchor 901 -80> mark @bottom
           <anchor 431 797> mark @top;
       pos base uni01C6
-          <anchor 918 0> mark @b.cedilla
-          <anchor 303 -50> mark @b.commabelow
-          <anchor 802 -80> mark @bottom
-          <anchor 434 797> mark @top;
+          <anchor 935 0> mark @b.cedilla
+          <anchor 258 -50> mark @b.commabelow
+          <anchor 779 -80> mark @bottom
+          <anchor 437 797> mark @top;
       pos base uni01C7
           <anchor 246 -50> mark @b.commabelow
-          <anchor 240 -80> mark @bottom
-          <anchor 1077 797> mark @top;
+          <anchor 250 -80> mark @bottom
+          <anchor 1017 797> mark @top;
       pos base uni01C8
           <anchor 246 -50> mark @b.commabelow
-          <anchor 240 -80> mark @bottom
-          <anchor 294 797> mark @top;
+          <anchor 250 -80> mark @bottom
+          <anchor 272 797> mark @top;
       pos base uni01C9
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 94 -57> mark @bottom
-          <anchor 284 797> mark @top;
+          <anchor 67 -50> mark @b.commabelow
+          <anchor 84 -57> mark @bottom
+          <anchor 264 797> mark @top;
       pos base uni01CA
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom
-          <anchor 1318 797> mark @top;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom
+          <anchor 1233 797> mark @top;
       pos base uni01CB
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom
-          <anchor 530 797> mark @top;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom
+          <anchor 510 797> mark @top;
       pos base uni01CC
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom
-          <anchor 406 580> mark @top;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom
+          <anchor 405 580> mark @top;
       pos base uni01D5
-          <anchor 259 -88> mark @bottom
-          <anchor 446 797> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 436 797> mark @t.ring;
       pos base uni01D6
-          <anchor 220 -87> mark @bottom
-          <anchor 360 580> mark @t.ring;
+          <anchor 212 -80> mark @bottom
+          <anchor 354 580> mark @t.ring;
       pos base uni01D7
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base uni01D8
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base uni01D9
-          <anchor 259 -88> mark @bottom
-          <anchor 446 797> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 436 797> mark @t.ring;
       pos base uni01DA
-          <anchor 220 -87> mark @bottom
-          <anchor 360 580> mark @t.ring;
+          <anchor 212 -80> mark @bottom
+          <anchor 354 580> mark @t.ring;
       pos base uni01DB
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base uni01DC
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base uni01DD
-          <anchor 209 -80> mark @bottom
-          <anchor 348 580> mark @top;
+          <anchor 256 -80> mark @bottom
+          <anchor 397 580> mark @top;
       pos base uni01DE
-          <anchor 340 -80> mark @bottom
-          <anchor 586 10> mark @ogonekUC
-          <anchor 511 663> mark @t.ring;
+          <anchor 286 -80> mark @bottom
+          <anchor 589 10> mark @ogonekUC
+          <anchor 455 682> mark @t.ring;
       pos base uni01DF
-          <anchor 207 -80> mark @bottom
-          <anchor 364 580> mark @t.ring;
+          <anchor 193 -80> mark @bottom
+          <anchor 344 580> mark @t.ring;
       pos base uni01E0
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni01E1
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni01EA
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 539 797> mark @top;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 546 797> mark @top;
       pos base uni01EB
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom
-          <anchor 420 580> mark @top;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom
+          <anchor 397 580> mark @top;
       pos base uni01EC
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom;
       pos base uni01ED
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni01F1
-          <anchor 1042 0> mark @b.cedilla
-          <anchor 292 -80> mark @b.commabelow
-          <anchor 986 -80> mark @bottom
-          <anchor 1152 797> mark @top;
+          <anchor 1071 0> mark @b.cedilla
+          <anchor 282 -80> mark @b.commabelow
+          <anchor 985 -80> mark @bottom
+          <anchor 1139 797> mark @top;
       pos base uni01F2
-          <anchor 1026 0> mark @b.cedilla
-          <anchor 292 -80> mark @b.commabelow
-          <anchor 910 -80> mark @bottom
-          <anchor 1043 580> mark @top;
+          <anchor 1057 0> mark @b.cedilla
+          <anchor 282 -80> mark @b.commabelow
+          <anchor 901 -80> mark @bottom
+          <anchor 1034 580> mark @top;
       pos base uni01F3
-          <anchor 918 0> mark @b.cedilla
-          <anchor 303 -50> mark @b.commabelow
-          <anchor 802 -80> mark @bottom
-          <anchor 935 580> mark @top;
+          <anchor 935 0> mark @b.cedilla
+          <anchor 258 -50> mark @b.commabelow
+          <anchor 779 -80> mark @bottom
+          <anchor 912 580> mark @top;
       pos base uni01F8
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom;
       pos base uni01F9
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom;
       pos base uni0200
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni0201
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni0202
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni0203
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni0204
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni0205
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base uni0206
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni0207
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base uni0208
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base uni0209
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base uni020A
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base uni020B
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base uni020C
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni020D
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni020E
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni020F
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni0210
-          <anchor 326 -50> mark @b.commabelow;
+          <anchor 306 -50> mark @b.commabelow;
       pos base uni0211
-          <anchor 85 -50> mark @b.commabelow;
+          <anchor 75 -50> mark @b.commabelow;
       pos base uni0212
-          <anchor 326 -50> mark @b.commabelow;
+          <anchor 306 -50> mark @b.commabelow;
       pos base uni0213
-          <anchor 85 -50> mark @b.commabelow;
+          <anchor 75 -50> mark @b.commabelow;
       pos base uni0214
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base uni0215
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base uni0216
-          <anchor 349 -88> mark @bottom
-          <anchor 536 797> mark @t.ring;
+          <anchor 348 -80> mark @bottom
+          <anchor 514 797> mark @t.ring;
       pos base uni0217
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base uni021A
-          <anchor 288 0> mark @b.cedilla
-          <anchor 267 -80> mark @bottom
-          <anchor 453 797> mark @top;
+          <anchor 275 0> mark @b.cedilla
+          <anchor 278 -80> mark @bottom
+          <anchor 440 797> mark @top;
       pos base uni021B
-          <anchor 210 0> mark @b.cedilla
-          <anchor 214 -80> mark @bottom
-          <anchor 322 722> mark @top;
+          <anchor 185 0> mark @b.cedilla
+          <anchor 198 -80> mark @bottom
+          <anchor 296 711> mark @top;
       pos base uni0226
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni0227
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni0228
-          <anchor 478 0> mark @ogonekUC
-          <anchor 428 797> mark @top;
+          <anchor 458 0> mark @ogonekUC
+          <anchor 411 797> mark @top;
       pos base uni0229
-          <anchor 259 -89> mark @bottom
+          <anchor 263 -89> mark @bottom
           <anchor 394 580> mark @top;
       pos base uni022A
-          <anchor 290 0> mark @b.cedilla
-          <anchor 298 -80> mark @bottom
-          <anchor 350 0> mark @ogonekUC;
+          <anchor 270 0> mark @b.cedilla
+          <anchor 292 -80> mark @bottom
+          <anchor 320 0> mark @ogonekUC;
       pos base uni022B
-          <anchor 220 0> mark @b.cedilla
-          <anchor 239 -80> mark @bottom;
-      pos base uni022C
           <anchor 290 0> mark @b.cedilla
-          <anchor 298 -80> mark @bottom
-          <anchor 350 0> mark @ogonekUC;
+          <anchor 210 -80> mark @bottom;
+      pos base uni022C
+          <anchor 270 0> mark @b.cedilla
+          <anchor 292 -80> mark @bottom
+          <anchor 320 0> mark @ogonekUC;
       pos base uni022D
-          <anchor 220 0> mark @b.cedilla
-          <anchor 239 -80> mark @bottom;
+          <anchor 290 0> mark @b.cedilla
+          <anchor 210 -80> mark @bottom;
       pos base uni022E
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni022F
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni0230
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni0231
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni0232
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base uni0259
-          <anchor 259 -80> mark @bottom
-          <anchor 398 580> mark @top;
+          <anchor 256 -80> mark @bottom
+          <anchor 397 580> mark @top;
       pos base uni025A
-          <anchor 339 589> mark @bottom
-          <anchor 205 -100> mark @top;
+          <anchor 352 587> mark @bottom
+          <anchor 222 -82> mark @top;
       pos base uni0261
-          <anchor 382 580> mark @top;
+          <anchor 357 580> mark @top;
       pos base uni0269
-          <anchor 238 580> mark @top;
+          <anchor 241 580> mark @top;
       pos base uni0292
-          <anchor 318 600> mark @top;
+          <anchor 308 600> mark @top;
       pos base uni0400
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
       pos base uni0401
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
       pos base uni0405
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom
-          <anchor 461 797> mark @top;
+          <anchor 349 -80> mark @bottom
+          <anchor 421 797> mark @top;
       pos base uni0406
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC
-          <anchor 299 797> mark @top;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC
+          <anchor 293 797> mark @top;
       pos base uni0407
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base uni0408
-          <anchor 569 797> mark @top;
+          <anchor 529 797> mark @top;
       pos base uni0410
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring
-          <anchor 499 797> mark @top;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring
+          <anchor 515 797> mark @top;
       pos base uni0412
-          <anchor 259 -80> mark @bottom
-          <anchor 441 797> mark @top;
+          <anchor 269 -80> mark @bottom
+          <anchor 411 797> mark @top;
       pos base uni0413
-          <anchor 445 797> mark @top;
+          <anchor 408 797> mark @top;
       pos base uni0415
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC
-          <anchor 428 797> mark @top;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC
+          <anchor 411 797> mark @top;
       pos base uni0416
-          <anchor 700 797> mark @top;
+          <anchor 566 797> mark @top;
       pos base uni0417
-          <anchor 453 797> mark @top;
+          <anchor 419 797> mark @top;
       pos base uni0418
-          <anchor 508 797> mark @top;
+          <anchor 485 797> mark @top;
       pos base uni041A
-          <anchor 472 797> mark @top;
+          <anchor 455 797> mark @top;
       pos base uni041C
-          <anchor 443 -80> mark @bottom
-          <anchor 616 797> mark @top;
+          <anchor 407 -80> mark @bottom
+          <anchor 580 797> mark @top;
       pos base uni041D
-          <anchor 118 0> mark @b.cedilla
-          <anchor 338 -80> mark @bottom
-          <anchor 507 797> mark @top;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 320 -80> mark @bottom
+          <anchor 489 797> mark @top;
       pos base uni041E
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC
-          <anchor 539 797> mark @top;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC
+          <anchor 546 797> mark @top;
       pos base uni0420
-          <anchor 439 797> mark @top;
+          <anchor 400 797> mark @top;
       pos base uni0421
-          <anchor 365 0> mark @b.cedilla
-          <anchor 387 10> mark @bottom
-          <anchor 525 797> mark @top;
+          <anchor 361 0> mark @b.cedilla
+          <anchor 380 10> mark @bottom
+          <anchor 511 797> mark @top;
       pos base uni0422
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 267 -80> mark @bottom
-          <anchor 453 797> mark @top;
+          <anchor 278 -80> mark @bottom
+          <anchor 440 797> mark @top;
       pos base uni0423
-          <anchor 503 797> mark @top;
+          <anchor 479 797> mark @top;
       pos base uni0425
-          <anchor 350 -80> mark @bottom
-          <anchor 491 797> mark @top;
+          <anchor 339 -80> mark @bottom
+          <anchor 482 797> mark @top;
       pos base uni0427
-          <anchor 497 797> mark @top;
+          <anchor 504 797> mark @top;
       pos base uni042B
-          <anchor 582 797> mark @top;
+          <anchor 567 797> mark @top;
       pos base uni042D
-          <anchor 518 797> mark @top;
+          <anchor 508 797> mark @top;
       pos base uni0430
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring
-          <anchor 390 580> mark @top;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring
+          <anchor 387 580> mark @top;
       pos base uni0433
-          <anchor 348 580> mark @top;
+          <anchor 341 580> mark @top;
       pos base uni0434.loclBGR
-          <anchor 412 580> mark @top;
+          <anchor 377 580> mark @top;
       pos base uni0435
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom
           <anchor 394 580> mark @top;
       pos base uni0436
-          <anchor 533 580> mark @top;
+          <anchor 510 580> mark @top;
       pos base uni0437
-          <anchor 381 580> mark @top;
+          <anchor 335 580> mark @top;
       pos base uni0438.loclBGR
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring
           <anchor 400 580> mark @top;
       pos base uni0438
-          <anchor 408 580> mark @top;
+          <anchor 410 580> mark @top;
       pos base uni0439.loclBGR
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base uni043A.loclBGR
-          <anchor 285 -50> mark @b.commabelow
-          <anchor 274 -80> mark @bottom
-          <anchor 480 797> mark @top;
+          <anchor 291 -50> mark @b.commabelow
+          <anchor 253 -80> mark @bottom
+          <anchor 454 797> mark @top;
       pos base uni043A
-          <anchor 369 580> mark @top;
+          <anchor 382 580> mark @top;
       pos base uni043B.loclBGR
-          <anchor 336 580> mark @top;
+          <anchor 381 580> mark @top;
       pos base uni043E
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom
-          <anchor 420 580> mark @top;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom
+          <anchor 397 580> mark @top;
       pos base uni043F.loclBGR
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom
-          <anchor 406 580> mark @top;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom
+          <anchor 405 580> mark @top;
       pos base uni0440
-          <anchor 443 580> mark @top;
+          <anchor 428 580> mark @top;
       pos base uni0441
-          <anchor 254 0> mark @b.cedilla
-          <anchor 384 580> mark @top;
+          <anchor 272 0> mark @b.cedilla
+          <anchor 383 580> mark @top;
       pos base uni0442.loclBGR
           <anchor 432 -80> mark @bottom
           <anchor 561 580> mark @top;
       pos base uni0443
-          <anchor 402 580> mark @top;
+          <anchor 362 580> mark @top;
       pos base uni0445
-          <anchor 375 580> mark @top;
+          <anchor 377 580> mark @top;
       pos base uni0447.loclBGR
-          <anchor 398 580> mark @top;
+          <anchor 379 580> mark @top;
       pos base uni0447
-          <anchor 398 580> mark @top;
+          <anchor 379 580> mark @top;
       pos base uni044B.loclBGR
-          <anchor 626 -80> mark @bottom
-          <anchor 755 580> mark @top;
+          <anchor 589 -80> mark @bottom
+          <anchor 718 580> mark @top;
       pos base uni044B
-          <anchor 475 580> mark @top;
+          <anchor 465 580> mark @top;
       pos base uni044D
-          <anchor 409 580> mark @top;
-      pos base uni0450
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
-      pos base uni0451
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
-      pos base uni0455
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom
-          <anchor 387 580> mark @top;
-      pos base uni0456
-          <anchor 117 -80> mark @bottom;
-      pos base uni0457
-          <anchor 87 -80> mark @bottom;
-      pos base uni045D.loclBGR
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
-      pos base uni04D0
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
-      pos base uni04D1
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
-      pos base uni04D2
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
-      pos base uni04D3
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
-      pos base uni04D4
-          <anchor 670 797> mark @top;
-      pos base uni04D5
-          <anchor 564 580> mark @top;
-      pos base uni04D6
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
-      pos base uni04D7
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
-      pos base uni04D9
-          <anchor 259 -80> mark @bottom
           <anchor 398 580> mark @top;
+      pos base uni0450
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
+      pos base uni0451
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
+      pos base uni0455
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom
+          <anchor 342 580> mark @top;
+      pos base uni0456
+          <anchor 100 -80> mark @bottom;
+      pos base uni0457
+          <anchor 70 -80> mark @bottom;
+      pos base uni045D.loclBGR
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
+      pos base uni04D0
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
+      pos base uni04D1
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
+      pos base uni04D2
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
+      pos base uni04D3
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
+      pos base uni04D4
+          <anchor 620 797> mark @top;
+      pos base uni04D5
+          <anchor 546 580> mark @top;
+      pos base uni04D6
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
+      pos base uni04D7
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
+      pos base uni04D9
+          <anchor 256 -80> mark @bottom
+          <anchor 397 580> mark @top;
       pos base uni04DB
-          <anchor 259 -80> mark @bottom;
+          <anchor 256 -80> mark @bottom;
       pos base uni04E1
-          <anchor 318 600> mark @top;
+          <anchor 308 600> mark @top;
       pos base uni04E6
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni04E7
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni1E00
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring
-          <anchor 499 797> mark @top;
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring
+          <anchor 515 797> mark @top;
       pos base uni1E01
-          <anchor 420 580> mark @t.ring
-          <anchor 390 580> mark @top;
+          <anchor 415 580> mark @t.ring
+          <anchor 387 580> mark @top;
       pos base uni1E02
-          <anchor 259 -80> mark @bottom;
+          <anchor 269 -80> mark @bottom;
       pos base uni1E03
-          <anchor 261 -80> mark @bottom;
+          <anchor 281 -80> mark @bottom;
       pos base uni1E04
-          <anchor 441 797> mark @top;
+          <anchor 411 797> mark @top;
       pos base uni1E05
-          <anchor 468 797> mark @top;
+          <anchor 438 797> mark @top;
       pos base uni1E06
-          <anchor 441 797> mark @top;
+          <anchor 411 797> mark @top;
       pos base uni1E07
-          <anchor 468 797> mark @top;
+          <anchor 438 797> mark @top;
       pos base uni1E08
-          <anchor 387 10> mark @bottom;
+          <anchor 380 10> mark @bottom;
       pos base uni1E0A
-          <anchor 292 -80> mark @b.commabelow
+          <anchor 282 -80> mark @b.commabelow
           <anchor 282 -80> mark @bottom;
       pos base uni1E0B
-          <anchor 303 -50> mark @b.commabelow
-          <anchor 285 -57> mark @bottom;
+          <anchor 258 -50> mark @b.commabelow
+          <anchor 290 -57> mark @bottom;
       pos base uni1E0C
-          <anchor 292 -80> mark @b.commabelow
+          <anchor 282 -80> mark @b.commabelow
           <anchor 431 797> mark @top;
       pos base uni1E0D
-          <anchor 303 -50> mark @b.commabelow
-          <anchor 434 797> mark @top;
+          <anchor 258 -50> mark @b.commabelow
+          <anchor 437 797> mark @top;
       pos base uni1E0E
-          <anchor 292 -80> mark @b.commabelow
+          <anchor 282 -80> mark @b.commabelow
           <anchor 431 797> mark @top;
       pos base uni1E0F
-          <anchor 303 -50> mark @b.commabelow
-          <anchor 434 797> mark @top;
+          <anchor 258 -50> mark @b.commabelow
+          <anchor 437 797> mark @top;
       pos base uni1E10
           <anchor 282 -80> mark @bottom
           <anchor 431 797> mark @top;
       pos base uni1E11
-          <anchor 285 -57> mark @bottom
-          <anchor 434 797> mark @top;
+          <anchor 290 -57> mark @bottom
+          <anchor 437 797> mark @top;
       pos base uni1E12
-          <anchor 292 -80> mark @b.commabelow
+          <anchor 282 -80> mark @b.commabelow
           <anchor 431 797> mark @top;
       pos base uni1E13
-          <anchor 303 -50> mark @b.commabelow
-          <anchor 434 797> mark @top;
+          <anchor 258 -50> mark @b.commabelow
+          <anchor 437 797> mark @top;
       pos base uni1E14
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC;
       pos base uni1E15
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base uni1E16
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni1E17
-          <anchor 220 0> mark @b.cedilla
-          <anchor 211 -89> mark @bottom;
+          <anchor 223 0> mark @b.cedilla
+          <anchor 200 -89> mark @bottom;
       pos base uni1E18
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC
-          <anchor 387 797> mark @top;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC
+          <anchor 380 797> mark @top;
       pos base uni1E19
-          <anchor 268 0> mark @b.cedilla
+          <anchor 286 0> mark @b.cedilla
           <anchor 394 580> mark @top;
       pos base uni1E1A
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC
-          <anchor 387 797> mark @top;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC
+          <anchor 380 797> mark @top;
       pos base uni1E1B
-          <anchor 268 0> mark @b.cedilla
+          <anchor 286 0> mark @b.cedilla
           <anchor 394 580> mark @top;
       pos base uni1E1C
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 427 0> mark @ogonekUC;
       pos base uni1E1D
-          <anchor 259 -89> mark @bottom;
+          <anchor 263 -89> mark @bottom;
       pos base uni1E1F
-          <anchor 180 -75> mark @bottom;
+          <anchor 167 -75> mark @bottom;
       pos base uni1E20
-          <anchor 387 -50> mark @b.commabelow;
+          <anchor 365 -50> mark @b.commabelow;
       pos base uni1E22
-          <anchor 118 0> mark @b.cedilla
-          <anchor 338 -80> mark @bottom;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 320 -80> mark @bottom;
       pos base uni1E23
-          <anchor 112 0> mark @b.cedilla
-          <anchor 273 -80> mark @bottom;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 267 -80> mark @bottom;
       pos base uni1E24
-          <anchor 118 0> mark @b.cedilla
-          <anchor 507 797> mark @top;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 489 797> mark @top;
       pos base uni1E25
-          <anchor 112 0> mark @b.cedilla
-          <anchor 439 797> mark @top;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 434 797> mark @top;
       pos base uni1E26
-          <anchor 118 0> mark @b.cedilla
-          <anchor 338 -80> mark @bottom;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 320 -80> mark @bottom;
       pos base uni1E27
-          <anchor 112 0> mark @b.cedilla
-          <anchor 273 -80> mark @bottom;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 267 -80> mark @bottom;
       pos base uni1E28
-          <anchor 338 -80> mark @bottom
-          <anchor 507 797> mark @top;
+          <anchor 320 -80> mark @bottom
+          <anchor 489 797> mark @top;
       pos base uni1E29
-          <anchor 273 -80> mark @bottom
-          <anchor 439 797> mark @top;
+          <anchor 267 -80> mark @bottom
+          <anchor 434 797> mark @top;
       pos base uni1E2A
-          <anchor 118 0> mark @b.cedilla
-          <anchor 507 797> mark @top;
+          <anchor 109 0> mark @b.cedilla
+          <anchor 489 797> mark @top;
       pos base uni1E2B
-          <anchor 112 0> mark @b.cedilla
-          <anchor 439 797> mark @top;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 434 797> mark @top;
       pos base uni1E2C
-          <anchor 221 0> mark @ogonekUC
-          <anchor 299 797> mark @top;
+          <anchor 191 0> mark @ogonekUC
+          <anchor 293 797> mark @top;
       pos base uni1E2E
-          <anchor 128 -80> mark @bottom
-          <anchor 221 0> mark @ogonekUC;
+          <anchor 123 -80> mark @bottom
+          <anchor 191 0> mark @ogonekUC;
       pos base uni1E2F
-          <anchor 87 -80> mark @bottom;
+          <anchor 70 -80> mark @bottom;
       pos base uni1E30
-          <anchor 345 -50> mark @b.commabelow
-          <anchor 340 -80> mark @bottom;
+          <anchor 306 -50> mark @b.commabelow
+          <anchor 300 -80> mark @bottom;
       pos base uni1E31
-          <anchor 285 -50> mark @b.commabelow
-          <anchor 274 -80> mark @bottom;
+          <anchor 291 -50> mark @b.commabelow
+          <anchor 253 -80> mark @bottom;
       pos base uni1E32
-          <anchor 345 -50> mark @b.commabelow
-          <anchor 511 797> mark @top;
+          <anchor 306 -50> mark @b.commabelow
+          <anchor 471 797> mark @top;
       pos base uni1E33
-          <anchor 285 -50> mark @b.commabelow
-          <anchor 480 797> mark @top;
+          <anchor 291 -50> mark @b.commabelow
+          <anchor 454 797> mark @top;
       pos base uni1E34
-          <anchor 345 -50> mark @b.commabelow
-          <anchor 511 797> mark @top;
+          <anchor 306 -50> mark @b.commabelow
+          <anchor 471 797> mark @top;
       pos base uni1E35
-          <anchor 285 -50> mark @b.commabelow
-          <anchor 480 797> mark @top;
+          <anchor 291 -50> mark @b.commabelow
+          <anchor 454 797> mark @top;
       pos base uni1E36
           <anchor 246 -50> mark @b.commabelow
-          <anchor 294 797> mark @top;
+          <anchor 272 797> mark @top;
       pos base uni1E37
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 284 797> mark @top;
+          <anchor 67 -50> mark @b.commabelow
+          <anchor 264 797> mark @top;
       pos base uni1E38
           <anchor 246 -50> mark @b.commabelow;
       pos base uni1E39
-          <anchor 82 -50> mark @b.commabelow;
+          <anchor 67 -50> mark @b.commabelow;
       pos base uni1E3A
           <anchor 246 -50> mark @b.commabelow
-          <anchor 294 797> mark @top;
+          <anchor 272 797> mark @top;
       pos base uni1E3B
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 284 797> mark @top;
+          <anchor 67 -50> mark @b.commabelow
+          <anchor 264 797> mark @top;
       pos base uni1E3C
           <anchor 246 -50> mark @b.commabelow
-          <anchor 294 797> mark @top;
+          <anchor 272 797> mark @top;
       pos base uni1E3D
-          <anchor 82 -50> mark @b.commabelow
-          <anchor 284 797> mark @top;
+          <anchor 67 -50> mark @b.commabelow
+          <anchor 264 797> mark @top;
       pos base uni1E3E
-          <anchor 443 -80> mark @bottom;
+          <anchor 407 -80> mark @bottom;
       pos base uni1E3F
           <anchor 432 -80> mark @bottom;
       pos base uni1E40
-          <anchor 443 -80> mark @bottom;
+          <anchor 407 -80> mark @bottom;
       pos base uni1E41
           <anchor 432 -80> mark @bottom;
       pos base uni1E42
-          <anchor 616 797> mark @top;
+          <anchor 580 797> mark @top;
       pos base uni1E43
           <anchor 561 580> mark @top;
       pos base uni1E44
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 357 -80> mark @bottom;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 339 -80> mark @bottom;
       pos base uni1E45
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 278 -80> mark @bottom;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 268 -80> mark @bottom;
       pos base uni1E46
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 530 797> mark @top;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 510 797> mark @top;
       pos base uni1E47
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 406 580> mark @top;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 405 580> mark @top;
       pos base uni1E49
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 406 580> mark @top;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 405 580> mark @top;
       pos base uni1E4C
-          <anchor 290 0> mark @b.cedilla
-          <anchor 298 -80> mark @bottom
-          <anchor 350 0> mark @ogonekUC;
+          <anchor 270 0> mark @b.cedilla
+          <anchor 292 -80> mark @bottom
+          <anchor 320 0> mark @ogonekUC;
       pos base uni1E4D
-          <anchor 220 0> mark @b.cedilla
-          <anchor 239 -80> mark @bottom;
+          <anchor 290 0> mark @b.cedilla
+          <anchor 210 -80> mark @bottom;
       pos base uni1E4E
-          <anchor 290 0> mark @b.cedilla
-          <anchor 298 -80> mark @bottom
-          <anchor 350 0> mark @ogonekUC;
+          <anchor 270 0> mark @b.cedilla
+          <anchor 292 -80> mark @bottom
+          <anchor 320 0> mark @ogonekUC;
       pos base uni1E4F
-          <anchor 220 0> mark @b.cedilla
-          <anchor 239 -80> mark @bottom;
-      pos base uni1E50
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
-      pos base uni1E51
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
-      pos base uni1E52
           <anchor 290 0> mark @b.cedilla
-          <anchor 298 -80> mark @bottom
-          <anchor 350 0> mark @ogonekUC;
+          <anchor 210 -80> mark @bottom;
+      pos base uni1E50
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
+      pos base uni1E51
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
+      pos base uni1E52
+          <anchor 270 0> mark @b.cedilla
+          <anchor 292 -80> mark @bottom
+          <anchor 320 0> mark @ogonekUC;
       pos base uni1E58
-          <anchor 326 -50> mark @b.commabelow;
+          <anchor 306 -50> mark @b.commabelow;
       pos base uni1E59
-          <anchor 85 -50> mark @b.commabelow;
+          <anchor 75 -50> mark @b.commabelow;
       pos base uni1E5A
-          <anchor 326 -50> mark @b.commabelow
+          <anchor 306 -50> mark @b.commabelow
           <anchor 453 797> mark @top;
       pos base uni1E5B
-          <anchor 85 -50> mark @b.commabelow
-          <anchor 317 580> mark @top;
+          <anchor 75 -50> mark @b.commabelow
+          <anchor 308 580> mark @top;
       pos base uni1E5C
-          <anchor 326 -50> mark @b.commabelow;
+          <anchor 306 -50> mark @b.commabelow;
       pos base uni1E5D
-          <anchor 85 -50> mark @b.commabelow;
+          <anchor 75 -50> mark @b.commabelow;
       pos base uni1E5E
-          <anchor 326 -50> mark @b.commabelow
+          <anchor 306 -50> mark @b.commabelow
           <anchor 453 797> mark @top;
       pos base uni1E5F
-          <anchor 85 -50> mark @b.commabelow
-          <anchor 317 580> mark @top;
+          <anchor 75 -50> mark @b.commabelow
+          <anchor 308 580> mark @top;
       pos base uni1E60
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom;
+          <anchor 349 -80> mark @bottom;
       pos base uni1E61
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom;
       pos base uni1E63
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 387 580> mark @top;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 342 580> mark @top;
       pos base uni1E66
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 328 -80> mark @bottom;
+          <anchor 349 -80> mark @bottom;
       pos base uni1E67
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow
-          <anchor 273 -80> mark @bottom;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow
+          <anchor 245 -80> mark @bottom;
       pos base uni1E68
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow;
       pos base uni1E69
-          <anchor 253 0> mark @b.cedilla
-          <anchor 218 -50> mark @b.commabelow;
+          <anchor 228 0> mark @b.cedilla
+          <anchor 200 -50> mark @b.commabelow;
       pos base uni1E6A
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 267 -80> mark @bottom;
+          <anchor 278 -80> mark @bottom;
       pos base uni1E6B
-          <anchor 210 0> mark @b.cedilla
-          <anchor 172 -50> mark @b.commabelow
-          <anchor 214 -80> mark @bottom;
+          <anchor 185 0> mark @b.cedilla
+          <anchor 169 -50> mark @b.commabelow
+          <anchor 198 -80> mark @bottom;
       pos base uni1E6C
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 453 797> mark @top;
+          <anchor 440 797> mark @top;
       pos base uni1E6D
-          <anchor 210 0> mark @b.cedilla
-          <anchor 172 -50> mark @b.commabelow
-          <anchor 322 722> mark @top;
+          <anchor 185 0> mark @b.cedilla
+          <anchor 169 -50> mark @b.commabelow
+          <anchor 296 711> mark @top;
       pos base uni1E6E
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 453 797> mark @top;
+          <anchor 440 797> mark @top;
       pos base uni1E6F
-          <anchor 210 0> mark @b.cedilla
-          <anchor 172 -50> mark @b.commabelow
-          <anchor 322 722> mark @top;
+          <anchor 185 0> mark @b.cedilla
+          <anchor 169 -50> mark @b.commabelow
+          <anchor 296 711> mark @top;
       pos base uni1E70
-          <anchor 288 0> mark @b.cedilla
+          <anchor 275 0> mark @b.cedilla
           <anchor 250 -50> mark @b.commabelow
-          <anchor 453 797> mark @top;
+          <anchor 440 797> mark @top;
       pos base uni1E71
-          <anchor 210 0> mark @b.cedilla
-          <anchor 172 -50> mark @b.commabelow
-          <anchor 322 722> mark @top;
+          <anchor 185 0> mark @b.cedilla
+          <anchor 169 -50> mark @b.commabelow
+          <anchor 296 711> mark @top;
       pos base uni1E73
-          <anchor 406 580> mark @t.ring
+          <anchor 412 580> mark @t.ring
           <anchor 400 580> mark @top;
       pos base uni1E76
-          <anchor 536 797> mark @t.ring
-          <anchor 522 797> mark @top;
+          <anchor 514 797> mark @t.ring
+          <anchor 513 797> mark @top;
       pos base uni1E77
-          <anchor 406 580> mark @t.ring
+          <anchor 412 580> mark @t.ring
           <anchor 400 580> mark @top;
       pos base uni1E78
-          <anchor 259 -88> mark @bottom
-          <anchor 446 797> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 436 797> mark @t.ring;
       pos base uni1E79
-          <anchor 220 -87> mark @bottom
-          <anchor 360 580> mark @t.ring;
+          <anchor 212 -80> mark @bottom
+          <anchor 354 580> mark @t.ring;
       pos base uni1E7A
-          <anchor 259 -88> mark @bottom
-          <anchor 446 797> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 436 797> mark @t.ring;
       pos base uni1E7B
-          <anchor 220 -87> mark @bottom
-          <anchor 360 580> mark @t.ring;
+          <anchor 212 -80> mark @bottom
+          <anchor 354 580> mark @t.ring;
       pos base uni1E7E
-          <anchor 514 797> mark @top;
+          <anchor 467 797> mark @top;
       pos base uni1E7F
-          <anchor 384 580> mark @top;
+          <anchor 380 580> mark @top;
       pos base uni1E86
           <anchor 460 -80> mark @bottom;
       pos base uni1E88
-          <anchor 645 797> mark @top;
+          <anchor 626 797> mark @top;
       pos base uni1E89
-          <anchor 540 580> mark @top;
+          <anchor 535 580> mark @top;
       pos base uni1E8A
-          <anchor 350 -80> mark @bottom;
+          <anchor 339 -80> mark @bottom;
       pos base uni1E8C
-          <anchor 350 -80> mark @bottom;
+          <anchor 339 -80> mark @bottom;
       pos base uni1E8E
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base uni1E90
-          <anchor 326 0> mark @b.cedilla
-          <anchor 270 -80> mark @bottom;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 278 -80> mark @bottom;
       pos base uni1E91
-          <anchor 310 0> mark @b.cedilla
+          <anchor 350 0> mark @b.cedilla
           <anchor 194 -80> mark @bottom;
       pos base uni1E92
-          <anchor 326 0> mark @b.cedilla
-          <anchor 436 797> mark @top;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 432 797> mark @top;
       pos base uni1E93
-          <anchor 310 0> mark @b.cedilla
+          <anchor 350 0> mark @b.cedilla
           <anchor 327 580> mark @top;
       pos base uni1E94
-          <anchor 326 0> mark @b.cedilla
-          <anchor 436 797> mark @top;
+          <anchor 364 0> mark @b.cedilla
+          <anchor 432 797> mark @top;
       pos base uni1E95
-          <anchor 310 0> mark @b.cedilla
+          <anchor 350 0> mark @b.cedilla
           <anchor 327 580> mark @top;
       pos base uni1E96
-          <anchor 112 0> mark @b.cedilla
-          <anchor 439 797> mark @top;
+          <anchor 104 0> mark @b.cedilla
+          <anchor 434 797> mark @top;
       pos base uni1E97
-          <anchor 210 0> mark @b.cedilla
-          <anchor 172 -50> mark @b.commabelow
-          <anchor 214 -80> mark @bottom;
+          <anchor 185 0> mark @b.cedilla
+          <anchor 169 -50> mark @b.commabelow
+          <anchor 198 -80> mark @bottom;
       pos base uni1E98
-          <anchor 540 580> mark @top;
+          <anchor 535 580> mark @top;
       pos base uni1E99
-          <anchor 366 580> mark @top;
+          <anchor 357 580> mark @top;
       pos base uni1EA0
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring
-          <anchor 499 797> mark @top;
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring
+          <anchor 515 797> mark @top;
       pos base uni1EA1
-          <anchor 420 580> mark @t.ring
-          <anchor 390 580> mark @top;
+          <anchor 415 580> mark @t.ring
+          <anchor 387 580> mark @top;
       pos base uni1EA4
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EA5
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni1EA6
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EA7
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni1EAA
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EAB
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni1EAC
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EAD
-          <anchor 420 580> mark @t.ring;
+          <anchor 415 580> mark @t.ring;
       pos base uni1EAE
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EAF
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni1EB0
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EB1
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni1EB4
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EB5
-          <anchor 263 -80> mark @bottom
-          <anchor 420 580> mark @t.ring;
+          <anchor 264 -80> mark @bottom
+          <anchor 415 580> mark @t.ring;
       pos base uni1EB6
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1EB7
-          <anchor 420 580> mark @t.ring;
+          <anchor 415 580> mark @t.ring;
       pos base uni1EB8
-          <anchor 262 0> mark @b.cedilla
-          <anchor 478 0> mark @ogonekUC
-          <anchor 428 797> mark @top;
+          <anchor 257 0> mark @b.cedilla
+          <anchor 458 0> mark @ogonekUC
+          <anchor 411 797> mark @top;
       pos base uni1EB9
-          <anchor 268 0> mark @b.cedilla
+          <anchor 286 0> mark @b.cedilla
           <anchor 394 580> mark @top;
       pos base uni1EBC
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni1EBD
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base uni1EBE
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni1EBF
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base uni1EC0
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni1EC1
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base uni1EC4
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni1EC5
-          <anchor 268 0> mark @b.cedilla
-          <anchor 259 -89> mark @bottom;
+          <anchor 286 0> mark @b.cedilla
+          <anchor 263 -89> mark @bottom;
       pos base uni1EC6
-          <anchor 221 0> mark @b.cedilla
-          <anchor 437 0> mark @ogonekUC;
+          <anchor 226 0> mark @b.cedilla
+          <anchor 427 0> mark @ogonekUC;
       pos base uni1EC7
-          <anchor 268 0> mark @b.cedilla;
+          <anchor 286 0> mark @b.cedilla;
       pos base uni1ECA
-          <anchor 221 0> mark @ogonekUC
-          <anchor 299 797> mark @top;
+          <anchor 191 0> mark @ogonekUC
+          <anchor 293 797> mark @top;
       pos base uni1ECC
-          <anchor 367 0> mark @b.cedilla
-          <anchor 427 0> mark @ogonekUC
-          <anchor 539 797> mark @top;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 404 0> mark @ogonekUC
+          <anchor 546 797> mark @top;
       pos base uni1ECD
-          <anchor 272 0> mark @b.cedilla
-          <anchor 420 580> mark @top;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 397 580> mark @top;
       pos base uni1ED0
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni1ED1
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni1ED2
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni1ED3
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni1ED6
-          <anchor 367 0> mark @b.cedilla
-          <anchor 375 -80> mark @bottom
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 376 -80> mark @bottom
+          <anchor 404 0> mark @ogonekUC;
       pos base uni1EF4
           <anchor 473 797> mark @top;
       pos base uni1EF8
-          <anchor 284 -80> mark @bottom;
+          <anchor 288 -80> mark @bottom;
       pos base uni1F78
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base uni1FB8
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uni1FB9
-          <anchor 330 -80> mark @bottom
-          <anchor 576 10> mark @ogonekUC
-          <anchor 501 663> mark @t.ring;
+          <anchor 346 -80> mark @bottom
+          <anchor 649 10> mark @ogonekUC
+          <anchor 515 682> mark @t.ring;
       pos base uogonek
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring
           <anchor 400 580> mark @top;
       pos base upsilon
-          <anchor 405 580> mark @top;
+          <anchor 398 580> mark @top;
       pos base uring
-          <anchor 266 -87> mark @bottom
+          <anchor 270 -80> mark @bottom
           <anchor 400 580> mark @top;
       pos base utilde
-          <anchor 266 -87> mark @bottom
-          <anchor 406 580> mark @t.ring;
+          <anchor 270 -80> mark @bottom
+          <anchor 412 580> mark @t.ring;
       pos base v
-          <anchor 384 580> mark @top;
+          <anchor 380 580> mark @top;
       pos base w
-          <anchor 540 580> mark @top;
+          <anchor 535 580> mark @top;
       pos base x
-          <anchor 375 580> mark @top;
+          <anchor 377 580> mark @top;
       pos base y
-          <anchor 366 580> mark @top;
+          <anchor 357 580> mark @top;
       pos base z
-          <anchor 310 0> mark @b.cedilla
+          <anchor 350 0> mark @b.cedilla
           <anchor 194 -80> mark @bottom
           <anchor 327 580> mark @top;
       pos base zacute
-          <anchor 310 0> mark @b.cedilla
+          <anchor 350 0> mark @b.cedilla
           <anchor 194 -80> mark @bottom;
       pos base zcaron
-          <anchor 310 0> mark @b.cedilla
+          <anchor 350 0> mark @b.cedilla
           <anchor 194 -80> mark @bottom;
       pos base zdotaccent
-          <anchor 310 0> mark @b.cedilla
+          <anchor 350 0> mark @b.cedilla
           <anchor 194 -80> mark @bottom;
       pos base uni04E9
-          <anchor 368 600> mark @top;
+          <anchor 350 580> mark @top;
       pos base uni0443.loclBGR
-          <anchor 366 580> mark @top;
+          <anchor 357 580> mark @top;
       pos base Sdotbelow
-          <anchor 308 0> mark @b.cedilla
+          <anchor 305 0> mark @b.cedilla
           <anchor 282 -50> mark @b.commabelow
-          <anchor 461 797> mark @top;
+          <anchor 421 797> mark @top;
       pos base Ncircumflexbelow
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 530 797> mark @top;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 510 797> mark @top;
       pos base ncircumflexbelow
-          <anchor 278 -50> mark @b.commabelow
-          <anchor 406 580> mark @top;
+          <anchor 276 -50> mark @b.commabelow
+          <anchor 405 580> mark @top;
       pos base Nlinebelow
-          <anchor 335 -50> mark @b.commabelow
-          <anchor 530 797> mark @top;
+          <anchor 305 -50> mark @b.commabelow
+          <anchor 510 797> mark @top;
       pos base Udieresisbelow
-          <anchor 536 797> mark @t.ring
-          <anchor 522 797> mark @top;
+          <anchor 514 797> mark @t.ring
+          <anchor 513 797> mark @top;
       pos base Utildebelow
-          <anchor 536 797> mark @t.ring
-          <anchor 522 797> mark @top;
+          <anchor 514 797> mark @t.ring
+          <anchor 513 797> mark @top;
       pos base utildebelow
-          <anchor 406 580> mark @t.ring
+          <anchor 412 580> mark @t.ring
           <anchor 400 580> mark @top;
       pos base Ocircumflexdotbelow
-          <anchor 367 0> mark @b.cedilla
-          <anchor 427 0> mark @ogonekUC;
+          <anchor 354 0> mark @b.cedilla
+          <anchor 404 0> mark @ogonekUC;
       pos base ocircumflexdotbelow
-          <anchor 272 0> mark @b.cedilla;
+          <anchor 336 0> mark @b.cedilla;
       pos base Udotbelow
-          <anchor 536 797> mark @t.ring
-          <anchor 522 797> mark @top;
+          <anchor 514 797> mark @t.ring
+          <anchor 513 797> mark @top;
       pos base udotbelow
-          <anchor 406 580> mark @t.ring
+          <anchor 412 580> mark @t.ring
           <anchor 400 580> mark @top;
       pos base uni041A.loclBGR
-          <anchor 345 -50> mark @b.commabelow
-          <anchor 340 -80> mark @bottom
-          <anchor 511 797> mark @top;
+          <anchor 306 -50> mark @b.commabelow
+          <anchor 300 -80> mark @bottom
+          <anchor 471 797> mark @top;
       pos base Upsilontonos
-          <anchor 462 -80> mark @bottom
+          <anchor 466 -80> mark @bottom
           <anchor 651 797> mark @top;
       pos base a.cv01
-          <anchor 280 -80> mark @bottom
-          <anchor 406 580> mark @top;
+          <anchor 277 -80> mark @bottom
+          <anchor 400 580> mark @top;
       pos base uni0430.cv01
-          <anchor 276 -80> mark @bottom
-          <anchor 402 580> mark @top;
+          <anchor 277 -80> mark @bottom
+          <anchor 400 580> mark @top;
       pos base omacronacute
-          <anchor 220 0> mark @b.cedilla
-          <anchor 239 -80> mark @bottom;
+          <anchor 290 0> mark @b.cedilla
+          <anchor 210 -80> mark @bottom;
       pos base ocircumflextilde
-          <anchor 272 0> mark @b.cedilla
-          <anchor 291 -80> mark @bottom;
+          <anchor 336 0> mark @b.cedilla
+          <anchor 256 -80> mark @bottom;
       pos base i.loclTRK
-          <anchor 117 -80> mark @bottom;
+          <anchor 100 -80> mark @bottom;
       pos base uni018F
           <anchor 462 797> mark @top;
       pos base uni04D8
           <anchor 462 797> mark @top;
       pos base uni019F
-          <anchor 298 -80> mark @bottom
+          <anchor 292 -80> mark @bottom
           <anchor 462 797> mark @top;
       pos base uni04E8
-          <anchor 298 -80> mark @bottom
+          <anchor 292 -80> mark @bottom
           <anchor 462 797> mark @top;
       pos base uni04EA
-          <anchor 298 -80> mark @bottom;
+          <anchor 292 -80> mark @bottom;
       pos base uni04E0
-          <anchor 367 797> mark @top;
+          <anchor 376 797> mark @top;
       pos base uni01B7
-          <anchor 367 797> mark @top;
+          <anchor 376 797> mark @top;
       pos base uniA78D
-          <anchor 497 797> mark @top;
+          <anchor 504 797> mark @top;
+      pos base uni043A.cv01
+          <anchor 342 580> mark @top;
+      pos base uni041A.cv01
+          <anchor 455 797> mark @top;
+      pos base uni0416.cv01
+          <anchor 566 797> mark @top;
+      pos base uni0436.cv01
+          <anchor 510 580> mark @top;
   } markLTR1;
 
   lookup markLTR2 {
       pos base a
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base aacute
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base abreve
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base acaron
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base acircumflex
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base adieresis
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base agrave
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base amacron
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base aring
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base aringacute
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base atilde
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base dotlessi
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base e
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base eacute
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base ebreve
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base ecaron
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base ecircumflex
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base edieresis
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base edotaccent
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base egrave
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base emacron
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base i
-          <anchor 196 0> mark @ogonekLC;
+          <anchor 160 0> mark @ogonekLC;
       pos base iacute
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base ibreve
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base icaron
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base icircumflex
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base idieresis
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base igrave
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base ij
-          <anchor 196 0> mark @ogonekLC;
+          <anchor 160 0> mark @ogonekLC;
       pos base imacron
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base itilde
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base o
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base oacute
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base obreve
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base ocaron
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base ocircumflex
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base odieresis
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base ograve
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base ohungarumlaut
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base omacron
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base omicron
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base otilde
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni01DF
           <anchor 354 10> mark @ogonekLC;
       pos base uni01E1
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni0201
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni0203
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni0205
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni0207
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni0209
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base uni020B
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base uni020D
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni020F
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni0227
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni0229
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni022B
-          <anchor 290 0> mark @ogonekLC;
+          <anchor 280 0> mark @ogonekLC;
       pos base uni022D
-          <anchor 290 0> mark @ogonekLC;
+          <anchor 280 0> mark @ogonekLC;
       pos base uni022F
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni0231
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni0430
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni0435
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni043E
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni044B.loclBGR
-          <anchor 705 0> mark @ogonekLC;
+          <anchor 649 0> mark @ogonekLC;
       pos base uni0450
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni0451
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni0456
-          <anchor 196 0> mark @ogonekLC;
+          <anchor 160 0> mark @ogonekLC;
       pos base uni0457
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base uni04D1
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni04D3
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni04D7
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni04E7
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni1E01
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1E15
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1E17
           <anchor 280 0> mark @ogonekLC;
       pos base uni1E19
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1E1B
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1E1D
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1E2D
-          <anchor 196 0> mark @ogonekLC;
+          <anchor 160 0> mark @ogonekLC;
       pos base uni1E2F
-          <anchor 166 0> mark @ogonekLC;
+          <anchor 130 0> mark @ogonekLC;
       pos base uni1E4D
-          <anchor 290 0> mark @ogonekLC;
+          <anchor 280 0> mark @ogonekLC;
       pos base uni1E4F
-          <anchor 290 0> mark @ogonekLC;
+          <anchor 280 0> mark @ogonekLC;
       pos base uni1E51
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni1EA1
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EA5
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EA7
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EAB
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EAD
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EAF
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EB1
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EB5
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EB7
-          <anchor 410 10> mark @ogonekLC;
+          <anchor 425 10> mark @ogonekLC;
       pos base uni1EB9
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1EBD
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1EBF
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1EC1
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1EC5
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1EC7
-          <anchor 328 0> mark @ogonekLC;
+          <anchor 343 0> mark @ogonekLC;
       pos base uni1ECB
-          <anchor 196 0> mark @ogonekLC;
+          <anchor 160 0> mark @ogonekLC;
       pos base uni1ECD
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni1ED1
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni1ED3
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base uni1F78
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base ocircumflexdotbelow
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base a.cv01
-          <anchor 523 0> mark @ogonekLC;
+          <anchor 510 0> mark @ogonekLC;
       pos base uni0430.cv01
-          <anchor 519 0> mark @ogonekLC;
+          <anchor 510 0> mark @ogonekLC;
       pos base omacronacute
-          <anchor 290 0> mark @ogonekLC;
+          <anchor 280 0> mark @ogonekLC;
       pos base ocircumflextilde
-          <anchor 342 0> mark @ogonekLC;
+          <anchor 326 0> mark @ogonekLC;
       pos base i.loclTRK
-          <anchor 196 0> mark @ogonekLC;
+          <anchor 160 0> mark @ogonekLC;
   } markLTR2;
 
   lookup markLTR3 {
       pos base g
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
       pos base gacute
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
       pos base gbreve
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
       pos base gcaron
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
       pos base gcircumflex
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
       pos base gdotaccent
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
       pos base uni0261
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
       pos base uni0434.loclBGR
-          <anchor 420 590> mark @t.cedilla;
+          <anchor 381 580> mark @t.cedilla;
       pos base uni1E21
-          <anchor 390 590> mark @t.cedilla;
+          <anchor 361 580> mark @t.cedilla;
   } markLTR3;
 
   lookup markLTR1;

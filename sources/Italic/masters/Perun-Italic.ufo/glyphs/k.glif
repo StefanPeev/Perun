@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="449"/>
+  <advance width="499"/>
   <unicode hex="006B"/>
-  <anchor x="444" y="797" name="top"/>
-  <anchor x="281" y="-50" name="b.commabelow"/>
-  <anchor x="243" y="-80" name="bottom"/>
+  <anchor x="454" y="797" name="top"/>
+  <anchor x="291" y="-50" name="b.commabelow"/>
+  <anchor x="253" y="-80" name="bottom"/>
   <outline>
     <contour>
-      <point x="60.8287" y="0" type="line"/>
-      <point x="150.829" y="0" type="line"/>
-      <point x="291.185" y="722" type="line"/>
-      <point x="201.185" y="722" type="line"/>
+      <point x="70.8287" y="0" type="line"/>
+      <point x="160.829" y="0" type="line"/>
+      <point x="301.185" y="722" type="line"/>
+      <point x="211.185" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="204.115" y="280.736" type="line"/>
-      <point x="359.829" y="0" type="line"/>
-      <point x="478.829" y="0" type="line"/>
-      <point x="312.205" y="291.527" type="line"/>
-      <point x="307.818" y="273.158" type="line"/>
-      <point x="560.029" y="500" type="line"/>
-      <point x="447.029" y="500" type="line"/>
+      <point x="214.115" y="280.736" type="line"/>
+      <point x="369.829" y="0" type="line"/>
+      <point x="488.829" y="0" type="line"/>
+      <point x="322.205" y="291.527" type="line"/>
+      <point x="317.818" y="273.158" type="line"/>
+      <point x="570.029" y="500" type="line"/>
+      <point x="457.029" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=l</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=-30</string>
+  <string>=10</string>
   </dict>
   </lib>
 </glyph>

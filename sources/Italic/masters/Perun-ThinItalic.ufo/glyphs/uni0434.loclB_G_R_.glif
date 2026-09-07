@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0434.loclBGR" format="2">
-  <advance width="484"/>
-  <anchor x="320" y="580" name="top"/>
-  <anchor x="325" y="580" name="t.cedilla"/>
+  <advance width="564"/>
+  <anchor x="370" y="580" name="top"/>
+  <anchor x="375" y="580" name="t.cedilla"/>
   <outline>
-    <component base="g" xOffset="-76"/>
+    <component base="g" xOffset="-26"/>
   </outline>
   <lib>
   <dict>
@@ -62,7 +62,7 @@
     </array>
   </dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=-20</string>
+  <string>=30</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni043D</string>
   <key>com.fontlab.recipe</key>

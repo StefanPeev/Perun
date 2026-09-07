@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="2">
-  <advance width="343"/>
+  <advance width="333"/>
   <unicode hex="0072"/>
-  <anchor x="318" y="580" name="top"/>
-  <anchor x="85" y="-50" name="b.commabelow"/>
+  <anchor x="308" y="580" name="top"/>
+  <anchor x="75" y="-50" name="b.commabelow"/>
   <outline>
     <contour>
-      <point x="80.4049" y="0" type="line"/>
-      <point x="170.405" y="0" type="line"/>
-      <point x="267.605" y="500" type="line"/>
-      <point x="177.605" y="500" type="line"/>
+      <point x="70.4049" y="0" type="line"/>
+      <point x="160.405" y="0" type="line"/>
+      <point x="257.605" y="500" type="line"/>
+      <point x="167.605" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="206.806" y="289.985" type="line"/>
-      <point x="226.809" y="290" type="line"/>
-      <point x="244.888" y="383"/>
-      <point x="315.025" y="430"/>
-      <point x="436.025" y="430" type="curve"/>
-      <point x="451.577" y="510" type="line"/>
-      <point x="359.592" y="510"/>
-      <point x="303.34" y="490.406"/>
-      <point x="256.358" y="442" type="curve" smooth="yes"/>
-      <point x="231.349" y="416.233" type="line"/>
+      <point x="196.806" y="289.985" type="line"/>
+      <point x="216.809" y="290" type="line"/>
+      <point x="234.888" y="383"/>
+      <point x="305.025" y="430"/>
+      <point x="426.025" y="430" type="curve"/>
+      <point x="441.577" y="510" type="line"/>
+      <point x="349.592" y="510"/>
+      <point x="293.34" y="490.406"/>
+      <point x="246.358" y="442" type="curve" smooth="yes"/>
+      <point x="221.349" y="416.233" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="186" y="0"/>
+  <guideline angle="90" x="176" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

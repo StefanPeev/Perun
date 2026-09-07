@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="2">
-  <advance width="525"/>
+  <advance width="575"/>
   <unicode hex="016D"/>
-  <anchor x="240" y="-80" name="bottom"/>
-  <anchor x="382" y="580" name="t.ring"/>
+  <anchor x="270" y="-80" name="bottom"/>
+  <anchor x="412" y="580" name="t.ring"/>
   <outline>
     <component base="u"/>
-    <component base="uni0306" xOffset="370"/>
+    <component base="uni0306" xOffset="400"/>
   </outline>
   <lib>
   <dict>

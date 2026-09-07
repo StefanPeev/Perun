@@ -1,55 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-  <advance width="553"/>
+  <advance width="557"/>
   <unicode hex="0065"/>
-  <anchor x="394" y="580" name="top"/>
-  <anchor x="259.744" y="-89" name="bottom"/>
-  <anchor x="268" y="0" name="b.cedilla"/>
-  <anchor x="328" y="0" name="ogonekLC"/>
+  <anchor x="396" y="580" name="top"/>
+  <anchor x="261.744" y="-89" name="bottom"/>
+  <anchor x="270" y="0" name="b.cedilla"/>
+  <anchor x="330" y="0" name="ogonekLC"/>
   <outline>
     <contour>
-      <point x="84.908" y="164.962" type="curve" smooth="yes"/>
-      <point x="84.908" y="55.6669"/>
-      <point x="143.667" y="-14"/>
-      <point x="284.203" y="-14" type="curve" smooth="yes"/>
-      <point x="411.323" y="-14"/>
-      <point x="498.403" y="43"/>
-      <point x="531.371" y="156" type="curve"/>
-      <point x="395.371" y="156" type="line"/>
-      <point x="380.039" y="108"/>
-      <point x="347.041" y="72"/>
-      <point x="291.041" y="72" type="curve" smooth="yes"/>
-      <point x="236.031" y="72"/>
-      <point x="220.797" y="107.142"/>
-      <point x="220.797" y="151.514" type="curve" smooth="yes"/>
-      <point x="220.797" y="174.091"/>
-      <point x="224.741" y="199.057"/>
-      <point x="229.395" y="223" type="curve" smooth="yes"/>
-      <point x="245.919" y="308" type="line" smooth="yes"/>
-      <point x="258.944" y="375"/>
-      <point x="293.442" y="429"/>
-      <point x="360.442" y="429" type="curve" smooth="yes"/>
-      <point x="412.653" y="429"/>
-      <point x="432.377" y="396.208"/>
-      <point x="432.377" y="350.026" type="curve" smooth="yes"/>
-      <point x="432.377" y="336.945"/>
-      <point x="430.794" y="322.789"/>
-      <point x="427.919" y="308" type="curve"/>
-      <point x="210.919" y="308" type="line"/>
-      <point x="194.395" y="223" type="line"/>
-      <point x="551.395" y="223" type="line"/>
-      <point x="558.783" y="261" type="line" smooth="yes"/>
-      <point x="563.707" y="286.333"/>
-      <point x="566.299" y="310.781"/>
-      <point x="566.299" y="333.836" type="curve" smooth="yes"/>
-      <point x="566.299" y="438.194"/>
-      <point x="513.195" y="514"/>
-      <point x="382.966" y="514" type="curve" smooth="yes"/>
-      <point x="191.457" y="514"/>
-      <point x="84.9079" y="339.634"/>
+      <point x="86.908" y="164.962" type="curve" smooth="yes"/>
+      <point x="86.908" y="55.6669"/>
+      <point x="145.667" y="-14"/>
+      <point x="286.203" y="-14" type="curve" smooth="yes"/>
+      <point x="413.323" y="-14"/>
+      <point x="500.403" y="43"/>
+      <point x="533.371" y="156" type="curve"/>
+      <point x="397.371" y="156" type="line"/>
+      <point x="382.039" y="108"/>
+      <point x="349.041" y="72"/>
+      <point x="293.041" y="72" type="curve" smooth="yes"/>
+      <point x="238.031" y="72"/>
+      <point x="222.797" y="107.142"/>
+      <point x="222.797" y="151.514" type="curve" smooth="yes"/>
+      <point x="222.797" y="237.253"/>
+      <point x="249.9" y="429"/>
+      <point x="366.453" y="429" type="curve" smooth="yes"/>
+      <point x="414.653" y="429"/>
+      <point x="434.377" y="396.208"/>
+      <point x="434.377" y="350.026" type="curve" smooth="yes"/>
+      <point x="434.377" y="336.945"/>
+      <point x="432.794" y="322.789"/>
+      <point x="429.919" y="308" type="curve"/>
+      <point x="212.919" y="308" type="line"/>
+      <point x="196.395" y="223" type="line"/>
+      <point x="553.395" y="223" type="line"/>
+      <point x="560.783" y="261" type="line" smooth="yes"/>
+      <point x="565.707" y="286.333"/>
+      <point x="568.299" y="310.781"/>
+      <point x="568.299" y="333.836" type="curve" smooth="yes"/>
+      <point x="568.299" y="438.194"/>
+      <point x="515.195" y="514"/>
+      <point x="387.35" y="514" type="curve" smooth="yes"/>
+      <point x="193.457" y="514"/>
+      <point x="86.9079" y="339.634"/>
     </contour>
   </outline>
-  <guideline angle="90" x="327" y="0"/>
+  <guideline angle="90" x="329" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

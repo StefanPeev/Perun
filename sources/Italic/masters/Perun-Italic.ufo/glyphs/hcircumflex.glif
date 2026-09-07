@@ -2,11 +2,11 @@
 <glyph name="hcircumflex" format="2">
   <advance width="565"/>
   <unicode hex="0125"/>
-  <anchor x="94" y="0" name="b.cedilla"/>
-  <anchor x="257" y="-80" name="bottom"/>
+  <anchor x="104" y="0" name="b.cedilla"/>
+  <anchor x="267" y="-80" name="bottom"/>
   <outline>
     <component base="h"/>
-    <component base="uni0302" xOffset="424" yOffset="217"/>
+    <component base="uni0302" xOffset="434" yOffset="217"/>
   </outline>
   <lib>
   <dict>
