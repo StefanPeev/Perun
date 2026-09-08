@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC3" format="2">
+  <advance width="544"/>
+  <unicode hex="1EC3"/>
+  <anchor x="254.744" y="-89" name="bottom"/>
+  <anchor x="263" y="0" name="b.cedilla"/>
+  <anchor x="323" y="0" name="ogonekLC"/>
+  <outline>
+    <component base="ecircumflex"/>
+    <component base="uni0309" xOffset="412.44"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ecircumflex+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

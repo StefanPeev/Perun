@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EB3" format="2">
+  <advance width="559"/>
+  <unicode hex="1EB3"/>
+  <anchor x="416.988" y="10" name="ogonekLC"/>
+  <anchor x="426" y="580" name="t.ring"/>
+  <anchor x="269" y="-80" name="bottom"/>
+  <outline>
+    <component base="abreve"/>
+    <component base="uni0309" xOffset="419.94"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>abreve+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

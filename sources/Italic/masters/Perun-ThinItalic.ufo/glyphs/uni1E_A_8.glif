@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EA8" format="2">
+  <advance width="627"/>
+  <unicode hex="1EA8"/>
+  <anchor x="613.773" y="10" name="ogonekUC"/>
+  <anchor x="469" y="703" name="t.ring"/>
+  <anchor x="299" y="-80" name="bottom"/>
+  <outline>
+    <component base="Acircumflex"/>
+    <component base="uni0309" xOffset="494.176" yOffset="222"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Acircumflex+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

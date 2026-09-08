@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED5" format="2">
+  <advance width="577"/>
+  <unicode hex="1ED5"/>
+  <anchor x="289" y="0" name="b.cedilla"/>
+  <anchor x="309" y="0" name="ogonekLC"/>
+  <anchor x="259" y="-80" name="bottom"/>
+  <outline>
+    <component base="ocircumflex"/>
+    <component base="uni0309" xOffset="426.024"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ocircumflex+hookabovecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

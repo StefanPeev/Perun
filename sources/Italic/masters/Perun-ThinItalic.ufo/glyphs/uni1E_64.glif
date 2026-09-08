@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E64" format="2">
+  <advance width="626"/>
+  <unicode hex="1E64"/>
+  <anchor x="331" y="0" name="b.cedilla"/>
+  <anchor x="303" y="-50" name="b.commabelow"/>
+  <anchor x="308" y="-80" name="bottom"/>
+  <outline>
+    <component base="Sacute"/>
+    <component base="uni0307" xOffset="471.61" yOffset="222"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Sacute+uni0307</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

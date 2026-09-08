@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB05" format="2">
+  <advance width="760"/>
+  <unicode hex="FB05"/>
+  <anchor x="698.461" y="722" name="top"/>
+  <anchor x="586" y="0" name="b.cedilla"/>
+  <anchor x="548" y="-50" name="b.commabelow"/>
+  <anchor x="590" y="-80" name="bottom"/>
+  <outline>
+    <component base="longs"/>
+    <component base="t" xOffset="376"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>longs_t</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

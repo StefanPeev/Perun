@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040C" format="2">
-  <advance width="670"/>
+  <advance width="641"/>
   <unicode hex="040C"/>
+  <anchor x="306" y="-50" name="b.commabelow"/>
+  <anchor x="300" y="-80" name="bottom"/>
   <outline>
     <component base="uni041A"/>
-    <component base="uni0301" xOffset="343" yOffset="217"/>
+    <component base="uni0301" xOffset="359" yOffset="217"/>
   </outline>
   <lib>
   <dict>

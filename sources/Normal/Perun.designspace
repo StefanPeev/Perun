@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" name="weight" tag="wght" minimum="100" maximum="700">
+  <axis maximum="700" name="weight" default="400" minimum="100" tag="wght">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
    <map input="400" output="400"/>
@@ -9,60 +9,60 @@
   </axis>
  </axes>
  <sources>
-  <source name="Bold" filename="masters/Perun-Bold.ufo" familyname="Perun" stylename="Bold">
+  <source familyname="Perun" stylename="Bold" name="Bold" filename="masters/Perun-Bold.ufo">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension xvalue="700" name="weight"/>
    </location>
   </source>
-  <source name="Regular" filename="masters/Perun-Regular.ufo" familyname="Perun" stylename="Regular">
+  <source familyname="Perun" stylename="Regular" name="Regular" filename="masters/Perun-Regular.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </source>
-  <source name="Thin" filename="masters/Perun-Thin.ufo" familyname="Perun" stylename="Thin">
+  <source familyname="Perun" stylename="Thin" name="Thin" filename="masters/Perun-Thin.ufo">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance name="Thin" filename="instances/Perun-Thin.ufo" familyname="Perun" stylename="Thin">
+  <instance familyname="Perun" stylename="Thin" name="Thin" filename="instances/Perun-Thin.ufo">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance name="ExtraLight" filename="instances/Perun-ExtraLight.ufo" familyname="Perun" stylename="ExtraLight">
+  <instance familyname="Perun" stylename="ExtraLight" name="ExtraLight" filename="instances/Perun-ExtraLight.ufo">
    <location>
-    <dimension name="weight" xvalue="200"/>
+    <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance name="Light" filename="instances/Perun-Light.ufo" familyname="Perun" stylename="Light">
+  <instance familyname="Perun" stylename="Light" name="Light" filename="instances/Perun-Light.ufo">
    <location>
-    <dimension name="weight" xvalue="300"/>
+    <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance name="Regular" filename="instances/Perun-Regular.ufo" familyname="Perun" stylename="Regular">
+  <instance familyname="Perun" stylename="Regular" name="Regular" filename="instances/Perun-Regular.ufo">
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance name="Medium" filename="instances/Perun-Medium.ufo" familyname="Perun" stylename="Medium">
+  <instance familyname="Perun" stylename="Medium" name="Medium" filename="instances/Perun-Medium.ufo">
    <location>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance name="SemiBold" filename="instances/Perun-SemiBold.ufo" familyname="Perun" stylename="SemiBold">
+  <instance familyname="Perun" stylename="SemiBold" name="SemiBold" filename="instances/Perun-SemiBold.ufo">
    <location>
-    <dimension name="weight" xvalue="600"/>
+    <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance name="Bold" filename="instances/Perun-Bold.ufo" familyname="Perun" stylename="Bold">
+  <instance familyname="Perun" stylename="Bold" name="Bold" filename="instances/Perun-Bold.ufo">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
  </instances>
